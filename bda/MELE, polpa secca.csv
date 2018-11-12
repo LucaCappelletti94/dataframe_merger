@@ -1,0 +1,89 @@
+,components,unit,value,section
+0,Parte edibile, %,100,componenti principali
+1,"Energia,  ricalcolata", kJ,942,componenti principali
+2,"Energia,  Ric con fibra", kJ,1011,componenti principali
+3,"Energia,  ricalcolata", kcal,221,componenti principali
+4,"Energia,  Ric con fibra", kcal,238,componenti principali
+5,Proteine totali, g,"0,9",componenti principali
+6,   Proteine animali, g,"0,0",componenti principali
+7,   Proteine vegetali, g,"0,9",componenti principali
+8,Lipidi totali, g,"0,3",componenti principali
+9,   Lipidi animali, g,"0,0",componenti principali
+10,   Lipidi vegetali, g,"0,3",componenti principali
+11,Colesterolo, mg,0,componenti principali
+12,Carboidrati disponibili (MSE), g,"57,2",componenti principali
+13,   Amido (MSE), g,"0,0",componenti principali
+14,   Carboidrati solubili (MSE), g,"57,2",componenti principali
+15,Fibra alimentare totale, g,"8,7",componenti principali
+16,Alcol, g,"0,0",componenti principali
+17,Acqua, g,"31,8",componenti principali
+18,Ferro, mg,"1,4",minerali ed elementi in traccia
+19,Calcio, mg,14,minerali ed elementi in traccia
+20,Sodio, mg,87,minerali ed elementi in traccia
+21,Potassio, mg,450,minerali ed elementi in traccia
+22,Fosforo, mg,38,minerali ed elementi in traccia
+23,Zinco, mg,"0,20",minerali ed elementi in traccia
+24,Magnesio, mg,16,minerali ed elementi in traccia
+25,Rame, mg,"0,19",minerali ed elementi in traccia
+26,Selenio, µg,"1,3",minerali ed elementi in traccia
+27,Cloro, mg,1,minerali ed elementi in traccia
+28,Iodio, µg,tr,minerali ed elementi in traccia
+29,Manganese, mg,"0,09",minerali ed elementi in traccia
+30,Zolfo, mg,6,minerali ed elementi in traccia
+31,"Vitamina B1,  Tiamina", mg,"0,00",vitamine idrosolubili
+32,"Vitamina B2,  Riboflavina", mg,"0,16",vitamine idrosolubili
+33,Vitamina C, mg,4,vitamine idrosolubili
+34,Niacina, mg,"0,93",vitamine idrosolubili
+35,Vitamina B6, mg,"0,13",vitamine idrosolubili
+36,Folati totali, µg,0,vitamine idrosolubili
+37,Acido pantotenico, mg,"0,25",vitamine idrosolubili
+38,Biotina, µg,"0,9",vitamine idrosolubili
+39,Vitamina B12, µg,"0,0",vitamine idrosolubili
+40,   Retinolo eq. (RE), µg,0,retinolo equivalente
+41,   Retinolo, µg,0,retinolo equivalente
+42,   ß-carotene eq., µg,0,retinolo equivalente
+43,Vitamina E (ATE), mg,"0,55",retinolo equivalente
+44,Vitamina D, µg,"0,00",retinolo equivalente
+45,Vitamina K, µg,"3,00",retinolo equivalente
+46,Acidi grassi saturi totali, g,"0,05",acidi grassi
+47,"Somma degli acidi butirrico,  caproico,  caprilico e caprico", g,"0,00",acidi grassi
+48,Acido laurico, g,tr,acidi grassi
+49,Acido miristico, g,tr,acidi grassi
+50,Acido palmitico, g,"0,04",acidi grassi
+51,Acido stearico, g,"0,01",acidi grassi
+52,Acidi grassi monoinsaturi totali, g,"0,01",acidi grassi
+53,Acido palmitoleico, g,tr,acidi grassi
+54,Acido oleico, g,"0,01",acidi grassi
+55,Acidi eicosenoico, g,"0,00",acidi grassi
+56,Acido erucico, g,"0,00",acidi grassi
+57,Acidi grassi polinsaturi totali, g,"0,09",acidi grassi
+58,Acido linoleico, g,"0,08",acidi grassi
+59,Acido linolenico, g,"0,02",acidi grassi
+60,Acido arachidonico, g,"0,00",acidi grassi
+61,Acido eicosapentaenoico (EPA), g,"0,00",acidi grassi
+62,Acido decosaesaenoico (DHA), g,"0,00",acidi grassi
+63,Altri acidi grassi polinsaturi, g,"0,00",acidi grassi
+64,Triptofano, mg,9,aminoacidi
+65,Treonina, mg,32,aminoacidi
+66,Isoleucina, mg,36,aminoacidi
+67,Leucina, mg,55,aminoacidi
+68,Lisina, mg,56,aminoacidi
+69,Metionina, mg,9,aminoacidi
+70,Cistina, mg,12,aminoacidi
+71,Fenilalanina, mg,25,aminoacidi
+72,Tirosina, mg,16,aminoacidi
+73,Valina, mg,42,aminoacidi
+74,Arginina, mg,28,aminoacidi
+75,Istidina, mg,15,aminoacidi
+76,Alanina, mg,32,aminoacidi
+77,Acido aspartico, mg,157,aminoacidi
+78,Acido glutammico, mg,94,aminoacidi
+79,Glicina, mg,36,aminoacidi
+80,Prolina, mg,31,aminoacidi
+81,Serina, mg,37,aminoacidi
+82,Glucosio, g,"8,2",zuccheri
+83,Fruttosio, g,"30,2",zuccheri
+84,Galattosio, g,"0,0",zuccheri
+85,Saccarosio (MSE), g,"18,9",zuccheri
+86,Maltosio (MSE), g,"0,0",zuccheri
+87,Lattosio (MSE), g,"0,0",zuccheri

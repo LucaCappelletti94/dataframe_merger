@@ -1,0 +1,88 @@
+,components,unit,value,section
+0,Parte edibile, %,100,componenti principali
+1,"Energia,  ricalcolata", kJ,1434,componenti principali
+2,"Energia,  Ric con fibra", kJ,1434,componenti principali
+3,"Energia,  ricalcolata", kcal,345,componenti principali
+4,"Energia,  Ric con fibra", kcal,345,componenti principali
+5,Proteine totali, g,"29,0",componenti principali
+6,   Proteine animali, g,"29,0",componenti principali
+7,   Proteine vegetali, g,"0,0",componenti principali
+8,Lipidi totali, g,"25,0",componenti principali
+9,   Lipidi animali, g,"25,0",componenti principali
+10,   Lipidi vegetali, g,"0,0",componenti principali
+11,Colesterolo, mg,102,componenti principali
+12,Carboidrati disponibili (MSE), g,"1,0",componenti principali
+13,   Amido (MSE), g,"0,0",componenti principali
+14,   Carboidrati solubili (MSE), g,"1,0",componenti principali
+15,Fibra alimentare totale, g,"0,0",componenti principali
+16,Alcol, g,"0,0",componenti principali
+17,Acqua, g,"42,0",componenti principali
+18,Ferro, mg,"0,5",minerali ed elementi in traccia
+19,Calcio, mg,750,minerali ed elementi in traccia
+20,Sodio, mg,1250,minerali ed elementi in traccia
+21,Potassio, mg,100,minerali ed elementi in traccia
+22,Fosforo, mg,430,minerali ed elementi in traccia
+23,Zinco, mg,"2,20",minerali ed elementi in traccia
+24,Magnesio, mg,39,minerali ed elementi in traccia
+25,Rame, mg,"0,05",minerali ed elementi in traccia
+26,Selenio, µg,"4,0",minerali ed elementi in traccia
+27,Cloro, mg,1570,minerali ed elementi in traccia
+28,Iodio, µg,5,minerali ed elementi in traccia
+29,Manganese, mg,tr,minerali ed elementi in traccia
+30,Zolfo, mg,230,minerali ed elementi in traccia
+31,"Vitamina B1,  Tiamina", mg,"0,03",vitamine idrosolubili
+32,"Vitamina B2,  Riboflavina", mg,"0,20",vitamine idrosolubili
+33,Vitamina C, mg,1,vitamine idrosolubili
+34,Niacina, mg,"0,10",vitamine idrosolubili
+35,Vitamina B6, mg,"0,09",vitamine idrosolubili
+36,Folati totali, µg,40,vitamine idrosolubili
+37,Acido pantotenico, mg,"0,38",vitamine idrosolubili
+38,Biotina, µg,"1,8",vitamine idrosolubili
+39,Vitamina B12, µg,"2,1",vitamine idrosolubili
+40,   Retinolo eq. (RE), µg,317,retinolo equivalente
+41,   Retinolo, µg,290,retinolo equivalente
+42,   ß-carotene eq., µg,160,retinolo equivalente
+43,Vitamina E (ATE), mg,"0,48",retinolo equivalente
+44,Vitamina D, µg,"0,19",retinolo equivalente
+45,Acidi grassi saturi totali, g,"15,80",acidi grassi
+46,"Somma degli acidi butirrico,  caproico,  caprilico e caprico", g,"2,11",acidi grassi
+47,Acido laurico, g,"0,45",acidi grassi
+48,Acido miristico, g,"2,65",acidi grassi
+49,Acido palmitico, g,"7,25",acidi grassi
+50,Acido stearico, g,"2,68",acidi grassi
+51,Acidi grassi monoinsaturi totali, g,"7,31",acidi grassi
+52,Acido palmitoleico, g,"0,73",acidi grassi
+53,Acido oleico, g,"6,22",acidi grassi
+54,Acidi eicosenoico, g,"0,00",acidi grassi
+55,Acido erucico, g,"0,00",acidi grassi
+56,Acidi grassi polinsaturi totali, g,"0,60",acidi grassi
+57,Acido linoleico, g,"0,38",acidi grassi
+58,Acido linolenico, g,"0,22",acidi grassi
+59,Acido arachidonico, g,"0,00",acidi grassi
+60,Acido eicosapentaenoico (EPA), g,"0,00",acidi grassi
+61,Acido decosaesaenoico (DHA), g,"0,00",acidi grassi
+62,Altri acidi grassi polinsaturi, g,"0,00",acidi grassi
+63,Triptofano, mg,408,aminoacidi
+64,Treonina, mg,1081,aminoacidi
+65,Isoleucina, mg,1517,aminoacidi
+66,Leucina, mg,2981,aminoacidi
+67,Lisina, mg,3086,aminoacidi
+68,Metionina, mg,836,aminoacidi
+69,Cistina, mg,296,aminoacidi
+70,Fenilalanina, mg,1663,aminoacidi
+71,Tirosina, mg,1690,aminoacidi
+72,Valina, mg,2100,aminoacidi
+73,Arginina, mg,1118,aminoacidi
+74,Istidina, mg,1199,aminoacidi
+75,Alanina, mg,886,aminoacidi
+76,Acido aspartico, mg,2027,aminoacidi
+77,Acido glutammico, mg,7134,aminoacidi
+78,Glicina, mg,564,aminoacidi
+79,Prolina, mg,3771,aminoacidi
+80,Serina, mg,1795,aminoacidi
+81,Glucosio, g,"0,0",zuccheri
+82,Fruttosio, g,"0,0",zuccheri
+83,Galattosio, g,"0,0",zuccheri
+84,Saccarosio (MSE), g,"0,0",zuccheri
+85,Maltosio (MSE), g,"0,0",zuccheri
+86,Lattosio (MSE), g,"1,0",zuccheri

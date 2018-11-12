@@ -1,0 +1,39 @@
+,components,unit,value,section
+0,Parte edibile, %,100,componenti principali
+1,"Energia,  ricalcolata", kJ,904,componenti principali
+2,"Energia,  Ric con fibra", kJ,913,componenti principali
+3,"Energia,  ricalcolata", kcal,215,componenti principali
+4,"Energia,  Ric con fibra", kcal,218,componenti principali
+5,Proteine totali, g,"3,8",componenti principali
+6,Lipidi totali, g,"11,0",componenti principali
+7,Colesterolo, mg,34,componenti principali
+8,Carboidrati disponibili (MSE), g,"27,0",componenti principali
+9,   Amido (MSE), g,"0,0",componenti principali
+10,   Carboidrati solubili (MSE), g,"27,0",componenti principali
+11,Fibra alimentare totale, g,"1,2",componenti principali
+12,Alcol, g,"0,0",componenti principali
+13,Acqua, g,"55,7",componenti principali
+14,Ferro, mg,"0,9",minerali ed elementi in traccia
+15,Calcio, mg,109,minerali ed elementi in traccia
+16,Sodio, mg,76,minerali ed elementi in traccia
+17,Potassio, mg,249,minerali ed elementi in traccia
+18,Fosforo, mg,107,minerali ed elementi in traccia
+19,Zinco, mg,"0,60",minerali ed elementi in traccia
+20,"Vitamina B1,  Tiamina", mg,"0,04",vitamine idrosolubili
+21,"Vitamina B2,  Riboflavina", mg,"0,19",vitamine idrosolubili
+22,Vitamina C, mg,tr,vitamine idrosolubili
+23,Niacina, mg,"0,23",vitamine idrosolubili
+24,Vitamina B6, mg,"0,06",vitamine idrosolubili
+25,Folati totali, µg,16,vitamine idrosolubili
+26,   Retinolo eq. (RE), µg,119,retinolo equivalente
+27,   Retinolo, µg,110,retinolo equivalente
+28,   ß-carotene eq., µg,60,retinolo equivalente
+29,Vitamina E (ATE), mg,"0,33",retinolo equivalente
+30,Vitamina D, µg,"0,12",retinolo equivalente
+31,Acidi grassi saturi totali, g,"6,80",acidi grassi
+32,Acidi grassi monoinsaturi totali, g,"3,21",acidi grassi
+33,Acido oleico, g,"2,97",acidi grassi
+34,Acidi grassi polinsaturi totali, g,"0,41",acidi grassi
+35,Acido linoleico, g,"0,25",acidi grassi
+36,Acido linolenico, g,"0,15",acidi grassi
+37,Altri acidi grassi polinsaturi, g,"0,01",acidi grassi

@@ -1,0 +1,91 @@
+,components,unit,value,section
+0,Parte edibile, %,100,componenti principali
+1,"Energia,  ricalcolata", kJ,1243,componenti principali
+2,"Energia,  Ric con fibra", kJ,1243,componenti principali
+3,"Energia,  ricalcolata", kcal,300,componenti principali
+4,"Energia,  Ric con fibra", kcal,300,componenti principali
+5,Proteine totali, g,"18,5",componenti principali
+6,   Proteine animali, g,"18,5",componenti principali
+7,   Proteine vegetali, g,"0,0",componenti principali
+8,Lipidi totali, g,"25,1",componenti principali
+9,   Lipidi animali, g,"25,1",componenti principali
+10,   Lipidi vegetali, g,"0,0",componenti principali
+11,Colesterolo, mg,90,componenti principali
+12,Carboidrati disponibili (MSE), g,tr,componenti principali
+13,   Amido (MSE), g,"0,0",componenti principali
+14,   Carboidrati solubili (MSE), g,tr,componenti principali
+15,Fibra alimentare totale, g,"0,0",componenti principali
+16,Alcol, g,"0,0",componenti principali
+17,Acqua, g,"53,5",componenti principali
+18,Ferro, mg,"0,3",minerali ed elementi in traccia
+19,Calcio, mg,567,minerali ed elementi in traccia
+20,Sodio, mg,414,minerali ed elementi in traccia
+21,Potassio, mg,62,minerali ed elementi in traccia
+22,Fosforo, mg,374,minerali ed elementi in traccia
+23,Zinco, mg,"1,70",minerali ed elementi in traccia
+24,Magnesio, mg,20,minerali ed elementi in traccia
+25,Rame, mg,"0,48",minerali ed elementi in traccia
+26,Selenio, µg,"6,4",minerali ed elementi in traccia
+27,Cloro, mg,820,minerali ed elementi in traccia
+28,Iodio, µg,29,minerali ed elementi in traccia
+29,Manganese, mg,tr,minerali ed elementi in traccia
+30,Zolfo, mg,110,minerali ed elementi in traccia
+31,"Vitamina B1,  Tiamina", mg,"0,05",vitamine idrosolubili
+32,"Vitamina B2,  Riboflavina", mg,"0,36",vitamine idrosolubili
+33,Vitamina C, mg,tr,vitamine idrosolubili
+34,Niacina, mg,"0,12",vitamine idrosolubili
+35,Vitamina B6, mg,"0,08",vitamine idrosolubili
+36,Folati totali, µg,19,vitamine idrosolubili
+37,Acido pantotenico, mg,"0,51",vitamine idrosolubili
+38,Biotina, µg,"3,6",vitamine idrosolubili
+39,Vitamina B12, µg,"0,6",vitamine idrosolubili
+40,   Retinolo eq. (RE), µg,248,retinolo equivalente
+41,   Retinolo, µg,217,retinolo equivalente
+42,   ß-carotene eq., µg,186,retinolo equivalente
+43,Vitamina E (ATE), mg,"0,45",retinolo equivalente
+44,Vitamina D, µg,"0,17",retinolo equivalente
+45,Acidi grassi saturi totali, g,"14,71",acidi grassi
+46,"Somma degli acidi butirrico,  caproico,  caprilico e caprico", g,"2,23",acidi grassi
+47,Acido laurico, g,"0,77",acidi grassi
+48,Acido miristico, g,"2,58",acidi grassi
+49,Acido palmitico, g,"6,41",acidi grassi
+50,Acido stearico, g,"2,72",acidi grassi
+51,Acido arachidico, g,"0,00",acidi grassi
+52,Acido beenico, g,"0,00",acidi grassi
+53,Acidi grassi monoinsaturi totali, g,"7,67",acidi grassi
+54,Acido miristoleico, g,"0,49",acidi grassi
+55,Acido palmitoleico, g,"0,70",acidi grassi
+56,Acido oleico, g,"6,48",acidi grassi
+57,Acidi eicosenoico, g,"0,00",acidi grassi
+58,Acido erucico, g,"0,00",acidi grassi
+59,Acidi grassi polinsaturi totali, g,"0,84",acidi grassi
+60,Acido linoleico, g,"0,49",acidi grassi
+61,Acido linolenico, g,"0,35",acidi grassi
+62,Acido arachidonico, g,"0,00",acidi grassi
+63,Acido eicosapentaenoico (EPA), g,"0,00",acidi grassi
+64,Acido decosaesaenoico (DHA), g,"0,00",acidi grassi
+65,Altri acidi grassi polinsaturi, g,"0,00",acidi grassi
+66,Triptofano, mg,253,aminoacidi
+67,Treonina, mg,609,aminoacidi
+68,Isoleucina, mg,724,aminoacidi
+69,Leucina, mg,1436,aminoacidi
+70,Lisina, mg,1161,aminoacidi
+71,Metionina, mg,460,aminoacidi
+72,Cistina, mg,115,aminoacidi
+73,Fenilalanina, mg,781,aminoacidi
+74,Tirosina, mg,873,aminoacidi
+75,Valina, mg,942,aminoacidi
+76,Arginina, mg,517,aminoacidi
+77,Istidina, mg,414,aminoacidi
+78,Alanina, mg,494,aminoacidi
+79,Acido aspartico, mg,1172,aminoacidi
+80,Acido glutammico, mg,3022,aminoacidi
+81,Glicina, mg,287,aminoacidi
+82,Prolina, mg,1701,aminoacidi
+83,Serina, mg,885,aminoacidi
+84,Glucosio, g,"0,0",zuccheri
+85,Fruttosio, g,"0,0",zuccheri
+86,Galattosio, g,"0,0",zuccheri
+87,Saccarosio (MSE), g,"0,0",zuccheri
+88,Maltosio (MSE), g,"0,0",zuccheri
+89,Lattosio (MSE), g,tr,zuccheri

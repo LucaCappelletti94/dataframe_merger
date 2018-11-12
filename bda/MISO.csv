@@ -1,0 +1,41 @@
+,components,unit,value,section
+0,Parte edibile, %,100,componenti principali
+1,"Energia,  ricalcolata", kJ,832,componenti principali
+2,"Energia,  Ric con fibra", kJ,875,componenti principali
+3,"Energia,  ricalcolata", kcal,197,componenti principali
+4,"Energia,  Ric con fibra", kcal,208,componenti principali
+5,Proteine totali, g,"13,3",componenti principali
+6,   Proteine animali, g,"0,0",componenti principali
+7,   Proteine vegetali, g,"13,3",componenti principali
+8,Lipidi totali, g,"6,2",componenti principali
+9,   Lipidi animali, g,"0,0",componenti principali
+10,   Lipidi vegetali, g,"6,2",componenti principali
+11,Colesterolo, mg,0,componenti principali
+12,Carboidrati disponibili (MSE), g,"23,5",componenti principali
+13,Fibra alimentare totale, g,"5,4",componenti principali
+14,Alcol, g,"0,0",componenti principali
+15,Acqua, g,"42,9",componenti principali
+16,Ferro, mg,"4,2",minerali ed elementi in traccia
+17,Calcio, mg,73,minerali ed elementi in traccia
+18,Sodio, mg,3650,minerali ed elementi in traccia
+19,Potassio, mg,160,minerali ed elementi in traccia
+20,Fosforo, mg,160,minerali ed elementi in traccia
+21,Zinco, mg,"3,30",minerali ed elementi in traccia
+22,"Vitamina B1,  Tiamina", mg,"0,08",vitamine idrosolubili
+23,"Vitamina B2,  Riboflavina", mg,"0,19",vitamine idrosolubili
+24,Vitamina C, mg,0,vitamine idrosolubili
+25,Niacina, mg,"1,10",vitamine idrosolubili
+26,Vitamina B6, mg,"0,21",vitamine idrosolubili
+27,Folati totali, µg,33,vitamine idrosolubili
+28,   Retinolo eq. (RE), µg,9,retinolo equivalente
+29,   Retinolo, µg,0,retinolo equivalente
+30,   ß-carotene eq., µg,54,retinolo equivalente
+31,Vitamina E (ATE), mg,"0,01",retinolo equivalente
+32,Vitamina D, µg,"0,00",retinolo equivalente
+33,Acidi grassi saturi totali, g,"0,89",acidi grassi
+34,Acidi grassi monoinsaturi totali, g,"1,36",acidi grassi
+35,Acido oleico, g,"1,35",acidi grassi
+36,Acidi grassi polinsaturi totali, g,"3,48",acidi grassi
+37,Acido linoleico, g,"3,07",acidi grassi
+38,Acido linolenico, g,"0,41",acidi grassi
+39,Altri acidi grassi polinsaturi, g,"0,00",acidi grassi

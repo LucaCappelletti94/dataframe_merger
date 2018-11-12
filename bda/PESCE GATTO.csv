@@ -1,0 +1,88 @@
+,components,unit,value,section
+0,Parte edibile, %,60,componenti principali
+1,"Energia,  ricalcolata", kJ,389,componenti principali
+2,"Energia,  Ric con fibra", kJ,389,componenti principali
+3,"Energia,  ricalcolata", kcal,92,componenti principali
+4,"Energia,  Ric con fibra", kcal,92,componenti principali
+5,Proteine totali, g,"15,5",componenti principali
+6,   Proteine animali, g,"15,5",componenti principali
+7,   Proteine vegetali, g,"0,0",componenti principali
+8,Lipidi totali, g,"3,3",componenti principali
+9,   Lipidi animali, g,"3,3",componenti principali
+10,   Lipidi vegetali, g,"0,0",componenti principali
+11,Colesterolo, mg,58,componenti principali
+12,Carboidrati disponibili (MSE), g,"0,2",componenti principali
+13,   Amido (MSE), g,"0,0",componenti principali
+14,   Carboidrati solubili (MSE), g,"0,2",componenti principali
+15,Fibra alimentare totale, g,"0,0",componenti principali
+16,Alcol, g,"0,0",componenti principali
+17,Acqua, g,"79,8",componenti principali
+18,Ferro, mg,"3,7",minerali ed elementi in traccia
+19,Calcio, mg,5,minerali ed elementi in traccia
+20,Sodio, mg,63,minerali ed elementi in traccia
+21,Potassio, mg,380,minerali ed elementi in traccia
+22,Fosforo, mg,130,minerali ed elementi in traccia
+23,Zinco, mg,"0,51",minerali ed elementi in traccia
+24,Magnesio, mg,23,minerali ed elementi in traccia
+25,Rame, mg,"0,03",minerali ed elementi in traccia
+26,Selenio, µg,"12,6",minerali ed elementi in traccia
+27,Cloro, mg,37,minerali ed elementi in traccia
+28,Iodio, µg,35,minerali ed elementi in traccia
+29,Manganese, mg,"0,03",minerali ed elementi in traccia
+30,Zolfo, mg,260,minerali ed elementi in traccia
+31,"Vitamina B1,  Tiamina", mg,"0,21",vitamine idrosolubili
+32,"Vitamina B2,  Riboflavina", mg,"0,07",vitamine idrosolubili
+33,Vitamina C, mg,tr,vitamine idrosolubili
+34,Niacina, mg,"1,91",vitamine idrosolubili
+35,Vitamina B6, mg,"0,12",vitamine idrosolubili
+36,Folati totali, µg,10,vitamine idrosolubili
+37,Acido pantotenico, mg,"0,30",vitamine idrosolubili
+38,Biotina, µg,"5,0",vitamine idrosolubili
+39,Vitamina B12, µg,"2,2",vitamine idrosolubili
+40,   Retinolo eq. (RE), µg,15,retinolo equivalente
+41,   Retinolo, µg,15,retinolo equivalente
+42,   ß-carotene eq., µg,0,retinolo equivalente
+43,Vitamina E (ATE), mg,"0,60",retinolo equivalente
+44,Vitamina D, µg,"12,50",retinolo equivalente
+45,Acidi grassi saturi totali, g,"0,84",acidi grassi
+46,"Somma degli acidi butirrico,  caproico,  caprilico e caprico", g,"0,00",acidi grassi
+47,Acido laurico, g,"0,00",acidi grassi
+48,Acido miristico, g,"0,07",acidi grassi
+49,Acido palmitico, g,"0,52",acidi grassi
+50,Acido stearico, g,"0,18",acidi grassi
+51,Acidi grassi monoinsaturi totali, g,"0,98",acidi grassi
+52,Acido palmitoleico, g,"0,21",acidi grassi
+53,Acido oleico, g,"0,70",acidi grassi
+54,Acidi eicosenoico, g,"0,02",acidi grassi
+55,Acido erucico, g,"0,01",acidi grassi
+56,Acidi grassi polinsaturi totali, g,"1,02",acidi grassi
+57,Acido linoleico, g,"0,12",acidi grassi
+58,Acido linolenico, g,"0,08",acidi grassi
+59,Acido arachidonico, g,"0,18",acidi grassi
+60,Acido eicosapentaenoico (EPA), g,"0,15",acidi grassi
+61,Acido decosaesaenoico (DHA), g,"0,27",acidi grassi
+62,Altri acidi grassi polinsaturi, g,"0,22",acidi grassi
+63,Triptofano, mg,207,aminoacidi
+64,Treonina, mg,637,aminoacidi
+65,Isoleucina, mg,666,aminoacidi
+66,Leucina, mg,1165,aminoacidi
+67,Lisina, mg,1723,aminoacidi
+68,Metionina, mg,446,aminoacidi
+69,Cistina, mg,135,aminoacidi
+70,Fenilalanina, mg,602,aminoacidi
+71,Tirosina, mg,503,aminoacidi
+72,Valina, mg,754,aminoacidi
+73,Arginina, mg,1072,aminoacidi
+74,Istidina, mg,493,aminoacidi
+75,Alanina, mg,786,aminoacidi
+76,Acido aspartico, mg,1358,aminoacidi
+77,Acido glutammico, mg,1924,aminoacidi
+78,Glicina, mg,597,aminoacidi
+79,Prolina, mg,760,aminoacidi
+80,Serina, mg,581,aminoacidi
+81,Glucosio, g,"0,2",zuccheri
+82,Fruttosio, g,"0,0",zuccheri
+83,Galattosio, g,"0,0",zuccheri
+84,Saccarosio (MSE), g,"0,0",zuccheri
+85,Maltosio (MSE), g,"0,0",zuccheri
+86,Lattosio (MSE), g,"0,0",zuccheri

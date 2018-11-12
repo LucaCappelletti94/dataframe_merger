@@ -1,0 +1,86 @@
+,components,unit,value,section
+0,Parte edibile, %,100,componenti principali
+1,"Energia,  ricalcolata", kJ,880,componenti principali
+2,"Energia,  Ric con fibra", kJ,1065,componenti principali
+3,"Energia,  ricalcolata", kcal,207,componenti principali
+4,"Energia,  Ric con fibra", kcal,253,componenti principali
+5,Proteine totali, g,"3,3",componenti principali
+6,   Proteine animali, g,"0,0",componenti principali
+7,   Proteine vegetali, g,"3,3",componenti principali
+8,Lipidi totali, g,"0,7",componenti principali
+9,   Lipidi animali, g,"0,0",componenti principali
+10,   Lipidi vegetali, g,"0,7",componenti principali
+11,Colesterolo, mg,0,componenti principali
+12,Carboidrati disponibili (MSE), g,"49,9",componenti principali
+13,   Amido (MSE), g,"1,0",componenti principali
+14,   Carboidrati solubili (MSE), g,"48,9",componenti principali
+15,Fibra alimentare totale, g,"23,1",componenti principali
+16,Alcol, g,"0,0",componenti principali
+17,Acqua, g,"10,0",componenti principali
+18,Ferro, mg,"2,9",minerali ed elementi in traccia
+19,Calcio, mg,348,minerali ed elementi in traccia
+20,Sodio, mg,35,minerali ed elementi in traccia
+21,Potassio, mg,827,minerali ed elementi in traccia
+22,Fosforo, mg,79,minerali ed elementi in traccia
+23,Zinco, mg,"0,92",minerali ed elementi in traccia
+24,Magnesio, mg,54,minerali ed elementi in traccia
+25,Rame, mg,"0,57",minerali ed elementi in traccia
+26,Selenio, µg,"5,3",minerali ed elementi in traccia
+27,Cloro, mg,70,minerali ed elementi in traccia
+28,Manganese, mg,"0,51",minerali ed elementi in traccia
+29,"Vitamina B1,  Tiamina", mg,"0,05",vitamine idrosolubili
+30,"Vitamina B2,  Riboflavina", mg,"0,46",vitamine idrosolubili
+31,Vitamina C, mg,0,vitamine idrosolubili
+32,Niacina, mg,"1,90",vitamine idrosolubili
+33,Vitamina B6, mg,"0,37",vitamine idrosolubili
+34,Folati totali, µg,29,vitamine idrosolubili
+35,Acido pantotenico, mg,"0,15",vitamine idrosolubili
+36,Vitamina B12, µg,"0,0",vitamine idrosolubili
+37,   Retinolo eq. (RE), µg,1,retinolo equivalente
+38,   Retinolo, µg,0,retinolo equivalente
+39,   ß-carotene eq., µg,8,retinolo equivalente
+40,Vitamina E (ATE), mg,"0,63",retinolo equivalente
+41,Vitamina D, µg,"0,00",retinolo equivalente
+42,Vitamina K, µg,"0,00",retinolo equivalente
+43,Acidi grassi saturi totali, g,"0,10",acidi grassi
+44,"Somma degli acidi butirrico,  caproico,  caprilico e caprico", g,"0,00",acidi grassi
+45,Acido laurico, g,"0,00",acidi grassi
+46,Acido miristico, g,"0,00",acidi grassi
+47,Acido palmitico, g,"0,08",acidi grassi
+48,Acido stearico, g,"0,02",acidi grassi
+49,Acidi grassi monoinsaturi totali, g,"0,21",acidi grassi
+50,Acido palmitoleico, g,"0,00",acidi grassi
+51,Acido oleico, g,"0,21",acidi grassi
+52,Acidi eicosenoico, g,"0,00",acidi grassi
+53,Acido erucico, g,"0,00",acidi grassi
+54,Acidi grassi polinsaturi totali, g,"0,23",acidi grassi
+55,Acido linoleico, g,"0,23",acidi grassi
+56,Acido linolenico, g,"0,00",acidi grassi
+57,Acido arachidonico, g,"0,00",acidi grassi
+58,Acido eicosapentaenoico (EPA), g,"0,00",acidi grassi
+59,Acido decosaesaenoico (DHA), g,"0,00",acidi grassi
+60,Altri acidi grassi polinsaturi, g,"0,00",acidi grassi
+61,Triptofano, mg,34,aminoacidi
+62,Treonina, mg,194,aminoacidi
+63,Isoleucina, mg,149,aminoacidi
+64,Leucina, mg,316,aminoacidi
+65,Lisina, mg,140,aminoacidi
+66,Metionina, mg,58,aminoacidi
+67,Cistina, mg,21,aminoacidi
+68,Fenilalanina, mg,108,aminoacidi
+69,Tirosina, mg,86,aminoacidi
+70,Valina, mg,319,aminoacidi
+71,Arginina, mg,93,aminoacidi
+72,Istidina, mg,87,aminoacidi
+73,Alanina, mg,417,aminoacidi
+74,Acido aspartico, mg,359,aminoacidi
+75,Acido glutammico, mg,259,aminoacidi
+76,Glicina, mg,191,aminoacidi
+77,Prolina, mg,253,aminoacidi
+78,Serina, mg,217,aminoacidi
+79,Glucosio, g,"6,7",zuccheri
+80,Fruttosio, g,"5,8",zuccheri
+81,Galattosio, g,"0,0",zuccheri
+82,Saccarosio (MSE), g,"36,4",zuccheri
+83,Maltosio (MSE), g,"0,0",zuccheri
+84,Lattosio (MSE), g,"0,0",zuccheri

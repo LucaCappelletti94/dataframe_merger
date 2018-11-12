@@ -1,0 +1,362 @@
+{
+    "name": "pasticiccini_danesi_alla_cannella",
+    "Principali": {
+        "Calorie": {
+            "unit": "kj",
+            "amount": "1686"
+        },
+        "Grassi": {
+            "unit": "g",
+            "amount": "22.4"
+        },
+        "Carboidrati": {
+            "unit": "g",
+            "amount": "44.6"
+        },
+        "Proteine": {
+            "unit": "g",
+            "amount": "7"
+        },
+        "Fibre": {
+            "unit": "g",
+            "amount": "1.3"
+        },
+        "Zuccheri": {
+            "unit": "g",
+            "amount": "19.78"
+        },
+        "Acqua": {
+            "unit": "g",
+            "amount": "24.3"
+        },
+        "Ceneri": {
+            "unit": "g",
+            "amount": "1.7"
+        }
+    },
+    "Minerali": {
+        "Calcio": {
+            "unit": "mg",
+            "amount": "71"
+        },
+        "Sodio": {
+            "unit": "mg",
+            "amount": "371"
+        },
+        "Fosforo": {
+            "unit": "mg",
+            "amount": "107"
+        },
+        "Potassio": {
+            "unit": "mg",
+            "amount": "125"
+        },
+        "Ferro": {
+            "unit": "mg",
+            "amount": "1.96"
+        },
+        "Magnesio": {
+            "unit": "mg",
+            "amount": "19"
+        },
+        "Zinco": {
+            "unit": "mg",
+            "amount": "0.72"
+        },
+        "Rame": {
+            "unit": "mg",
+            "amount": "0.1"
+        },
+        "Manganese": {
+            "unit": "mg",
+            "amount": "0.362"
+        },
+        "Selenio": {
+            "unit": "mcg",
+            "amount": "17"
+        }
+    },
+    "Vitamine": {
+        "Retinolo (Vit. A)": {
+            "unit": "mcg",
+            "amount": "6"
+        },
+        "Vitamina A, IU": {
+            "unit": "IU",
+            "amount": "24"
+        },
+        "Vitamina A, RAE": {
+            "unit": "mcg_RAE",
+            "amount": "6"
+        },
+        "Tiamina (Vit. B1)": {
+            "unit": "mg",
+            "amount": "0.3"
+        },
+        "Riboflavina (Vit. B2)": {
+            "unit": "mg",
+            "amount": "0.263"
+        },
+        "Niacina (Vit. B3)": {
+            "unit": "mg",
+            "amount": "2.867"
+        },
+        "Acido Pantotenico (Vit. B5)": {
+            "unit": "mg",
+            "amount": "0.396"
+        },
+        "Piridossina (Vit. B6)": {
+            "unit": "mg",
+            "amount": "0.038"
+        },
+        "Acido folico (Vit. B9 o M o Folacina)": {
+            "unit": "mcg",
+            "amount": "35"
+        },
+        "Folato alimentare": {
+            "unit": "mcg",
+            "amount": "33"
+        },
+        "Folato, DFE": {
+            "unit": "mcg_DFE",
+            "amount": "92"
+        },
+        "Folati, totali": {
+            "unit": "mcg",
+            "amount": "68"
+        },
+        "Cobalamina (Vit. B12)": {
+            "unit": "mcg",
+            "amount": "0.1"
+        },
+        "Vitamina B-12, aggiunta": {
+            "unit": "mcg",
+            "amount": "0"
+        },
+        "Acido ascorbico (Vit. C)": {
+            "unit": "mg",
+            "amount": "0.1"
+        },
+        "Vitamina D (D2+D3)": {
+            "unit": "mcg",
+            "amount": "0"
+        },
+        "Colecalcifenolo (Vit. D)": {
+            "unit": "IU",
+            "amount": "0"
+        },
+        "Alpha-tocoferolo (Vit. E)": {
+            "unit": "mg",
+            "amount": "0.39"
+        },
+        "Vitamina E, aggiunta": {
+            "unit": "mg",
+            "amount": "0"
+        },
+        "Fillochinone (Vit. K)": {
+            "unit": "mcg",
+            "amount": "9.4"
+        },
+        "Colina totale (Vit. J)": {
+            "unit": "mg",
+            "amount": "21.8"
+        },
+        "Carotene, beta": {
+            "unit": "mcg",
+            "amount": "2"
+        },
+        "Carotene, alfa": {
+            "unit": "mcg",
+            "amount": "0"
+        },
+        "Criptoxantina, beta": {
+            "unit": "mcg",
+            "amount": "1"
+        },
+        "Licopene": {
+            "unit": "mcg",
+            "amount": "0"
+        },
+        "Luteina + zeaxantina": {
+            "unit": "mcg",
+            "amount": "52"
+        }
+    },
+    "Lipidi": {
+        "Acidi grassi, monoinsaturi": {
+            "unit": "g",
+            "amount": "12.515"
+        },
+        "Acidi grassi, polinsaturi": {
+            "unit": "g",
+            "amount": "2.933"
+        },
+        "Acidi grassi, saturi": {
+            "unit": "g",
+            "amount": "5.681"
+        },
+        "Colesterolo": {
+            "unit": "mg",
+            "amount": "21"
+        }
+    },
+    "Grassi saturi": {
+        "4:0": {
+            "unit": "g",
+            "amount": "0"
+        },
+        "6:0": {
+            "unit": "g",
+            "amount": "0"
+        },
+        "8:0": {
+            "unit": "g",
+            "amount": "0"
+        },
+        "Grassi Saturi 10:0": {
+            "unit": "g",
+            "amount": "0"
+        },
+        "Grassi Saturi 12:0": {
+            "unit": "g",
+            "amount": "0"
+        },
+        "Grassi Saturi 14:0": {
+            "unit": "g",
+            "amount": "0.109"
+        },
+        "Grassi Saturi 16:0": {
+            "unit": "g",
+            "amount": "2.961"
+        },
+        "Grassi Saturi 18:0": {
+            "unit": "g",
+            "amount": "2.602"
+        }
+    },
+    "Grassi monoinsaturi": {
+        "Grassi Monoinsaturi 16:1 indifferenziato": {
+            "unit": "g",
+            "amount": "0.022"
+        },
+        "Grassi Monoinsaturi 18:1 indifferenziato": {
+            "unit": "g",
+            "amount": "12.491"
+        },
+        "Grassi Monoinsaturi 20:1": {
+            "unit": "g",
+            "amount": "0.001"
+        },
+        "Grassi Monoinsaturi 22:1 indifferenziato": {
+            "unit": "g",
+            "amount": "0"
+        }
+    },
+    "Grassi polinsaturi": {
+        "Grassi Polinsaturi 18:2 indifferenziato": {
+            "unit": "g",
+            "amount": "2.772"
+        },
+        "Grassi Polinsaturi 18:3 indifferenziato": {
+            "unit": "g",
+            "amount": "0.148"
+        },
+        "Grassi Polinsaturi 18:4": {
+            "unit": "g",
+            "amount": "0.001"
+        },
+        "Grassi Polinsaturi 20:4 indifferenziato": {
+            "unit": "g",
+            "amount": "0.007"
+        },
+        "20:5 n-3": {
+            "unit": "g",
+            "amount": "0.003"
+        },
+        "22:5 n-3": {
+            "unit": "g",
+            "amount": "0"
+        },
+        "22:6 n-3": {
+            "unit": "g",
+            "amount": "0.002"
+        }
+    },
+    "Aminoacidi": {
+        "Acido aspartico": {
+            "unit": "g",
+            "amount": "0.463"
+        },
+        "Acido glutammico": {
+            "unit": "g",
+            "amount": "1.882"
+        },
+        "Alanina": {
+            "unit": "g",
+            "amount": "0.274"
+        },
+        "Arginina": {
+            "unit": "g",
+            "amount": "0.312"
+        },
+        "Cistina": {
+            "unit": "g",
+            "amount": "0.139"
+        },
+        "Fenilalanina": {
+            "unit": "g",
+            "amount": "0.348"
+        },
+        "Glicina": {
+            "unit": "g",
+            "amount": "0.245"
+        },
+        "Isoleucina": {
+            "unit": "g",
+            "amount": "0.31"
+        },
+        "Istidina": {
+            "unit": "g",
+            "amount": "0.16"
+        },
+        "Leucina": {
+            "unit": "g",
+            "amount": "0.532"
+        },
+        "Lisina": {
+            "unit": "g",
+            "amount": "0.296"
+        },
+        "Metionina": {
+            "unit": "g",
+            "amount": "0.139"
+        },
+        "Prolina": {
+            "unit": "g",
+            "amount": "0.637"
+        },
+        "Serina": {
+            "unit": "g",
+            "amount": "0.376"
+        },
+        "Tirosina": {
+            "unit": "g",
+            "amount": "0.233"
+        },
+        "Treonina": {
+            "unit": "g",
+            "amount": "0.245"
+        },
+        "Triptofano": {
+            "unit": "g",
+            "amount": "0.084"
+        },
+        "Valina": {
+            "unit": "g",
+            "amount": "0.344"
+        }
+    },
+    "meta-data": [
+        "prodotti da forno"
+    ]
+}
