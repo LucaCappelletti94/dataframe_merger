@@ -60,8 +60,8 @@ def apply_heuristics(A: np.ndarray) -> np.ndarray:
     return np.array([fat_heuristic(g_mg_heuristics(percentage_heuristics(vitamin_heuristics(a)))) for a in A])
 
 
-def match(A: pd.DataFrame, B: pd.DataFrame,
-          threshold: float = 0.8) -> pd.DataFrame:
+def matcher(A: pd.DataFrame, B: pd.DataFrame,
+            threshold: float = 0.8) -> pd.DataFrame:
     Ac = A.columns
     Bc = B.columns
     a = np.nanmean(np.array(A), axis=0).reshape(-1, 1)
@@ -78,7 +78,7 @@ def match(A: pd.DataFrame, B: pd.DataFrame,
     distances = (tfidf_distances / np.nanmax(tfidf_distances) +
                  0*mean_matrix / np.nanmax(mean_matrix))
     distances[distances > threshold] = np.inf
-    #np.fill_diagonal(distances, np.inf)
+    # np.fill_diagonal(distances, np.inf)
 
     infinite_rows = np.all(distances == np.inf, axis=1)
     distances = distances[~infinite_rows]
@@ -109,36 +109,60 @@ def replace_header(df, old, new, path):
     return df
 
 
-r = match(crea, bda, threshold=0.9)
+df1, path_df1 = bda, "csv/bda.csv"
+df2, path_df2 = crea, "csv/crea.csv"
 
-for original, match, value in r.values:
-    if original == match:
-        continue
-    while True:
-        print(chr(27) + "[2J")
-        inp = input("I found \033[1m{original}\033[0m and \033[1m{match}\033[0m. Should I merge them? [(y)/n] ".format(
-            original=original, match=match))
-        if inp == "y":
-            done = False
-            while True:
-                h = int(input("Which header should I use? [1/2/n] "))
-                if h == 1:
-                    crea = replace_header(
-                        crea, original, match, "csv/crea.csv")
-                    done = True
+
+while True:
+    r = matcher(df1, df2, threshold=0.8)
+
+    n = 0
+    for original, match, value in r.values:
+        if original == match:
+            continue
+        n += 1
+
+    if not n:
+        break
+
+    print("I have found {n} possible matches. ".format(n=n))
+    input("Press any key to continue...")
+    for original, match, value in r.values:
+        done = False
+        if original == match:
+            continue
+        while True:
+            print(chr(27) + "[2J")
+            print("I found \033[1m{original}\033[0m and \033[1m{match}\033[0m. Should I merge them?".format(
+                original=original, match=match))
+            print("Their respective mean is: {mean_1:.5f}, {mean_2:.5f}".format(
+                mean_1=np.nanmean(df1[original]),
+                mean_2=np.nanmean(df2[match])
+            ))
+            inp = input("[(y)/n] ")
+            if inp == "y":
+                while True:
+                    h = int(input("Which header should I use? [1/2/n] "))
+                    if h == 1:
+                        df1 = replace_header(
+                            df1, original, match, path_df1)
+                        done = True
+                        break
+                    elif h == 2:
+                        df2 = replace_header(
+                            df2, match, original, path_df2)
+                        done = True
+                        break
+                    elif h == "n":
+                        break
+                    else:
+                        print("What did you mean? Please retry.")
+                if done:
                     break
-                elif h == 2:
-                    bda = replace_header(bda, match, original, "csv/bda.csv")
-                    done = True
-                    break
-                elif h == "n":
-                    break
-                else:
-                    print("What did you mean? Please retry.")
-            if done:
+            elif inp == "n":
+                print("Ok, leaving it be.")
                 break
-        elif inp == "n":
-            print("Ok, leaving it be.")
+            else:
+                print("What did you mean? Please retry.")
+        if done:
             break
-        else:
-            print("What did you mean? Please retry.")
