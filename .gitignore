@@ -2,3 +2,9 @@
 \.DS_Store
 
 \.ipynb_checkpoints/
+
+proxies\.json
+
+tmp_tested_proxy\.json
+
+downloaded_websites/
