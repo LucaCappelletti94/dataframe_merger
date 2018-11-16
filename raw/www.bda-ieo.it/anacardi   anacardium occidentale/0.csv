@@ -1,0 +1,103 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 4003 - frutta secca e in guscio, semi edibili",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,BF,1006,2,"""Cashew nuts roasted and salted"" WATER 2.4g, PROT 20.5g, FAT 50.9g, CHO 18.8g, SUGAR 5.6g, STARCH 13.2g"
+6,"Energia, ricalcolata, kJ",2258,86,,,
+7,"Energia, Ric con fibra, kJ",2282,86,,,
+8,"Energia, ricalcolata, kcal",544,86,,,
+9,"Energia, Ric con fibra, kcal",550,86,,,
+10,"Proteine totali, g",150,AO,008610,,
+11,"Proteine animali, g",00,LZ,,,
+12,"Proteine vegetali, g",150,AO,008610,,
+13,"Lipidi totali, g",460,AO,008610,,
+14,"Lipidi animali, g",00,LZ,,,
+15,"Lipidi vegetali, g",460,AO,008610,,
+16,"Colesterolo, mg",0,LZ,,,
+17,"Carboidrati disponibili (MSE), g",188,BF,1006,2,"""Cashew nuts roasted and salted"" WATER 2.4g, PROT 20.5g, FAT 50.9g, CHO 18.8g, SUGAR 5.6g, STARCH 13.2g"
+18,"Amido (MSE), g",132,BF,1006,2,"""Cashew nuts roasted and salted"" WATER 2.4g, PROT 20.5g, FAT 50.9g, CHO 18.8g, SUGAR 5.6g, STARCH 13.2g"
+19,"Carboidrati solubili (MSE), g",56,BF,1006,2,"""Cashew nuts roasted and salted"" WATER 2.4g, PROT 20.5g, FAT 50.9g, CHO 18.8g, SUGAR 5.6g, STARCH 13.2g"
+20,"Fibra alimentare totale, g",30,AO,008610,,
+21,"Alcol, g",00,LZ,,,
+22,"Acqua, g",30,AO,008610,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",60,AO,008610,,
+25,"Calcio, mg",45,AO,008610,,
+26,"Sodio, mg",16,AO,008610,,
+27,"Potassio, mg",565,AO,008610,,
+28,"Fosforo, mg",490,AO,008610,,
+29,"Zinco, mg",600,AO,008610,,
+30,"Magnesio, mg",260,AO,008610,,
+31,"Rame, mg",200,AO,008610,,
+32,"Selenio, µg",120,AO,008610,,
+33,"Cloro, mg",18,BF,1011,2,"""Hazelnuts"" WATER 4.6g, PROT 14.1g, FAT 63.5g, CHO 6g, SUGAR 4g, STARCH 2g"
+34,"Iodio, µg",11,BF,1006,2,"""Cashew nuts roasted and salted"" WATER 2.4g, PROT 20.5g, FAT 50.9g, CHO 18.8g, SUGAR 5.6g, STARCH 13.2g"
+35,"Manganese, mg",180,BF,1006,2,"""Cashew nuts roasted and salted"" WATER 2.4g, PROT 20.5g, FAT 50.9g, CHO 18.8g, SUGAR 5.6g, STARCH 13.2g"
+36,"Zolfo, mg",380,L,831,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",020,AO,008610,,
+39,"Vitamina B2, Riboflavina, mg",002,AO,008610,,
+40,"Vitamina C, mg",0,AO,008610,,
+41,"Niacina, mg",100,AO,008610,,
+42,"Vitamina B6, mg",043,BF,1006,2,"""Cashew nuts roasted and salted"" WATER 2.4g, PROT 20.5g, FAT 50.9g, CHO 18.8g, SUGAR 5.6g, STARCH 13.2g"
+43,"Folati totali, µg",68,BF,1006,2,"""Cashew nuts roasted and salted"" WATER 2.4g, PROT 20.5g, FAT 50.9g, CHO 18.8g, SUGAR 5.6g, STARCH 13.2g"
+44,"Acido pantotenico, mg",108,BF,1006,2,"""Cashew nuts roasted and salted"" WATER 2.4g, PROT 20.5g, FAT 50.9g, CHO 18.8g, SUGAR 5.6g, STARCH 13.2g"
+45,"Biotina, µg",130,BF,1006,2,"""Cashew nuts roasted and salted"" WATER 2.4g, PROT 20.5g, FAT 50.9g, CHO 18.8g, SUGAR 5.6g, STARCH 13.2g"
+46,"Vitamina B12, µg",00,LZ,,,
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",0,AO,008610,,
+50,"Retinolo, µg",0,LZ,,,
+51,"ß-carotene eq., µg",0,AO,008610,3B,
+52,"Vitamina E (ATE), mg",100,AO,008610,,
+53,"Vitamina D, µg",000,LZ,,,
+54,"Vitamina K, µg",3410,DI,12087,2,"""Nuts, cashew nuts, raw"" WATER 5.2g, PROT 18.22g, FAT 43.85g, CHO 30.19g, SUGAR 5.91g, STARCH 23.49g"
+55,ACIDI GRASSI,,,,,
+56,"Acidi grassi saturi totali, g",817,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5.2g, PROT 18.22g, FAT 43.85g, CHO 26.89g, SUGAR 5.91g, STARCH 23.49g, FASAT 7.783g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",003,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5.2g, PROT 18.22g, FAT 43.85g, CHO 26.89g, SUGAR 5.91g, STARCH 23.49g, F4-10:0 0.015g"
+58,"Acido laurico, g",002,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, SUGAR 5,91g, STARCH 23,49g, F12:0 0,015g"
+59,"Acido miristico, g",002,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, SUGAR 5,91g, STARCH 23,49g, F14:0 0,015g"
+60,"Acido palmitico, g",411,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, SUGAR 5,91g, STARCH 23,49g, F16:0 3,916g"
+61,"Acido stearico, g",338,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, SUGAR 5,91g, STARCH 23,49g, F18:0 3,223g"
+62,"Acido arachidico, g",028,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, SUGAR 5,91g, STARCH 23,49g, F20:0 0,266g"
+63,"Acido beenico, g",018,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, SUGAR 5,91g, STARCH 23,49g, F22:0 0,173g"
+64,"Acidi grassi monoinsaturi totali, g",2496,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, SUGAR 5,91g, STARCH 23,49g, FAMS 23,797g"
+65,"Acido miristoleico, g",000,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, SUGAR 5,91g, STARCH 23,49g, F14:1CN5 0g"
+66,"Acido palmitoleico, g",014,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, SUGAR 5,91g, STARCH 23,49g, F16:1CN7 0,136g"
+67,"Acido oleico, g",2468,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, SUGAR 5,91g, STARCH 23,49g, F18:1 23,523g"
+68,"Acidi eicosenoico, g",015,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, SUGAR 5,91g, STARCH 23,49g, F20:1 0,138g"
+69,"Acido erucico, g",000,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, SUGAR 5,91g, STARCH 23,49g, F22:1CN9 0g"
+70,"Acidi grassi polinsaturi totali, g",823,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, SUGAR 5,91g, STARCH 23,49g, FAPU 7,845g"
+71,"Acido linoleico, g",816,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, SUGAR 5,91g, STARCH 23,49g, F18:2 7,782g"
+72,"Acido linolenico, g",007,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, F18:3 0,062g"
+73,"Acido arachidonico, g",000,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, F20:4N6 0g"
+74,"Acido eicosapentaenoico (EPA), g",000,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, F20:5N3 0g"
+75,"Acido decosaesaenoico (DHA), g",000,DI,12087,3A,"Nuts, Cashew Nuts, Raw WATER 5,2g, PROT 18,22g, FAT 43,85g, CHO 26,89g, F22:6 0g"
+76,"Altri acidi grassi polinsaturi, g",000,86,,,
+77,AMINOACIDI,,,,,
+78,"Triptofano, mg",240,AO,008610,,
+79,"Treonina, mg",590,AO,008610,,
+80,"Isoleucina, mg",730,AO,008610,,
+81,"Leucina, mg",1280,AO,008610,,
+82,"Lisina, mg",520,AO,008610,,
+83,"Metionina, mg",270,AO,008610,,
+84,"Cistina, mg",280,AO,008610,,
+85,"Fenilalanina, mg",790,AO,008610,,
+86,"Tirosina, mg",490,AO,008610,,
+87,"Valina, mg",910,AO,008610,,
+88,"Arginina, mg",1740,AO,008610,,
+89,"Istidina, mg",400,AO,008610,,
+90,"Alanina, mg",700,AO,008610,,
+91,"Acido aspartico, mg",1500,AO,008610,,
+92,"Acido glutammico, mg",3620,AO,008610,,
+93,"Glicina, mg",800,AO,008610,,
+94,"Prolina, mg",690,AO,008610,,
+95,"Serina, mg",850,AO,008610,,
+96,ZUCCHERI,,,,,
+97,"Glucosio, g",00,BF,1006,3A,"Cashew Nuts Roasted Salted WATER 2.4g, PROT 20.5g, FAT 50.9g, CHO 18.8g, SUGAR 5.6g, STARCH 13.2g, GLUS 0g"
+98,"Fruttosio, g",00,BF,1006,3A,"Cashew Nuts Roasted And Salted WATER 2.4g, PROT 20.5g, FAT 50.9g, CHO 18.8g, SUGAR 5.6g, STARCH 13.2g, FRUS 0g"
+99,"Galattosio, g",00,LZ,,,
+100,"Saccarosio (MSE), g",56,BF,1006,3A,"Cashew Nuts Roasted And Salted WATER 2.4g, PROT 20.5g, FAT 50.9g, CHO 18.8g, SUGAR 5.6g, STARCH 13.2g, SUCS 5.6g"
+101,"Maltosio (MSE), g",00,BF,1006,3A,"Cashew Nuts Roasted And Salted WATER 2.4g, PROT 20.5g, FAT 50.9g, CHO 18.8g, SUGAR 5.6g, STARCH 13.2g, MALS 0g"
+102,"Lattosio (MSE), g",00,LZ,,,

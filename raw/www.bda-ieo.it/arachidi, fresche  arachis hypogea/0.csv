@@ -1,0 +1,103 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 4003 - frutta secca e in guscio, semi edibili",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",79,02,501,,
+6,"Energia, ricalcolata, kJ",2368,86,,,
+7,"Energia, Ric con fibra, kJ",2426,86,,,
+8,"Energia, ricalcolata, kcal",571,86,,,
+9,"Energia, Ric con fibra, kcal",585,86,,,
+10,"Proteine totali, g",260,02,501,,
+11,"Proteine animali, g",00,LZ,,,
+12,"Proteine vegetali, g",260,02,501,,
+13,"Lipidi totali, g",472,02,501,,
+14,"Lipidi animali, g",00,LZ,,,
+15,"Lipidi vegetali, g",472,02,501,,
+16,"Colesterolo, mg",0,LZ,,,
+17,"Carboidrati disponibili (MSE), g",112,02,501,,
+18,"Amido (MSE), g",67,02,501,,
+19,"Carboidrati solubili (MSE), g",45,02,501,,
+20,"Fibra alimentare totale, g",73,L,831,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g, metodo Southgate metodo Englyst fibra=6.2g"
+21,"Alcol, g",00,LZ,,,
+22,"Acqua, g",71,02,501,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",32,02,501,,
+25,"Calcio, mg",60,02,501,,
+26,"Sodio, mg",2,L,831,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+27,"Potassio, mg",670,L,831,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+28,"Fosforo, mg",239,02,501,,
+29,"Zinco, mg",350,L,831,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+30,"Magnesio, mg",210,BF,1018,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+31,"Rame, mg",102,BF,1018,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+32,"Selenio, µg",30,BF,1018,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+33,"Cloro, mg",7,BF,1018,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+34,"Iodio, µg",20,BF,1018,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+35,"Manganese, mg",210,BF,1018,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+36,"Zolfo, mg",380,L,831,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",152,02,501,,
+39,"Vitamina B2, Riboflavina, mg",009,02,501,,
+40,"Vitamina C, mg",2,02,501,,
+41,"Niacina, mg",1380,L,831,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+42,"Vitamina B6, mg",059,L,831,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+43,"Folati totali, µg",110,L,831,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+44,"Acido pantotenico, mg",266,BF,1018,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+45,"Biotina, µg",720,BF,1018,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+46,"Vitamina B12, µg",00,LZ,,,
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",0,02,501,,
+50,"Retinolo, µg",0,LZ,,,
+51,"ß-carotene eq., µg",0,02,501,3B,
+52,"Vitamina E (ATE), mg",1009,L,831,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+53,"Vitamina D, µg",000,LZ,,,
+54,"Vitamina K, µg",000,DI,16087,2,"""Peanuts, all types, raw"" WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 16.13g, SUGAR 3.97g"
+55,ACIDI GRASSI,,,,,
+56,"Acidi grassi saturi totali, g",889,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, FASAT 8.66g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F4-10:0 0.04g"
+58,"Acido laurico, g",004,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F12:0 0,04g"
+59,"Acido miristico, g",023,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F14:0 0,22g"
+60,"Acido palmitico, g",483,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F16:0 4,71g"
+61,"Acido stearico, g",122,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F18:0 1,19g"
+62,"Acido arachidico, g",054,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F20:0 0.53g"
+63,"Acido beenico, g",154,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F22:0 1.5g"
+64,"Acidi grassi monoinsaturi totali, g",2261,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, FAMS 22,03g"
+65,"Acido miristoleico, g",000,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F14:1CN5 0g"
+66,"Acido palmitoleico, g",000,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F16:1CN7 0g"
+67,"Acido oleico, g",2211,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F18:1 21,55g"
+68,"Acidi eicosenoico, g",049,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F20:1 0,48g"
+69,"Acido erucico, g",000,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F22:1CN9 0g"
+70,"Acidi grassi polinsaturi totali, g",1344,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, FAPU 13,1g"
+71,"Acido linoleico, g",1308,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F18:2 12,75g"
+72,"Acido linolenico, g",036,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F18:3 0,35g"
+73,"Acido arachidonico, g",000,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F20:4N6 0g"
+74,"Acido eicosapentaenoico (EPA), g",000,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F20:5N3 0g"
+75,"Acido decosaesaenoico (DHA), g",000,AE,450,3A,"Peanuts, Plain WATER g, PROT g, FAT 46g, CHO g, F22:6 0g"
+76,"Altri acidi grassi polinsaturi, g",000,86,,,
+77,AMINOACIDI,,,,,
+78,"Triptofano, mg",252,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, TRP 0.25g"
+79,"Treonina, mg",890,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, THR 0.883g"
+80,"Isoleucina, mg",914,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, ILE 0.907g"
+81,"Leucina, mg",1685,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, LEU 1.672g"
+82,"Lisina, mg",933,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, LYS 0.926g"
+83,"Metionina, mg",319,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, MET 0.317g"
+84,"Cistina, mg",334,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, CYS 0.331g"
+85,"Fenilalanina, mg",1347,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, PHE 1.337g"
+86,"Tirosina, mg",1057,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, TYR 1.049g"
+87,"Valina, mg",1090,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, VAL 1.082g"
+88,"Arginina, mg",3109,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, ARG 3.085g"
+89,"Istidina, mg",657,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, HIS 0.652g"
+90,"Alanina, mg",1033,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, ALA 1.025g"
+91,"Acido aspartico, mg",3170,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, ASP 3.146g"
+92,"Acido glutammico, mg",5432,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, GLU 5.39g"
+93,"Glicina, mg",1566,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, GLY 1.554g"
+94,"Prolina, mg",1147,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, PRO 1.138g"
+95,"Serina, mg",1281,DI,16087,3A,"Peanuts Fresh WATER 6.5g, PROT 25.8g, FAT 49.24g, CHO 7.63g, SUGAR 3.97g, SER 1.271g"
+96,ZUCCHERI,,,,,
+97,"Glucosio, g",00,BF,1018,3A,"Peanuts, Plain WATER 6.3g, PROT 25.6g, FAT 46g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g, GLUS 0g"
+98,"Fruttosio, g",00,BF,1018,3A,"Peanuts, Plain WATER 6.3g, PROT 25.6g, FAT 46g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g, FRUS 0g"
+99,"Galattosio, g",00,LZ,,,
+100,"Saccarosio (MSE), g",45,BF,1018,3A,"Peanuts, Plain WATER 6.3g, PROT 25.6g, FAT 46g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g, SUCS 6.2g"
+101,"Maltosio (MSE), g",00,BF,1018,3A,"Peanuts, Plain WATER 6.3g, PROT 25.6g, FAT 46g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g, MALS 0g"
+102,"Lattosio (MSE), g",00,LZ,,,

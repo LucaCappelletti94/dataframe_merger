@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 15007 - biscotti, pasticcini da tè",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,02,81,,
+6,"Energia, ricalcolata, kJ",1660,86,,,
+7,"Energia, Ric con fibra, kJ",1674,86,,,
+8,"Energia, ricalcolata, kcal",392,86,,,
+9,"Energia, Ric con fibra, kcal",396,86,,,
+10,"Proteine totali, g",119,02,81,,
+11,"Proteine animali, g",93,72,,,stima
+12,"Proteine vegetali, g",26,72,,,stima
+13,"Lipidi totali, g",92,02,81,,
+14,"Lipidi animali, g",90,72,,,stima
+15,"Lipidi vegetali, g",02,72,,,stima
+16,"Colesterolo, mg",261,07,212,,
+17,"Carboidrati disponibili (MSE), g",698,02,81,,
+18,"Amido (MSE), g",305,02,81,,
+19,"Carboidrati solubili (MSE), g",393,02,81,,
+20,"Fibra alimentare totale, g",18,07,174,,"ALIMENTO SIMILE Homemade biscuits acqua=9g, lip=21.9g, prot=6.2g metodo Southgate metodo Englyst fibra=1.5g"
+21,"Alcol, g",00,02,81,,
+22,"Acqua, g",85,02,81,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",20,02,81,,
+25,"Calcio, mg",40,02,81,,
+26,"Sodio, mg",82,07,212,,"per i nutrienti 07/212 ALIMENTO SIMILE Spongecake, fatless acqua=31.5g, lip=6.1g, GD=53g"
+27,"Potassio, mg",120,07,212,,
+28,"Fosforo, mg",180,02,81,,
+29,"Zinco, mg",100,07,212,,
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",010,02,81,,
+32,"Vitamina B2, Riboflavina, mg",012,02,81,,
+33,"Vitamina C, mg",0,02,81,,
+34,"Niacina, mg",tr,02,81,,
+35,"Vitamina B6, mg",008,07,212,,
+36,"Folati totali, µg",18,07,212,,
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",0,02,81,,
+40,"Retinolo, µg",0,02,81,,CALC
+41,"ß-carotene eq., µg",0,02,81,,CALC
+42,"Vitamina E (ATE), mg",102,07,212,,
+43,"Vitamina D, µg",070,07,212,,
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",283,E,82,,"RIPR riferito a Spongecake, without fat lip=6.7g saturi=2.06g 18:1=2.31g mono=2.53g 18:2=0.71g 18:3=tracce altri PUFA=0.10g PUFA=0.81g"
+46,"Acidi grassi monoinsaturi totali, g",347,E,82,,
+47,"Acido oleico, g",317,E,82,,
+48,"Acidi grassi polinsaturi totali, g",111,E,82,,
+49,"Acido linoleico, g",097,E,82,,
+50,"Acido linolenico, g",tr,E,82,,
+51,"Altri acidi grassi polinsaturi, g",014,86,,,

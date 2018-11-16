@@ -1,0 +1,97 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 4003 - frutta secca e in guscio, semi edibili",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,AO,008510,,
+6,"Energia, ricalcolata, kJ",880,86,,,
+7,"Energia, Ric con fibra, kJ",1065,86,,,
+8,"Energia, ricalcolata, kcal",207,86,,,
+9,"Energia, Ric con fibra, kcal",253,86,,,
+10,"Proteine totali, g",33,AO,008510,,
+11,"Proteine animali, g",00,LZ,,,
+12,"Proteine vegetali, g",33,AO,008510,,
+13,"Lipidi totali, g",07,AO,008510,,
+14,"Lipidi animali, g",00,LZ,,,
+15,"Lipidi vegetali, g",07,AO,008510,,
+16,"Colesterolo, mg",0,LZ,,,
+17,"Carboidrati disponibili (MSE), g",499,AO,008510,,
+18,"Amido (MSE), g",10,86,,4B,in tabella espressi come polisaccaridi 0.9g
+19,"Carboidrati solubili (MSE), g",489,AO,008510,,
+20,"Fibra alimentare totale, g",231,AO,008510,,
+21,"Alcol, g",00,LZ,,,
+22,"Acqua, g",100,AO,008510,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",29,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+25,"Calcio, mg",348,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+26,"Sodio, mg",35,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+27,"Potassio, mg",827,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+28,"Fosforo, mg",79,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+29,"Zinco, mg",092,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+30,"Magnesio, mg",54,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+31,"Rame, mg",057,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+32,"Selenio, µg",53,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+33,"Cloro, mg",70,M,357,2,"""Carob powder"" WATER 4.8g, PROT 4.9g, FAT 0.1g, CHO 37g, SUGAR 31.7g, STARCH 5.7g"
+34,"Manganese, mg",051,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+35,VITAMINE IDROSOLUBILI,,,,,
+36,"Vitamina B1, Tiamina, mg",005,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+37,"Vitamina B2, Riboflavina, mg",046,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+38,"Vitamina C, mg",0,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+39,"Niacina, mg",190,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+40,"Vitamina B6, mg",037,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+41,"Folati totali, µg",29,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+42,"Acido pantotenico, mg",015,L,265,2,"""Tamarind"" WATER 35.8g, PROT 2.3g, FAT 0.3g, CHO 56.5g"
+43,"Vitamina B12, µg",00,LZ,,,
+44,VITAMINE LIPOSOLUBILI,,,,,
+45,Retinolo equivalente,,,,,
+46,"Retinolo eq. (RE), µg",1,DQ,16055,4A,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+47,"Retinolo, µg",0,LZ,,,
+48,"ß-carotene eq., µg",8,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+49,"Vitamina E (ATE), mg",063,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g, solo TOCPHA"
+50,"Vitamina D, µg",000,LZ,,,
+51,"Vitamina K, µg",000,DQ,16055,2,"""Carob flour"" WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 88.88g, SUGAR 49.08g"
+52,ACIDI GRASSI,,,,,
+53,"Acidi grassi saturi totali, g",010,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, FASAT 0.09g"
+54,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, F4-10:0 0g"
+55,"Acido laurico, g",000,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, F12:0 0g"
+56,"Acido miristico, g",000,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, F14:0 0,001g"
+57,"Acido palmitico, g",008,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, F16:0 0,72g"
+58,"Acido stearico, g",002,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, F18:0 0,014g"
+59,"Acidi grassi monoinsaturi totali, g",021,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, FAMS 0,197g"
+60,"Acido palmitoleico, g",000,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, F16:1CN7 0,004g"
+61,"Acido oleico, g",021,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, F18:1 0,194g"
+62,"Acidi eicosenoico, g",000,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, F20:1 0g"
+63,"Acido erucico, g",000,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, F22:1CN9 0g"
+64,"Acidi grassi polinsaturi totali, g",023,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, FAPU 0,216g"
+65,"Acido linoleico, g",023,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, F18:2 0,212g"
+66,"Acido linolenico, g",000,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, F18:3 0,004g"
+67,"Acido arachidonico, g",000,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, F20:4N6 0g"
+68,"Acido eicosapentaenoico (EPA), g",000,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, F20:5N3 0g"
+69,"Acido decosaesaenoico (DHA), g",000,DI,16055,3A,"Carob Flour WATER 3,58g, PROT 4,62g, FAT 0,65g, CHO 49,08g, SUGAR 49,08g, F22:6 0g"
+70,"Altri acidi grassi polinsaturi, g",000,86,,,
+71,AMINOACIDI,,,,,
+72,"Triptofano, mg",34,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, TRP 0.048g"
+73,"Treonina, mg",194,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, THR 0.271g"
+74,"Isoleucina, mg",149,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, ILE 0.209g"
+75,"Leucina, mg",316,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, LEU 0.442g"
+76,"Lisina, mg",140,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, LYS 0.196g"
+77,"Metionina, mg",58,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, MET 0.081g"
+78,"Cistina, mg",21,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, CYS 0.029g"
+79,"Fenilalanina, mg",108,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, PHE 0.151g"
+80,"Tirosina, mg",86,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, TYR 0.12g"
+81,"Valina, mg",319,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, VAL 0.446g"
+82,"Arginina, mg",93,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, ARG 0.13g"
+83,"Istidina, mg",87,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, HIS 0.122g"
+84,"Alanina, mg",417,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, ALA 0.584g"
+85,"Acido aspartico, mg",359,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, ASP 0.503g"
+86,"Acido glutammico, mg",259,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, GLU 0.362g"
+87,"Glicina, mg",191,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, GLY 0.267g"
+88,"Prolina, mg",253,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, PRO 0.354g"
+89,"Serina, mg",217,DI,16055,3A,"Carob Flour WATER 3.58g, PROT 4.62g, FAT 0.65g, CHO 49.08g, SUGAR 49.08g, SER 0.304g"
+90,ZUCCHERI,,,,,
+91,"Glucosio, g",67,M,357,3A,"Carob powder WATER 4,8g, PROT 4,9g, FAT 0,1g, CHO 37g, SUGAR 31,3g, STARCH 5,7g, GLUS 4,3g"
+92,"Fruttosio, g",58,M,357,3A,"Carob powder WATER 4,8g, PROT 4,9g, FAT 0,1g, CHO 37g, SUGAR 31,3g, STARCH 5,7g, FRUS 3,7g"
+93,"Galattosio, g",00,LZ,,,
+94,"Saccarosio (MSE), g",364,M,357,3A,"Carob powder WATER 4,8g, PROT 4,9g, FAT 0,1g, CHO 37g, SUGAR 31,3g, STARCH 5,7g, SUCS 23,3g"
+95,"Maltosio (MSE), g",00,M,357,3A,"Carob powder WATER 4,8g, PROT 4,9g, FAT 0,1g, CHO 37g, SUGAR 31,3g, STARCH 5,7g, MALS 0g"
+96,"Lattosio (MSE), g",00,LZ,,,

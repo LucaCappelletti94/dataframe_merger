@@ -1,0 +1,103 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Il Cotechino ha un impasto molto simile allo zampone (vedi Zampone), ed infatti il suo nome deriva dal termine ""cotica"" (antico termine per cotenna). Viene però insaccato in budello naturale, lavato, sgrassato e tenuto sotto sale. I prodotti precotti hanno oggi soppiantato quasi del tutto quelli tradizionali venduti freschi. Senza andare a discapito della qualità, l'industria si è accollata la fase di lunga cottura, necessaria per ottenere le tipiche caratteristiche di affettabilità e morbidezza, e vende i prodotti in sacchetti di alluminio pronto per l'usoe sterilizzati per garantire una lunga conservazione. (da http://www.unibon.it/zamponi_frame.htm 9 giugno 2004)",,,,,
+2,Categoria merceologica: 10003 - insaccati e salumi,,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,H,,,
+7,"Energia, ricalcolata, kJ",1858,86,,,
+8,"Energia, Ric con fibra, kJ",1858,86,,,
+9,"Energia, ricalcolata, kcal",450,86,,,
+10,"Energia, Ric con fibra, kcal",450,86,,,
+11,"Proteine totali, g",172,H,,,
+12,"Proteine animali, g",172,H,,,
+13,"Proteine vegetali, g",00,H,,,
+14,"Lipidi totali, g",423,H,,,
+15,"Lipidi animali, g",423,H,,,
+16,"Lipidi vegetali, g",00,H,,,
+17,"Colesterolo, mg",98,AA,110195,2,"""Cotechino (confezionato precotto) cotto"" acqua 51,4, prot 21,1, lip 24,7"
+18,"Carboidrati disponibili (MSE), g",00,H,,,
+19,"Amido (MSE), g",00,H,,,
+20,"Carboidrati solubili (MSE), g",00,H,,,
+21,"Fibra alimentare totale, g",00,H,,,
+22,"Alcol, g",00,H,,,
+23,"Acqua, g",368,H,,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",18,AA,110190,,
+26,"Calcio, mg",20,AA,110190,,
+27,"Sodio, mg",1138,AA,110190,,
+28,"Potassio, mg",178,AA,110190,,
+29,"Fosforo, mg",109,H,,,
+30,"Zinco, mg",210,AA,110190,,
+31,"Magnesio, mg",11,AA,110190,,
+32,"Rame, mg",013,AA,110190,,
+33,"Selenio, µg",10,AA,110190,,
+34,"Cloro, mg",1660,K,80,2,"""Pork sausages, grilled"" acqua 45,9, prot 14,5, lip 22,1"
+35,"Iodio, µg",8,K,80,2,
+36,"Manganese, mg",020,K,80,2,
+37,"Zolfo, mg",86,Y,6640,2,"""Frankfurter"" acqua 63, prot 12, lip 20,5"
+38,VITAMINE IDROSOLUBILI,,,,,
+39,"Vitamina B1, Tiamina, mg",020,AA,110195,2,
+40,"Vitamina B2, Riboflavina, mg",016,AA,110195,2,
+41,"Vitamina C, mg",0,H,,,
+42,"Niacina, mg",730,H,,,
+43,"Vitamina B6, mg",012,K,80,2,
+44,"Folati totali, µg",4,K,80,2,
+45,"Acido pantotenico, mg",093,K,80,2,
+46,"Biotina, µg",50,K,80,2,
+47,"Vitamina B12, µg",10,K,80,2,
+48,VITAMINE LIPOSOLUBILI,,,,,
+49,Retinolo equivalente,,,,,
+50,"Retinolo eq. (RE), µg",0,H,1153,2,"""Zampone (confezionato precotto)"" acqua 45,5, prot 19,1, lip 31,6"
+51,"Retinolo, µg",0,H,1153,3B,
+52,"ß-carotene eq., µg",0,H,1153,3B,
+53,"Vitamina E (ATE), mg",092,K,80,2,
+54,"Vitamina D, µg",110,K,80,2,
+55,ACIDI GRASSI,,,,,
+56,"Acidi grassi saturi totali, g",1400,H,APP,,"""Cotechino, bollito"" lip=24.7g saturi=8.18g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,AA,110195,3A,
+58,"Acido laurico, g",000,AA,110195,3A,
+59,"Acido miristico, g",062,AA,110195,3A,C 14:0=0.36
+60,"Acido palmitico, g",877,AA,110195,3A,C 16:0=5.12
+61,"Acido stearico, g",452,AA,110195,3A,C 18:0=2.64
+62,"Acido arachidico, g",tr,AA,110195,3A,
+63,"Acido beenico, g",000,AA,110195,3A,
+64,"Acidi grassi monoinsaturi totali, g",2028,H,APP,,mono=11.84g
+65,"Acido miristoleico, g",000,AA,110195,3A,
+66,"Acido palmitoleico, g",142,AA,110195,3A,C 16:1=0.83
+67,"Acido oleico, g",1846,H,APP,,18:1=10.78g
+68,"Acidi eicosenoico, g",038,AA,110195,3A,C 20:1=0.22
+69,"Acido erucico, g",000,AA,110195,3A,
+70,"Acidi grassi polinsaturi totali, g",596,H,APP,,PUFA=3.48
+71,"Acido linoleico, g",498,H,APP,,18:2=2.91g
+72,"Acido linolenico, g",034,H,APP,,18:3=0.2g
+73,"Acido arachidonico, g",026,AA,110195,3A,C 20:4=0.15
+74,"Acido eicosapentaenoico (EPA), g",000,AA,110195,3A,
+75,"Acido decosaesaenoico (DHA), g",000,AA,110195,3A,
+76,"Altri acidi grassi polinsaturi, g",038,86,,,
+77,AMINOACIDI,,,,,
+78,"Triptofano, mg",112,AA,110195,3A,"""Cotechino, bollito"", prot. orig.21.1,trypto138, threon714, isoleu752, leucine1348, lysine1369, methion345, cystine166, phenilal722, tyrosine514, valine956, arginine1462, histidine440, alanine1784, aspart ac1956, glutam ac2881, glycine2759, proline1693, serine840"
+79,"Treonina, mg",582,AA,110195,,
+80,"Isoleucina, mg",613,AA,110195,,
+81,"Leucina, mg",1099,AA,110195,,
+82,"Lisina, mg",1116,AA,110195,,
+83,"Metionina, mg",281,AA,110195,,
+84,"Cistina, mg",135,AA,110195,,
+85,"Fenilalanina, mg",589,AA,110195,,
+86,"Tirosina, mg",419,AA,110195,,
+87,"Valina, mg",779,AA,110195,,
+88,"Arginina, mg",1192,AA,110195,,
+89,"Istidina, mg",359,AA,110195,,
+90,"Alanina, mg",1454,AA,110195,,
+91,"Acido aspartico, mg",1594,AA,110195,,
+92,"Acido glutammico, mg",2348,AA,110195,,
+93,"Glicina, mg",2249,AA,110195,,
+94,"Prolina, mg",1380,AA,110195,,
+95,"Serina, mg",685,AA,110195,,
+96,ZUCCHERI,,,,,
+97,"Glucosio, g",00,H,,,
+98,"Fruttosio, g",00,H,,,
+99,"Galattosio, g",00,H,,,
+100,"Saccarosio (MSE), g",00,H,,,
+101,"Maltosio (MSE), g",00,H,,,
+102,"Lattosio (MSE), g",00,H,,,

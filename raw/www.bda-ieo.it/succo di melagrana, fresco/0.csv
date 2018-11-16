@@ -1,0 +1,104 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Nome Originale: ""Pomegranate juice, fresh""",,,,,
+2,Categoria merceologica: 4010 - succhi e spremute di frutta,,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",56,L,288,,
+7,"Energia, ricalcolata, kJ",189,86,,,
+8,"Energia, Ric con fibra, kJ",189,86,,,
+9,"Energia, ricalcolata, kcal",44,86,,,
+10,"Energia, Ric con fibra, kcal",44,86,,,
+11,"Proteine totali, g",02,L,288,,
+12,"Proteine animali, g",00,LZ,,,
+13,"Proteine vegetali, g",02,L,288,,
+14,"Lipidi totali, g",tr,L,288,,
+15,"Lipidi animali, g",00,LZ,,,
+16,"Lipidi vegetali, g",tr,L,288,,
+17,"Colesterolo, mg",0,LZ,,,
+18,"Carboidrati disponibili (MSE), g",116,L,288,,
+19,"Amido (MSE), g",00,L,288,,
+20,"Carboidrati solubili (MSE), g",116,L,288,,
+21,"Fibra alimentare totale, g",tr,L,288,,metodo Southgate e metodo Englyst
+22,"Alcol, g",00,LZ,,,
+23,"Acqua, g",854,L,288,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",02,L,288,,
+26,"Calcio, mg",3,L,288,,
+27,"Sodio, mg",1,L,288,,
+28,"Potassio, mg",200,L,288,,
+29,"Fosforo, mg",8,L,288,,
+30,"Zinco, mg",012,19,09286,,"per i nutrienti 19/09286 ALIMENTO SIMILE Pomegranate, raw acqua=80.97g"
+31,"Magnesio, mg",3,L,288,,
+32,"Rame, mg",007,L,288,,
+33,"Selenio, µg",05,DI,09286,2,"""Pomegranates, raw"" WATER 77.93g, PROT 1.67g, FAT 1.17g, CHO 18.7g, SUGAR 13.67g"
+34,"Cloro, mg",53,L,288,,
+35,"Iodio, µg",1,DM,,2,"""Pomegranate"" WATER 81g, PROT 1.06g, FAT 0.557g, CHO 13.6g, SUGAR 13.6g"
+36,"Manganese, mg",013,AP,,2,"""Pomegranate (Punica Granatum)"" WATER 79.1g, PROT 0.7g, FAT 0.6g, CHO 16.1g"
+37,"Zolfo, mg",4,L,288,,
+38,VITAMINE IDROSOLUBILI,,,,,
+39,"Vitamina B1, Tiamina, mg",002,L,288,,
+40,"Vitamina B2, Riboflavina, mg",003,L,288,,
+41,"Vitamina C, mg",8,L,288,,
+42,"Niacina, mg",020,L,288,,
+43,"Vitamina B6, mg",031,L,288,,
+44,"Folati totali, µg",6,19,09286,,
+45,"Acido pantotenico, mg",057,L,288,,
+46,"Biotina, µg",11,BF,922,2,"""Apple, eating, average, raw, peeled"" WATER 85.4g, PROT 0.4g, FAT 0.1g, CHO 11.2g, SUGAR 11.2g"
+47,"Vitamina B12, µg",00,LZ,,,
+48,VITAMINE LIPOSOLUBILI,,,,,
+49,Retinolo equivalente,,,,,
+50,"Retinolo eq. (RE), µg",6,L,288,3B,
+51,"Retinolo, µg",0,LZ,,,
+52,"ß-carotene eq., µg",33,L,288,,
+53,"Vitamina E (ATE), mg",060,DI,09286,2,"""Pomegranates, raw"" WATER 77.93g, PROT 1.67g, FAT 1.17g, CHO 18.7g, SUGAR 13.67g, solo TOCPHA"
+54,"Vitamina D, µg",000,LZ,,,
+55,"Vitamina K, µg",1640,DI,09286,2,"""Pomegranates, raw"" WATER 77.93g, PROT 1.67g, FAT 1.17g, CHO 18.7g, SUGAR 13.67g"
+56,ACIDI GRASSI,,,,,
+57,"Acidi grassi saturi totali, g",000,LZ,,,AG=0 quando lipidi=tracce
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,LZ,,,
+59,"Acido laurico, g",000,LZ,,,
+60,"Acido miristico, g",000,LZ,,,
+61,"Acido palmitico, g",000,LZ,,,
+62,"Acido stearico, g",000,LZ,,,
+63,"Acido arachidico, g",000,LZ,,,
+64,"Acido beenico, g",000,LZ,,,
+65,"Acidi grassi monoinsaturi totali, g",000,LZ,,,
+66,"Acido miristoleico, g",000,LZ,,,
+67,"Acido palmitoleico, g",000,LZ,,,
+68,"Acido oleico, g",000,LZ,,,
+69,"Acidi eicosenoico, g",000,LZ,,,
+70,"Acido erucico, g",000,LZ,,,
+71,"Acidi grassi polinsaturi totali, g",000,LZ,,,
+72,"Acido linoleico, g",000,LZ,,,
+73,"Acido linolenico, g",000,LZ,,,
+74,"Acido arachidonico, g",000,LZ,,,
+75,"Acido eicosapentaenoico (EPA), g",000,LZ,,,
+76,"Acido decosaesaenoico (DHA), g",000,LZ,,,
+77,"Altri acidi grassi polinsaturi, g",000,86,,,
+78,AMINOACIDI,,,,,
+79,"Triptofano, mg",1,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, TRP 0.001g"
+80,"Treonina, mg",4,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, THR 0.006g"
+81,"Isoleucina, mg",4,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, ILE 0.006g"
+82,"Leucina, mg",10,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, LEU 0.014g"
+83,"Lisina, mg",10,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, LYS 0.013g"
+84,"Metionina, mg",1,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, MET 0.001g"
+85,"Cistina, mg",1,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, CYS 0.001g"
+86,"Fenilalanina, mg",5,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, PHE 0.007g"
+87,"Tirosina, mg",1,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, TYR 0.001g"
+88,"Valina, mg",9,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, VAL 0.012g"
+89,"Arginina, mg",4,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, ARG 0.006g"
+90,"Istidina, mg",4,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, HIS 0.005g"
+91,"Alanina, mg",9,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, ALA 0.012g"
+92,"Acido aspartico, mg",55,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, ASP 0.074g"
+93,"Acido glutammico, mg",19,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, GLU 0.026g"
+94,"Glicina, mg",7,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, GLY 0.009g"
+95,"Prolina, mg",4,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, PRO 0.006g"
+96,"Serina, mg",8,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, SER 0.011g"
+97,ZUCCHERI,,,,,
+98,"Glucosio, g",63,L,288,,
+99,"Fruttosio, g",51,L,288,,
+100,"Galattosio, g",00,LZ,,,
+101,"Saccarosio (MSE), g",02,L,288,,
+102,"Maltosio (MSE), g",00,L,288,,
+103,"Lattosio (MSE), g",00,L,288,,

@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 15006 - torte, preparati e basi per torte",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,03,8014,,
+6,"Energia, ricalcolata, kJ",1332,86,,,
+7,"Energia, Ric con fibra, kJ",1341,86,,,
+8,"Energia, ricalcolata, kcal",314,86,,,
+9,"Energia, Ric con fibra, kcal",317,86,,,
+10,"Proteine totali, g",85,03,8014,,
+11,"Proteine animali, g",59,89,,,"per la suddivisione di prot e lip STIMA ottenuta dalla ricetta utilizzata da 04/120 prot tot=9.41g; veg=2.85g, anim=6.56g lip tot=5.85g; veg=0.25g, anim=5.60g"
+12,"Proteine vegetali, g",26,89,,,STIMA
+13,"Lipidi totali, g",64,03,8014,,
+14,"Lipidi animali, g",61,89,,,STIMA
+15,"Lipidi vegetali, g",03,89,,,STIMA
+16,"Colesterolo, mg",185,03,8014,,
+17,"Carboidrati disponibili (MSE), g",594,03,8014,,
+18,"Amido (MSE), g",270,03,8014,,
+19,"Carboidrati solubili (MSE), g",324,03,8014,,
+20,"Fibra alimentare totale, g",12,03,8014,,
+21,"Alcol, g",00,03,8014,,
+22,"Acqua, g",280,03,8014,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",11,03,8014,,
+25,"Calcio, mg",24,03,8014,,
+26,"Sodio, mg",54,03,8014,,
+27,"Potassio, mg",104,03,8014,,
+28,"Fosforo, mg",102,03,8014,,
+29,"Zinco, mg",080,03,8014,,
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",011,04,120,,"per tutti i nutrienti fonte 04 cod 120 ALIMENTO SIMILE Sponge cake, fatless acqua=31.5g, lip=6.1g ricetta: 4 uova, 100g zucchero, 100g farina"
+32,"Vitamina B2, Riboflavina, mg",024,04,120,,
+33,"Vitamina C, mg",0,04,120,,
+34,"Niacina, mg",050,04,120,,
+35,"Vitamina B6, mg",008,04,120,,
+36,"Folati totali, µg",18,04,120,,
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",110,04,120,,CALC
+40,"Retinolo, µg",110,04,120,,
+41,"ß-carotene eq., µg",0,04,120,,
+42,"Vitamina E (ATE), mg",102,04,120,,
+43,"Vitamina D, µg",100,04,120,,
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",234,E,81,,RIPR riferito a Sponge cake lip=26.5g saturi=9.67g 18:1=5.96g mono=11.15g 18:2=1.31g 18:3=0.04g altri PUFA=2.51g PUFA=3.86g
+46,"Acidi grassi monoinsaturi totali, g",269,E,81,,
+47,"Acido oleico, g",144,E,81,,
+48,"Acidi grassi polinsaturi totali, g",093,E,81,,
+49,"Acido linoleico, g",032,E,81,,
+50,"Acido linolenico, g",001,E,81,,
+51,"Altri acidi grassi polinsaturi, g",060,86,,,

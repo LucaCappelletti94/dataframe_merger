@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 2009 - verdure a frutto e a fiore (sedano, finocchi, cardi, carciofi, peperoni, etc)",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",81,02,347,,
+6,"Energia, ricalcolata, kJ",78,86,,,
+7,"Energia, Ric con fibra, kJ",82,86,,,
+8,"Energia, ricalcolata, kcal",18,86,,,
+9,"Energia, Ric con fibra, kcal",19,86,,,
+10,"Proteine totali, g",11,02,347,,
+11,"Proteine animali, g",00,02,347,,
+12,"Proteine vegetali, g",11,02,347,,
+13,"Lipidi totali, g",01,02,347,,
+14,"Lipidi animali, g",00,02,347,,
+15,"Lipidi vegetali, g",01,02,347,,
+16,"Colesterolo, mg",0,02,347,,
+17,"Carboidrati disponibili (MSE), g",35,02,347,,
+18,"Amido (MSE), g",10,02,347,,
+19,"Carboidrati solubili (MSE), g",25,02,347,,
+20,"Fibra alimentare totale, g",05,09,326,,non RIPR acqua=95g
+21,"Alcol, g",00,02,347,,
+22,"Acqua, g",946,02,347,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",09,02,347,,
+25,"Calcio, mg",20,02,347,,
+26,"Sodio, mg",1,03,6058,,non RIPR acqua=95g
+27,"Potassio, mg",202,03,6058,,non RIPR acqua=95g
+28,"Fosforo, mg",40,02,347,,
+29,"Zinco, mg",020,03,6058,,non RIPR acqua=95g
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",003,02,347,,
+32,"Vitamina B2, Riboflavina, mg",002,02,347,,
+33,"Vitamina C, mg",9,02,347,,
+34,"Niacina, mg",050,02,347,,
+35,"Vitamina B6, mg",002,09,326,,non RIPR acqua=95g
+36,"Folati totali, µg",10,09,326,,non RIPR acqua=95g
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",599,02,347,,
+40,"Retinolo, µg",0,02,347,,
+41,"ß-carotene eq., µg",3594,02,347,,CALC
+42,"Vitamina E (ATE), mg",106,09,326,,non RIPR acqua=95g
+43,"Vitamina D, µg",000,09,326,,non RIPR acqua=95g
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",005,21,11422,,"non RIPR riferito a Pumpkin, raw lip=0.1g"
+46,"Acidi grassi monoinsaturi totali, g",001,21,11422,,
+47,"Acido oleico, g",001,21,11422,,
+48,"Acidi grassi polinsaturi totali, g",001,21,11422,,
+49,"Acido linoleico, g",tr,21,11422,,
+50,"Acido linolenico, g",tr,21,11422,,
+51,"Altri acidi grassi polinsaturi, g",001,86,,,

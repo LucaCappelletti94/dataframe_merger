@@ -1,0 +1,53 @@
+,0,1,2,3,4,5
+1,Note Alimento: Codice non presente nelle tabelle INN 1989,,,,,
+2,Categoria merceologica: 15004 - pasticcini (esclusa pasticceria da tè),,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,72,2027,,
+7,"Energia, ricalcolata, kJ",1336,86,,,
+8,"Energia, Ric con fibra, kJ",1340,86,,,
+9,"Energia, ricalcolata, kcal",318,86,,,
+10,"Energia, Ric con fibra, kcal",319,86,,,
+11,"Proteine totali, g",46,72,2027,,
+12,"Proteine animali, g",30,89,,,"per i nutrienti fonte 89 STIMA da ricetta fonte INN ingredienti: zucchero (cod 2021) 8g, farina (cod 11) 28g, acqua (cod 999999) 22g, uovo (cod 1800) 29g, latte (cod 1602) 37g, tuorlo (cod 1802) 6g acqua=60.33g, GD=23.09g RIPR interna prot tot=6.61g, prot anim=4.29g, prot veg=2.32g lip tot=10.2g, lip anim=10g, lip veg=0.2g"
+13,"Proteine vegetali, g",16,89,,,
+14,"Lipidi totali, g",154,72,2027,,
+15,"Lipidi animali, g",151,89,,,
+16,"Lipidi vegetali, g",03,89,,,
+17,"Colesterolo, mg",189,89,,,altra fonte: cod 72 colesterolo=286 mg.
+18,"Carboidrati disponibili (MSE), g",430,72,2027,,
+19,"Amido (MSE), g",130,07,246,,amido calcolato dal rapporto GD/AMIDO amido=11.5g
+20,"Carboidrati solubili (MSE), g",300,07,246,,"per tutti i nutrienti fonte 07 cod 246 ALIMENTO SIMILE Eclairs fresh, with chocolate and fresh cream recipe: 200g cooked choux pastry (unfortified margarine), 150g double cream, 100g icing sugar, 50g plain chocolate, 30ml water acqua=34.6g, prot=4.1g, lip=23.8g, GD=37.9g, GS calcolati dal rapporto GD/GS GS=26.4g"
+21,"Fibra alimentare totale, g",05,07,246,,metodo Southgate (metodo Englyst: fibra=0.5g)
+22,"Alcol, g",00,72,2027,,
+23,"Acqua, g",374,72,2027,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",07,72,2027,,
+26,"Calcio, mg",31,72,2027,,
+27,"Sodio, mg",240,07,246,,"altra fonte per i sali minerali 03/8002, acqua= 35g, prot=4.1g, lip=24g Na=160mg, K=92mg, Fe=1mg Ca=48mg, P=68mg, Zn=0.4mg"
+28,"Potassio, mg",360,07,246,,
+29,"Fosforo, mg",66,07,246,,
+30,"Zinco, mg",005,07,246,,
+31,VITAMINE IDROSOLUBILI,,,,,
+32,"Vitamina B1, Tiamina, mg",002,72,2027,,
+33,"Vitamina B2, Riboflavina, mg",007,72,2027,,
+34,"Vitamina C, mg",tr,07,246,,
+35,"Niacina, mg",030,07,246,,
+36,"Vitamina B6, mg",003,07,246,,
+37,"Folati totali, µg",8,07,246,,
+38,VITAMINE LIPOSOLUBILI,,,,,
+39,Retinolo equivalente,,,,,
+40,"Retinolo eq. (RE), µg",268,72,2027,,
+41,"Retinolo, µg",253,72,2027,,"per la vitamina A ALIMENTO SIMILE 03/8002 Bigne', acqua=35g, lip=24g RIPR dal rapporto RE/R/C: RE=212mcg, R=200mcg"
+42,"ß-carotene eq., µg",88,72,2027,,Caroteni=70mcg
+43,"Vitamina E (ATE), mg",125,07,246,,
+44,"Vitamina D, µg",025,07,246,,
+45,ACIDI GRASSI,,,,,
+46,"Acidi grassi saturi totali, g",737,89,,,"RIPR lip=10.2g saturi=4.88g 18:1=2.95g mono=3.34g 18:2=0.64g 18:3=0.11g altri PUFA=0.03g PUFA=0.77g altra fonte: cod 72 saturi=8.7g, 18:1=4.48g 18:2=0.95g, 18:3=0.19g altri PUFA=0.04g, PUFA=1.18g"
+47,"Acidi grassi monoinsaturi totali, g",504,89,,,
+48,"Acido oleico, g",445,89,,,
+49,"Acidi grassi polinsaturi totali, g",116,89,,,
+50,"Acido linoleico, g",097,89,,,
+51,"Acido linolenico, g",017,89,,,
+52,"Altri acidi grassi polinsaturi, g",002,86,,,

@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 9001 - grissini, crackers, salatini, crostini",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,02,20,,
+6,"Energia, ricalcolata, kJ",1827,86,,,
+7,"Energia, Ric con fibra, kJ",1855,86,,,
+8,"Energia, ricalcolata, kcal",433,86,,,
+9,"Energia, Ric con fibra, kcal",440,86,,,
+10,"Proteine totali, g",123,02,20,,
+11,"Proteine animali, g",00,89,,,"per tutti i nutrienti fonte 89 STIMA da ricetta (fonte INN) farina 0 (cod 11) 86g, olio oliva (cod 901) 6.5g, strutto (cod 1902) 6.5g RIPR prot anim=0.02g, prot veg=9.89g, prot tot=9.91g lip anim=6.93g, lip veg=7.86g, lip tot=14.79g"
+12,"Proteine vegetali, g",123,89,,,
+13,"Lipidi totali, g",139,02,20,,
+14,"Lipidi animali, g",65,89,,,
+15,"Lipidi vegetali, g",74,89,,,
+16,"Colesterolo, mg",6,89,,,RIPR colesterolo=6.65mg lip=14.79g
+17,"Carboidrati disponibili (MSE), g",690,02,20,,
+18,"Amido (MSE), g",668,D,,,
+19,"Carboidrati solubili (MSE), g",22,02,20,,
+20,"Fibra alimentare totale, g",35,02,20,,
+21,"Alcol, g",00,02,20,,
+22,"Acqua, g",85,02,20,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",23,02,20,,
+25,"Calcio, mg",13,02,20,,
+26,"Sodio, mg",610,07,167,,"per tutti i nutrienti fonte 07 cod 167 ALIMENTO SIMILE Cream crakers acqua=4.3g, lip=16.3g"
+27,"Potassio, mg",120,07,167,,
+28,"Fosforo, mg",162,02,20,,
+29,"Zinco, mg",070,07,167,,
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",012,02,20,,
+32,"Vitamina B2, Riboflavina, mg",008,02,20,,
+33,"Vitamina C, mg",0,03,4020,,"RIPR vitC =0 acqua=4g, lip=5.2g"
+34,"Niacina, mg",090,02,20,,
+35,"Vitamina B6, mg",012,07,167,,
+36,"Folati totali, µg",22,07,167,,
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",0,02,20,,
+40,"Retinolo, µg",0,02,20,,CALC
+41,"ß-carotene eq., µg",0,02,20,,CALC
+42,"Vitamina E (ATE), mg",130,07,167,,
+43,"Vitamina D, µg",000,07,167,,
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",404,89,,,RIPR da STIMA con ricetta lip=14.79g saturi=4.30g 18:1=7.98g mono=8.32g 18:2=1.67g 18:3=0.16g altri PUFA=0.13g PUFA=1.96g
+46,"Acidi grassi monoinsaturi totali, g",782,89,,,
+47,"Acido oleico, g",750,89,,,
+48,"Acidi grassi polinsaturi totali, g",184,89,,,
+49,"Acido linoleico, g",157,89,,,
+50,"Acido linolenico, g",015,89,,,
+51,"Altri acidi grassi polinsaturi, g",012,86,,,

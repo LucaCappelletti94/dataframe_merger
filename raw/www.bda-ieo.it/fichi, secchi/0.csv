@@ -1,0 +1,103 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 4003 - frutta secca e in guscio, semi edibili",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,02,506,,
+6,"Energia, ricalcolata, kJ",1087,86,,,
+7,"Energia, Ric con fibra, kJ",1191,86,,,
+8,"Energia, ricalcolata, kcal",256,86,,,
+9,"Energia, Ric con fibra, kcal",282,86,,,
+10,"Proteine totali, g",35,02,506,,
+11,"Proteine animali, g",00,LZ,,,
+12,"Proteine vegetali, g",35,02,506,,
+13,"Lipidi totali, g",27,02,506,,
+14,"Lipidi animali, g",00,LZ,,,
+15,"Lipidi vegetali, g",27,02,506,,
+16,"Colesterolo, mg",0,LZ,,,
+17,"Carboidrati disponibili (MSE), g",580,02,506,,
+18,"Amido (MSE), g",00,02,506,,
+19,"Carboidrati solubili (MSE), g",580,02,506,,
+20,"Fibra alimentare totale, g",130,AO,007070,,
+21,"Alcol, g",00,LZ,,,
+22,"Acqua, g",194,02,506,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",30,02,506,,
+25,"Calcio, mg",186,02,506,,
+26,"Sodio, mg",87,02,506,,
+27,"Potassio, mg",1010,02,506,,
+28,"Fosforo, mg",111,02,506,,
+29,"Zinco, mg",090,03,6407,2,"""Fichi seccati al sole"" WATER 17g, PROT 3.6g, FAT 2.1g, CHO 52.9g, SUGAR 52.9g"
+30,"Magnesio, mg",80,BF,944,2,"""Figs, dried"" WATER 16.8g, PROT 3.6g, FAT 1.6g, CHO 52.9g, SUGAR 52.9g"
+31,"Rame, mg",024,03,6407,2,"""Fichi seccati al sole"" WATER 17g, PROT 3.6g, FAT 2.1g, CHO 52.9g, SUGAR 52.9g"
+32,"Selenio, µg",tr,BF,944,2,"""Figs, dried"" WATER 16.8g, PROT 3.6g, FAT 1.6g, CHO 52.9g, SUGAR 52.9g"
+33,"Cloro, mg",170,BF,944,2,"""Figs, dried"" WATER 16.8g, PROT 3.6g, FAT 1.6g, CHO 52.9g, SUGAR 52.9g"
+34,"Iodio, µg",1,Y,3260,2,"""Figs, dried"" WATER 16.8g, PROT 3.1g, FAT 1.2g, CHO 52.9g"
+35,"Manganese, mg",050,BF,944,2,"""Figs, dried"" WATER 16.8g, PROT 3.6g, FAT 1.6g, CHO 52.9g, SUGAR 52.9g"
+36,"Zolfo, mg",81,L,92,2,"""Figs, dried"" WATER 16.8g, PROT 3.6g, FAT 1.6g, CHO 52.9g, SUGAR 52.9g"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",014,02,506,,
+39,"Vitamina B2, Riboflavina, mg",010,02,506,,
+40,"Vitamina C, mg",0,02,506,,
+41,"Niacina, mg",060,02,506,,
+42,"Vitamina B6, mg",026,L,92,2,"""Figs, dried"" WATER 16.8g, PROT 3.6g, FAT 1.6g, CHO 52.9g, SUGAR 52.9g"
+43,"Folati totali, µg",9,L,92,2,"""Figs, dried"" WATER 16.8g, PROT 3.6g, FAT 1.6g, CHO 52.9g, SUGAR 52.9g"
+44,"Acido pantotenico, mg",051,BF,944,2,"""Figs, dried"" WATER 16.8g, PROT 3.6g, FAT 1.6g, CHO 52.9g, SUGAR 52.9g"
+45,"Biotina, µg",10,Y,3260,2,"""Figs, dried"" WATER 16.8g, PROT 3.1g, FAT 1.2g, CHO 52.9g"
+46,"Vitamina B12, µg",00,LZ,,,
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",8,02,506,,
+50,"Retinolo, µg",0,LZ,,,
+51,"ß-carotene eq., µg",48,02,506,3B,
+52,"Vitamina E (ATE), mg",039,DI,09094,2,"""Figs, dried, uncooked"" WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 63.87g, SUGAR 47.92g, STARCH 5.07g"
+53,"Vitamina D, µg",000,LZ,,,
+54,"Vitamina K, µg",1560,DI,09094,2,"""Figs, dried, uncooked"" WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 63.87g, SUGAR 47.92g, STARCH 5.07g"
+55,ACIDI GRASSI,,,,,
+56,"Acidi grassi saturi totali, g",042,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, FASAT 0.144g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, F4-10:0 0g"
+58,"Acido laurico, g",000,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, SUGAR 47,92g, STARCH 5,07g, F12:0 0g"
+59,"Acido miristico, g",002,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, SUGAR 47,92g, STARCH 5,07g, F14:0 0,006g"
+60,"Acido palmitico, g",032,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, SUGAR 47,92g, STARCH 5,07g, F16:0 0,11g"
+61,"Acido stearico, g",008,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, SUGAR 47,92g, STARCH 5,07g, F18:0 0,029g"
+62,"Acido arachidico, g",000,87,,,
+63,"Acido beenico, g",000,87,,,
+64,"Acidi grassi monoinsaturi totali, g",046,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, SUGAR 47,92g, STARCH 5,07g, FAMS 0,159g"
+65,"Acido miristoleico, g",000,87,,,
+66,"Acido palmitoleico, g",000,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, SUGAR 47,92g, STARCH 5,07g, F16:1CN7 0,001g"
+67,"Acido oleico, g",046,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, SUGAR 47,92g, STARCH 5,07g, F18:1 0,158g"
+68,"Acidi eicosenoico, g",000,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, SUGAR 47,92g, STARCH 5,07g, F20:1 0g"
+69,"Acido erucico, g",000,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, SUGAR 47,92g, STARCH 5,07g, F22:1CN9 0g"
+70,"Acidi grassi polinsaturi totali, g",100,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, SUGAR 47,92g, STARCH 5,07g, FAPU 0,345g"
+71,"Acido linoleico, g",100,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, SUGAR 47,92g, STARCH 5,07g, F18:2 0,345g"
+72,"Acido linolenico, g",000,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, SUGAR 47,92g, STARCH 5,07g, F18:3 0g"
+73,"Acido arachidonico, g",000,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, F20:4N6 0g"
+74,"Acido eicosapentaenoico (EPA), g",000,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, F20:5N3 0g"
+75,"Acido decosaesaenoico (DHA), g",000,DI,09094,3A,"Figs, Dried, Uncooked WATER 30,05g, PROT 3,3g, FAT 0,93g, CHO 54,07g, F22:6 0g"
+76,"Altri acidi grassi polinsaturi, g",000,86,,,
+77,AMINOACIDI,,,,,
+78,"Triptofano, mg",21,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, TRP 0.02g"
+79,"Treonina, mg",90,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, THR 0.085g"
+80,"Isoleucina, mg",94,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, ILE 0.089g"
+81,"Leucina, mg",136,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, LEU 0.128g"
+82,"Lisina, mg",93,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, LYS 0.088g"
+83,"Metionina, mg",36,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, MET 0.034g"
+84,"Cistina, mg",38,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, CYS 0.036g"
+85,"Fenilalanina, mg",81,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, PHE 0.076g"
+86,"Tirosina, mg",43,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, TYR 0.041g"
+87,"Valina, mg",129,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, VAL 0.122g"
+88,"Arginina, mg",82,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, ARG 0.077g"
+89,"Istidina, mg",39,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, HIS 0.037g"
+90,"Alanina, mg",142,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, ALA 0.134g"
+91,"Acido aspartico, mg",684,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, ASP 0.645g"
+92,"Acido glutammico, mg",313,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, GLU 0.295g"
+93,"Glicina, mg",115,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, GLY 0.108g"
+94,"Prolina, mg",647,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, PRO 0.61g"
+95,"Serina, mg",136,DI,09094,3A,"Figs, Dried, Uncooked WATER 30.05g, PROT 3.3g, FAT 0.93g, CHO 54.07g, SUGAR 47.92g, STARCH 5.07g, SER 0.128g"
+96,ZUCCHERI,,,,,
+97,"Glucosio, g",314,BF,944,3A,"Figs, Dried WATER 16.8g, PROT 3.6g, FAT 1.6g, CHO 52.9g, SUGAR 52.9g, GLUS 28.6g"
+98,"Fruttosio, g",249,BF,944,3A,"Figs, Dried WATER 16.8g, PROT 3.6g, FAT 1.6g, CHO 52.9g, SUGAR 52.9g, FRUS 22.7g"
+99,"Galattosio, g",00,LZ,,,
+100,"Saccarosio (MSE), g",18,BF,944,3A,"Figs, Dried WATER 16.8g, PROT 3.6g, FAT 1.6g, CHO 52.9g, SUGAR 52.9g, SUCS 1.6g"
+101,"Maltosio (MSE), g",00,BF,944,3A,"Figs, Dried WATER 16.8g, PROT 3.6g, FAT 1.6g, CHO 52.9g, SUGAR 52.9g, MALS 0g"
+102,"Lattosio (MSE), g",00,LZ,,,

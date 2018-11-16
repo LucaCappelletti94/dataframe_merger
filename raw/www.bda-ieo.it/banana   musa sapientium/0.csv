@@ -1,0 +1,103 @@
+,0,1,2,3,4,5
+1,Categoria merceologica: 4001 - frutta fresca e bacche,,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",65,02,406,,
+6,"Energia, ricalcolata, kJ",278,86,,,
+7,"Energia, Ric con fibra, kJ",292,86,,,
+8,"Energia, ricalcolata, kcal",65,86,,,
+9,"Energia, Ric con fibra, kcal",69,86,,,
+10,"Proteine totali, g",12,02,406,,
+11,"Proteine animali, g",00,LZ,,,
+12,"Proteine vegetali, g",12,02,406,,
+13,"Lipidi totali, g",03,02,406,,
+14,"Lipidi animali, g",00,LZ,,,
+15,"Lipidi vegetali, g",03,02,406,,
+16,"Colesterolo, mg",0,LZ,,,
+17,"Carboidrati disponibili (MSE), g",154,AO,007510,,
+18,"Amido (MSE), g",26,86,,4B,in tabella espressi come polisaccaridi 2.4g
+19,"Carboidrati solubili (MSE), g",128,02,406,,
+20,"Fibra alimentare totale, g",18,02,406,,
+21,"Alcol, g",00,LZ,,,
+22,"Acqua, g",768,02,406,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",08,02,406,,
+25,"Calcio, mg",7,02,406,,
+26,"Sodio, mg",1,02,406,,
+27,"Potassio, mg",350,02,406,,
+28,"Fosforo, mg",28,02,406,,
+29,"Zinco, mg",020,03,6205,6,"""Banane"" WATER 77g, PROT 1.2g, FAT 0.3g, CHO 19.2g, SUGAR 16.2g, STARCH 3g"
+30,"Magnesio, mg",34,BF,928,6,"""Bananas"" WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g"
+31,"Rame, mg",016,03,6205,6,"""Banane"" WATER 77g, PROT 1.2g, FAT 0.3g, CHO 19.2g, SUGAR 16.2g, STARCH 3g"
+32,"Selenio, µg",10,BF,928,6,"""Bananas"" WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g"
+33,"Cloro, mg",79,BF,928,6,"""Bananas"" WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g"
+34,"Iodio, µg",8,BF,928,6,"""Bananas"" WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g"
+35,"Manganese, mg",040,BF,928,6,"""Bananas"" WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g"
+36,"Zolfo, mg",13,L,45,6,"""Bananas"" WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",006,02,406,,
+39,"Vitamina B2, Riboflavina, mg",006,02,406,,
+40,"Vitamina C, mg",16,02,406,,
+41,"Niacina, mg",070,02,406,,
+42,"Vitamina B6, mg",029,L,45,6,"""Bananas"" WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g"
+43,"Folati totali, µg",14,L,45,6,"""Bananas"" WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g"
+44,"Acido pantotenico, mg",036,BF,928,6,"""Bananas"" WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g"
+45,"Biotina, µg",26,BF,928,6,"""Bananas"" WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g"
+46,"Vitamina B12, µg",00,LZ,,,
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",45,02,406,,
+50,"Retinolo, µg",0,LZ,,,
+51,"ß-carotene eq., µg",270,02,406,3B,
+52,"Vitamina E (ATE), mg",027,L,45,6,"""Bananas"" WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g"
+53,"Vitamina D, µg",000,LZ,,,
+54,"Vitamina K, µg",050,DI,09040,6,"""Bananas, raw"" WATER 74.91g, PROT 1.09g, FAT 0.33g, CHO 22.84g, SUGAR 12.23g, STARCH 5.38g"
+55,ACIDI GRASSI,,,,,
+56,"Acidi grassi saturi totali, g",011,AE,443,3A,"""Banana"" FAT 0.3g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,86,,,
+58,"Acido laurico, g",000,AE,443,3A,
+59,"Acido miristico, g",000,AE,443,3A,
+60,"Acido palmitico, g",010,AE,443,3A,
+61,"Acido stearico, g",001,AE,443,3A,
+62,"Acido arachidico, g",000,AE,443,3A,
+63,"Acido beenico, g",000,AE,443,3A,
+64,"Acidi grassi monoinsaturi totali, g",004,AE,443,3A,
+65,"Acido miristoleico, g",000,AE,443,3A,
+66,"Acido palmitoleico, g",001,AE,443,3A,
+67,"Acido oleico, g",003,AE,443,3A,
+68,"Acidi eicosenoico, g",000,AE,443,3A,
+69,"Acido erucico, g",000,AE,443,3A,
+70,"Acidi grassi polinsaturi totali, g",009,AE,443,3A,
+71,"Acido linoleico, g",004,AE,443,3A,
+72,"Acido linolenico, g",005,AE,443,3A,
+73,"Acido arachidonico, g",000,AE,443,3A,
+74,"Acido eicosapentaenoico (EPA), g",000,AE,443,3A,
+75,"Acido decosaesaenoico (DHA), g",000,AE,443,3A,
+76,"Altri acidi grassi polinsaturi, g",000,86,,,
+77,AMINOACIDI,,,,,
+78,"Triptofano, mg",14,AA,7510,,"RIPR, prot. orig.1.2,trypto14, threon41, isoleu35, leucine56, lysine49, methion24, cystine32, phenilal47, tyrosine163, valine48, arginine90, histidine90, alanine53, aspart ac126, glutam ac110, glycine50, proline49, serine47"
+79,"Treonina, mg",41,AA,7510,,
+80,"Isoleucina, mg",35,AA,7510,,
+81,"Leucina, mg",56,AA,7510,,
+82,"Lisina, mg",49,AA,7510,,
+83,"Metionina, mg",24,AA,7510,,
+84,"Cistina, mg",32,AA,7510,,
+85,"Fenilalanina, mg",47,AA,7510,,
+86,"Tirosina, mg",163,AA,7510,,
+87,"Valina, mg",48,AA,7510,,
+88,"Arginina, mg",90,AA,7510,,
+89,"Istidina, mg",90,AA,7510,,
+90,"Alanina, mg",53,AA,7510,,
+91,"Acido aspartico, mg",126,AA,7510,,
+92,"Acido glutammico, mg",110,AA,7510,,
+93,"Glicina, mg",50,AA,7510,,
+94,"Prolina, mg",49,AA,7510,,
+95,"Serina, mg",47,AA,7510,,
+96,ZUCCHERI,,,,,
+97,"Glucosio, g",29,BF,928,3B,"Bananas WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g, GLUS 4.8g"
+98,"Fruttosio, g",31,BF,928,3B,"Bananas WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g, FRUS 5g"
+99,"Galattosio, g",00,LZ,,,
+100,"Saccarosio (MSE), g",68,BF,928,3B,"Bananas WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g, SUCS 11.1g"
+101,"Maltosio (MSE), g",00,BF,928,3B,"Bananas WATER 75.1g, PROT 1.2g, FAT 0.3g, CHO 23.2g, SUGAR 20.9g, STARCH 2.3g, MALS 0g"
+102,"Lattosio (MSE), g",00,LZ,,,

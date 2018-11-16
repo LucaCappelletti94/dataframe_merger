@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,Categoria merceologica: 2003 - verdura a radice,,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",82,02,306,,
+6,"Energia, ricalcolata, kJ",83,86,,,
+7,"Energia, Ric con fibra, kJ",104,86,,,
+8,"Energia, ricalcolata, kcal",19,86,,,
+9,"Energia, Ric con fibra, kcal",25,86,,,
+10,"Proteine totali, g",11,02,306,,
+11,"Proteine animali, g",00,02,306,,
+12,"Proteine vegetali, g",11,02,306,,
+13,"Lipidi totali, g",00,02,306,,
+14,"Lipidi animali, g",00,02,306,,
+15,"Lipidi vegetali, g",00,02,306,,
+16,"Colesterolo, mg",0,02,306,,
+17,"Carboidrati disponibili (MSE), g",40,02,306,,
+18,"Amido (MSE), g",00,02,306,,
+19,"Carboidrati solubili (MSE), g",40,02,306,,
+20,"Fibra alimentare totale, g",26,02,306,,
+21,"Alcol, g",00,02,306,,
+22,"Acqua, g",913,02,306,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",04,02,306,,
+25,"Calcio, mg",20,02,306,,
+26,"Sodio, mg",84,02,306,,
+27,"Potassio, mg",300,02,306,,
+28,"Fosforo, mg",21,02,306,,
+29,"Zinco, mg",040,03,6006,,non RIPR acqua=91g
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",003,02,306,,
+32,"Vitamina B2, Riboflavina, mg",002,02,306,,
+33,"Vitamina C, mg",7,02,306,,
+34,"Niacina, mg",020,02,306,,
+35,"Vitamina B6, mg",002,09,164,,RIPR vitB6=0.03mg acqua=87.1g
+36,"Folati totali, µg",101,09,164,,RIPR folati=150mg acqua=87.1g
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",tr,02,306,,
+40,"Retinolo, µg",0,02,306,,
+41,"ß-carotene eq., µg",tr,02,306,,CALC
+42,"Vitamina E (ATE), mg",tr,09,164,,RIPR vitE=tracce acqua=87.1g
+43,"Vitamina D, µg",000,09,164,,RIPR vitD=0 acqua=87.1g
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",000,02,306,,AG=0 quando lip.=0
+46,"Acidi grassi monoinsaturi totali, g",000,02,306,,
+47,"Acido oleico, g",000,02,306,,
+48,"Acidi grassi polinsaturi totali, g",000,02,306,,
+49,"Acido linoleico, g",000,02,306,,
+50,"Acido linolenico, g",000,02,306,,
+51,"Altri acidi grassi polinsaturi, g",000,86,,,

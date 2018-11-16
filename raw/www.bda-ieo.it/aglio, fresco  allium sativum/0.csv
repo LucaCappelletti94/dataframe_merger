@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,Categoria merceologica: 2005 - agliacee,,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",75,02,301,,
+6,"Energia, ricalcolata, kJ",172,86,,,
+7,"Energia, Ric con fibra, kJ",190,86,,,
+8,"Energia, ricalcolata, kcal",40,86,,,
+9,"Energia, Ric con fibra, kcal",45,86,,,
+10,"Proteine totali, g",09,02,301,,
+11,"Proteine animali, g",00,02,301,,
+12,"Proteine vegetali, g",09,02,301,,
+13,"Lipidi totali, g",06,02,301,,
+14,"Lipidi animali, g",00,02,301,,
+15,"Lipidi vegetali, g",06,02,301,,
+16,"Colesterolo, mg",0,02,301,,
+17,"Carboidrati disponibili (MSE), g",84,02,301,,
+18,"Amido (MSE), g",00,02,301,,
+19,"Carboidrati solubili (MSE), g",84,02,301,,
+20,"Fibra alimentare totale, g",23,09,244,,per i nutrienti 09/244 RIPR acqua=64.3g fibra (Englyst)=4.1g
+21,"Alcol, g",00,02,301,,
+22,"Acqua, g",800,02,301,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",15,02,301,,
+25,"Calcio, mg",14,02,301,,
+26,"Sodio, mg",2,09,244,,Na=4mg
+27,"Potassio, mg",347,09,244,,K=620mg
+28,"Fosforo, mg",63,02,301,,
+29,"Zinco, mg",056,03,6001,,RIPR Zn=1.0mg acqua=64g
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",014,02,301,,
+32,"Vitamina B2, Riboflavina, mg",002,02,301,,
+33,"Vitamina C, mg",5,02,301,,
+34,"Niacina, mg",130,02,301,,
+35,"Vitamina B6, mg",021,09,244,,vitB6=0.38mg
+36,"Folati totali, µg",3,09,244,,folati=5mg
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",5,02,301,,
+40,"Retinolo, µg",0,02,301,,
+41,"ß-carotene eq., µg",30,02,301,,CALC
+42,"Vitamina E (ATE), mg",001,09,244,,vitE=0.01mg
+43,"Vitamina D, µg",000,02,301,,
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",011,21,11215,,RIPR lip=0.5g saturi=0.089g 18:1=0.011g mono=0.011g 18:2=0.229g 18:3=0.02g altri PUFA=0 PUFA=0.249g
+46,"Acidi grassi monoinsaturi totali, g",001,21,11215,,
+47,"Acido oleico, g",001,21,11215,,
+48,"Acidi grassi polinsaturi totali, g",030,21,11215,,
+49,"Acido linoleico, g",027,21,11215,,
+50,"Acido linolenico, g",002,21,11215,,
+51,"Altri acidi grassi polinsaturi, g",001,86,,,

@@ -1,0 +1,102 @@
+,0,1,2,3,4,5
+1,Categoria merceologica: 10003 - insaccati e salumi,,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,AA,110500,,
+6,"Energia, ricalcolata, kJ",1259,86,,,
+7,"Energia, Ric con fibra, kJ",1259,86,,,
+8,"Energia, ricalcolata, kcal",303,86,,,
+9,"Energia, Ric con fibra, kcal",303,86,,,
+10,"Proteine totali, g",262,AA,110500,,
+11,"Proteine animali, g",262,AA,110500,,
+12,"Proteine vegetali, g",00,AA,110500,,
+13,"Lipidi totali, g",220,AA,110500,,
+14,"Lipidi animali, g",220,AA,110500,,
+15,"Lipidi vegetali, g",00,AA,110500,,
+16,"Colesterolo, mg",69,AA,11530,2,"""Prosciutto crudo, San Daniele"" acqua 42.8, prot 28.3, lip 23"
+17,"Carboidrati disponibili (MSE), g",00,AA,110500,,
+18,"Amido (MSE), g",00,AA,110500,,
+19,"Carboidrati solubili (MSE), g",00,AA,110500,,
+20,"Fibra alimentare totale, g",00,AA,110500,,
+21,"Alcol, g",00,AA,110500,,
+22,"Acqua, g",448,AA,110500,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",14,AA,110540,1,"""Prosciutto crudo, disossato"" acqua 53, prot 26,9, lip 12,9, Fe 1,2mg"
+25,"Calcio, mg",18,AA,110540,1,Ca 15mg
+26,"Sodio, mg",2628,AA,110540,1,Na 2238mg
+27,"Potassio, mg",533,AA,110540,1,K 454mg
+28,"Fosforo, mg",208,AA,110540,1,P 177mg
+29,"Zinco, mg",290,AA,110540,1,"Zn 2,5mg"
+30,"Magnesio, mg",31,AA,110540,1,Mg 26mg
+31,"Rame, mg",019,AA,110540,1,"Cu 0,16mg"
+32,"Selenio, µg",70,AA,110540,1,"Se 5,6µg"
+33,"Cloro, mg",1980,K,20,2,"""Ham, gammon joint, raw"" acqua 68,6, prot 17,5, lip 7,5"
+34,"Iodio, µg",7,K,20,2,
+35,"Manganese, mg",001,K,20,2,
+36,"Zolfo, mg",180,Y,6350,2,"""Ham, cured, smoked"" acqua 69, prot 21, lip 6"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",070,AA,110540,1,"B1 0,6mg"
+39,"Vitamina B2, Riboflavina, mg",023,AA,110540,1,"B2 0,2mg"
+40,"Vitamina C, mg",0,AA,110500,,
+41,"Niacina, mg",587,AA,110540,1,Niac 5mg
+42,"Vitamina B6, mg",043,K,20,2,
+43,"Folati totali, µg",4,K,20,2,
+44,"Acido pantotenico, mg",107,K,20,2,
+45,"Biotina, µg",20,K,20,2,
+46,"Vitamina B12, µg",tr,K,20,2,
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",tr,AA,110500,,
+50,"Retinolo, µg",tr,AA,110500,3B,
+51,"ß-carotene eq., µg",0,AA,110500,3B,
+52,"Vitamina E (ATE), mg",006,K,20,2,
+53,"Vitamina D, µg",060,K,20,2,
+54,ACIDI GRASSI,,,,,
+55,"Acidi grassi saturi totali, g",723,AA,110540,,"""Prosciutto crudo, disossato"" lip 12.9, saturi 4.24"
+56,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,AA,110540,3A,
+57,"Acido laurico, g",000,AA,110540,3A,
+58,"Acido miristico, g",031,AA,110540,3A,C 14:0=0.18g
+59,"Acido palmitico, g",455,AA,110540,3A,C 16:0=2.67g
+60,"Acido stearico, g",208,AA,110540,3A,C 18:0=1.22g
+61,"Acido arachidico, g",tr,AA,110540,3A,
+62,"Acido beenico, g",000,AA,110540,3A,
+63,"Acidi grassi monoinsaturi totali, g",982,AA,110540,,Mono = 5.76g
+64,"Acido miristoleico, g",000,AA,110540,3A,
+65,"Acido palmitoleico, g",063,AA,110540,3A,C 16:1=0.37g
+66,"Acido oleico, g",894,AA,110540,,C 18:1=8.941g
+67,"Acidi eicosenoico, g",019,AA,110540,3A,C 20:1=0.11g
+68,"Acido erucico, g",000,AA,110540,3A,
+69,"Acidi grassi polinsaturi totali, g",271,AA,110540,,PUFA=1.59g
+70,"Acido linoleico, g",218,AA,110540,,C 18:2=1.28g
+71,"Acido linolenico, g",020,AA,110540,,C 18:3=0.12g
+72,"Acido arachidonico, g",019,AA,110540,3A,C 20:4=0.19g
+73,"Acido eicosapentaenoico (EPA), g",000,AA,110540,3A,
+74,"Acido decosaesaenoico (DHA), g",000,AA,110540,3A,
+75,"Altri acidi grassi polinsaturi, g",014,86,,,
+76,AMINOACIDI,,,,,
+77,"Triptofano, mg",275,AA,110540,3A,"""Prosciutto crudo, disossato, prot 26.9"
+78,"Treonina, mg",1186,AA,110540,,
+79,"Isoleucina, mg",1356,AA,110540,,
+80,"Leucina, mg",2176,AA,110540,,
+81,"Lisina, mg",2257,AA,110540,,
+82,"Metionina, mg",657,AA,110540,,
+83,"Cistina, mg",304,AA,110540,,
+84,"Fenilalanina, mg",1053,AA,110540,,
+85,"Tirosina, mg",859,AA,110540,,
+86,"Valina, mg",1379,AA,110540,,
+87,"Arginina, mg",1649,AA,110540,,
+88,"Istidina, mg",945,AA,110540,,
+89,"Alanina, mg",1799,AA,110540,,
+90,"Acido aspartico, mg",2607,AA,110540,,
+91,"Acido glutammico, mg",4139,AA,110540,,
+92,"Glicina, mg",1222,AA,110540,,
+93,"Prolina, mg",1095,AA,110540,,
+94,"Serina, mg",1055,AA,110540,,
+95,ZUCCHERI,,,,,
+96,"Glucosio, g",00,AA,110500,,
+97,"Fruttosio, g",00,AA,110500,,
+98,"Galattosio, g",00,AA,110500,,
+99,"Saccarosio (MSE), g",00,AA,110500,,
+100,"Maltosio (MSE), g",00,AA,110500,,
+101,"Lattosio (MSE), g",00,AA,110500,,

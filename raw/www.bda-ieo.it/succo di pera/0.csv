@@ -1,0 +1,104 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Nome Originale: ""Pears nectar, canned, without added vit C""",,,,,
+2,Categoria merceologica: 4010 - succhi e spremute di frutta,,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,DI,09262,,
+7,"Energia, ricalcolata, kJ",245,86,,,
+8,"Energia, Ric con fibra, kJ",250,86,,,
+9,"Energia, ricalcolata, kcal",57,86,,,
+10,"Energia, Ric con fibra, kcal",59,86,,,
+11,"Proteine totali, g",01,DI,09262,,
+12,"Proteine animali, g",00,LZ,,,
+13,"Proteine vegetali, g",01,DI,09262,,
+14,"Lipidi totali, g",tr,DI,09262,,
+15,"Lipidi animali, g",00,LZ,,,
+16,"Lipidi vegetali, g",tr,DI,09262,,
+17,"Colesterolo, mg",0,LZ,,,
+18,"Carboidrati disponibili (MSE), g",152,DI,09262,,
+19,"Amido (MSE), g",00,85,,,amido=0 quando GD=GS
+20,"Carboidrati solubili (MSE), g",152,DI,09262,,
+21,"Fibra alimentare totale, g",06,DI,09262,,
+22,"Alcol, g",00,LZ,,,
+23,"Acqua, g",840,DI,09262,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",03,DI,09262,,
+26,"Calcio, mg",5,DI,09262,,
+27,"Sodio, mg",4,DI,09262,,
+28,"Potassio, mg",13,DI,09262,,
+29,"Fosforo, mg",3,DI,09262,,
+30,"Zinco, mg",007,DI,09262,,
+31,"Magnesio, mg",3,DI,09262,,
+32,"Rame, mg",007,DI,09262,,
+33,"Selenio, µg",00,DI,09262,,
+34,"Cloro, mg",2,DN,1001083,2,"""Succo di pere"" WATER 85.7g, PROT -2, FAT 0.5g, CHO 11g, SUGAR 11g"
+35,"Iodio, µg",1,DN,1001083,2,"""Succo di pere"" WATER 85.7g, PROT -2, FAT 0.5g, CHO 11g, SUGAR 11g"
+36,"Manganese, mg",003,DI,09262,,
+37,"Zolfo, mg",5,L,192,2,"""Pears, average, raw, peeled"" WATER 83.8g, PROT 0.3g, FAT 0.1g, CHO 10.4g, SUGAR 10.4g"
+38,VITAMINE IDROSOLUBILI,,,,,
+39,"Vitamina B1, Tiamina, mg",tr,DI,09262,,
+40,"Vitamina B2, Riboflavina, mg",001,DI,09262,,
+41,"Vitamina C, mg",1,DI,09262,,
+42,"Niacina, mg",013,DI,09262,,
+43,"Vitamina B6, mg",001,DI,09262,,
+44,"Folati totali, µg",1,DI,09262,,
+45,"Acido pantotenico, mg",002,DI,09262,,
+46,"Biotina, µg",02,BF,981,2,"""Pears, average, raw, peeled"" WATER 83.8g, PROT 0.3g, FAT 0.1g, CHO 10.4g, SUGAR 10.4g"
+47,"Vitamina B12, µg",00,LZ,,,
+48,VITAMINE LIPOSOLUBILI,,,,,
+49,Retinolo equivalente,,,,,
+50,"Retinolo eq. (RE), µg",tr,DI,09262,4B,
+51,"Retinolo, µg",0,LZ,,,
+52,"ß-carotene eq., µg",1,DI,09262,4B,
+53,"Vitamina E (ATE), mg",005,DI,09262,,solo TOCPHA
+54,"Vitamina D, µg",000,LZ,,,
+55,"Vitamina K, µg",180,DI,09262,,
+56,ACIDI GRASSI,,,,,
+57,"Acidi grassi saturi totali, g",000,LZ,,,
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,LZ,,,
+59,"Acido laurico, g",000,LZ,,,
+60,"Acido miristico, g",000,LZ,,,
+61,"Acido palmitico, g",000,LZ,,,
+62,"Acido stearico, g",000,LZ,,,
+63,"Acido arachidico, g",000,LZ,,,
+64,"Acido beenico, g",000,LZ,,,
+65,"Acidi grassi monoinsaturi totali, g",000,LZ,,,
+66,"Acido miristoleico, g",000,LZ,,,
+67,"Acido palmitoleico, g",000,LZ,,,
+68,"Acido oleico, g",000,LZ,,,
+69,"Acidi eicosenoico, g",000,LZ,,,
+70,"Acido erucico, g",000,LZ,,,
+71,"Acidi grassi polinsaturi totali, g",000,LZ,,,
+72,"Acido linoleico, g",000,LZ,,,
+73,"Acido linolenico, g",000,LZ,,,
+74,"Acido arachidonico, g",000,LZ,,,
+75,"Acido eicosapentaenoico (EPA), g",000,LZ,,,
+76,"Acido decosaesaenoico (DHA), g",000,LZ,,,
+77,"Altri acidi grassi polinsaturi, g",000,86,,,
+78,AMINOACIDI,,,,,
+79,"Triptofano, mg",1,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, TRP 0.002g"
+80,"Treonina, mg",3,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, THR 0.011g"
+81,"Isoleucina, mg",3,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, ILE 0.011g"
+82,"Leucina, mg",5,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, LEU 0.019g"
+83,"Lisina, mg",5,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, LYS 0.017g"
+84,"Metionina, mg",1,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, MET 0.002g"
+85,"Cistina, mg",1,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, CYS 0.002g"
+86,"Fenilalanina, mg",3,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, PHE 0.011g"
+87,"Tirosina, mg",1,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, TYR 0.002g"
+88,"Valina, mg",5,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, VAL 0.017g"
+89,"Arginina, mg",3,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, ARG 0.01g"
+90,"Istidina, mg",1,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, HIS 0.002g"
+91,"Alanina, mg",4,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, ALA 0.014g"
+92,"Acido aspartico, mg",29,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, ASP 0.105g"
+93,"Acido glutammico, mg",8,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, GLU 0.03g"
+94,"Glicina, mg",4,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, GLY 0.013g"
+95,"Prolina, mg",6,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, PRO 0.021g"
+96,"Serina, mg",4,DI,09252,3A,"Pears, Raw WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, SER 0.015g"
+97,ZUCCHERI,,,,,
+98,"Glucosio, g",35,BF,981,3A,"Pears, Average, Raw, Peeled WATER 83.8g, PROT 0.3g, FAT 0.1g, CHO 10.4g, SUGAR 10.4g, GLUS 2.4g"
+99,"Fruttosio, g",108,BF,981,3A,"Pears, Average, Raw, Peeled WATER 83.8g, PROT 0.3g, FAT 0.1g, CHO 10.4g, SUGAR 10.4g, FRUS 7.4g"
+100,"Galattosio, g",00,LZ,,,
+101,"Saccarosio (MSE), g",10,BF,981,3A,"Pears, Average, Raw, Peeled WATER 83.8g, PROT 0.3g, FAT 0.1g, CHO 10.4g, SUGAR 10.4g, SUCS 0.7g"
+102,"Maltosio (MSE), g",00,BF,981,3A,"Pears, Average, Raw, Peeled WATER 83.8g, PROT 0.3g, FAT 0.1g, CHO 10.4g, SUGAR 10.4g, MALS 0g"
+103,"Lattosio (MSE), g",00,LZ,,,

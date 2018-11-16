@@ -1,0 +1,102 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 11001 - pesci vertebrati (freschi, surgelati o cotti)",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",70,AA,120300,,
+6,"Energia, ricalcolata, kJ",898,86,,,
+7,"Energia, Ric con fibra, kJ",898,86,,,
+8,"Energia, ricalcolata, kcal",216,86,,,
+9,"Energia, Ric con fibra, kcal",216,86,,,
+10,"Proteine totali, g",165,AA,120300,,
+11,"Proteine animali, g",165,AA,120300,,
+12,"Proteine vegetali, g",00,AA,120300,,
+13,"Lipidi totali, g",167,AA,120300,,
+14,"Lipidi animali, g",167,AA,120300,,
+15,"Lipidi vegetali, g",00,AA,120300,,
+16,"Colesterolo, mg",85,AA,120300,,
+17,"Carboidrati disponibili (MSE), g",00,AA,120300,,
+18,"Amido (MSE), g",00,AA,120300,,
+19,"Carboidrati solubili (MSE), g",00,AA,120300,,
+20,"Fibra alimentare totale, g",00,AA,120300,,
+21,"Alcol, g",00,AA,120300,,
+22,"Acqua, g",601,AA,120300,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",09,AA,120300,,
+25,"Calcio, mg",63,AA,120300,,
+26,"Sodio, mg",150,G,175,1,"""Herring, raw"" acqua 68, prot 17,8, lip 13,2. Na 120mg"
+27,"Potassio, mg",320,AA,120300,,
+28,"Fosforo, mg",113,AA,120300,,
+29,"Zinco, mg",110,G,175,1,"Zn 0,9"
+30,"Magnesio, mg",40,G,175,1,Mg 32mg
+31,"Rame, mg",017,G,175,1,"Cu 0,14mg"
+32,"Selenio, µg",440,G,175,1,Se 35µg
+33,"Cloro, mg",212,G,175,1,Cl 170mg
+34,"Iodio, µg",36,G,175,1,I 29µg
+35,"Manganese, mg",005,G,175,1,"Mn 0,04mg"
+36,"Zolfo, mg",150,Y,7380,2,"""Baltic Herring"" acqua 78g, prot 16.2g, lip 4.08g"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",012,AA,120300,,
+39,"Vitamina B2, Riboflavina, mg",018,AA,120300,,
+40,"Vitamina C, mg",tr,G,175,1,Vit C tr
+41,"Niacina, mg",350,AA,120300,,
+42,"Vitamina B6, mg",055,G,175,1,"Vit B6 0,44mg"
+43,"Folati totali, µg",11,G,175,1,Folico 9µg
+44,"Acido pantotenico, mg",101,G,175,1,"Mn 0,04mg"
+45,"Biotina, µg",90,G,175,1,Biot 7 µg
+46,"Vitamina B12, µg",160,G,175,1,Vit B12 13 µg
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",12,AA,120300,,
+50,"Retinolo, µg",12,AA,120300,3B,
+51,"ß-carotene eq., µg",tr,AA,120300,3B,
+52,"Vitamina E (ATE), mg",120,G,175,1,"Vit E 0,76mg"
+53,"Vitamina D, µg",3000,G,175,1,"Vit D 19µg, range: 7-31 µg"
+54,ACIDI GRASSI,,,,,
+55,"Acidi grassi saturi totali, g",333,AA,120300,,
+56,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,AA,120300,,
+57,"Acido laurico, g",000,AA,120300,,
+58,"Acido miristico, g",103,AA,120300,,
+59,"Acido palmitico, g",211,AA,120300,,
+60,"Acido stearico, g",019,AA,120300,,
+61,"Acido arachidico, g",000,AA,120300,,
+62,"Acido beenico, g",000,AA,120300,,
+63,"Acidi grassi monoinsaturi totali, g",863,AA,120300,,
+64,"Acido miristoleico, g",000,AA,120300,,
+65,"Acido palmitoleico, g",155,AA,120300,,
+66,"Acido oleico, g",235,AA,120300,,
+67,"Acidi eicosenoico, g",204,AA,120300,,
+68,"Acido erucico, g",269,AA,120300,,
+69,"Acidi grassi polinsaturi totali, g",261,AA,120300,,
+70,"Acido linoleico, g",022,AA,120300,,
+71,"Acido linolenico, g",019,AA,120300,,
+72,"Acido arachidonico, g",010,AA,120300,,
+73,"Acido eicosapentaenoico (EPA), g",109,AA,120300,,
+74,"Acido decosaesaenoico (DHA), g",101,AA,120300,,
+75,"Altri acidi grassi polinsaturi, g",000,86,,,
+76,AMINOACIDI,,,,,
+77,"Triptofano, mg",185,CG,15039,3B,"""Herring, atlantic, raw"" prot. orig.17.96,trypto201, threon787, isoleu828, leucine1460, lysine1650, methion532, cystine193, phenilal701, tyrosine606, valine925, arginine1075, histidine529, alanine1086, aspart ac1839, glutam ac2681, glycine862, proline635, serine733"
+78,"Treonina, mg",723,CG,15039,,
+79,"Isoleucina, mg",761,CG,15039,,
+80,"Leucina, mg",1341,CG,15039,,
+81,"Lisina, mg",1516,CG,15039,,
+82,"Metionina, mg",489,CG,15039,,
+83,"Cistina, mg",177,CG,15039,,
+84,"Fenilalanina, mg",644,CG,15039,,
+85,"Tirosina, mg",557,CG,15039,,
+86,"Valina, mg",850,CG,15039,,
+87,"Arginina, mg",988,CG,15039,,
+88,"Istidina, mg",486,CG,15039,,
+89,"Alanina, mg",998,CG,15039,,
+90,"Acido aspartico, mg",1690,CG,15039,,
+91,"Acido glutammico, mg",2463,CG,15039,,
+92,"Glicina, mg",792,CG,15039,,
+93,"Prolina, mg",583,CG,15039,,
+94,"Serina, mg",673,CG,15039,,
+95,ZUCCHERI,,,,,
+96,"Glucosio, g",00,AA,120300,,
+97,"Fruttosio, g",00,AA,120300,,
+98,"Galattosio, g",00,AA,120300,,
+99,"Saccarosio (MSE), g",00,AA,120300,,
+100,"Maltosio (MSE), g",00,AA,120300,,
+101,"Lattosio (MSE), g",00,AA,120300,,

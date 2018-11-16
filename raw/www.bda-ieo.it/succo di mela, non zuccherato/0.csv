@@ -1,0 +1,103 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Nome Originale: ""Apple juice, unsweetened""",,,,,
+2,Categoria merceologica: 4010 - succhi e spremute di frutta,,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,L,271,,
+7,"Energia, ricalcolata, kJ",164,86,,,
+8,"Energia, Ric con fibra, kJ",164,86,,,
+9,"Energia, ricalcolata, kcal",38,86,,,
+10,"Energia, Ric con fibra, kcal",38,86,,,
+11,"Proteine totali, g",01,L,271,,
+12,"Proteine animali, g",00,LZ,,,
+13,"Proteine vegetali, g",01,L,271,,
+14,"Lipidi totali, g",01,L,271,,
+15,"Lipidi animali, g",00,LZ,,,
+16,"Lipidi vegetali, g",01,L,271,,
+17,"Colesterolo, mg",0,LZ,,,
+18,"Carboidrati disponibili (MSE), g",99,L,271,,
+19,"Amido (MSE), g",00,L,271,,
+20,"Carboidrati solubili (MSE), g",99,L,271,,
+21,"Fibra alimentare totale, g",tr,L,271,,metodi Southgate e Englyst
+22,"Alcol, g",00,LZ,,,
+23,"Acqua, g",880,L,271,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",01,L,271,,
+26,"Calcio, mg",7,L,271,,
+27,"Sodio, mg",2,L,271,,
+28,"Potassio, mg",110,L,271,,
+29,"Fosforo, mg",6,L,271,,
+30,"Zinco, mg",tr,L,271,,
+31,"Magnesio, mg",5,L,271,,
+32,"Rame, mg",tr,L,271,,
+33,"Selenio, µg",tr,L,271,,
+34,"Cloro, mg",3,L,271,,
+35,"Iodio, µg",tr,L,271,,
+36,"Manganese, mg",tr,L,271,,
+37,"Zolfo, mg",5,L,271,,
+38,VITAMINE IDROSOLUBILI,,,,,
+39,"Vitamina B1, Tiamina, mg",001,L,271,,
+40,"Vitamina B2, Riboflavina, mg",001,L,271,,
+41,"Vitamina C, mg",14,L,271,,
+42,"Niacina, mg",010,L,271,,
+43,"Vitamina B6, mg",002,L,271,,
+44,"Folati totali, µg",4,L,271,,
+45,"Acido pantotenico, mg",004,L,271,,
+46,"Biotina, µg",08,L,271,,
+47,"Vitamina B12, µg",00,LZ,,,
+48,VITAMINE LIPOSOLUBILI,,,,,
+49,Retinolo equivalente,,,,,
+50,"Retinolo eq. (RE), µg",tr,L,271,3B,
+51,"Retinolo, µg",0,LZ,,,
+52,"ß-carotene eq., µg",tr,L,271,,
+53,"Vitamina E (ATE), mg",tr,L,271,,
+54,"Vitamina D, µg",000,LZ,,,
+55,"Vitamina K, µg",000,DI,09016,2,"""Apple juice, canned or bottled, unsweetened, without added ascorbic acid"" WATER 88.24g, PROT 0.1g, FAT 0.13g, CHO 11.3g, SUGAR 9.62g"
+56,ACIDI GRASSI,,,,,
+57,"Acidi grassi saturi totali, g",002,DI,09016,3A,"Apple Juice, Canned Or Bottled, Unsweetened, Without Added Acorbic Acid WATER 88.24g, PROT 0.1g, FAT 0.13g, CHO 11.1g, SUGAR 9.62g, FASAT 0.022g"
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09016,3A,"Apple Juice, Canned Or Bottled, Unsweetened, Without Add Acorbic Ac WATER 88.24g, PROT 0.1g, FAT 0.13g, CHO 11.1g, F4-10:0 0g"
+59,"Acido laurico, g",000,DI,09016,3A,"Apple Juice, Canned Or Bottled, Unsweetened, Without Added Acorbic Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, F12:0 0g"
+60,"Acido miristico, g",000,DI,09016,3A,"Apple Juice, Canned Or Bottled, Unsweetened, Without Added Acorbic Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, CHO 11,1g, SUGAR 9,62g, F14:0 0,001g"
+61,"Acido palmitico, g",001,DI,09016,3A,"Apple Juice, Canned Or Bottled, Unsweetened, Without Added Acorbic Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, CHO 11,1g, SUGAR 9,62g, F16:0 0,018g"
+62,"Acido stearico, g",000,DI,09016,3A,"Apple Juice, Canned Or Bottled, Unsweetened, Without Added Acorbic Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, CHO 11,1g, SUGAR 9,62g, F18:0 0,002g"
+63,"Acido arachidico, g",000,87,,,
+64,"Acido beenico, g",000,87,,,
+65,"Acidi grassi monoinsaturi totali, g",001,DI,09016,3A,"Apple Juice, Canned Or Bottled, Unsweetened, Without Added Acorbic Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, CHO 11,1g, SUGAR 9,62g, FAMS 0,006g"
+66,"Acido palmitoleico, g",000,DI,09016,3A,"Apple Juice, Canned Or Bottled, Unsweetened, Without Added Acorbic Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, F16:1CN7 0g"
+67,"Acido oleico, g",000,DI,09016,3A,"Apple Juice, Canned Or Bottled, Unsweetened, Without Added Acorbic Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, CHO 11,1g, SUGAR 9,62g, F18:1 0,005g"
+68,"Acidi eicosenoico, g",000,DI,09016,3A,"Apple Juice, Cann Or Bott, Unswe, With Add Asco Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, F20:1 0g"
+69,"Acido erucico, g",000,DI,09016,3A,"Apple Juice, Cann Or Bott, Unswe Without Add Acor Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, CHO 11,1g, F22:1CN9 0g"
+70,"Acidi grassi polinsaturi totali, g",003,DI,09016,3A,"Apple Juice, Can Or Bottl, Unsweet Witho Add Acor Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, FAPU 0,039g"
+71,"Acido linoleico, g",003,DI,09016,3A,"Apple Juice, Canned Or Bottled, Unsweet, With Add Acor Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, F18:2 0,033g"
+72,"Acido linolenico, g",001,DI,09016,3A,"Apple Juice, Cann Or Bott, Unswe With Add Acor Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, F18:3 0,007g"
+73,"Acido arachidonico, g",000,DI,09016,3A,"Apple Juice, Cann Or Bottled, Unswe Wit Add Acorb Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, F20:4N6 0g"
+74,"Acido eicosapentaenoico (EPA), g",000,DI,09016,3A,"Apple Juice, Cann Or Bott, Unswe, With Add Asco Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, F20:5N3 0g"
+75,"Acido decosaesaenoico (DHA), g",000,DI,09016,3A,"Apple Juice, Canned Or Bottled, Unswee, With Add Acor Acid WATER 88,24g, PROT 0,1g, FAT 0,13g, F22:6 0g"
+76,"Altri acidi grassi polinsaturi, g",000,86,,,
+77,AMINOACIDI,,,,,
+78,"Triptofano, mg",0,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, TRP 0.001g"
+79,"Treonina, mg",2,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, THR 0.006g"
+80,"Isoleucina, mg",2,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, ILE 0.006g"
+81,"Leucina, mg",5,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, LEU 0.014g"
+82,"Lisina, mg",5,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, LYS 0.013g"
+83,"Metionina, mg",0,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, MET 0.001g"
+84,"Cistina, mg",0,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, CYS 0.001g"
+85,"Fenilalanina, mg",3,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, PHE 0.007g"
+86,"Tirosina, mg",0,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, TYR 0.001g"
+87,"Valina, mg",4,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, VAL 0.012g"
+88,"Arginina, mg",2,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, ARG 0.006g"
+89,"Istidina, mg",2,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, HIS 0.005g"
+90,"Alanina, mg",4,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, ALA 0.012g"
+91,"Acido aspartico, mg",27,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, ASP 0.074g"
+92,"Acido glutammico, mg",10,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, GLU 0.026g"
+93,"Glicina, mg",3,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, GLY 0.009g"
+94,"Prolina, mg",2,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, PRO 0.006g"
+95,"Serina, mg",4,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, SER 0.011g"
+96,ZUCCHERI,,,,,
+97,"Glucosio, g",26,L,271,,
+98,"Fruttosio, g",63,L,271,,
+99,"Galattosio, g",00,LZ,,,
+100,"Saccarosio (MSE), g",11,L,271,,
+101,"Maltosio (MSE), g",00,L,271,,
+102,"Lattosio (MSE), g",00,L,271,,
