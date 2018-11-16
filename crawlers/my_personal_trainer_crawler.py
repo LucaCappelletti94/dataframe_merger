@@ -64,11 +64,11 @@ def parse(response: Response):
         response.text, path)
 def url_validator(url: str, logger: Log, statistics: Statistics)->bool:
     """Return a boolean representing if the crawler should parse given url."""
-    return url.lower()  .startswith("https://www.my-personaltrainer.it/tabelle-nutrizionali")
+    return url.lower().startswith("https://www.my-personaltrainer.it/tabelle")
 
 
 def file_parser(response: Response, logger: Log, statistics):
-    if response.url.endswith(".html"):
+    if response.url.endswith(".htm") or response.url.endswith(".html"):
         parse(response)
 
 
