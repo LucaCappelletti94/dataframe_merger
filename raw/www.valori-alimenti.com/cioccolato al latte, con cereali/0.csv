@@ -1,0 +1,98 @@
+0,1,2
+Calorie,kcal,511.0
+Calorie,kj,2136.0
+Grassi,g,29.37
+Carboidrati,g,59.67
+Proteine,g,7.64
+Fibre,g,3.3
+Zuccheri,g,51.06
+Acqua,g,1.52
+Ceneri,g,1.78
+Minerali,,
+Calcio,mg,187.0
+Sodio,mg,86.0
+Fosforo,mg,207.0
+Potassio,mg,370.0
+Ferro,mg,2.65
+Magnesio,mg,62.0
+Zinco,mg,2.29
+Rame,mg,0.488
+Fluoro,mcg,5.1
+Manganese,mg,0.47700000000000004
+Selenio,mcg,4.6
+Vitamine,,
+Retinolo (Vit. A),mcg,65.0
+"Vitamina A, IU",IU,217.0
+"Vitamina A, RAE",mcg_RAE,65.0
+Tiamina (Vit. B1),mg,0.131
+Riboflavina (Vit. B2),mg,0.32299999999999995
+Niacina (Vit. B3),mg,0.672
+Acido Pantotenico (Vit. B5),mg,0.47100000000000003
+Piridossina (Vit. B6),mg,0.055
+Acido folico (Vit. B9 o M o Folacina),mcg,6.0
+Folato alimentare,mcg,11.0
+"Folato, DFE",mcg_DFE,21.0
+"Folati, totali",mcg,18.0
+Cobalamina (Vit. B12),mcg,0.8
+"Vitamina B-12, aggiunta",mcg,0.05
+Acido ascorbico (Vit. C),mg,0.6
+Vitamina D (D2+D3),mcg,0.0
+Colecalcifenolo (Vit. D),IU,0.0
+Alpha-tocoferolo (Vit. E),mg,0.5
+"Vitamina E, aggiunta",mg,0.0
+Fillochinone (Vit. K),mcg,5.7
+Colina totale (Vit. J),mg,45.8
+"Carotene, beta",mcg,0.0
+"Carotene, alfa",mcg,0.0
+"Criptoxantina, beta",mcg,0.0
+Licopene,mcg,0.0
+Luteina + zeaxantina,mcg,6.0
+Tocoferolo beta,mg,0.0
+Tocoferolo gamma,mg,0.91
+Zuccheri,,
+Lipidi,,
+"Acidi grassi, monoinsaturi",g,8.64
+"Acidi grassi, polinsaturi",g,0.78
+"Acidi grassi, saturi",g,15.89
+Colesterolo,mg,23.0
+Grassi saturi,,
+4:0,g,0.561
+6:0,g,0.203
+8:0,g,0.11599999999999999
+10:0,g,0.22
+12:0,g,0.24100000000000002
+13:0,g,0.0
+14:0,g,0.74
+15:0,g,0.076
+16:0,g,6.64
+17:0,g,0.073
+18:0,g,6.808
+20:0,g,0.191
+22:0,g,0.02
+24:0,g,0.0
+Grassi monoinsaturi,,
+14:1,g,0.052000000000000005
+15:1,g,0.0
+16:1 indifferenziato,g,0.098
+17:1,g,0.015
+18:1 indifferenziato,g,3.3089999999999997
+20:1,g,0.0
+22:1 indifferenziato,g,0.0
+24:1 c,g,0.0
+Grassi polinsaturi,,
+18:2 indifferenziato,g,0.66
+18:3 indifferenziato,g,0.044000000000000004
+18:4,g,0.0
+"20:2 n-6 c,c",g,0.0
+20:3 indifferenziato,g,0.0
+20:4 indifferenziato,g,0.0
+20:5 n-3,g,0.0
+21:5,g,0.0
+22:4,g,0.0
+22:5 n-3,g,0.0
+22:6 n-3,g,0.0
+Aminoacidi,,
+Altro,,
+Alcol etilico,g,0.0
+Caffeina,mg,20.0
+Teobromina,mg,203.0

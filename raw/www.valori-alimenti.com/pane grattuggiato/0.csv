@@ -1,0 +1,104 @@
+0,1,2
+Calorie,kcal,383.0
+Calorie,kj,1604.0
+Grassi,g,5.48
+Carboidrati,g,68.49
+Proteine,g,14.13
+Fibre,g,4.9
+Zuccheri,g,5.74
+Acqua,g,6.35
+Amido,g,54.92
+Ceneri,g,5.55
+Minerali,,
+Calcio,mg,182.0
+Sodio,mg,1759.0
+Fosforo,mg,177.0
+Potassio,mg,231.0
+Ferro,mg,4.92
+Magnesio,mg,46.0
+Zinco,mg,1.43
+Rame,mg,0.244
+Manganese,mg,0.9840000000000001
+Selenio,mcg,24.7
+Vitamine,,
+"Vitamina A, IU",IU,193.0
+"Vitamina A, RAE",mcg_RAE,10.0
+Tiamina (Vit. B1),mg,0.961
+Riboflavina (Vit. B2),mg,0.415
+Niacina (Vit. B3),mg,6.1610000000000005
+Acido Pantotenico (Vit. B5),mg,0.623
+Piridossina (Vit. B6),mg,0.171
+Acido folico (Vit. B9 o M o Folacina),mcg,99.0
+Folato alimentare,mcg,20.0
+"Folato, DFE",mcg_DFE,188.0
+"Folati, totali",mcg,119.0
+Acido ascorbico (Vit. C),mg,2.7
+Alpha-tocoferolo (Vit. E),mg,0.26
+Fillochinone (Vit. K),mcg,46.0
+"Carotene, beta",mcg,116.0
+"Carotene, alfa",mcg,0.0
+"Criptoxantina, beta",mcg,0.0
+Licopene,mcg,0.0
+Tocoferolo beta,mg,0.05
+Tocoferolo gamma,mg,0.85
+Tocoferolo delta,mg,0.25
+Zuccheri,,
+Destrosio,g,1.75
+Fruttosio,g,2.02
+Galattosio,g,0.0
+Lattosio,g,0.0
+Maltosio,g,2.08
+Saccarosio,g,0.0
+Lipidi,,
+"Acidi grassi, monoinsaturi",g,1.168
+"Acidi grassi, polinsaturi",g,2.3
+"Acidi grassi, saturi",g,1.391
+Colesterolo,mg,1.0
+Grassi saturi,,
+4:0,g,0.0
+6:0,g,0.0
+8:0,g,0.0
+10:0,g,0.0
+12:0,g,0.0
+14:0,g,0.0
+15:0,g,0.0
+16:0,g,0.782
+17:0,g,0.0
+18:0,g,0.609
+20:0,g,0.0
+22:0,g,0.0
+24:0,g,0.0
+Grassi monoinsaturi,,
+14:1,g,0.0
+16:1 indifferenziato,g,0.0
+18:1 indifferenziato,g,1.168
+20:1,g,0.0
+22:1 indifferenziato,g,0.0
+Grassi polinsaturi,,
+18:2 indifferenziato,g,2.084
+18:3 indifferenziato,g,0.21600000000000003
+18:4,g,0.0
+20:4 indifferenziato,g,0.0
+20:5 n-3,g,0.0
+22:5 n-3,g,0.0
+22:6 n-3,g,0.0
+Aminoacidi,,
+Acido aspartico,g,0.767
+Acido glutammico,g,4.29
+Alanina,g,0.49700000000000005
+Arginina,g,0.603
+Cistina,g,0.235
+Fenilalanina,g,0.703
+Glicina,g,0.539
+Isoleucina,g,0.586
+Istidina,g,0.318
+Leucina,g,1.0070000000000001
+Lisina,g,0.446
+Metionina,g,0.233
+Prolina,g,1.4969999999999999
+Serina,g,0.72
+Tirosina,g,0.36
+Treonina,g,0.424
+Triptofano,g,0.171
+Valina,g,0.723
+Altro,,

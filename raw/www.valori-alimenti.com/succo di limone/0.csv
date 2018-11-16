@@ -1,0 +1,116 @@
+0,1,2
+Calorie,kcal,22.0
+Calorie,kj,91.0
+Grassi,g,0.24
+Carboidrati,g,6.9
+Proteine,g,0.35
+Fibre,g,0.3
+Zuccheri,g,2.52
+Acqua,g,92.31
+Amido,g,0.0
+Ceneri,g,0.21
+Minerali,,
+Calcio,mg,6.0
+Sodio,mg,1.0
+Fosforo,mg,8.0
+Potassio,mg,103.0
+Ferro,mg,0.08
+Magnesio,mg,6.0
+Zinco,mg,0.05
+Rame,mg,0.016
+Manganese,mg,0.012
+Selenio,mcg,0.1
+Vitamine,,
+Retinolo (Vit. A),mcg,0.0
+"Vitamina A, IU",IU,6.0
+"Vitamina A, RAE",mcg_RAE,0.0
+Tiamina (Vit. B1),mg,0.024
+Riboflavina (Vit. B2),mg,0.015
+Niacina (Vit. B3),mg,0.091
+Acido Pantotenico (Vit. B5),mg,0.131
+Piridossina (Vit. B6),mg,0.046
+Acido folico (Vit. B9 o M o Folacina),mcg,0.0
+Folato alimentare,mcg,20.0
+"Folato, DFE",mcg_DFE,20.0
+"Folati, totali",mcg,20.0
+Cobalamina (Vit. B12),mcg,0.0
+"Vitamina B-12, aggiunta",mcg,0.0
+Acido ascorbico (Vit. C),mg,38.7
+Vitamina D (D2+D3),mcg,0.0
+Colecalcifenolo (Vit. D),IU,0.0
+Alpha-tocoferolo (Vit. E),mg,0.15
+"Vitamina E, aggiunta",mg,0.0
+Fillochinone (Vit. K),mcg,0.0
+Colina totale (Vit. J),mg,5.1
+"Carotene, beta",mcg,1.0
+"Carotene, alfa",mcg,0.0
+"Criptoxantina, beta",mcg,4.0
+Licopene,mcg,0.0
+Luteina + zeaxantina,mcg,15.0
+Zuccheri,,
+Destrosio,g,0.99
+Fruttosio,g,1.1
+Galattosio,g,0.0
+Lattosio,g,0.0
+Maltosio,g,0.0
+Saccarosio,g,0.43
+Lipidi,,
+"Acidi grassi, monoinsaturi",g,0.006
+"Acidi grassi, polinsaturi",g,0.021
+"Acidi grassi, saturi",g,0.04
+"Acidi grassi, trans",g,0.0
+"Acidi grassi, trans-monoenoici",g,0.0
+"Acidi grassi, trans-polienoico",g,0.0
+Colesterolo,mg,0.0
+Grassi saturi,,
+4:0,g,0.0
+6:0,g,0.0
+8:0,g,0.0
+10:0,g,0.02
+12:0,g,0.001
+14:0,g,0.002
+15:0,g,0.001
+16:0,g,0.012
+17:0,g,0.0
+18:0,g,0.004
+20:0,g,0.0
+22:0,g,0.0
+24:0,g,0.0
+Grassi monoinsaturi,,
+14:1,g,0.002
+15:1,g,0.0
+16:1 c,g,0.0
+16:1 indifferenziato,g,0.0
+16:1 t,g,0.0
+17:1,g,0.0
+18:1 c,g,0.004
+18:1 indifferenziato,g,0.004
+18:1 t,g,0.0
+20:1,g,0.0
+22:1 c,g,0.0
+22:1 indifferenziato,g,0.0
+22:1 t,g,0.0
+24:1 c,g,0.0
+Grassi polinsaturi,,
+18:2 CLAs,g,0.0
+18:2 indifferenziato,g,0.012
+"18:2 n-6 c,c",g,0.012
+18:2 t not further defined,g,0.0
+18:3 indifferenziato,g,0.009000000000000001
+"18:3 n-3 c,c,c",g,0.009000000000000001
+"18:3 n-6 c,c,c",g,0.0
+18:4,g,0.0
+"20:2 n-6 c,c",g,0.0
+20:3 indifferenziato,g,0.0
+20:3 n-3,g,0.0
+20:3 n-6,g,0.0
+20:4 indifferenziato,g,0.0
+20:5 n-3,g,0.0
+22:4,g,0.0
+22:5 n-3,g,0.0
+22:6 n-3,g,0.0
+Aminoacidi,,
+Altro,,
+Alcol etilico,g,0.0
+Caffeina,mg,0.0
+Teobromina,mg,0.0
