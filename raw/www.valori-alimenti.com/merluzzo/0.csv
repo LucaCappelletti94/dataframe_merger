@@ -1,0 +1,137 @@
+0,1,2
+Calorie,kcal,69.0
+Calorie,kj,288.0
+Grassi,g,0.41
+Carboidrati,g,0.0
+Proteine,g,15.27
+Fibre,g,0.0
+Zuccheri,g,0.0
+Acqua,g,83.95
+Amido,g,0.0
+Ceneri,g,1.46
+Minerali,,
+Calcio,mg,8.0
+Sodio,mg,303.0
+Fosforo,mg,281.0
+Potassio,mg,235.0
+Ferro,mg,0.16
+Magnesio,mg,20.0
+Zinco,mg,0.31
+Rame,mg,0.019
+Manganese,mg,0.012
+Selenio,mcg,22.9
+Vitamine,,
+Retinolo (Vit. A),mcg,2.0
+"Vitamina A, IU",IU,6.0
+"Vitamina A, RAE",mcg_RAE,2.0
+Tiamina (Vit. B1),mg,0.033
+Riboflavina (Vit. B2),mg,0.045
+Niacina (Vit. B3),mg,1.095
+Acido Pantotenico (Vit. B5),mg,0.294
+Piridossina (Vit. B6),mg,0.11699999999999999
+Acido folico (Vit. B9 o M o Folacina),mcg,0.0
+Folato alimentare,mcg,7.0
+"Folato, DFE",mcg_DFE,7.0
+"Folati, totali",mcg,7.0
+Cobalamina (Vit. B12),mcg,1.98
+"Vitamina B-12, aggiunta",mcg,0.0
+Acido ascorbico (Vit. C),mg,0.0
+Vitamina D (D2+D3),mcg,0.5
+Vitamina D3,mcg,0.5
+Colecalcifenolo (Vit. D),IU,20.0
+Alpha-tocoferolo (Vit. E),mg,0.54
+"Vitamina E, aggiunta",mg,0.0
+Fillochinone (Vit. K),mcg,0.0
+Colina totale (Vit. J),mg,65.0
+"Carotene, beta",mcg,0.0
+"Carotene, alfa",mcg,0.0
+"Criptoxantina, beta",mcg,0.0
+Licopene,mcg,0.0
+Luteina + zeaxantina,mcg,0.0
+Tocoferolo beta,mg,0.0
+Tocoferolo gamma,mg,0.0
+Tocoferolo delta,mg,0.0
+Zuccheri,,
+Destrosio,g,0.0
+Fruttosio,g,0.0
+Galattosio,g,0.0
+Lattosio,g,0.0
+Maltosio,g,0.0
+Lipidi,,
+"Acidi grassi, monoinsaturi",g,0.073
+"Acidi grassi, polinsaturi",g,0.16399999999999998
+"Acidi grassi, saturi",g,0.085
+"Acidi grassi, trans",g,0.005
+"Acidi grassi, trans-monoenoici",g,0.003
+"Acidi grassi, trans-polienoico",g,0.002
+Colesterolo,mg,47.0
+Grassi saturi,,
+4:0,g,0.0
+6:0,g,0.0
+8:0,g,0.0
+10:0,g,0.0
+12:0,g,0.001
+14:0,g,0.003
+15:0,g,0.001
+16:0,g,0.057
+17:0,g,0.001
+18:0,g,0.021
+20:0,g,0.0
+22:0,g,0.0
+24:0,g,0.0
+Grassi monoinsaturi,,
+14:1,g,0.001
+15:1,g,0.002
+16:1 c,g,0.004
+16:1 indifferenziato,g,0.004
+16:1 t,g,0.001
+17:1,g,0.013999999999999999
+18:1 c,g,0.039
+18:1 indifferenziato,g,0.042
+18:1 t,g,0.002
+20:1,g,0.005
+22:1 c,g,0.001
+22:1 indifferenziato,g,0.001
+22:1 t,g,0.0
+24:1 c,g,0.004
+Grassi polinsaturi,,
+18:2 CLAs,g,0.0
+18:2 indifferenziato,g,0.017
+"18:2 n-6 c,c",g,0.015
+18:2 t not further defined,g,0.002
+18:3 indifferenziato,g,0.001
+"18:3 n-3 c,c,c",g,0.001
+"18:3 n-6 c,c,c",g,0.0
+18:4,g,0.0
+"20:2 n-6 c,c",g,0.001
+20:3 indifferenziato,g,0.002
+20:3 n-3,g,0.0
+20:3 n-6,g,0.001
+20:4 indifferenziato,g,0.008
+20:5 n-3,g,0.034
+22:4,g,0.001
+22:5 n-3,g,0.004
+22:6 n-3,g,0.096
+Aminoacidi,,
+Acido aspartico,g,1.525
+Acido glutammico,g,2.2969999999999997
+Alanina,g,0.877
+Arginina,g,0.982
+Cistina,g,0.136
+Fenilalanina,g,0.595
+Glicina,g,0.71
+Isoleucina,g,0.679
+Istidina,g,0.324
+Leucina,g,1.2109999999999999
+Lisina,g,1.399
+Metionina,g,0.418
+Prolina,g,0.512
+Serina,g,0.647
+Tirosina,g,0.5529999999999999
+Treonina,g,0.6579999999999999
+Triptofano,g,0.188
+Valina,g,0.731
+Altro,,
+Alcol etilico,g,0.0
+Caffeina,mg,0.0
+Teobromina,mg,0.0

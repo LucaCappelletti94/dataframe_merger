@@ -1,0 +1,80 @@
+0,1,2
+Calorie,kcal,89.0
+Calorie,kj,372.0
+Grassi,g,0.5
+Carboidrati,g,0.0
+Proteine,g,19.8
+Fibre,g,0.0
+Zuccheri,g,0.0
+Acqua,g,78.5
+Ceneri,g,1.2
+Minerali,,
+Calcio,mg,118.0
+Sodio,mg,68.0
+Fosforo,mg,180.0
+Potassio,mg,230.0
+Ferro,mg,1.4
+Magnesio,mg,20.0
+Zinco,mg,1.0
+Rame,mg,0.25
+Selenio,mcg,16.8
+Vitamine,,
+Retinolo (Vit. A),mcg,30.0
+"Vitamina A, IU",IU,100.0
+"Vitamina A, RAE",mcg_RAE,30.0
+Tiamina (Vit. B1),mg,0.12
+Riboflavina (Vit. B2),mg,0.15
+Niacina (Vit. B3),mg,1.1
+Piridossina (Vit. B6),mg,0.12
+Acido folico (Vit. B9 o M o Folacina),mcg,0.0
+Folato alimentare,mcg,15.0
+"Folato, DFE",mcg_DFE,15.0
+"Folati, totali",mcg,15.0
+Cobalamina (Vit. B12),mcg,1.0
+"Vitamina B-12, aggiunta",mcg,0.0
+Acido ascorbico (Vit. C),mg,0.0
+Vitamina D (D2+D3),mcg,0.0
+Vitamina D3,mcg,0.0
+Colecalcifenolo (Vit. D),IU,0.0
+Alpha-tocoferolo (Vit. E),mg,0.5
+"Vitamina E, aggiunta",mg,0.0
+Fillochinone (Vit. K),mcg,0.1
+Colina totale (Vit. J),mg,65.0
+"Carotene, beta",mcg,0.0
+"Carotene, alfa",mcg,0.0
+"Criptoxantina, beta",mcg,0.0
+Licopene,mcg,0.0
+Luteina + zeaxantina,mcg,0.0
+Zuccheri,,
+Lipidi,,
+"Acidi grassi, monoinsaturi",g,0.08800000000000001
+"Acidi grassi, polinsaturi",g,0.17
+"Acidi grassi, saturi",g,0.127
+Colesterolo,mg,50.0
+Grassi saturi,,
+4:0,g,0.0
+6:0,g,0.0
+8:0,g,0.0
+10:0,g,0.0
+12:0,g,0.0
+14:0,g,0.002
+16:0,g,0.09
+18:0,g,0.035
+Grassi monoinsaturi,,
+16:1 indifferenziato,g,0.015
+18:1 indifferenziato,g,0.073
+20:1,g,0.0
+22:1 indifferenziato,g,0.0
+Grassi polinsaturi,,
+18:2 indifferenziato,g,0.033
+18:3 indifferenziato,g,0.017
+18:4,g,0.0
+20:4 indifferenziato,g,0.052000000000000005
+20:5 n-3,g,0.023
+22:5 n-3,g,0.012
+22:6 n-3,g,0.033
+Aminoacidi,,
+Altro,,
+Alcol etilico,g,0.0
+Caffeina,mg,0.0
+Teobromina,mg,0.0

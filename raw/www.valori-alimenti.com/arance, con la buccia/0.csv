@@ -1,0 +1,85 @@
+0,1,2
+Calorie,kcal,63.0
+Calorie,kj,262.0
+Grassi,g,0.3
+Carboidrati,g,15.5
+Proteine,g,1.3
+Fibre,g,4.5
+Acqua,g,82.3
+Ceneri,g,0.6
+Minerali,,
+Calcio,mg,70.0
+Sodio,mg,2.0
+Fosforo,mg,22.0
+Potassio,mg,196.0
+Ferro,mg,0.8
+Magnesio,mg,14.0
+Zinco,mg,0.11
+Rame,mg,0.057
+Selenio,mcg,0.7
+Vitamine,,
+Retinolo (Vit. A),mcg,0.0
+"Vitamina A, IU",IU,250.0
+"Vitamina A, RAE",mcg_RAE,13.0
+Tiamina (Vit. B1),mg,0.1
+Riboflavina (Vit. B2),mg,0.05
+Niacina (Vit. B3),mg,0.5
+Acido Pantotenico (Vit. B5),mg,0.33
+Piridossina (Vit. B6),mg,0.09300000000000001
+Acido folico (Vit. B9 o M o Folacina),mcg,0.0
+Folato alimentare,mcg,30.0
+"Folato, DFE",mcg_DFE,30.0
+"Folati, totali",mcg,30.0
+Cobalamina (Vit. B12),mcg,0.0
+Acido ascorbico (Vit. C),mg,71.0
+Zuccheri,,
+Lipidi,,
+"Acidi grassi, monoinsaturi",g,0.055
+"Acidi grassi, polinsaturi",g,0.06
+"Acidi grassi, saturi",g,0.035
+Colesterolo,mg,0.0
+Grassi saturi,,
+4:0,g,0.0
+6:0,g,0.0
+8:0,g,0.0
+10:0,g,0.0
+12:0,g,0.001
+14:0,g,0.001
+16:0,g,0.032
+18:0,g,0.001
+Grassi monoinsaturi,,
+16:1 indifferenziato,g,0.006999999999999999
+18:1 indifferenziato,g,0.048
+20:1,g,0.0
+22:1 indifferenziato,g,0.0
+Grassi polinsaturi,,
+18:2 indifferenziato,g,0.044000000000000004
+18:3 indifferenziato,g,0.016
+18:4,g,0.0
+20:4 indifferenziato,g,0.0
+20:5 n-3,g,0.0
+22:5 n-3,g,0.0
+22:6 n-3,g,0.0
+Aminoacidi,,
+Acido aspartico,g,0.158
+Acido glutammico,g,0.131
+Alanina,g,0.07
+Arginina,g,0.09
+Cistina,g,0.013999999999999999
+Fenilalanina,g,0.043
+Glicina,g,0.131
+Isoleucina,g,0.035
+Istidina,g,0.024
+Leucina,g,0.032
+Lisina,g,0.066
+Metionina,g,0.027000000000000003
+Prolina,g,0.064
+Serina,g,0.045
+Tirosina,g,0.022000000000000002
+Treonina,g,0.021
+Triptofano,g,0.012
+Valina,g,0.055
+Altro,,
+Alcol etilico,g,0.0
+Caffeina,mg,0.0
+Teobromina,mg,0.0
