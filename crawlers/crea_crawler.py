@@ -21,7 +21,7 @@ def get_product_name(response: Response) -> str:
         parse_only=SoupStrainer("th", attrs={
             "class": "cellath_colore",
             "colspan": "2"
-        })).find("th").get_text().lower().strip()
+        })).find("th").get_text().lower().strip().replace("/", " ")
 
 
 def get_product_category(soup: BeautifulSoup) -> str:
@@ -62,7 +62,7 @@ def parse(response: Response):
 
 def url_validator(url: str, logger: Log, statistics: Statistics)->bool:
     """Return a boolean representing if the crawler should parse given url."""
-    return url.startswith("http://nut.entecra.it/646/tabelle_di_composizione_degli_alimenti.html")
+    return url.startswith("http://nut.entecra.it/646/tabelle_di_composizione_degli_alimenti.html") and "#" not in url
 
 
 def file_parser(response: Response, logger: Log, statistics):
