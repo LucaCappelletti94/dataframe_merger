@@ -1,0 +1,101 @@
+,0,1,2,3,4,5
+1,Categoria merceologica: 4001 - frutta fresca e bacche,,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,AO,007760,,
+6,"Energia, ricalcolata, kJ",104,86,,,
+7,"Energia, Ric con fibra, kJ",129,86,,,
+8,"Energia, ricalcolata, kcal",25,86,,,
+9,"Energia, Ric con fibra, kcal",31,86,,,
+10,"Proteine totali, g",09,AO,007760,,
+11,"Proteine animali, g",00,LZ,,,
+12,"Proteine vegetali, g",09,AO,007760,,
+13,"Lipidi totali, g",02,AO,007760,,
+14,"Lipidi animali, g",00,LZ,,,
+15,"Lipidi vegetali, g",02,AO,007760,,
+16,"Colesterolo, mg",0,LZ,,,
+17,"Carboidrati disponibili (MSE), g",51,AO,007760,,
+18,"Amido (MSE), g",00,AO,007760,,
+19,"Carboidrati solubili (MSE), g",51,AO,007760,,
+20,"Fibra alimentare totale, g",31,AO,007760,,
+21,"Alcol, g",00,LZ,,,
+22,"Acqua, g",850,AO,007760,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",07,AO,007760,,
+25,"Calcio, mg",41,AO,007760,,
+26,"Sodio, mg",2,AO,007760,,
+27,"Potassio, mg",160,AO,007760,,
+28,"Fosforo, mg",31,AO,007760,,
+29,"Zinco, mg",020,L,47,6,"""Billberries"" WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g"
+30,"Magnesio, mg",5,L,47,6,"""Billberries"" WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g"
+31,"Rame, mg",008,L,47,6,"""Billberries"" WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g"
+32,"Selenio, µg",tr,L,47,6,"""Billberries"" WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g"
+33,"Cloro, mg",5,L,47,6,"""Billberries"" WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g"
+34,"Iodio, µg",tr,Y,3420,6,"""Blueberry, bilberry (Vaccinium myrtillus)"" WATER 85g, PROT 0.67g, FAT 0.8g, CHO 6.4g"
+35,"Manganese, mg",030,L,47,6,"""Billberries"" WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g"
+36,"Zolfo, mg",13,L,47,6,"""Billberries"" WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",002,AO,007760,,
+39,"Vitamina B2, Riboflavina, mg",005,AO,007760,,
+40,"Vitamina C, mg",15,AO,007760,,
+41,"Niacina, mg",050,AO,007760,,
+42,"Vitamina B6, mg",005,L,47,6,"""Billberries"" WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g"
+43,"Folati totali, µg",6,L,47,6,"""Billberries"" WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g"
+44,"Acido pantotenico, mg",025,L,47,6,"""Billberries"" WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g"
+45,"Biotina, µg",11,L,47,6,"""Billberries"" WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g"
+46,"Vitamina B12, µg",00,LZ,,,
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",13,AO,007760,,
+50,"Retinolo, µg",0,LZ,,,
+51,"ß-carotene eq., µg",78,AO,007760,3B,
+52,"Vitamina E (ATE), mg",061,DI,09050,4B,"""Blueberries, raw"" WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 14.49g, SUGAR 9.96g, TOCPHA 0.57mg, TOCPHB 0.01mg, TOCPHD 0.03mg, TOCPHG 0.36mg"
+53,"Vitamina D, µg",000,LZ,,,
+54,"Vitamina K, µg",1930,DI,09050,6,"""Blueberries, raw"" WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 14.49g, SUGAR 9.96g"
+55,ACIDI GRASSI,,,,,
+56,"Acidi grassi saturi totali, g",002,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, FASAT 0.028g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, F4-10:0 0g"
+58,"Acido laurico, g",000,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, SUGAR 9,96g, STARCH 0,03g, F12:0 0g"
+59,"Acido miristico, g",000,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, SUGAR 9,96g, STARCH 0,03g, F14:0 0g"
+60,"Acido palmitico, g",001,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, SUGAR 9,96g, STARCH 0,03g, F16:0 0,017g"
+61,"Acido stearico, g",000,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, SUGAR 9,96g, STARCH 0,03g, F18:0 0,005g"
+62,"Acidi grassi monoinsaturi totali, g",003,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, SUGAR 9,96g, STARCH 0,03g, FAMS 0,047g"
+63,"Acido miristoleico, g",000,87,,,
+64,"Acido palmitoleico, g",000,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, SUGAR 9,96g, STARCH 0,03g, F16:1CN7 0,002g"
+65,"Acido oleico, g",003,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, SUGAR 9,96g, STARCH 0,03g, F18:1 0,047g"
+66,"Acidi eicosenoico, g",000,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, SUGAR 9,96g, STARCH 0,03g, F20:1 0g"
+67,"Acido erucico, g",000,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, SUGAR 9,96g, STARCH 0,03g, F22:1CN9 0g"
+68,"Acidi grassi polinsaturi totali, g",009,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, SUGAR 9,96g, STARCH 0,03g, FAPU 0,146g"
+69,"Acido linoleico, g",005,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, SUGAR 9,96g, STARCH 0,03g, F18:2 0,088g"
+70,"Acido linolenico, g",004,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, SUGAR 9,96g, STARCH 0,03g, F18:3 0,058g"
+71,"Acido arachidonico, g",000,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, SUGAR 9,96g, STARCH 0,03g, F20:4N6 0g"
+72,"Acido eicosapentaenoico (EPA), g",000,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, F20:5N3 0g"
+73,"Acido decosaesaenoico (DHA), g",000,DI,09050,3B,"Blueberries, Raw WATER 84,21g, PROT 0,74g, FAT 0,33g, CHO 12,09g, F22:6 0g"
+74,"Altri acidi grassi polinsaturi, g",000,86,,,
+75,AMINOACIDI,,,,,
+76,"Triptofano, mg",4,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, TRP 0.003g"
+77,"Treonina, mg",24,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, THR 0.02g"
+78,"Isoleucina, mg",28,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, ILE 0.023g"
+79,"Leucina, mg",54,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, LEU 0.044g"
+80,"Lisina, mg",16,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, LYS 0.013g"
+81,"Metionina, mg",15,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, MET 0.012g"
+82,"Cistina, mg",10,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, CYS 0.008g"
+83,"Fenilalanina, mg",32,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, PHE 0.026g"
+84,"Tirosina, mg",11,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, TYR 0.009g"
+85,"Valina, mg",38,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, VAL 0.031g"
+86,"Arginina, mg",45,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, ARG 0.037g"
+87,"Istidina, mg",13,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, HIS 0.011g"
+88,"Alanina, mg",38,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, ALA 0.031g"
+89,"Acido aspartico, mg",69,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, ASP 0.057g"
+90,"Acido glutammico, mg",111,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, GLU 0.091g"
+91,"Glicina, mg",38,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, GLY 0.031g"
+92,"Prolina, mg",34,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, PRO 0.028g"
+93,"Serina, mg",27,DI,09050,3B,"Blueberries, Raw WATER 84.21g, PROT 0.74g, FAT 0.33g, CHO 12.09g, SUGAR 9.96g, STARCH 0.03g, SER 0.022g"
+94,ZUCCHERI,,,,,
+95,"Glucosio, g",24,L,47,3B,"Bilberries, Raw WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g, GLUS 3.3g"
+96,"Fruttosio, g",24,L,47,3B,"Bilberries, Raw WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g, FRUS 3.3g"
+97,"Galattosio, g",00,LZ,,,
+98,"Saccarosio (MSE), g",03,L,47,3B,"Bilberries, Raw WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g, SUCS 0.4g"
+99,"Maltosio (MSE), g",00,L,47,3B,"Bilberries, Raw WATER 85.9g, PROT 0.6g, FAT 0.2g, CHO 6.9g, SUGAR 6.9g, MALS 0g"
+100,"Lattosio (MSE), g",00,LZ,,,

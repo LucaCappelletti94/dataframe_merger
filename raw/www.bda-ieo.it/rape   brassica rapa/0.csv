@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,Categoria merceologica: 2003 - verdura a radice,,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",69,02,341,,
+6,"Energia, ricalcolata, kJ",78,86,,,
+7,"Energia, Ric con fibra, kJ",99,86,,,
+8,"Energia, ricalcolata, kcal",18,86,,,
+9,"Energia, Ric con fibra, kcal",23,86,,,
+10,"Proteine totali, g",10,02,341,,
+11,"Proteine animali, g",00,02,341,,
+12,"Proteine vegetali, g",10,02,341,,
+13,"Lipidi totali, g",00,02,341,,
+14,"Lipidi animali, g",00,02,341,,
+15,"Lipidi vegetali, g",00,02,341,,
+16,"Colesterolo, mg",0,02,341,,
+17,"Carboidrati disponibili (MSE), g",38,02,341,,
+18,"Amido (MSE), g",00,02,341,,
+19,"Carboidrati solubili (MSE), g",38,02,341,,
+20,"Fibra alimentare totale, g",26,02,341,,
+21,"Alcol, g",00,02,341,,
+22,"Acqua, g",933,02,341,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",06,02,341,,
+25,"Calcio, mg",40,02,341,,
+26,"Sodio, mg",58,03,6051,,non RIPR acqua=93g
+27,"Potassio, mg",240,03,6051,,non RIPR acqua=93g
+28,"Fosforo, mg",29,02,341,,
+29,"Zinco, mg",008,09,389,,RIPR Zn=0.1mg acqua=91.2g
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",002,02,341,,
+32,"Vitamina B2, Riboflavina, mg",007,02,341,,
+33,"Vitamina C, mg",23,02,341,,
+34,"Niacina, mg",090,02,341,,
+35,"Vitamina B6, mg",006,09,389,,RIPR vitB6=0.08mg acqua=91.2g
+36,"Folati totali, µg",11,09,389,,RIPR folati=14mg acqua=91.2g
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",0,02,341,,
+40,"Retinolo, µg",0,02,341,,
+41,"ß-carotene eq., µg",0,02,341,,CALC
+42,"Vitamina E (ATE), mg",tr,09,389,,RIPR vitE=tracce acqua=91.2g
+43,"Vitamina D, µg",000,09,389,,RIPR vitD=0 acqua=91.2g
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",000,02,341,,AG=0 quando lip=0
+46,"Acidi grassi monoinsaturi totali, g",000,02,341,,
+47,"Acido oleico, g",000,02,341,,
+48,"Acidi grassi polinsaturi totali, g",000,02,341,,
+49,"Acido linoleico, g",000,02,341,,
+50,"Acido linolenico, g",000,02,341,,
+51,"Altri acidi grassi polinsaturi, g",000,86,,,

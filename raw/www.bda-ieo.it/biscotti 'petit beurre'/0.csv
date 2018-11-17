@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 15007 - biscotti, pasticcini da tè",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,03,4003,,
+6,"Energia, ricalcolata, kJ",1761,86,,,
+7,"Energia, Ric con fibra, kJ",1764,86,,,
+8,"Energia, ricalcolata, kcal",415,86,,,
+9,"Energia, Ric con fibra, kcal",416,86,,,
+10,"Proteine totali, g",60,03,4003,,
+11,"Proteine animali, g",22,89,,,"per i nutrienti fonte 89 ALIMENTO SIMILE da STIMA ottenuta dalla ricetta zucchero 200g, farina 0 400g, burro 40g, margarina 65g, uovo intero 204g (tutti gli alimenti sono presenti in BDA) RIPR prot anim=2.98g, prot veg=5.07g, prot tot=8.06g, lip anim=10.17g, lip veg=2.44g, lip tot=12.61g"
+12,"Proteine vegetali, g",38,89,,,
+13,"Lipidi totali, g",82,03,4003,,
+14,"Lipidi animali, g",66,89,,,
+15,"Lipidi vegetali, g",16,89,,,
+16,"Colesterolo, mg",87,28,18421,,
+17,"Carboidrati disponibili (MSE), g",847,03,4003,,
+18,"Amido (MSE), g",546,03,4003,,
+19,"Carboidrati solubili (MSE), g",301,03,4003,,
+20,"Fibra alimentare totale, g",04,03,4003,,relativa al solo contenuto di cellulosa
+21,"Alcol, g",00,03,4003,,
+22,"Acqua, g",40,03,4003,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",10,03,4003,,
+25,"Calcio, mg",32,03,4003,,
+26,"Sodio, mg",241,03,4003,,
+27,"Potassio, mg",111,28,18421,,"per i nutrienti 28/18421 ALIMENTO SIMILE Cookies, butter, commercially prepared, unriched acqua=4.6g, lip=18.8g, prot=6.1g"
+28,"Fosforo, mg",144,03,4003,,
+29,"Zinco, mg",060,03,4003,,
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",018,03,4003,,
+32,"Vitamina B2, Riboflavina, mg",014,03,4003,,
+33,"Vitamina C, mg",0,28,18421,,
+34,"Niacina, mg",090,03,4003,,Niacina Equ =1.9
+35,"Vitamina B6, mg",004,28,18421,,
+36,"Folati totali, µg",6,28,18421,,
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",tr,02,70,,"ALIMENTO SIMILE Biscotto per la prima colazione acuqa=2.2g, lip=7.9g, prot=6.6g"
+40,"Retinolo, µg",tr,02,70,,
+41,"ß-carotene eq., µg",tr,02,70,,
+42,"Vitamina E (ATE), mg",140,07,183,,
+43,"Vitamina D, µg",000,07,183,,"per vit D e vit E ALIMENTO SIMILE Biscuits semi sweet acqua=2.5g, lip=16.6g"
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",467,28,18421,,RIPR lip=18.8g saturi=10.704g 18:1=4.751g mono=5.17g 18:2=0.698g 18:3=0.272g altri PUFA=0.022g PUFA=0.992g
+46,"Acidi grassi monoinsaturi totali, g",225,28,18421,,
+47,"Acido oleico, g",207,28,18421,,
+48,"Acidi grassi polinsaturi totali, g",043,28,18421,,
+49,"Acido linoleico, g",030,28,18421,,
+50,"Acido linolenico, g",012,28,18421,,
+51,"Altri acidi grassi polinsaturi, g",001,86,,,

@@ -1,0 +1,53 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Alimento interamente sostituito con STIMA da ricetta (fonte Il Cucchiaio d'Argento), riproporzionata sul valore di sostanza secca relativo a ""Homemade biscuits"" fonte 07 cod 174. In nota sono stati riportati i valori provenienti dalle informazioni nutrizionali ricevute dalla Sagit (1993) riguardanti la ""Pasta frolla surgelata Findus"" (dati di letteratura) ingredienti: farina 0 (cod 11) 200g + margarina (cod 900) 50g + tuorli (cod 1802) 54g + burro (cod 1900) 50g + zucchero.",,,,,
+2,"Categoria merceologica: 15006 - torte, preparati e basi per torte",,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,89,,,
+7,"Energia, ricalcolata, kJ",2011,86,,,
+8,"Energia, Ric con fibra, kJ",2024,86,,,
+9,"Energia, ricalcolata, kcal",479,86,,,
+10,"Energia, Ric con fibra, kcal",483,86,,,
+11,"Proteine totali, g",77,89,,,proteine tot=5.8g%
+12,"Proteine animali, g",22,89,,,proteine animali=0.8g%
+13,"Proteine vegetali, g",55,89,,,proteine vegetali=4.9g%
+14,"Lipidi totali, g",243,89,,,lipidi=17.5g%
+15,"Lipidi animali, g",206,89,,,
+16,"Lipidi vegetali, g",38,89,,,
+17,"Colesterolo, mg",224,89,,,colesterolo=107mg%
+18,"Carboidrati disponibili (MSE), g",613,89,,,GD=57.5g%
+19,"Amido (MSE), g",355,89,,,amido=36.6g%
+20,"Carboidrati solubili (MSE), g",258,89,,,GS=22g%
+21,"Fibra alimentare totale, g",17,89,,,
+22,"Alcol, g",00,89,,,
+23,"Acqua, g",90,07,174,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",13,89,,,Fe=1.2mg%
+26,"Calcio, mg",32,89,,,Ca=75.8mg%
+27,"Sodio, mg",103,89,,,Na=43mg%
+28,"Potassio, mg",84,89,,,K=70.6mg%
+29,"Fosforo, mg",154,89,,,P=92.5mg%
+30,"Zinco, mg",080,89,,,Zn=0.47mg%
+31,VITAMINE IDROSOLUBILI,,,,,
+32,"Vitamina B1, Tiamina, mg",015,89,,,B1=0.05mg%
+33,"Vitamina B2, Riboflavina, mg",006,89,,,B2=0.02mg%
+34,"Vitamina C, mg",0,89,,,
+35,"Niacina, mg",060,89,,,
+36,"Vitamina B6, mg",011,89,,,
+37,"Folati totali, µg",27,89,,,folacina=0.6mcg%
+38,VITAMINE LIPOSOLUBILI,,,,,
+39,Retinolo equivalente,,,,,
+40,"Retinolo eq. (RE), µg",204,89,,,
+41,"Retinolo, µg",196,89,,,
+42,"ß-carotene eq., µg",51,89,,,
+43,"Vitamina E (ATE), mg",220,89,,,
+44,"Vitamina D, µg",073,89,,,
+45,ACIDI GRASSI,,,,,
+46,"Acidi grassi saturi totali, g",1025,89,,,saturi=10.5g%
+47,"Acidi grassi monoinsaturi totali, g",883,89,,,monoinsaturi=4.4g%
+48,"Acido oleico, g",776,89,,,
+49,"Acidi grassi polinsaturi totali, g",318,89,,,insaturi=0.9g%
+50,"Acido linoleico, g",286,89,,,
+51,"Acido linolenico, g",029,89,,,
+52,"Altri acidi grassi polinsaturi, g",003,86,,,

@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 14001 - cioccolatini, tavolette e creme spalmabili",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,02,2008,,
+6,"Energia, ricalcolata, kJ",2246,86,,,
+7,"Energia, Ric con fibra, kJ",2255,86,,,
+8,"Energia, ricalcolata, kcal",537,86,,,
+9,"Energia, Ric con fibra, kcal",539,86,,,
+10,"Proteine totali, g",69,02,2008,,
+11,"Proteine animali, g",46,72,2008,,STIMA INN
+12,"Proteine vegetali, g",23,72,2008,,STIMA INN
+13,"Lipidi totali, g",324,02,2008,,
+14,"Lipidi animali, g",220,72,2008,,STIMA INN
+15,"Lipidi vegetali, g",104,72,2008,,STIMA INN
+16,"Colesterolo, mg",2,M,70,,
+17,"Carboidrati disponibili (MSE), g",581,02,2008,,
+18,"Amido (MSE), g",00,02,2008,,
+19,"Carboidrati solubili (MSE), g",581,02,2008,,
+20,"Fibra alimentare totale, g",12,M,70,,"per i nutrienti M/70 ALIMENTO SIMILE Chocolate nut spread acqua=tracce, lip=33g, prot=6.2g, GD=60.5g metodo Southgate metodo Englyst fibra=0.8g"
+21,"Alcol, g",00,02,2008,,
+22,"Acqua, g",08,02,2008,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",36,02,2008,,
+25,"Calcio, mg",143,02,2008,,
+26,"Sodio, mg",50,02,2008,,
+27,"Potassio, mg",370,02,2008,,
+28,"Fosforo, mg",164,02,2008,,
+29,"Zinco, mg",100,M,70,,
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",003,02,2008,,
+32,"Vitamina B2, Riboflavina, mg",010,02,2008,,
+33,"Vitamina C, mg",0,02,2008,,
+34,"Niacina, mg",050,02,2008,,
+35,"Vitamina B6, mg",010,M,70,,
+36,"Folati totali, µg",11,M,89,,"per i nutrienti M/89 ALIMENTO SIMILE Chocolate milk acqua=1.3g, lip=30.7g, prot=7.7g, GD=56.9g"
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",tr,M,70,,CALC
+40,"Retinolo, µg",tr,M,70,,
+41,"ß-carotene eq., µg",tr,M,70,,
+42,"Vitamina E (ATE), mg",045,M,89,,
+43,"Vitamina D, µg",tr,M,70,,
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",992,M,70,,RIPR lip=33g saturi=10.1g mono=16.8g PUFA=4.6g
+46,"Acidi grassi monoinsaturi totali, g",1649,M,70,,
+47,"Acido oleico, g",1644,89,,,"per 18:1, 18:2, 18:3 DOPPIA STIMA da media ottenuta con gli acidi grassi di NOCCIOLE (fonte 02/APP), lip=62.9g, e CIOCCOLATO (fonte E cod 857) lip=30.3g, e poi RIPR sui valori totali fonte M cod 70 MEDIA: lip=46.6g -> su M/70: lip=33g saturi=10.875g -> saturi=7.70g 18:1= 23.635g -> 18:1=16.74g mono=23.8g -> mono=16.85g 18:2=2.91g -> 18:2=2.06g 18:3=0.17g -> 18:3=0.12g PUFA=3.08g -> PUFA=2.18g"
+48,"Acidi grassi polinsaturi totali, g",452,M,70,,
+49,"Acido linoleico, g",202,89,,,
+50,"Acido linolenico, g",012,89,,,
+51,"Altri acidi grassi polinsaturi, g",238,86,,,

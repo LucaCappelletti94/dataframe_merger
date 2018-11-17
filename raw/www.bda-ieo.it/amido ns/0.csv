@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,Categoria merceologica: 8002 - farine e amidi di cereali,,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,03,4001,,
+6,"Energia, ricalcolata, kJ",1616,86,,,
+7,"Energia, Ric con fibra, kJ",1616,86,,,
+8,"Energia, ricalcolata, kcal",379,86,,,
+9,"Energia, Ric con fibra, kcal",379,86,,,
+10,"Proteine totali, g",04,03,4001,,
+11,"Proteine animali, g",00,03,4001,,
+12,"Proteine vegetali, g",04,03,4001,,
+13,"Lipidi totali, g",02,03,4001,,
+14,"Lipidi animali, g",00,03,4001,,
+15,"Lipidi vegetali, g",02,03,4001,,
+16,"Colesterolo, mg",0,03,4001,,
+17,"Carboidrati disponibili (MSE), g",1001,03,4001,,
+18,"Amido (MSE), g",1001,03,4001,,
+19,"Carboidrati solubili (MSE), g",00,03,4001,,
+20,"Fibra alimentare totale, g",tr,03,4001,,solo cellulosa altra fonte 30/20027 amido di mais: fibra=0.9g
+21,"Alcol, g",00,03,4001,,
+22,"Acqua, g",90,03,4001,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",04,03,4001,,
+25,"Calcio, mg",13,03,4001,,
+26,"Sodio, mg",9,30,20027,,"per tutti i nutrienti fonte 30 cod 20027 ALIMENTO SIMILE Corn starch acqua=8.32g, lip=0.05g, prot=0.26g, GD=91.27g"
+27,"Potassio, mg",3,30,20027,,
+28,"Fosforo, mg",11,03,4001,,
+29,"Zinco, mg",006,30,20027,,
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",010,03,4001,,
+32,"Vitamina B2, Riboflavina, mg",002,03,4001,,
+33,"Vitamina C, mg",0,30,20027,,
+34,"Niacina, mg",010,03,4001,,espressa come Niacina equivalente
+35,"Vitamina B6, mg",020,07,21,,ALIMENTO SIMILE Rice flour acqua=11.8g
+36,"Folati totali, µg",tr,07,10,,ALIMENTO SIMILE Corn flour acqua=12.5g
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",tr,09,39,,"ALIMENTO SIMILE Potato flour acqua=7.6g, GD=75.6g"
+40,"Retinolo, µg",0,03,4001,,
+41,"ß-carotene eq., µg",tr,09,39,,
+42,"Vitamina E (ATE), mg",000,30,20027,,
+43,"Vitamina D, µg",000,03,4001,,
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",004,30,20027,,RIPR riferito a Cornstarch lip=0.05g saturi=0.010g 18:1=0.016g mono=0.016g 18:2=0.025g 18:3=0 altri PUFA=0 PUFA=0.025g
+46,"Acidi grassi monoinsaturi totali, g",006,30,20027,,
+47,"Acido oleico, g",006,30,20027,,
+48,"Acidi grassi polinsaturi totali, g",010,30,20027,,
+49,"Acido linoleico, g",010,30,20027,,
+50,"Acido linolenico, g",000,30,20027,,
+51,"Altri acidi grassi polinsaturi, g",000,86,,,

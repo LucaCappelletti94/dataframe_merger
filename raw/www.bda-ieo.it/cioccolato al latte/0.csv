@@ -1,0 +1,53 @@
+,0,1,2,3,4,5
+1,"Note Alimento: nota USDA relativa a 19/19120, ""Candies, chocolate milk"" caffeina=25mg/100g teobromina=169mg/100g",,,,,
+2,"Categoria merceologica: 14001 - cioccolatini, tavolette e creme spalmabili",,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,02,2006,,
+7,"Energia, ricalcolata, kJ",2355,86,,,
+8,"Energia, Ric con fibra, kJ",2362,86,,,
+9,"Energia, ricalcolata, kcal",564,86,,,
+10,"Energia, Ric con fibra, kcal",566,86,,,
+11,"Proteine totali, g",89,02,2006,,
+12,"Proteine animali, g",60,72,,,STIMA
+13,"Proteine vegetali, g",29,72,,,STIMA
+14,"Lipidi totali, g",376,02,2006,,
+15,"Lipidi animali, g",246,72,,,STIMA
+16,"Lipidi vegetali, g",130,72,,,STIMA
+17,"Colesterolo, mg",28,M,89,,"colesterolo=23mg EPIC: fonte 93, colesterolo = 0"
+18,"Carboidrati disponibili (MSE), g",508,02,2006,,
+19,"Amido (MSE), g",tr,02,2006,,
+20,"Carboidrati solubili (MSE), g",508,02,2006,,
+21,"Fibra alimentare totale, g",08,M,89,,metodo Englyst per i nutrienti idrosolubili M/89 non RIPR acqua=1.3g
+22,"Alcol, g",00,02,2006,,
+23,"Acqua, g",17,02,2006,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",30,02,2006,,
+26,"Calcio, mg",262,02,2006,,
+27,"Sodio, mg",120,02,2006,,
+28,"Potassio, mg",420,02,2006,,
+29,"Fosforo, mg",207,02,2006,,
+30,"Zinco, mg",020,03,407,,non RIPR acqua=2g
+31,VITAMINE IDROSOLUBILI,,,,,
+32,"Vitamina B1, Tiamina, mg",009,02,2006,,
+33,"Vitamina B2, Riboflavina, mg",039,02,2006,,
+34,"Vitamina C, mg",0,02,2006,,
+35,"Niacina, mg",060,02,2006,,
+36,"Vitamina B6, mg",004,M,89,,
+37,"Folati totali, µg",11,M,89,,
+38,VITAMINE LIPOSOLUBILI,,,,,
+39,Retinolo equivalente,,,,,
+40,"Retinolo eq. (RE), µg",33,M,89,,CALC
+41,"Retinolo, µg",31,M,89,,per i nutrienti liposolubili M/89 RIPR lip=30.7g retinolo = 25mcg
+42,"ß-carotene eq., µg",13,M,89,,caroteni= 11mcg
+43,"Vitamina E (ATE), mg",055,M,89,,vit E= 0.45mg
+44,"Vitamina D, µg",000,M,89,,vitD=0
+45,ACIDI GRASSI,,,,,
+46,"Acidi grassi saturi totali, g",2193,E,857,,RIPR lip=30.3g saturi=17.67g 18:1=9.53g mono=9.7g 18:2=0.83g 18:3=0.23g altri PUFA=0 PUFA=1.06g
+47,"Acidi grassi monoinsaturi totali, g",1204,E,857,,
+48,"Acido oleico, g",1183,E,857,,
+49,"Acidi grassi polinsaturi totali, g",132,E,857,,
+50,"Acido linoleico, g",103,E,857,,
+51,"Acido linolenico, g",029,E,857,,
+52,"Altri acidi grassi polinsaturi, g",000,86,,,

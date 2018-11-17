@@ -1,0 +1,104 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Nome Originale: ""Orange juice, freshly squeezed""",,,,,
+2,Categoria merceologica: 4010 - succhi e spremute di frutta,,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,L,281,,
+7,"Energia, ricalcolata, kJ",140,86,,,
+8,"Energia, Ric con fibra, kJ",141,86,,,
+9,"Energia, ricalcolata, kcal",33,86,,,
+10,"Energia, Ric con fibra, kcal",33,86,,,
+11,"Proteine totali, g",06,L,281,,
+12,"Proteine animali, g",00,LZ,,,
+13,"Proteine vegetali, g",06,L,281,,
+14,"Lipidi totali, g",tr,L,281,,
+15,"Lipidi animali, g",00,LZ,,,
+16,"Lipidi vegetali, g",tr,L,281,,
+17,"Colesterolo, mg",0,LZ,,,
+18,"Carboidrati disponibili (MSE), g",81,L,281,,
+19,"Amido (MSE), g",00,L,281,,
+20,"Carboidrati solubili (MSE), g",81,L,281,,
+21,"Fibra alimentare totale, g",01,L,281,,
+22,"Alcol, g",00,LZ,,,
+23,"Acqua, g",877,L,281,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",03,L,281,,
+26,"Calcio, mg",12,L,281,,
+27,"Sodio, mg",2,L,281,,
+28,"Potassio, mg",180,L,281,,
+29,"Fosforo, mg",22,L,281,,
+30,"Zinco, mg",tr,L,281,,
+31,"Magnesio, mg",12,L,281,,
+32,"Rame, mg",tr,L,281,,
+33,"Selenio, µg",10,L,281,,
+34,"Cloro, mg",1,L,281,,
+35,"Iodio, µg",2,L,281,,
+36,"Manganese, mg",010,L,281,,
+37,"Zolfo, mg",5,L,281,,
+38,VITAMINE IDROSOLUBILI,,,,,
+39,"Vitamina B1, Tiamina, mg",008,L,281,,
+40,"Vitamina B2, Riboflavina, mg",002,L,281,,
+41,"Vitamina C, mg",48,L,281,,
+42,"Niacina, mg",020,L,281,,
+43,"Vitamina B6, mg",007,L,281,,
+44,"Folati totali, µg",28,L,281,,
+45,"Acido pantotenico, mg",013,L,281,,
+46,"Biotina, µg",10,L,281,,
+47,"Vitamina B12, µg",00,LZ,,,
+48,VITAMINE LIPOSOLUBILI,,,,,
+49,Retinolo equivalente,,,,,
+50,"Retinolo eq. (RE), µg",3,L,281,3B,
+51,"Retinolo, µg",0,LZ,,,
+52,"ß-carotene eq., µg",17,L,281,,
+53,"Vitamina E (ATE), mg",017,L,281,,
+54,"Vitamina D, µg",000,LZ,,,
+55,"Vitamina K, µg",010,DI,09206,2,"""Orange juice, raw"" WATER 88.3g, PROT 0.7g, FAT 0.2g, CHO 10.4g, SUGAR 8.4g"
+56,ACIDI GRASSI,,,,,
+57,"Acidi grassi saturi totali, g",000,LZ,,,AG=0 quando lip=0
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,LZ,,,
+59,"Acido laurico, g",000,LZ,,,
+60,"Acido miristico, g",000,LZ,,,
+61,"Acido palmitico, g",000,LZ,,,
+62,"Acido stearico, g",000,LZ,,,
+63,"Acido arachidico, g",000,LZ,,,
+64,"Acido beenico, g",000,LZ,,,
+65,"Acidi grassi monoinsaturi totali, g",000,LZ,,,
+66,"Acido miristoleico, g",000,LZ,,,
+67,"Acido palmitoleico, g",000,LZ,,,
+68,"Acido oleico, g",000,LZ,,,
+69,"Acidi eicosenoico, g",000,LZ,,,
+70,"Acido erucico, g",000,LZ,,,
+71,"Acidi grassi polinsaturi totali, g",000,LZ,,,
+72,"Acido linoleico, g",000,LZ,,,
+73,"Acido linolenico, g",000,LZ,,,
+74,"Acido arachidonico, g",000,LZ,,,
+75,"Acido eicosapentaenoico (EPA), g",000,LZ,,,
+76,"Acido decosaesaenoico (DHA), g",000,LZ,,,
+77,"Altri acidi grassi polinsaturi, g",000,86,,,
+78,AMINOACIDI,,,,,
+79,"Triptofano, mg",4,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, TRP 6mg"
+80,"Treonina, mg",9,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, THR 12mg"
+81,"Isoleucina, mg",16,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, ILE 23mg"
+82,"Leucina, mg",16,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, LEU 22mg"
+83,"Lisina, mg",31,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, LYS 43mg"
+84,"Metionina, mg",9,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, MET 12mg"
+85,"Cistina, mg",7,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, CYS 10mg"
+86,"Fenilalanina, mg",21,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, PHE 30mg"
+87,"Tirosina, mg",12,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, TYR 17mg"
+88,"Valina, mg",22,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, VAL 31mg"
+89,"Arginina, mg",37,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, ARG 52mg"
+90,"Istidina, mg",9,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, HIS 12mg"
+91,"Alanina, mg",36,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, ALA 51mg"
+92,"Acido aspartico, mg",81,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, ASP 114mg"
+93,"Acido glutammico, mg",71,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, GLU 99mg"
+94,"Glicina, mg",59,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, GLY 83mg"
+95,"Prolina, mg",32,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, PRO 45mg"
+96,"Serina, mg",16,AA,8000,3A,"Arance WATER 87,2g, PROT 0,7g, FAT 0,2g, CHO 7,8g, SUGAR 7,8g, SER 23mg"
+97,ZUCCHERI,,,,,
+98,"Glucosio, g",20,L,281,,
+99,"Fruttosio, g",22,L,281,,
+100,"Galattosio, g",00,LZ,,,
+101,"Saccarosio (MSE), g",40,L,281,,
+102,"Maltosio (MSE), g",00,L,281,,
+103,"Lattosio (MSE), g",00,L,281,,

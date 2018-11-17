@@ -1,0 +1,103 @@
+,0,1,2,3,4,5
+1,Categoria merceologica: 4001 - frutta fresca e bacche,,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",75,02,409,,
+6,"Energia, ricalcolata, kJ",202,86,,,
+7,"Energia, Ric con fibra, kJ",218,86,,,
+8,"Energia, ricalcolata, kcal",47,86,,,
+9,"Energia, Ric con fibra, kcal",51,86,,,
+10,"Proteine totali, g",09,02,409,,
+11,"Proteine animali, g",00,LZ,,,
+12,"Proteine vegetali, g",09,02,409,,
+13,"Lipidi totali, g",02,02,409,,
+14,"Lipidi animali, g",00,LZ,,,
+15,"Lipidi vegetali, g",02,02,409,,
+16,"Colesterolo, mg",0,LZ,,,
+17,"Carboidrati disponibili (MSE), g",112,02,409,,
+18,"Amido (MSE), g",00,02,409,,
+19,"Carboidrati solubili (MSE), g",112,02,409,,
+20,"Fibra alimentare totale, g",20,02,409,,
+21,"Alcol, g",00,LZ,,,
+22,"Acqua, g",819,02,409,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",05,02,409,,
+25,"Calcio, mg",43,02,409,,
+26,"Sodio, mg",2,02,409,,
+27,"Potassio, mg",270,02,409,,
+28,"Fosforo, mg",25,02,409,,
+29,"Zinco, mg",020,03,6209,6,"""Fichi"" WATER 81g, PROT 0.3g, FAT 0.3g, CHO 15.5g, SUGAR 15.5g"
+30,"Magnesio, mg",15,L,91,6B,"""Figs, raw"" WATER 84.6g, PROT 1.3g, FAT 0.3g, CHO 9.5g, SUGAR 9.5g"
+31,"Rame, mg",040,03,6209,6,"""Fichi"" WATER 81g, PROT 0.3g, FAT 0.3g, CHO 15.5g, SUGAR 15.5g"
+32,"Selenio, µg",tr,L,91,6B,"""Figs, raw"" WATER 84.6g, PROT 1.3g, FAT 0.3g, CHO 9.5g, SUGAR 9.5g"
+33,"Cloro, mg",18,L,91,6B,"""Figs, raw"" WATER 84.6g, PROT 1.3g, FAT 0.3g, CHO 9.5g, SUGAR 9.5g"
+34,"Iodio, µg",1,Y,3260,2,"""Figs, dried"" WATER 16.8g, PROT 3.1g, FAT 1.2g, CHO 52.9g"
+35,"Manganese, mg",010,L,91,6B,"""Figs, raw"" WATER 84.6g, PROT 1.3g, FAT 0.3g, CHO 9.5g, SUGAR 9.5g"
+36,"Zolfo, mg",13,L,91,6B,"""Figs, raw"" WATER 84.6g, PROT 1.3g, FAT 0.3g, CHO 9.5g, SUGAR 9.5g"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",003,02,409,,
+39,"Vitamina B2, Riboflavina, mg",004,02,409,,
+40,"Vitamina C, mg",7,02,409,,
+41,"Niacina, mg",040,02,409,,
+42,"Vitamina B6, mg",008,L,91,6B,"""Figs, raw"" WATER 84.6g, PROT 1.3g, FAT 0.3g, CHO 9.5g, SUGAR 9.5g"
+43,"Folati totali, µg",6,DI,09089,6B,"""Figs, raw (Ficus carica)"" WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 19.18g, SUGAR 16.26g"
+44,"Acido pantotenico, mg",022,L,91,6B,"""Figs, raw"" WATER 84.6g, PROT 1.3g, FAT 0.3g, CHO 9.5g, SUGAR 9.5g"
+45,"Biotina, µg",10,Y,3260,2,"""Figs, dried"" WATER16.8g, PROT 3.1g, FAT1.2g, CHO 52.9g"
+46,"Vitamina B12, µg",00,LZ,,,
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",15,02,409,,
+50,"Retinolo, µg",0,LZ,,,
+51,"ß-carotene eq., µg",90,02,409,3B,
+52,"Vitamina E (ATE), mg",011,DI,09089,4B,"""Figs, raw (Ficus carica)"" WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 19.18g, SUGAR 16.26g, solo TOCPHA"
+53,"Vitamina D, µg",000,LZ,,,
+54,"Vitamina K, µg",470,DI,09089,6B,"""Figs, raw (Ficus carica)"" WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 19.18g, SUGAR 16.26g"
+55,ACIDI GRASSI,,,,,
+56,"Acidi grassi saturi totali, g",004,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, FASAT 0.06g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, F4-10:0 0g"
+58,"Acido laurico, g",000,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, F12:0 0g"
+59,"Acido miristico, g",000,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, F14:0 0,002g"
+60,"Acido palmitico, g",003,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, F16:0 0,046g"
+61,"Acido stearico, g",001,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, F18:0 0,012g"
+62,"Acido arachidico, g",000,87,,,
+63,"Acido beenico, g",000,87,,,
+64,"Acidi grassi monoinsaturi totali, g",004,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, FAMS 0,066g"
+65,"Acido miristoleico, g",000,87,,,
+66,"Acido palmitoleico, g",000,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, F16:1CN7 0g"
+67,"Acido oleico, g",004,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, F18:1 0,066g"
+68,"Acidi eicosenoico, g",000,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, F20:1 0g"
+69,"Acido erucico, g",000,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, F22:1CN9 0g"
+70,"Acidi grassi polinsaturi totali, g",010,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, FAPU 0,144g"
+71,"Acido linoleico, g",010,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, F18:2 0,144g"
+72,"Acido linolenico, g",000,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, F18:3 0g"
+73,"Acido arachidonico, g",000,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, F20:4N6 0g"
+74,"Acido eicosapentaenoico (EPA), g",000,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, F20:5N3 0g"
+75,"Acido decosaesaenoico (DHA), g",000,DI,09089,3B,"Figs, Raw WATER 79,11g, PROT 0,75g, FAT 0,3g, CHO 16,28g, SUGAR 16,26g, F22:6 0g"
+76,"Altri acidi grassi polinsaturi, g",000,86,,,
+77,AMINOACIDI,,,,,
+78,"Triptofano, mg",7,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, TRP 0.006g"
+79,"Treonina, mg",29,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, THR 0.024g"
+80,"Isoleucina, mg",28,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, ILE 0.023g"
+81,"Leucina, mg",40,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, LEU 0.033g"
+82,"Lisina, mg",36,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, LYS 0.03g"
+83,"Metionina, mg",7,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, MET 0.006g"
+84,"Cistina, mg",14,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, CYS 0.012g"
+85,"Fenilalanina, mg",22,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, PHE 0.018g"
+86,"Tirosina, mg",38,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, TYR 0.032g"
+87,"Valina, mg",34,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, VAL 0.028g"
+88,"Arginina, mg",20,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, ARG 0.017g"
+89,"Istidina, mg",13,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, HIS 0.011g"
+90,"Alanina, mg",54,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, ALA 0.045g"
+91,"Acido aspartico, mg",211,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, ASP 0.176g"
+92,"Acido glutammico, mg",86,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, GLU 0.072g"
+93,"Glicina, mg",30,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, GLY 0.025g"
+94,"Prolina, mg",59,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, PRO 0.049g"
+95,"Serina, mg",44,DI,09089,3B,"Figs, Raw WATER 79.11g, PROT 0.75g, FAT 0.3g, CHO 16.28g, SUGAR 16.26g, SER 0.037g"
+96,ZUCCHERI,,,,,
+97,"Glucosio, g",61,L,91,3B,"Figs, Raw WATER 84.6g, PROT 1.3g, FAT 0.3g, CHO 9.5g, SUGAR 9.5g, GLUS 5.2g"
+98,"Fruttosio, g",48,L,91,3B,"Figs, Raw WATER 84.6g, PROT 1.3g, FAT 0.3g, CHO 9.5g, SUGAR 9.5g, FRUS 4.1g"
+99,"Galattosio, g",00,LZ,,,
+100,"Saccarosio (MSE), g",04,L,91,3B,"Figs, Raw WATER 84.6g, PROT 1.3g, FAT 0.3g, CHO 9.5g, SUGAR 9.5g, SUCS 0.3g"
+101,"Maltosio (MSE), g",00,L,91,3B,"Figs, Raw WATER 84.6g, PROT 1.3g, FAT 0.3g, CHO 9.5g, SUGAR 9.5g, MALS 0g"
+102,"Lattosio (MSE), g",00,LZ,,,

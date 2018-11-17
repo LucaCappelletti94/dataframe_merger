@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,Categoria merceologica: 15008 - brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni),,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,02,2016,,
+6,"Energia, ricalcolata, kJ",1746,86,,,
+7,"Energia, Ric con fibra, kJ",1754,86,,,
+8,"Energia, ricalcolata, kcal",414,86,,,
+9,"Energia, Ric con fibra, kcal",416,86,,,
+10,"Proteine totali, g",62,02,2016,,
+11,"Proteine animali, g",43,04,119,,"STIMA ottenta dalla ricetta utilizzata da 04/120 prot tot=9.41g; veg=2.85g, anim=6.56g lip tot=5.85g; veg=0.25g, anim=5.60g"
+12,"Proteine vegetali, g",19,04,119,,STIMA
+13,"Lipidi totali, g",151,02,2016,,
+14,"Lipidi animali, g",145,04,119,,STIMA
+15,"Lipidi vegetali, g",06,04,119,,STIMA
+16,"Colesterolo, mg",152,07,211,,
+17,"Carboidrati disponibili (MSE), g",676,02,2016,,
+18,"Amido (MSE), g",219,D,,,
+19,"Carboidrati solubili (MSE), g",457,02,2016,,
+20,"Fibra alimentare totale, g",10,07,211,,"metodo Southgate per tutti gli alimenti fonte 04 cod 119 e 07/211 ALIMENTO SIMILE Sponge cake acqua= 15.2g, lip=26.3g ricetta: 150g farina, 150 margarina, 150g zucchero, 3 uova, lievito"
+21,"Alcol, g",00,02,2016,,
+22,"Acqua, g",142,02,2016,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",18,02,2016,,
+25,"Calcio, mg",17,02,2016,,
+26,"Sodio, mg",350,07,211,,
+27,"Potassio, mg",180,02,2016,,
+28,"Fosforo, mg",172,02,2016,,
+29,"Zinco, mg",070,07,211,,
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",009,07,211,,
+32,"Vitamina B2, Riboflavina, mg",012,07,211,,
+33,"Vitamina C, mg",0,07,211,,
+34,"Niacina, mg",050,07,211,,
+35,"Vitamina B6, mg",006,07,211,,
+36,"Folati totali, µg",10,07,211,,
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",311,04,119,,CALC
+40,"Retinolo, µg",275,04,119,,
+41,"ß-carotene eq., µg",215,04,119,,
+42,"Vitamina E (ATE), mg",283,07,211,,
+43,"Vitamina D, µg",261,07,211,,
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",551,E,81,,RIPR lip=26.5g saturi=9.67g 18:1=5.96g mono=11.15g 18:2=1.31g 18:3=0.04g altri PUFA=2.51g PUFA=3.86g
+46,"Acidi grassi monoinsaturi totali, g",653,E,81,,
+47,"Acido oleico, g",340,E,81,,
+48,"Acidi grassi polinsaturi totali, g",220,E,81,,
+49,"Acido linoleico, g",075,E,81,,
+50,"Acido linolenico, g",002,E,81,,
+51,"Altri acidi grassi polinsaturi, g",143,86,,,

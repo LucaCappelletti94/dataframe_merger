@@ -1,0 +1,53 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Alimento interamente sostituito con ""Chocolate biscuits, full coated""",,,,,
+2,"Categoria merceologica: 15007 - biscotti, pasticcini da tè",,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,07,166,,
+7,"Energia, ricalcolata, kJ",2197,86,,,
+8,"Energia, Ric con fibra, kJ",2220,86,,,
+9,"Energia, ricalcolata, kcal",524,86,,,
+10,"Energia, Ric con fibra, kcal",530,86,,,
+11,"Proteine totali, g",57,07,166,,
+12,"Proteine animali, g",25,89,,,"per i nutrienti fonte 89 RIPR da STIMA da ricetta ingredienti: zucchero (cod 2021) 200g, farina (cod 11) 400g, burro (cod 1900) 40g, margarina 8cod 900) 65g, uovo (cod 1800) 204g, cioccolato al latte (cod 2006) 250g acqua=2.2g, GD=67.78g prot tot=10.01g, prot anim=4.41g, prot veg=5.60g lip tot=21.87g, lip anim=16.14g, lip veg=5.74g"
+13,"Proteine vegetali, g",32,89,,,
+14,"Lipidi totali, g",276,07,166,,
+15,"Lipidi animali, g",204,89,,,
+16,"Lipidi vegetali, g",72,89,,,
+17,"Colesterolo, mg",2,28,18157,,"ALIMENTO SIMILE Cookies, chocolate wafers acqua=4.5g, lip=14.2g, prot=6.6g"
+18,"Carboidrati disponibili (MSE), g",674,07,166,,
+19,"Amido (MSE), g",240,07,166,,
+20,"Carboidrati solubili (MSE), g",434,07,166,,
+21,"Fibra alimentare totale, g",29,07,166,,metodo Southgate metodo Englyst fibra=2.1g
+22,"Alcol, g",00,07,166,,
+23,"Acqua, g",22,07,166,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",17,07,166,,
+26,"Calcio, mg",110,07,166,,
+27,"Sodio, mg",160,07,166,,
+28,"Potassio, mg",230,07,166,,
+29,"Fosforo, mg",130,07,166,,
+30,"Zinco, mg",080,07,166,,
+31,VITAMINE IDROSOLUBILI,,,,,
+32,"Vitamina B1, Tiamina, mg",003,07,166,,
+33,"Vitamina B2, Riboflavina, mg",013,07,166,,
+34,"Vitamina C, mg",0,07,166,,
+35,"Niacina, mg",050,07,166,,
+36,"Vitamina B6, mg",004,07,166,,
+37,"Folati totali, µg",5,28,18166,,"per i nutrienti 28/18166 ALIMENTO SIMILE Cookies, chocolate sandwich with creme filling, regular acqua=2.3g, lip=20.6g, prot=4.7g"
+38,VITAMINE LIPOSOLUBILI,,,,,
+39,Retinolo equivalente,,,,,
+40,"Retinolo eq. (RE), µg",tr,07,166,,
+41,"Retinolo, µg",tr,07,166,,CALC
+42,"ß-carotene eq., µg",tr,07,166,,CALC
+43,"Vitamina E (ATE), mg",143,07,166,,
+44,"Vitamina D, µg",000,07,166,,
+45,ACIDI GRASSI,,,,,
+46,"Acidi grassi saturi totali, g",555,28,18166,,RIPR lip=20.6g saturi=4.146g 18:1=11.808g mono=11.83g 18:2=2.641g 18:3=0.046g altri PUFA=0 PUFA=2.686g
+47,"Acidi grassi monoinsaturi totali, g",1585,28,18166,,
+48,"Acido oleico, g",1582,28,18166,,
+49,"Acidi grassi polinsaturi totali, g",360,28,18166,,
+50,"Acido linoleico, g",354,28,18166,,
+51,"Acido linolenico, g",006,28,18166,,
+52,"Altri acidi grassi polinsaturi, g",000,86,,,

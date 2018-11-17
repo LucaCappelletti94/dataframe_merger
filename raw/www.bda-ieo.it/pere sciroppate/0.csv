@@ -1,0 +1,103 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Nome Originale: ""Pears, canned in syrup""",,,,,
+2,Categoria merceologica: 4002 - frutta cotta e conservata in scatola,,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,BF,983,,
+7,"Energia, ricalcolata, kJ",215,86,,,
+8,"Energia, Ric con fibra, kJ",223,86,,,
+9,"Energia, ricalcolata, kcal",50,86,,,
+10,"Energia, Ric con fibra, kcal",52,86,,,
+11,"Proteine totali, g",02,BF,983,,
+12,"Proteine animali, g",00,LZ,,,
+13,"Proteine vegetali, g",02,BF,983,,
+14,"Lipidi totali, g",tr,BF,983,,
+15,"Lipidi animali, g",00,LZ,,,
+16,"Lipidi vegetali, g",tr,BF,983,,
+17,"Colesterolo, mg",0,LZ,,,
+18,"Carboidrati disponibili (MSE), g",132,BF,983,,
+19,"Amido (MSE), g",00,BF,983,,
+20,"Carboidrati solubili (MSE), g",132,BF,983,,
+21,"Fibra alimentare totale, g",11,BF,983,,
+22,"Alcol, g",00,LZ,,,
+23,"Acqua, g",826,BF,983,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",02,BF,983,,
+26,"Calcio, mg",6,BF,983,,
+27,"Sodio, mg",3,BF,983,,
+28,"Potassio, mg",68,BF,983,,
+29,"Fosforo, mg",7,BF,983,,
+30,"Zinco, mg",010,BF,983,,
+31,"Magnesio, mg",4,BF,983,,
+32,"Rame, mg",002,BF,983,,
+33,"Selenio, µg",tr,BF,983,,
+34,"Cloro, mg",3,BF,983,,
+35,"Iodio, µg",tr,BF,983,,
+36,"Manganese, mg",tr,BF,983,,
+37,"Zolfo, mg",1,L,198,,
+38,VITAMINE IDROSOLUBILI,,,,,
+39,"Vitamina B1, Tiamina, mg",001,BF,983,,
+40,"Vitamina B2, Riboflavina, mg",001,BF,983,,
+41,"Vitamina C, mg",2,BF,983,,
+42,"Niacina, mg",020,BF,983,,
+43,"Vitamina B6, mg",003,BF,983,,
+44,"Folati totali, µg",3,BF,983,,
+45,"Acido pantotenico, mg",004,BF,983,,
+46,"Biotina, µg",02,BF,983,,
+47,"Vitamina B12, µg",00,LZ,,,
+48,VITAMINE LIPOSOLUBILI,,,,,
+49,Retinolo equivalente,,,,,
+50,"Retinolo eq. (RE), µg",0,BF,983,4B,
+51,"Retinolo, µg",0,LZ,,,
+52,"ß-carotene eq., µg",tr,BF,983,,
+53,"Vitamina E (ATE), mg",tr,BF,983,,
+54,"Vitamina D, µg",000,LZ,,,
+55,"Vitamina K, µg",030,DI,09256,2,"""Pears, canned, light syrup pack, solids and liquids"" WATER 84.6g, PROT 0.19g, FAT 0.03g, CHO 15.17g, SUGAR 12.1g"
+56,ACIDI GRASSI,,,,,
+57,"Acidi grassi saturi totali, g",000,LZ,,,
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,LZ,,,
+59,"Acido laurico, g",000,LZ,,,
+60,"Acido miristico, g",000,LZ,,,
+61,"Acido palmitico, g",000,LZ,,,
+62,"Acido stearico, g",000,LZ,,,
+63,"Acido arachidico, g",000,LZ,,,
+64,"Acido beenico, g",000,LZ,,,
+65,"Acidi grassi monoinsaturi totali, g",000,LZ,,,
+66,"Acido miristoleico, g",000,LZ,,,
+67,"Acido palmitoleico, g",000,LZ,,,
+68,"Acido oleico, g",000,LZ,,,
+69,"Acidi eicosenoico, g",000,LZ,,,
+70,"Acido erucico, g",000,LZ,,,
+71,"Acidi grassi polinsaturi totali, g",000,LZ,,,
+72,"Acido linoleico, g",000,LZ,,,
+73,"Acido linolenico, g",000,LZ,,,
+74,"Acido arachidonico, g",000,LZ,,,
+75,"Acido eicosapentaenoico (EPA), g",000,LZ,,,
+76,"Acido decosaesaenoico (DHA), g",000,LZ,,,
+77,"Altri acidi grassi polinsaturi, g",000,86,,,
+78,AMINOACIDI,,,,,
+79,"Treonina, mg",5,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, THR 0.005g"
+80,"Isoleucina, mg",6,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, ILE 0.006g"
+81,"Leucina, mg",11,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, LEU 0.01g"
+82,"Lisina, mg",7,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, LYS 0.007g"
+83,"Metionina, mg",2,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, MET 0.002g"
+84,"Cistina, mg",2,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, CYS 0.002g"
+85,"Fenilalanina, mg",5,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, PHE 0.005g"
+86,"Tirosina, mg",2,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, SUGAR 12.1g, TYR 0.002g"
+87,"Valina, mg",7,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, SUGAR 12.1g, VAL 0.007g"
+88,"Arginina, mg",3,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, SUGAR 12.1g, ARG 0.003g"
+89,"Istidina, mg",2,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, SUGAR 12.1g, HIS 0.002g"
+90,"Alanina, mg",6,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, SUGAR 12.1g, ALA 0.006g"
+91,"Acido aspartico, mg",40,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, SUGAR 12.1g, ASP 0.038g"
+92,"Acido glutammico, mg",15,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, SUGAR 12.1g, GLU 0.014g"
+93,"Glicina, mg",6,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, SUGAR 12.1g, GLY 0.006g"
+94,"Prolina, mg",5,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, SUGAR 12.1g, PRO 0.005g"
+95,"Serina, mg",7,DI,09256,3A,"Pears, Canned, Light Syrup Pack, Solids And Liquids WATER 84.46g, PROT 0.19g, FAT 0.03g, CHO 13.57g, SUGAR 12.1g, SER 0.007g"
+96,ZUCCHERI,,,,,
+97,"Glucosio, g",34,BF,983,,
+98,"Fruttosio, g",61,BF,983,,
+99,"Galattosio, g",00,LZ,,,
+100,"Saccarosio (MSE), g",34,BF,983,,
+101,"Maltosio (MSE), g",02,BF,983,,
+102,"Lattosio (MSE), g",00,BF,983,,

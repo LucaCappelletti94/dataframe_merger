@@ -1,0 +1,104 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Nome Originale: ""Blackcurrants, raw""",,,,,
+2,Categoria merceologica: 4001 - frutta fresca e bacche,,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",98,L,53,,
+7,"Energia, ricalcolata, kJ",121,86,,,
+8,"Energia, Ric con fibra, kJ",183,86,,,
+9,"Energia, ricalcolata, kcal",28,86,,,
+10,"Energia, Ric con fibra, kcal",44,86,,,
+11,"Proteine totali, g",09,L,53,,
+12,"Proteine animali, g",00,LZ,,,
+13,"Proteine vegetali, g",09,L,53,,
+14,"Lipidi totali, g",tr,L,53,,
+15,"Lipidi animali, g",00,LZ,,,
+16,"Lipidi vegetali, g",tr,L,53,,
+17,"Colesterolo, mg",0,LZ,,,
+18,"Carboidrati disponibili (MSE), g",66,L,53,,
+19,"Amido (MSE), g",00,L,53,,
+20,"Carboidrati solubili (MSE), g",66,L,53,,
+21,"Fibra alimentare totale, g",78,L,53,,"metodo Southgate, 3.6g metodo Englyst"
+22,"Alcol, g",00,LZ,,,
+23,"Acqua, g",774,L,53,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",13,L,53,,
+26,"Calcio, mg",60,L,53,,
+27,"Sodio, mg",3,L,53,,
+28,"Potassio, mg",370,L,53,,
+29,"Fosforo, mg",43,L,53,,
+30,"Zinco, mg",030,L,53,,
+31,"Magnesio, mg",17,BF,931,,
+32,"Rame, mg",014,BF,931,,
+33,"Selenio, µg",17,AP,,2,"""Black-currant"" WATER 81.3g, PROT 1.28g, FAT 0.22g, CHO 6.11g"
+34,"Cloro, mg",15,BF,931,,
+35,"Iodio, µg",1,AP,,2,"""Black-currant"" WATER 81.3g, PROT 1.28g, FAT 0.22g, CHO 6.11g"
+36,"Manganese, mg",030,BF,931,,
+37,"Zolfo, mg",33,L,53,,
+38,VITAMINE IDROSOLUBILI,,,,,
+39,"Vitamina B1, Tiamina, mg",003,L,53,,
+40,"Vitamina B2, Riboflavina, mg",006,L,53,,
+41,"Vitamina C, mg",200,L,53,,nota MC: range 150-230 mg vitC/100g
+42,"Niacina, mg",030,L,53,,
+43,"Vitamina B6, mg",008,L,53,,
+44,"Folati totali, µg",9,AP,,2,"""Black-currant"" WATER 81.3g, PROT 1.28g, FAT 0.22g, CHO 6.11g"
+45,"Acido pantotenico, mg",040,BF,931,,
+46,"Biotina, µg",24,BF,931,,
+47,"Vitamina B12, µg",00,LZ,,,
+48,VITAMINE LIPOSOLUBILI,,,,,
+49,Retinolo equivalente,,,,,
+50,"Retinolo eq. (RE), µg",17,L,53,3B,
+51,"Retinolo, µg",0,LZ,,,
+52,"ß-carotene eq., µg",100,L,53,,
+53,"Vitamina E (ATE), mg",100,L,53,,
+54,"Vitamina D, µg",000,LZ,,,
+55,"Vitamina K, µg",3000,AP,,2,"""Black-currant"" WATER 81.3g, PROT 1.28g, FAT 0.22g, CHO 6.11g"
+56,ACIDI GRASSI,,,,,
+57,"Acidi grassi saturi totali, g",000,L,53,,AG=0 quando lip.= tracce
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,LZ,,,
+59,"Acido laurico, g",000,LZ,,,
+60,"Acido miristico, g",000,LZ,,,
+61,"Acido palmitico, g",000,LZ,,,
+62,"Acido stearico, g",000,LZ,,,
+63,"Acido arachidico, g",000,LZ,,,
+64,"Acido beenico, g",000,LZ,,,
+65,"Acidi grassi monoinsaturi totali, g",000,LZ,,,
+66,"Acido miristoleico, g",000,LZ,,,
+67,"Acido palmitoleico, g",000,LZ,,,
+68,"Acido oleico, g",000,LZ,,,
+69,"Acidi eicosenoico, g",000,LZ,,,
+70,"Acido erucico, g",000,LZ,,,
+71,"Acidi grassi polinsaturi totali, g",000,LZ,,,
+72,"Acido linoleico, g",000,LZ,,,
+73,"Acido linolenico, g",000,LZ,,,
+74,"Acido arachidonico, g",000,LZ,,,
+75,"Acido eicosapentaenoico (EPA), g",000,LZ,,,
+76,"Acido decosaesaenoico (DHA), g",000,LZ,,,
+77,"Altri acidi grassi polinsaturi, g",000,86,,,
+78,AMINOACIDI,,,,,
+79,"Triptofano, mg",11,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, TRP 0.008g"
+80,"Treonina, mg",27,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, THR 0.02g"
+81,"Isoleucina, mg",21,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, ILE 0.016g"
+82,"Leucina, mg",46,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, LEU 0.034g"
+83,"Lisina, mg",35,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, LYS 0.026g"
+84,"Metionina, mg",3,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, MET 0.002g"
+85,"Cistina, mg",8,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, CYS 0.006g"
+86,"Fenilalanina, mg",26,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, PHE 0.019g"
+87,"Tirosina, mg",30,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, TYR 0.022g"
+88,"Valina, mg",26,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, VAL 0.019g"
+89,"Arginina, mg",38,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, ARG 0.028g"
+90,"Istidina, mg",16,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, HIS 0.012g"
+91,"Alanina, mg",44,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, ALA 0.033g"
+92,"Acido aspartico, mg",200,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, ASP 0.149g"
+93,"Acido glutammico, mg",132,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, GLU 0.098g"
+94,"Glicina, mg",35,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, GLY 0.026g"
+95,"Prolina, mg",27,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, PRO 0.02g"
+96,"Serina, mg",34,DI,09316,3A,"Strawberries, Raw WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, SER 0.025g"
+97,ZUCCHERI,,,,,
+98,"Glucosio, g",30,BF,931,,
+99,"Fruttosio, g",34,BF,931,,
+100,"Galattosio, g",00,LZ,,,
+101,"Saccarosio (MSE), g",03,BF,931,,
+102,"Maltosio (MSE), g",00,BF,931,,
+103,"Lattosio (MSE), g",00,BF,931,,

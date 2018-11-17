@@ -1,0 +1,99 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Merluzzo conservato mediante salagione e successivo essiccamento, naturale o artificiale.",,,,,
+2,Categoria merceologica: 11004 - pesci vertebrati (conservati) e uova di pesce,,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",75,02,1508,,
+7,"Energia, ricalcolata, kJ",556,86,,,
+8,"Energia, Ric con fibra, kJ",556,86,,,
+9,"Energia, ricalcolata, kcal",131,86,,,
+10,"Energia, Ric con fibra, kcal",131,86,,,
+11,"Proteine totali, g",290,02,1508,,
+12,"Proteine animali, g",290,02,1508,,
+13,"Proteine vegetali, g",00,02,1508,,
+14,"Lipidi totali, g",17,02,1508,,
+15,"Lipidi animali, g",17,02,1508,,
+16,"Lipidi vegetali, g",00,02,1508,,
+17,"Colesterolo, mg",82,02,1508,,"Merluzzo, secco e salato (baccala')"
+18,"Carboidrati disponibili (MSE), g",00,02,1508,,
+19,"Amido (MSE), g",00,02,1508,,
+20,"Carboidrati solubili (MSE), g",00,02,1508,,
+21,"Fibra alimentare totale, g",00,02,1508,,
+22,"Alcol, g",00,02,1508,,
+23,"Acqua, g",524,02,1508,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",18,03,2807,6,"""Baccalà secco"" acqua 52g, lip 0.7g, prot 29g"
+26,"Calcio, mg",66,03,2807,6,
+27,"Sodio, mg",3989,25,15018,1,"""Cod, atlantic dried and salted"" acqua 16.14g, lip 2.37g, prot 62.82g, Na 7027mg"
+28,"Potassio, mg",828,25,15018,1,K=1458mg
+29,"Fosforo, mg",224,03,2807,6,
+30,"Zinco, mg",090,25,15018,1,Zn=1.59mg
+31,"Magnesio, mg",75,AG,15018,1,Mg 133mg
+32,"Rame, mg",010,AG,15018,1,"Cu 0,176mg"
+33,"Selenio, µg",840,AG,15018,1,Se 148µg
+34,"Cloro, mg",76,G,12,2,"""Cod, raw"" acqua 80.8g, prot 18.3g, lip 0.7g"
+35,"Iodio, µg",110,G,12,2,
+36,"Manganese, mg",003,AG,15018,1,"Mn 0,05mg"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",008,03,2807,6,
+39,"Vitamina B2, Riboflavina, mg",023,03,2807,6,
+40,"Vitamina C, mg",0,02,1508,,
+41,"Niacina, mg",240,03,2807,6,
+42,"Vitamina B6, mg",049,25,15018,1,vit B6=0.864mg
+43,"Folati totali, µg",14,25,15018,1,folico=24.7mcg
+44,"Acido pantotenico, mg",095,AG,15018,1,"Mn 0,05mg"
+45,"Biotina, µg",10,G,12,2,
+46,"Vitamina B12, µg",60,AG,15018,1,Vit B12 10µg
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",17,25,15018,1,R=42mcg
+50,"Retinolo, µg",17,25,15018,3B,
+51,"ß-carotene eq., µg",tr,25,15018,3B,
+52,"Vitamina E (ATE), mg",020,25,15018,1,vit E=0.6mg
+53,"Vitamina D, µg",tr,G,12,2,
+54,ACIDI GRASSI,,,,,
+55,"Acidi grassi saturi totali, g",033,AG,15018,3A,"Cod, Atlantic dried and salted lip 2.37AcGrSaturiTot0.46, SommaAcButirrico,caproico,caprilico,caprico0, AcLaurico0, AcMiristico0.03, AcPalmitico0.32, AcStearico0.11, AcArachidico-3, AcBeenico-3, AcGrMonoinsaturiTot0.34, AcMiristoleico-3, AcPalmitoleico0.06, AcOleico0.22, AcEicosenoico0.05, AcErucico0.01, AcGrPolinstauriTot0.8, AcLinoleico0.02, AcLinolenico-2, AcArachidonico0.08, AcEicosapentaenoico(EPA)0.01, AcDecosaesaenoico(DHA)0.42, AltriAcGrPolinsaturi0.04"
+56,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,AG,15018,3A,
+57,"Acido laurico, g",000,AG,15018,3A,
+58,"Acido miristico, g",002,AG,15018,3A,
+59,"Acido palmitico, g",023,AG,15018,3A,
+60,"Acido stearico, g",008,AG,15018,3A,
+61,"Acidi grassi monoinsaturi totali, g",024,AG,15018,3A,
+62,"Acido palmitoleico, g",004,AG,15018,3A,
+63,"Acido oleico, g",016,AG,15018,3A,
+64,"Acidi eicosenoico, g",004,AG,15018,3A,
+65,"Acido erucico, g",001,AG,15018,3A,
+66,"Acidi grassi polinsaturi totali, g",057,AG,15018,3A,
+67,"Acido linoleico, g",001,AG,15018,3A,
+68,"Acido linolenico, g",tr,AG,15018,3A,
+69,"Acido arachidonico, g",006,AG,15018,3A,
+70,"Acido eicosapentaenoico (EPA), g",001,AG,15018,3A,
+71,"Acido decosaesaenoico (DHA), g",030,AG,15018,3A,
+72,"Altri acidi grassi polinsaturi, g",019,86,,,
+73,AMINOACIDI,,,,,
+74,"Triptofano, mg",333,AA,121410,3A,"""Merluzzo"" prot. orig.17,trypto195, threon900, isoleu816, leucine1484, lysine1775, methion588, cystine204, phenilal880, tyrosine682, valine910, arginine1147, histidine512, alanine1161, aspart ac1860, glutam ac2751, glycine813, proline682, serine868"
+75,"Treonina, mg",1535,AA,121410,,
+76,"Isoleucina, mg",1392,AA,121410,,
+77,"Leucina, mg",2532,AA,121410,,
+78,"Lisina, mg",3028,AA,121410,,
+79,"Metionina, mg",1003,AA,121410,,
+80,"Cistina, mg",348,AA,121410,,
+81,"Fenilalanina, mg",1501,AA,121410,,
+82,"Tirosina, mg",1163,AA,121410,,
+83,"Valina, mg",1552,AA,121410,,
+84,"Arginina, mg",1957,AA,121410,,
+85,"Istidina, mg",873,AA,121410,,
+86,"Alanina, mg",1981,AA,121410,,
+87,"Acido aspartico, mg",3173,AA,121410,,
+88,"Acido glutammico, mg",4693,AA,121410,,
+89,"Glicina, mg",1387,AA,121410,,
+90,"Prolina, mg",1163,AA,121410,,
+91,"Serina, mg",1481,AA,121410,,
+92,ZUCCHERI,,,,,
+93,"Glucosio, g",00,02,1508,,
+94,"Fruttosio, g",00,02,1508,,
+95,"Galattosio, g",00,02,1508,,
+96,"Saccarosio (MSE), g",00,02,1508,,
+97,"Maltosio (MSE), g",00,02,1508,,
+98,"Lattosio (MSE), g",00,02,1508,,

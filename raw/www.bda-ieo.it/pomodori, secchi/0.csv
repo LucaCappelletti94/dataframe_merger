@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 2010 - olive, verdure sott’olio, sott’aceto, in agrodolce",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,21,11955,,
+6,"Energia, ricalcolata, kJ",1047,86,,,
+7,"Energia, Ric con fibra, kJ",1145,86,,,
+8,"Energia, ricalcolata, kcal",247,86,,,
+9,"Energia, Ric con fibra, kcal",271,86,,,
+10,"Proteine totali, g",141,21,11955,,
+11,"Proteine animali, g",00,21,11955,,
+12,"Proteine vegetali, g",141,21,11955,,
+13,"Lipidi totali, g",30,21,11955,,
+14,"Lipidi animali, g",00,21,11955,,
+15,"Lipidi vegetali, g",30,21,11955,,
+16,"Colesterolo, mg",0,21,11955,,
+17,"Carboidrati disponibili (MSE), g",435,21,11955,,GD = GD totali - fibra GD tot=55.8g
+18,"Amido (MSE), g",00,21,11955,,"amido =0 perche' assimilato a 02/390, 02/391, 02/392"
+19,"Carboidrati solubili (MSE), g",435,21,11955,,"GD=GS perche' assimilato a 02/390, 02/391, 02/392"
+20,"Fibra alimentare totale, g",123,21,11955,,espressa come fibra totale
+21,"Alcol, g",00,21,11955,,
+22,"Acqua, g",146,21,11955,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",91,21,11955,,
+25,"Calcio, mg",110,21,11955,,
+26,"Sodio, mg",2,21,11955,,approx di 2.095mg
+27,"Potassio, mg",3,21,11955,,approx di 3.4mg
+28,"Fosforo, mg",356,21,11955,,
+29,"Zinco, mg",199,21,11955,,
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",053,21,11955,,
+32,"Vitamina B2, Riboflavina, mg",049,21,11955,,
+33,"Vitamina C, mg",39,21,11955,,
+34,"Niacina, mg",910,21,11955,,
+35,"Vitamina B6, mg",033,21,11955,,
+36,"Folati totali, µg",68,21,11955,,
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",87,21,11955,,
+40,"Retinolo, µg",0,21,11955,,
+41,"ß-carotene eq., µg",522,21,11955,,CALC
+42,"Vitamina E (ATE), mg",001,21,11955,,
+43,"Vitamina D, µg",000,21,11955,,
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",043,21,11955,,
+46,"Acidi grassi monoinsaturi totali, g",049,21,11955,,
+47,"Acido oleico, g",048,21,11955,,
+48,"Acidi grassi polinsaturi totali, g",112,21,11955,,
+49,"Acido linoleico, g",110,21,11955,,
+50,"Acido linolenico, g",001,21,11955,,
+51,"Altri acidi grassi polinsaturi, g",001,86,,,

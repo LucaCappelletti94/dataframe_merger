@@ -1,0 +1,104 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Nome Originale: ""Grapefruit juice, unsweetened""",,,,,
+2,Categoria merceologica: 4010 - succhi e spremute di frutta,,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,L,275,,
+7,"Energia, ricalcolata, kJ",143,86,,,
+8,"Energia, Ric con fibra, kJ",143,86,,,
+9,"Energia, ricalcolata, kcal",34,86,,,
+10,"Energia, Ric con fibra, kcal",34,86,,,
+11,"Proteine totali, g",04,L,275,,
+12,"Proteine animali, g",00,LZ,,,
+13,"Proteine vegetali, g",04,L,275,,
+14,"Lipidi totali, g",01,L,275,,
+15,"Lipidi animali, g",00,LZ,,,
+16,"Lipidi vegetali, g",01,L,275,,
+17,"Colesterolo, mg",0,LZ,,,
+18,"Carboidrati disponibili (MSE), g",83,L,275,,
+19,"Amido (MSE), g",00,L,275,,
+20,"Carboidrati solubili (MSE), g",83,L,275,,
+21,"Fibra alimentare totale, g",tr,L,275,,metodo Southgate (metodo Englyst coincide)
+22,"Alcol, g",00,LZ,,,
+23,"Acqua, g",894,L,275,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",02,L,275,,
+26,"Calcio, mg",14,L,275,,
+27,"Sodio, mg",7,L,275,,
+28,"Potassio, mg",100,L,275,,
+29,"Fosforo, mg",11,L,275,,
+30,"Zinco, mg",tr,L,275,,
+31,"Magnesio, mg",8,BF,1124,,
+32,"Rame, mg",001,BF,1124,,
+33,"Selenio, µg",10,BF,1124,,
+34,"Cloro, mg",4,BF,1124,,
+35,"Iodio, µg",1,DM,,2,"""Grapefruit juice, raw, unsweetened"" WATER 89.9g, PROT 0.4g, FAT 0.05, CHO 8.04g, SUGAR 8.04g"
+36,"Manganese, mg",020,BF,1124,,
+37,"Zolfo, mg",4,L,275,,
+38,VITAMINE IDROSOLUBILI,,,,,
+39,"Vitamina B1, Tiamina, mg",004,L,275,,
+40,"Vitamina B2, Riboflavina, mg",001,L,275,,
+41,"Vitamina C, mg",31,L,275,,nota MC: la qta' di vitC varia con la tipologia di conservazione e di confezionamento del prodotto.
+42,"Niacina, mg",020,L,275,,
+43,"Vitamina B6, mg",002,L,275,,
+44,"Folati totali, µg",6,L,275,,
+45,"Acido pantotenico, mg",008,BF,1124,,
+46,"Biotina, µg",10,BF,1124,,
+47,"Vitamina B12, µg",00,LZ,,,
+48,VITAMINE LIPOSOLUBILI,,,,,
+49,Retinolo equivalente,,,,,
+50,"Retinolo eq. (RE), µg",tr,L,275,3B,
+51,"Retinolo, µg",0,LZ,,,
+52,"ß-carotene eq., µg",1,L,275,,
+53,"Vitamina E (ATE), mg",019,L,275,,
+54,"Vitamina D, µg",000,LZ,,,
+55,"Vitamina K, µg",000,DI,09123,2,"""GRapefruit juice, white, canned, unsweetened"" WATER 90.1g, PROT 0.52g, FAT 0.1g, CHO 8.96g, SUGAR 8.86g"
+56,ACIDI GRASSI,,,,,
+57,"Acidi grassi saturi totali, g",001,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90.1g, PROT 0.52g, FAT 0.1g, CHO 8.86g, SUGAR 8.86g, FASAT 0.01g"
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90.1g, PROT 0.52g, FAT 0.1g, CHO 8.86g, SUGAR 8.86g, F4-10:0 0g"
+59,"Acido laurico, g",000,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, CHO 8,86g, SUGAR 8,86g, F12:0 0g"
+60,"Acido miristico, g",000,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, CHO 8,86g, SUGAR 8,86g, F14:0 0g"
+61,"Acido palmitico, g",001,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, CHO 8,86g, SUGAR 8,86g, F16:0 0,01g"
+62,"Acido stearico, g",tr,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, CHO 8,86g, SUGAR 8,86g, F18:0 -2g"
+63,"Acido arachidico, g",000,87,,,
+64,"Acido beenico, g",000,87,,,
+65,"Acidi grassi monoinsaturi totali, g",001,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, CHO 8,86g, SUGAR 8,86g, FAMS 0,01g"
+66,"Acido miristoleico, g",000,87,,,
+67,"Acido palmitoleico, g",tr,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, CHO 8,86g, SUGAR 8,86g, F16:1CN7 -2g"
+68,"Acido oleico, g",001,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, CHO 8,86g, SUGAR 8,86g, F18:1 0,01g"
+69,"Acidi eicosenoico, g",000,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, CHO 8,86g, SUGAR 8,86g, F20:1 0g"
+70,"Acido erucico, g",000,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, CHO 8,86g, F22:1CN9 0g"
+71,"Acidi grassi polinsaturi totali, g",002,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, CHO 8,86g, SUGAR 8,86g, FAPU 0,02g"
+72,"Acido linoleico, g",002,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, CHO 8,86g, SUGAR 8,86g, F18:2 0,02g"
+73,"Acido linolenico, g",001,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, F18:3 0,01g"
+74,"Acido arachidonico, g",000,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, F20:4N6 0g"
+75,"Acido eicosapentaenoico (EPA), g",000,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, F20:5N3 0g"
+76,"Acido decosaesaenoico (DHA), g",000,DI,09123,3A,"Grapefruit Juice, White, Canned, Unsweetened WATER 90,1g, PROT 0,52g, FAT 0,1g, CHO 8,86g, F22:6 0g"
+77,"Altri acidi grassi polinsaturi, g",000,86,,,
+78,AMINOACIDI,,,,,
+79,"Triptofano, mg",3,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89,8g, PROT 0,3g, FAT TR g, CHO 7,9g, SUGAR 7,9g, TRP 2mg"
+80,"Treonina, mg",7,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89,8g, PROT 0,3g, FAT TR g, CHO 7,9g, SUGAR 7,9g, THR 5mg"
+81,"Isoleucina, mg",12,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89,8g, PROT 0,3g, FAT TR g, CHO 7,9g, SUGAR 7,9g, STARCH TR g, ILE 9mg"
+82,"Leucina, mg",12,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89,8g, PROT 0,3g, FAT TR g, CHO 7,9g, SUGAR 7,9g, LEU 9mg"
+83,"Lisina, mg",23,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89,8g, PROT 0,3g, FAT TR g, CHO 7,9g, SUGAR 7,9g, STARCH TR g, LYS 17mg"
+84,"Metionina, mg",7,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89,8g, PROT 0,3g, FAT TR g, CHO 7,9g, SUGAR 7,9g, MET 5mg"
+85,"Cistina, mg",5,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89,8g, PROT 0,3g, FAT TR g, CHO 7,9g, SUGAR 7,9g, STARCH TR g, CYS 4mg"
+86,"Fenilalanina, mg",16,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89,8g, PROT 0,3g, FAT TR g, CHO 7,9g, SUGAR 7,9g, STARCH TR g, PHE 12mg"
+87,"Tirosina, mg",9,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89,8g, PROT 0,3g, FAT TR g, CHO 7,9g, SUGAR 7,9g, STARCH TR g, TYR 7mg"
+88,"Valina, mg",16,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89.8g, PROT 0.3g, FAT TR g, CHO 7.9g, SUGAR 7.9g, STARCH TR g, VAL 12mg"
+89,"Arginina, mg",27,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89.8g, PROT 0.3g, FAT TR g, CHO 7.9g, SUGAR 7.9g, STARCH TR g, ARG 20mg"
+90,"Istidina, mg",7,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89.8g, PROT 0.3g, FAT TR g, CHO 7.9g, SUGAR 7.9g, STARCH TR g, HIS 5mg"
+91,"Alanina, mg",27,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89.8g, PROT 0.3g, FAT TR g, CHO 7.9g, SUGAR 7.9g, STARCH TR g, ALA 20mg"
+92,"Acido aspartico, mg",59,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89.8g, PROT 0.3g, FAT TR g, CHO 7.9g, SUGAR 7.9g, STARCH TR g, ASP 44mg"
+93,"Acido glutammico, mg",51,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89.8g, PROT 0.3g, FAT TR g, CHO 7.9g, SUGAR 7.9g, STARCH TR g, GLU 38mg"
+94,"Glicina, mg",43,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89.8g, PROT 0.3g, FAT TR g, CHO 7.9g, SUGAR 7.9g, STARCH TR g, GLY 32mg"
+95,"Prolina, mg",24,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89,8g, PROT 0,3g, FAT TR g, CHO 7,9g, SUGAR 7,9g, PRO 18 mg"
+96,"Serina, mg",12,E,879,3B,"Grapefruit Juice Canned, Unsweetened WATER 89,8g, PROT 0,3g, FAT TR g, CHO 7,9g, SUGAR 7,9g, SER 9mg"
+97,ZUCCHERI,,,,,
+98,"Glucosio, g",30,BF,1124,,
+99,"Fruttosio, g",33,BF,1124,,
+100,"Galattosio, g",00,LZ,,,
+101,"Saccarosio (MSE), g",20,BF,1124,,
+102,"Maltosio (MSE), g",00,BF,1124,,
+103,"Lattosio (MSE), g",00,BF,1124,,

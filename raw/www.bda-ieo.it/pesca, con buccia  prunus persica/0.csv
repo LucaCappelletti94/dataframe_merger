@@ -1,0 +1,100 @@
+,0,1,2,3,4,5
+1,Categoria merceologica: 4001 - frutta fresca e bacche,,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",91,02,425,,
+6,"Energia, ricalcolata, kJ",115,86,,,
+7,"Energia, Ric con fibra, kJ",128,86,,,
+8,"Energia, ricalcolata, kcal",27,86,,,
+9,"Energia, Ric con fibra, kcal",30,86,,,
+10,"Proteine totali, g",08,02,425,,
+11,"Proteine animali, g",00,LZ,,,
+12,"Proteine vegetali, g",08,02,425,,
+13,"Lipidi totali, g",01,02,425,,
+14,"Lipidi animali, g",00,LZ,,,
+15,"Lipidi vegetali, g",01,02,425,,
+16,"Colesterolo, mg",0,LZ,,,
+17,"Carboidrati disponibili (MSE), g",61,02,425,,
+18,"Amido (MSE), g",00,02,425,,
+19,"Carboidrati solubili (MSE), g",61,02,425,,
+20,"Fibra alimentare totale, g",16,AO,007280,,
+21,"Alcol, g",00,LZ,,,
+22,"Acqua, g",907,02,425,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",04,02,425,,
+25,"Calcio, mg",8,AO,007280,,
+26,"Sodio, mg",3,02,425,,
+27,"Potassio, mg",260,02,425,,
+28,"Fosforo, mg",20,02,425,,
+29,"Zinco, mg",035,AO,007280,,
+30,"Magnesio, mg",9,AO,007280,,
+31,"Rame, mg",004,AO,007280,,
+32,"Selenio, µg",10,L,183,6B,"""Peaches, raw"" WATER 88.9g, PROT 1g, FAT 0.1g, CHO 7.6g, SUGAR 7.6g"
+33,"Cloro, mg",tr,L,183,6B,"""Peaches, raw"" WATER 88.9g, PROT 1g, FAT 0.1g, CHO 7.6g, SUGAR 7.6g"
+34,"Iodio, µg",3,L,183,6B,"""Peaches, raw"" WATER 88.9g, PROT 1g, FAT 0.1g, CHO 7.6g, SUGAR 7.6g"
+35,"Manganese, mg",010,L,183,6B,"""Peaches, raw"" WATER 88.9g, PROT 1g, FAT 0.1g, CHO 7.6g, SUGAR 7.6g"
+36,"Zolfo, mg",6,L,183,6B,"""Peaches, raw"" WATER 88.9g, PROT 1g, FAT 0.1g, CHO 7.6g, SUGAR 7.6g"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",001,02,425,,
+39,"Vitamina B2, Riboflavina, mg",003,02,425,,
+40,"Vitamina C, mg",4,02,425,,
+41,"Niacina, mg",050,02,425,,
+42,"Vitamina B6, mg",002,L,183,6B,"""Peaches, raw"" WATER 88.9g, PROT 1g, FAT 0.1g, CHO 7.6g, SUGAR 7.6g"
+43,"Folati totali, µg",3,L,183,6B,"""Peaches, raw"" WATER 88.9g, PROT 1g, FAT 0.1g, CHO 7.6g, SUGAR 7.6g"
+44,"Acido pantotenico, mg",017,L,183,6B,"""Peaches, raw"" WATER 88.9g, PROT 1g, FAT 0.1g, CHO 7.6g, SUGAR 7.6g"
+45,"Biotina, µg",02,L,183,6B,"""Peaches, raw"" WATER 88.9g, PROT 1g, FAT 0.1g, CHO 7.6g, SUGAR 7.6g"
+46,"Vitamina B12, µg",00,LZ,,,
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",27,02,425,,
+50,"Retinolo, µg",0,LZ,,,
+51,"ß-carotene eq., µg",162,02,425,3B,
+52,"Vitamina E (ATE), mg",073,DI,09236,4A,"""Peaches, raw"" WATER 88.87g, PROT 0.91g, FAT 0.25g, CHO 9.54g, SUGAR 8.39g, TOCPHA 0.73mg, TOCPHG 0.02mg"
+53,"Vitamina D, µg",000,LZ,,,
+54,"Vitamina K, µg",580,BF,977,6B,"""Peaches, raw"" WATER 88.9g, PROT 1g, FAT 0.1g, CHO 7.6g, SUGAR 7.6g"
+55,ACIDI GRASSI,,,,,
+56,"Acidi grassi saturi totali, g",001,19,09236,,"non RIPR riferito a Peaches, raw; lip=0.09g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,AG,09236,6,
+58,"Acido laurico, g",000,AG,09236,6,
+59,"Acido miristico, g",000,AG,09236,6,
+60,"Acido palmitico, g",001,AG,09236,6,
+61,"Acido stearico, g",tr,AG,09236,6,
+62,"Acidi grassi monoinsaturi totali, g",003,19,09236,,
+63,"Acido palmitoleico, g",tr,AG,09236,6,
+64,"Acido oleico, g",003,19,09236,,
+65,"Acidi eicosenoico, g",000,AG,09236,6,
+66,"Acido erucico, g",000,AG,09236,6,
+67,"Acidi grassi polinsaturi totali, g",005,19,09236,,
+68,"Acido linoleico, g",004,19,09236,,
+69,"Acido linolenico, g",tr,19,09236,,
+70,"Acido arachidonico, g",000,AG,09236,6,
+71,"Acido eicosapentaenoico (EPA), g",000,AG,09236,6,
+72,"Acido decosaesaenoico (DHA), g",000,AG,09236,6,
+73,"Altri acidi grassi polinsaturi, g",001,86,,,
+74,AMINOACIDI,,,,,
+75,"Triptofano, mg",4,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, TRP 4mg"
+76,"Treonina, mg",24,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, THR 27mg"
+77,"Isoleucina, mg",11,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, ILE 13mg"
+78,"Leucina, mg",25,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, LEU 29mg"
+79,"Lisina, mg",26,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, LYS 30mg"
+80,"Metionina, mg",8,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, MET 9mg"
+81,"Cistina, mg",8,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, CYS 9mg"
+82,"Fenilalanina, mg",16,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, PHE 18mg"
+83,"Tirosina, mg",18,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, TYR 21mg"
+84,"Valina, mg",35,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, VAL 40mg"
+85,"Arginina, mg",15,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, ARG 17mg"
+86,"Istidina, mg",15,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, HIS 17mg"
+87,"Alanina, mg",35,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, ALA 40mg"
+88,"Acido aspartico, mg",81,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, ASP 92mg"
+89,"Acido glutammico, mg",125,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, GLU 143mg"
+90,"Glicina, mg",14,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, GLY 16mg"
+91,"Prolina, mg",24,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, PRO 27mg"
+92,"Serina, mg",30,AO,007280,3A,"Pesche, Senza Buccia WATER 90,7g, PROT 0,8g, FAT 0,1g, CHO 6,1g, SUGAR 6,1g, SER 34mg"
+93,ZUCCHERI,,,,,
+94,"Glucosio, g",08,BF,977,3A,"""Peaches, Raw"" WATER 88,9g, PROT 1g, FAT 0,1g, CHO 7,6g, SUGAR 7,6g, GLUS 1,1g"
+95,"Fruttosio, g",08,BF,977,3A,"""Peaches, Raw"" WATER 88,9g, PROT 1g, FAT 0,1g, CHO 7,6g, SUGAR 7,6g, FRUS 1,1g"
+96,"Galattosio, g",00,LZ,,,
+97,"Saccarosio (MSE), g",40,BF,977,3A,"""Peaches, Raw"" WATER 88,9g, PROT 1g, FAT 0,1g, CHO 7,6g, SUGAR 7,6g, SUCS 5,2g"
+98,"Maltosio (MSE), g",00,BF,977,3A,"""Peaches, Raw"" WATER 88,9g, PROT 1g, FAT 0,1g, CHO 7,6g, SUGAR 7,6g, MALS 0g"
+99,"Lattosio (MSE), g",00,LZ,,,

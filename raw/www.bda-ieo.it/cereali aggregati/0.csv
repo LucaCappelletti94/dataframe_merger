@@ -1,0 +1,53 @@
+,0,1,2,3,4,5
+1,"Note Alimento: alimento interamente aggiornato In nota sono riportati i valori nutrizionali dell'etichetta ""Weetabix"" -aprile 1997. Ingredienti: farina integrale, estratto di malto, zucchero, sale, vit PP, ferro solfato, B1, B2, acido folico In base all'identificazione degli ingredienti e' stato considerato alimento di origine vegetale.",,,,,
+2,"Categoria merceologica: 8003 - fiocchi, pop corn, crusca (anche in compresse) soffiati",,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,07,154,,
+7,"Energia, ricalcolata, kJ",1454,86,,,
+8,"Energia, Ric con fibra, kJ",1547,86,,,
+9,"Energia, ricalcolata, kcal",342,86,,,
+10,"Energia, Ric con fibra, kcal",365,86,,,
+11,"Proteine totali, g",107,07,154,,prot=11.5g
+12,"Proteine animali, g",00,07,154,,
+13,"Proteine vegetali, g",107,07,154,,
+14,"Lipidi totali, g",20,07,154,,lip=2.7g
+15,"Lipidi animali, g",00,07,154,,
+16,"Lipidi vegetali, g",20,07,154,,
+17,"Colesterolo, mg",0,07,154,,
+18,"Carboidrati disponibili (MSE), g",749,07,154,,GD=67.3g
+19,"Amido (MSE), g",685,07,154,,
+20,"Carboidrati solubili (MSE), g",64,07,154,,GS=4.7g
+21,"Fibra alimentare totale, g",116,07,154,,"metodo Southgate metodo Englyst fibra=9.7g in etichetta: fibra solubile=3.2g, fibra insolubile=7.7g"
+22,"Alcol, g",00,07,154,,
+23,"Acqua, g",58,07,154,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",60,07,154,,Fe=11.9mg
+26,"Calcio, mg",35,07,154,,
+27,"Sodio, mg",370,07,154,,Na=300mg
+28,"Potassio, mg",370,07,154,,
+29,"Fosforo, mg",290,07,154,,
+30,"Zinco, mg",200,07,154,,
+31,VITAMINE IDROSOLUBILI,,,,,
+32,"Vitamina B1, Tiamina, mg",070,07,154,,B1=1.2mg
+33,"Vitamina B2, Riboflavina, mg",100,07,154,,B2=1.4mg
+34,"Vitamina C, mg",0,07,154,,
+35,"Niacina, mg",1000,07,154,,niacina=15.3mg
+36,"Vitamina B6, mg",022,07,154,,
+37,"Folati totali, µg",50,07,154,,acido folico=170mcg
+38,VITAMINE LIPOSOLUBILI,,,,,
+39,Retinolo equivalente,,,,,
+40,"Retinolo eq. (RE), µg",0,07,154,,
+41,"Retinolo, µg",0,07,154,,
+42,"ß-carotene eq., µg",0,07,154,,
+43,"Vitamina E (ATE), mg",103,07,154,,
+44,"Vitamina D, µg",000,07,154,,
+45,ACIDI GRASSI,,,,,
+46,"Acidi grassi saturi totali, g",046,02,APP,,RIPR riferito a Frumento (ingred.principale) lip=1.0g saturi=0.23g 18:1=0.11g mono=0.11g 18:2=0.58g 18:3=0.03g altri PUFA=0 PUFA=0.61g in etichetta: saturi=0.7g
+47,"Acidi grassi monoinsaturi totali, g",022,02,APP,,
+48,"Acido oleico, g",022,02,APP,,
+49,"Acidi grassi polinsaturi totali, g",122,02,APP,,
+50,"Acido linoleico, g",116,02,APP,,
+51,"Acido linolenico, g",006,02,APP,,
+52,"Altri acidi grassi polinsaturi, g",000,86,,,

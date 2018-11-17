@@ -1,0 +1,101 @@
+,0,1,2,3,4,5
+1,Categoria merceologica: 4001 - frutta fresca e bacche,,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",66,02,423,,
+6,"Energia, ricalcolata, kJ",119,86,,,
+7,"Energia, Ric con fibra, kJ",136,86,,,
+8,"Energia, ricalcolata, kcal",28,86,,,
+9,"Energia, Ric con fibra, kcal",32,86,,,
+10,"Proteine totali, g",04,02,423,,
+11,"Proteine animali, g",00,LZ,,,
+12,"Proteine vegetali, g",04,02,423,,
+13,"Lipidi totali, g",04,02,423,,
+14,"Lipidi animali, g",00,LZ,,,
+15,"Lipidi vegetali, g",04,02,423,,
+16,"Colesterolo, mg",0,LZ,,,
+17,"Carboidrati disponibili (MSE), g",61,02,423,,
+18,"Amido (MSE), g",00,02,423,,
+19,"Carboidrati solubili (MSE), g",61,02,423,,
+20,"Fibra alimentare totale, g",21,02,423,,
+21,"Alcol, g",00,LZ,,,
+22,"Acqua, g",853,02,423,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",03,02,423,,
+25,"Calcio, mg",16,02,423,,
+26,"Sodio, mg",6,02,423,,
+27,"Potassio, mg",250,02,423,,
+28,"Fosforo, mg",11,02,423,,
+29,"Zinco, mg",005,DI,09174,6,"""Loquats, raw"" WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 12.14g"
+30,"Magnesio, mg",13,DI,09174,6,"""Loquats, raw"" WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 12.14g"
+31,"Rame, mg",004,DI,09174,6,"""Loquats, raw"" WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 12.14g"
+32,"Selenio, µg",06,DI,09174,6,"""Loquats, raw"" WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 12.14g"
+33,"Cloro, mg",3,L,152,2,"""Medlars"" WATER 74.5g, PROT 0.5g, FAT tr, CHO 10.6g, SUGAR 10.6g"
+34,"Iodio, µg",1,DM,,2,"""Loquat, pulp, raw"" WATER 85g, PROT 0.41g, FAT 0.267g, CHO 12g, SUGAR 6.1g"
+35,"Manganese, mg",015,DI,09174,6,"""Loquats, raw"" WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 12.14g"
+36,"Zolfo, mg",17,L,152,2,
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",004,02,423,,
+39,"Vitamina B2, Riboflavina, mg",005,02,423,,
+40,"Vitamina C, mg",1,AO,007250,,
+41,"Niacina, mg",040,02,423,,
+42,"Vitamina B6, mg",010,DI,09174,6,"""Loquats, raw"" WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 12.14g"
+43,"Folati totali, µg",14,DI,09174,6,"""Loquats, raw"" WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 12.14g"
+44,"Acido pantotenico, mg",024,DI,09021,2,"""Apricots, raw"" WATER 86.35g, PROT 1.4g, FAT 0.39g, CHO 11.12g, SUGAR 9.24g"
+45,"Biotina, µg",02,BF,977,2,"""Peaches, raw"" WATER 88.9g, PROT 1g, FAT 0.1g, CHO 7.6g, SUGAR 7.6g"
+46,"Vitamina B12, µg",00,LZ,,,
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",170,AO,007250,,
+50,"Retinolo, µg",0,LZ,,,
+51,"ß-carotene eq., µg",1020,AO,007250,3B,
+52,"Vitamina E (ATE), mg",089,DI,09021,2,"""Apricots, raw"" WATER 86.35g, PROT 1.4g, FAT 0.39g, CHO 11.12g, SUGAR 9.24g, solo TOCPHA"
+53,"Vitamina D, µg",000,LZ,,,
+54,"Vitamina K, µg",330,DI,09021,2,"""Apricots, raw"" WATER 86.35g, PROT 1.4g, FAT 0.39g, CHO 11.12g, SUGAR 9.24g"
+55,ACIDI GRASSI,,,,,
+56,"Acidi grassi saturi totali, g",008,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, FASAT 0.04g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, F4-10:0 0.001g"
+58,"Acido laurico, g",000,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, F12:0 0,001g"
+59,"Acido miristico, g",000,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, F14:0 0,001g"
+60,"Acido palmitico, g",006,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, F16:0 0,032g"
+61,"Acido stearico, g",001,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, F18:0 0,004g"
+62,"Acidi grassi monoinsaturi totali, g",002,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, FAMS 0,008g"
+63,"Acido miristoleico, g",000,87,,,
+64,"Acido palmitoleico, g",000,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, F16:1CN7 0g"
+65,"Acido oleico, g",002,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, F18:1 0,008g"
+66,"Acidi eicosenoico, g",000,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, F20:1 0g"
+67,"Acido erucico, g",000,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, F22:1CN9 0g"
+68,"Acidi grassi polinsaturi totali, g",018,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, FAPU 0,091g"
+69,"Acido linoleico, g",015,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, F18:2 0,077g"
+70,"Acido linolenico, g",003,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, F18:3 0,013g"
+71,"Acido arachidonico, g",000,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, F20:4N6 0g"
+72,"Acido eicosapentaenoico (EPA), g",000,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, F20:5N3 0g"
+73,"Acido decosaesaenoico (DHA), g",000,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86,73g, PROT 0,43g, FAT 0,2g, CHO 10,44g, F22:6 0g"
+74,"Altri acidi grassi polinsaturi, g",000,86,,,
+75,AMINOACIDI,,,,,
+76,"Triptofano, mg",5,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, TRP 0.005g"
+77,"Treonina, mg",14,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, THR 0.015g"
+78,"Isoleucina, mg",14,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, ILE 0.015g"
+79,"Leucina, mg",24,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, LEU 0.026g"
+80,"Lisina, mg",21,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, LYS 0.023g"
+81,"Metionina, mg",4,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, MET 0.004g"
+82,"Cistina, mg",6,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, CYS 0.006g"
+83,"Fenilalanina, mg",13,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, PHE 0.014g"
+84,"Tirosina, mg",12,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, TYR 0.013g"
+85,"Valina, mg",20,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, VAL 0.021g"
+86,"Arginina, mg",13,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, ARG 0.014g"
+87,"Istidina, mg",7,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, HIS 0.007g"
+88,"Alanina, mg",22,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, ALA 0.024g"
+89,"Acido aspartico, mg",54,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, ASP 0.058g"
+90,"Acido glutammico, mg",57,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, GLU 0.061g"
+91,"Glicina, mg",19,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, GLY 0.02g"
+92,"Prolina, mg",25,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, PRO 0.027g"
+93,"Serina, mg",19,DI,09174,3B,"Loquats, Raw [Eriobotrya Japonica] WATER 86.73g, PROT 0.43g, FAT 0.2g, CHO 10.44g, SER 0.02g"
+94,ZUCCHERI,,,,,
+95,"Glucosio, g",26,L,140,3B,"Loquats, Raw WATER 88.5g, PROT 0.7g, FAT 0.2g, CHO 6.3g, SUGAR 6.3g, GLUS 2.7g"
+96,"Fruttosio, g",29,L,140,3B,"Loquats, Raw WATER 88.5g, PROT 0.7g, FAT 0.2g, CHO 6.3g, SUGAR 6.3g, FRUS 3g"
+97,"Galattosio, g",00,LZ,,,
+98,"Saccarosio (MSE), g",06,L,140,3B,"Loquats, Raw WATER 88.5g, PROT 0.7g, FAT 0.2g, CHO 6.3g, SUGAR 6.3g, SUCS 0.6g"
+99,"Maltosio (MSE), g",00,L,140,3B,"Loquats, Raw WATER 88.5g, PROT 0.7g, FAT 0.2g, CHO 6.3g, SUGAR 6.3g, MALS 0g"
+100,"Lattosio (MSE), g",00,LZ,,,

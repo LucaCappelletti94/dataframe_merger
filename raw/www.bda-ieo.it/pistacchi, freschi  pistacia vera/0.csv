@@ -1,0 +1,104 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Nome Originale: ""Pistachio, immature nuts""",,,,,
+2,"Categoria merceologica: 4003 - frutta secca e in guscio, semi edibili",,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,51,243,,per il frutto intero: P.E.=64
+7,"Energia, ricalcolata, kJ",1686,86,,,
+8,"Energia, Ric con fibra, kJ",1698,86,,,
+9,"Energia, ricalcolata, kcal",406,86,,,
+10,"Energia, Ric con fibra, kcal",409,86,,,
+11,"Proteine totali, g",128,51,243,,
+12,"Proteine animali, g",00,LZ,,,
+13,"Proteine vegetali, g",128,51,243,,
+14,"Lipidi totali, g",326,51,243,,
+15,"Lipidi animali, g",00,LZ,,,
+16,"Lipidi vegetali, g",326,51,243,,
+17,"Colesterolo, mg",0,LZ,,,
+18,"Carboidrati disponibili (MSE), g",164,51,243,,
+19,"Amido (MSE), g",73,AO,008600,3A,"""Pistacchi"" WATER 3.9g, PROT 18.1g, FAT 56.1g, CHO 8.1g, SUGAR 4.5g, STARCH 3.3g (3.6g monosaccaridi)"
+20,"Carboidrati solubili (MSE), g",91,AO,008600,3A,"""Pistacchi"" WATER 3.9g, PROT 18.1g, FAT 56.1g, CHO 8.1g, SUGAR 4.5g, STARCH 3.3g"
+21,"Fibra alimentare totale, g",15,51,243,,espressa come fibra totale
+22,"Alcol, g",00,LZ,,,
+23,"Acqua, g",352,51,243,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",28,51,243,,
+26,"Calcio, mg",65,51,243,,
+27,"Sodio, mg",9,51,243,,
+28,"Potassio, mg",501,51,243,,
+29,"Fosforo, mg",164,51,243,,
+30,"Zinco, mg",237,AO,008600,2,"""Pistacchi"" WATER 3.9g, PROT 18.1g, FAT 56.1g, CHO 8.1g, SUGAR 4.5g, STARCH 3.3g"
+31,"Magnesio, mg",158,AO,008600,2,"""Pistacchi"" WATER 3.9g, PROT 18.1g, FAT 56.1g, CHO 8.1g, SUGAR 4.5g, STARCH 3.3g"
+32,"Rame, mg",075,AO,008600,2,"""Pistacchi"" WATER 3.9g, PROT 18.1g, FAT 56.1g, CHO 8.1g, SUGAR 4.5g, STARCH 3.3g"
+33,"Selenio, µg",80,AO,008600,2,"""Pistacchi"" WATER 3.9g, PROT 18.1g, FAT 56.1g, CHO 8.1g, SUGAR 4.5g, STARCH 3.3g"
+34,"Cloro, mg",7,BF,1018,2,"""Peanuts, plain"" WATER 6.3g, PROT 25.6g, FAT 46.1g, CHO 12.5g, SUGAR 6.2g, STARCH 6.3g"
+35,"Iodio, µg",6,DM,,2,"""Pistachio nut, roasted, salted"" WATER 1.97g, PROT 24.9g, FAT 46.4g, CHO 12g, SUGAR 5.4g, STARCH 2.05g"
+36,"Manganese, mg",120,DI,12151,2,"""Nuts, pistachio nuts, raw"" WATER 3.91g, PROT 20.27g, FAT 45.39g, CHO 27.51g, SUGAR 7.66g, STARCH 1.67g"
+37,"Zolfo, mg",160,DO,11B10167,2,"""Nut, pistachio, unsalted"" WATER 3.8g, PROT 19.7g, FAT 50.6g, CHO 6.8g, SUGAR 5.9g, STARCH 0.9g"
+38,VITAMINE IDROSOLUBILI,,,,,
+39,"Vitamina B1, Tiamina, mg",050,51,243,,
+40,"Vitamina B2, Riboflavina, mg",030,51,243,,
+41,"Vitamina C, mg",1,51,243,,
+42,"Niacina, mg",100,51,243,,
+43,"Vitamina B6, mg",170,DI,12151,2,"""Nuts, pistachio nuts, raw"" WATER 3.91g, PROT 20.27g, FAT 45.39g, CHO 27.51g, SUGAR 7.66g, STARCH 1.67g"
+44,"Folati totali, µg",51,DI,12151,2,"""Nuts, pistachio nuts, raw"" WATER 3.91g, PROT 20.27g, FAT 45.39g, CHO 27.51g, SUGAR 7.66g, STARCH 1.67g"
+45,"Acido pantotenico, mg",052,DI,12151,2,"""Nuts, pistachio nuts, raw"" WATER 3.91g, PROT 20.27g, FAT 45.39g, CHO 27.51g, SUGAR 7.66g, STARCH 1.67g"
+46,"Biotina, µg",300,DO,11B10167,2,"""Nut, pistachio, unsalted"" WATER 3.8g, PROT 19.7g, FAT 50.6g, CHO 6.8g, SUGAR 5.9g, STARCH 0.9g"
+47,"Vitamina B12, µg",00,LZ,,,
+48,VITAMINE LIPOSOLUBILI,,,,,
+49,Retinolo equivalente,,,,,
+50,"Retinolo eq. (RE), µg",87,51,243,3B,
+51,"Retinolo, µg",0,LZ,,,
+52,"ß-carotene eq., µg",522,51,243,,espressa come beta-carotene equivalente
+53,"Vitamina E (ATE), mg",457,DI,12151,2,"""Nuts, pistachio nuts, raw"" WATER 3.91g, PROT 20.27g, FAT 45.39g, CHO 27.51g, SUGAR 7.66g, STARCH 1.67g, TOCPHA 2.30mg, TOCPHG 22.60mg, TOCPHD 0.8mg"
+54,"Vitamina D, µg",000,LZ,,,
+55,"Vitamina K, µg",6000,DB,,2,"""Pistachio [Pistacia Vera L.]"" WATER 5.90g, PROT 20.8g, FAT 51.6g, CHO 11.6g"
+56,ACIDI GRASSI,,,,,
+57,"Acidi grassi saturi totali, g",326,AO,008600,3A,"Pistacchi WATER 3.9g, PROT 18.1g, FAT 56.1g, CHO 8.1g, SUGAR 4.5g, STARCH 3.3g, FASAT 5.61g"
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,AO,008600,3A,"Pistacchi WATER 3.9g, PROT 18.1g, FAT 56.1g, CHO 8.1g, SUGAR 4.5g, STARCH 3.3g, F4-10:0 0g"
+59,"Acido laurico, g",000,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F12:0 0g"
+60,"Acido miristico, g",000,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F14:0 0g"
+61,"Acido palmitico, g",261,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F16:0 4,49g"
+62,"Acido stearico, g",065,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F18:0 1,12g"
+63,"Acido arachidico, g",000,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F20:0 0g"
+64,"Acido beenico, g",000,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F22:0 0g"
+65,"Acidi grassi monoinsaturi totali, g",2119,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, FAMS 36,47g"
+66,"Acido miristoleico, g",000,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F14:1CN5 0g"
+67,"Acido palmitoleico, g",000,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F16:1CN7 0g"
+68,"Acido oleico, g",2119,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F18:1 36,47g"
+69,"Acidi eicosenoico, g",000,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F20:1 0g"
+70,"Acido erucico, g",000,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F22:1CN9 0g"
+71,"Acidi grassi polinsaturi totali, g",620,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, FAPU 10,66g"
+72,"Acido linoleico, g",620,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F18:2 10,66g"
+73,"Acido linolenico, g",000,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F18:3 0g"
+74,"Acido arachidonico, g",000,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F20:4N6 0g"
+75,"Acido eicosapentaenoico (EPA), g",000,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F20:5N3 0g"
+76,"Acido decosaesaenoico (DHA), g",000,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, F22:6 0g"
+77,"Altri acidi grassi polinsaturi, g",000,86,,,
+78,AMINOACIDI,,,,,
+79,"Triptofano, mg",103,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, TRP 145mg"
+80,"Treonina, mg",467,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, THR 661mg"
+81,"Isoleucina, mg",553,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, ILE 782mg"
+82,"Leucina, mg",897,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, LEU 1268mg"
+83,"Lisina, mg",400,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, LYS 565mg"
+84,"Metionina, mg",147,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, MET 208mg"
+85,"Cistina, mg",231,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, CYS 326mg"
+86,"Fenilalanina, mg",694,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, PHE 982mg"
+87,"Tirosina, mg",453,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, TYR 641mg"
+88,"Valina, mg",660,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, VAL 933mg"
+89,"Arginina, mg",1602,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, ARG 2266mg"
+90,"Istidina, mg",308,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, HIS 436mg"
+91,"Alanina, mg",605,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, ALA 855mg"
+92,"Acido aspartico, mg",1409,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, ASP 1992mg"
+93,"Acido glutammico, mg",3059,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, GLU 4326mg"
+94,"Glicina, mg",748,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, GLY 1058mg"
+95,"Prolina, mg",512,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, PRO 724mg"
+96,"Serina, mg",579,AO,008600,3A,"Pistacchi WATER 3,9g, PROT 18,1g, FAT 56,1g, CHO 8,1g, SUGAR 4,5g, STARCH 3,3g, SER 819mg"
+97,ZUCCHERI,,,,,
+98,"Glucosio, g",04,DI,12151,3A,"Nuts, Pistachio Nuts, Raw WATER 3.91g, PROT 20.27g, FAT 45.39g, CHO 17.21g, SUGAR 7.66g, STARCH 1.67g, GLUS 0.32g"
+99,"Fruttosio, g",03,DI,12151,3A,"Nuts, Pistachio Nuts, Raw WATER 3.91g, PROT 20.27g, FAT 45.39g, CHO 17.21g, SUGAR 7.66g, STARCH 1.67g, FRUS 0.24g"
+100,"Galattosio, g",00,LZ,,,
+101,"Saccarosio (MSE), g",82,DI,12151,3A,"Nuts, Pistachio Nuts, Raw WATER 3.91g, PROT 20.27g, FAT 45.39g, CHO 17.21g, SUGAR 7.66g, STARCH 1.67g, SUCS 6.87g"
+102,"Maltosio (MSE), g",02,DI,12151,3A,"Nuts, Pistachio Nuts, Raw WATER 3.91g, PROT 20.27g, FAT 45.39g, CHO 17.21g, SUGAR 7.66g, STARCH 1.67g, MALS 0.17g"
+103,"Lattosio (MSE), g",00,LZ,,,

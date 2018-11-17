@@ -1,0 +1,103 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 4003 - frutta secca e in guscio, semi edibili",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,AO,007030,,
+6,"Energia, ricalcolata, kJ",1168,86,,,
+7,"Energia, Ric con fibra, kJ",1340,86,,,
+8,"Energia, ricalcolata, kcal",274,86,,,
+9,"Energia, Ric con fibra, kcal",317,86,,,
+10,"Proteine totali, g",50,AO,007030,,
+11,"Proteine animali, g",00,LZ,,,
+12,"Proteine vegetali, g",50,AO,007030,,
+13,"Lipidi totali, g",05,AO,007030,,
+14,"Lipidi animali, g",00,LZ,,,
+15,"Lipidi vegetali, g",05,AO,007030,,
+16,"Colesterolo, mg",0,LZ,,,
+17,"Carboidrati disponibili (MSE), g",665,AO,007030,,
+18,"Amido (MSE), g",00,AO,007030,,
+19,"Carboidrati solubili (MSE), g",665,AO,007030,,
+20,"Fibra alimentare totale, g",216,L,31,2,"""Apricots, dried"" WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g"
+21,"Alcol, g",00,LZ,,,
+22,"Acqua, g",250,AO,007030,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",50,AO,007030,,
+25,"Calcio, mg",67,AO,007030,,
+26,"Sodio, mg",26,AO,007030,,
+27,"Potassio, mg",979,AO,007030,,
+28,"Fosforo, mg",108,AO,007030,,
+29,"Zinco, mg",070,L,31,2,"""Apricots, dried"" WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g"
+30,"Magnesio, mg",65,L,31,2,"""Apricots, dried"" WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g"
+31,"Rame, mg",040,L,31,2,"""Apricots, dried"" WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g"
+32,"Selenio, µg",70,L,31,2,"""Apricots, dried"" WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g"
+33,"Cloro, mg",35,L,31,2,"""Apricots, dried"" WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g"
+34,"Iodio, µg",3,DH,0001,2,"""Apricot, dried"" WATER 26.2g, PROT 2.9g, FAT 1.7g, CHOT 66.5g, SUGAR 41.9g"
+35,"Manganese, mg",040,L,31,2,"""Apricots, dried"" WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g"
+36,"Zolfo, mg",160,L,31,2,"""Apricots, dried"" WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",001,AO,007030,,
+39,"Vitamina B2, Riboflavina, mg",016,AO,007030,,
+40,"Vitamina C, mg",12,AO,007030,,
+41,"Niacina, mg",330,AO,007030,,
+42,"Vitamina B6, mg",017,L,31,2,"""Apricots, dried"" WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g"
+43,"Folati totali, µg",14,L,31,2,"""Apricots, dried"" WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g"
+44,"Acido pantotenico, mg",070,L,31,2,"""Apricots, dried"" WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g"
+45,"Biotina, µg",10,DH,0001,2,"""Apricot, dried"" WATER 26.2g, PROT 2.9g, FAT 1.7g, CHOT 66.5g, SUGAR 41.9g"
+46,"Vitamina B12, µg",00,LZ,,,
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",1090,AO,007030,,
+50,"Retinolo, µg",0,LZ,,,
+51,"ß-carotene eq., µg",6540,AO,007030,3B,
+52,"Vitamina E (ATE), mg",436,DI,09032,4B,"""Apricots, dried, sulfured, uncooked"" WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 62.64g, SUGAR 53.44g, STARCH 0.35g, TOCPHA 4.33mg, TOCPHB 0.05mg, TOCPHD 0.01mg, TOCPHG 0.08mg"
+53,"Vitamina D, µg",000,LZ,,,
+54,"Vitamina K, µg",310,DI,09032,6,"""Apricots, dried, sulfured, uncooked"" WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 62.64g, SUGAR 53.44g, STARCH 0.35g"
+55,ACIDI GRASSI,,,,,
+56,"Acidi grassi saturi totali, g",002,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, STARCH 0.35g, FASAT 0.017g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, STARCH 0.35g, F4-10:0 0g"
+58,"Acido laurico, g",000,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, SUGAR 53,44g, STARCH 0,35g, F12:0 0g"
+59,"Acido miristico, g",000,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, SUGAR 53,44g, STARCH 0,35g, F14:0 0g"
+60,"Acido palmitico, g",002,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, SUGAR 53,44g, STARCH 0,35g, F16:0 0,017g"
+61,"Acido stearico, g",000,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, SUGAR 53,44g, STARCH 0,35g, F18:0 0g"
+62,"Acido arachidico, g",000,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, SUGAR 53,44g, STARCH 0,35g, F20:0 0g"
+63,"Acido beenico, g",000,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, SUGAR 53,44g, STARCH 0,35g, F22:0 0g"
+64,"Acidi grassi monoinsaturi totali, g",007,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, SUGAR 53,44g, STARCH 0,35g, FAMS 0,074g"
+65,"Acido miristoleico, g",000,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, SUGAR 53,44g, STARCH 0,35g, F14:1CN5 0g"
+66,"Acido palmitoleico, g",000,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, SUGAR 53,44g, STARCH 0,35g, F16:1CN7 0g"
+67,"Acido oleico, g",007,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, SUGAR 53,44g, STARCH 0,35g, F18:1 0,074g"
+68,"Acidi eicosenoico, g",000,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, SUGAR 53,44g, F20:1 0g"
+69,"Acido erucico, g",000,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, SUGAR 53,44g, STARCH 0,35g, F22:1CN9 0g"
+70,"Acidi grassi polinsaturi totali, g",007,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, SUGAR 53,44g, STARCH 0,35g, FAPU 0,074g"
+71,"Acido linoleico, g",007,DI,09032,3B,"""Apricots, Dried, Sulfured, .."" WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, F18:2 0,074g"
+72,"Acido linolenico, g",000,DI,09032,3B,"""Apricots, Dried, Sulfured, …"" WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, F18:3 0g"
+73,"Acido arachidonico, g",000,DI,09032,3B,"""Apricots, Dried, Sulfured, …"" WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, F20:4N6 0g"
+74,"Acido eicosapentaenoico (EPA), g",000,DI,09032,3B,"""Apricots, Dried, Sulfured, …"" WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, F20:5N3 0g"
+75,"Acido decosaesaenoico (DHA), g",000,DI,09032,3B,"""Apricots, Dried, Sulfured, …"" WATER 30,89g, PROT 3,39g, FAT 0,51g, CHO 55,34g, F22:6 0g"
+76,"Altri acidi grassi polinsaturi, g",000,86,,,
+77,AMINOACIDI,,,,,
+78,"Triptofano, mg",24,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, TRP 0.016g"
+79,"Treonina, mg",108,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, THR 0.073g"
+80,"Isoleucina, mg",93,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, ILE 0.063g"
+81,"Leucina, mg",155,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, LEU 0.105g"
+82,"Lisina, mg",122,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, LYS 0.083g"
+83,"Metionina, mg",22,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, MET 0.015g"
+84,"Cistina, mg",28,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, CYS 0.019g"
+85,"Fenilalanina, mg",91,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, PHE 0.062g"
+86,"Tirosina, mg",58,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, STARCH 0.35g, TYR 0.039g"
+87,"Valina, mg",115,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, STARCH 0.35g, VAL 0.078g"
+88,"Arginina, mg",97,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, STARCH 0.35g, ARG 0.066g"
+89,"Istidina, mg",69,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, STARCH 0.35g, HIS 0.047g"
+90,"Alanina, mg",162,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, STARCH 0.35g, ALA 0.11g"
+91,"Acido aspartico, mg",1382,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, STARCH 0.35g, ASP 0.937g"
+92,"Acido glutammico, mg",277,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, STARCH 0.35g, GLU 0.188g"
+93,"Glicina, mg",103,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, STARCH 0.35g, GLY 0.07g"
+94,"Prolina, mg",1211,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, STARCH 0.35g, PRO 0.821g"
+95,"Serina, mg",128,DI,09032,3B,"Apricots, Dried, Sulfured, Uncooked WATER 30.89g, PROT 3.39g, FAT 0.51g, CHO 55.34g, SUGAR 53.44g, STARCH 0.35g, SER 0.087g"
+96,ZUCCHERI,,,,,
+97,"Glucosio, g",319,L,31,3A,"Apricots, Dried WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g, GLUS 20.8g"
+98,"Fruttosio, g",153,L,31,3A,"Apricots, Dried WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g, FRUS 10g"
+99,"Galattosio, g",00,LZ,,,
+100,"Saccarosio (MSE), g",193,L,31,3A,"Apricots, Dried WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g, SUCS 12.6g"
+101,"Maltosio (MSE), g",00,L,31,3A,"Apricots, Dried WATER 14.7g, PROT 4.8g, FAT 0.7g, CHO 43.4g, SUGAR 43.4g, MALS 0g"
+102,"Lattosio (MSE), g",00,LZ,,,

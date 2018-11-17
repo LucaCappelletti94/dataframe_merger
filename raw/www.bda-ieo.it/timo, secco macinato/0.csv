@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,Categoria merceologica: 24001 - erbe aromatiche e altri spezie,,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,09,860,,
+6,"Energia, ricalcolata, kJ",1153,86,,,
+7,"Energia, Ric con fibra, kJ",1302,86,,,
+8,"Energia, ricalcolata, kcal",273,86,,,
+9,"Energia, Ric con fibra, kcal",310,86,,,
+10,"Proteine totali, g",91,09,860,,
+11,"Proteine animali, g",00,09,860,,
+12,"Proteine vegetali, g",91,09,860,,
+13,"Lipidi totali, g",74,09,860,,
+14,"Lipidi animali, g",00,09,860,,
+15,"Lipidi vegetali, g",74,09,860,,
+16,"Colesterolo, mg",0,09,860,,
+17,"Carboidrati disponibili (MSE), g",453,09,860,,calcolati per differenza
+18,"Amido (MSE), g",tr,09,805,,ALIMENTO SIMILE Basilico secco acqua=6.4g
+19,"Carboidrati solubili (MSE), g",453,09,860,,GD=GS quando amido=tr
+20,"Fibra alimentare totale, g",186,12,02042,,non RIPR acqua=7.79g
+21,"Alcol, g",00,09,860,,
+22,"Acqua, g",78,09,860,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",1236,09,860,,
+25,"Calcio, mg",1890,09,860,,
+26,"Sodio, mg",55,09,860,,
+27,"Potassio, mg",810,09,860,,
+28,"Fosforo, mg",200,09,860,,
+29,"Zinco, mg",620,09,860,,
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",051,12,02042,,non RIPR acqua=7.79g
+32,"Vitamina B2, Riboflavina, mg",040,09,860,,
+33,"Vitamina C, mg",0,09,860,,
+34,"Niacina, mg",490,09,860,,
+35,"Vitamina B6, mg",038,09,845,,ALIMENTO SIMILE Prezzemolo secco acqua=9.0g
+36,"Folati totali, µg",0,09,860,,
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",380,09,860,,CALC
+40,"Retinolo, µg",0,09,860,,
+41,"ß-carotene eq., µg",2280,09,860,,
+42,"Vitamina E (ATE), mg",915,09,845,,ALIMENTO SIMILE Prezzemolo secco acqua=9.0g
+43,"Vitamina D, µg",000,09,860,,
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",273,12,02042,,non RIPR lip=7.43g
+46,"Acidi grassi monoinsaturi totali, g",047,12,02042,,
+47,"Acido oleico, g",047,12,02042,,
+48,"Acidi grassi polinsaturi totali, g",119,12,02042,,
+49,"Acido linoleico, g",050,12,02042,,
+50,"Acido linolenico, g",069,12,02042,,
+51,"Altri acidi grassi polinsaturi, g",000,86,,,

@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,Categoria merceologica: 24001 - erbe aromatiche e altri spezie,,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,03,422,,
+6,"Energia, ricalcolata, kJ",1643,86,,,
+7,"Energia, Ric con fibra, kJ",1833,86,,,
+8,"Energia, ricalcolata, kcal",395,86,,,
+9,"Energia, Ric con fibra, kcal",442,86,,,
+10,"Proteine totali, g",88,03,422,,
+11,"Proteine animali, g",00,03,422,,
+12,"Proteine vegetali, g",88,03,422,,
+13,"Lipidi totali, g",290,03,422,,
+14,"Lipidi animali, g",00,03,422,,
+15,"Lipidi vegetali, g",290,03,422,,
+16,"Colesterolo, mg",0,09,840,,
+17,"Carboidrati disponibili (MSE), g",263,03,422,,
+18,"Amido (MSE), g",00,03,422,,amido =0 quando GD=GS
+19,"Carboidrati solubili (MSE), g",263,03,422,,
+20,"Fibra alimentare totale, g",237,03,422,,
+21,"Alcol, g",00,03,422,,
+22,"Acqua, g",100,03,422,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",93,03,422,,
+25,"Calcio, mg",103,03,422,,
+26,"Sodio, mg",16,09,840,,per tutti i nutrienti idrosolubili fonte 09 cod.840 non RIPR acqua=6.2g
+27,"Potassio, mg",350,09,840,,
+28,"Fosforo, mg",210,09,840,,
+29,"Zinco, mg",220,09,840,,non RIPR acqua=6.2g
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",009,03,422,,
+32,"Vitamina B2, Riboflavina, mg",010,03,422,,
+33,"Vitamina C, mg",0,09,840,,non RIPR acqua=6.2g
+34,"Niacina, mg",050,03,422,,
+35,"Vitamina B6, mg",044,09,849,,ALIMENTO SIMILE semi di papavero acqua=6g
+36,"Folati totali, µg",0,09,840,,non RIPR acqua=6.2g
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",8,09,840,,CALC
+40,"Retinolo, µg",0,09,840,,
+41,"ß-carotene eq., µg",48,09,840,,RIPR Caroteni=60mcg lip=36.3g (acqua=6.2g)
+42,"Vitamina E (ATE), mg",272,09,849,,ALIMENTO SIMILE Poppy seeds acqua=6g
+43,"Vitamina D, µg",000,09,840,,non RIPR acqua=6.2g
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",2072,21,02025,,RIPR lip=36.3g saturi=25.94g 18:1=1.59g monoinsaturi=3.22g 18:2=0.35g 18:3=0 altri PUFA=0 PUFA=0.35g
+46,"Acidi grassi monoinsaturi totali, g",257,21,02025,,
+47,"Acido oleico, g",127,21,02025,,
+48,"Acidi grassi polinsaturi totali, g",028,21,02025,,
+49,"Acido linoleico, g",028,21,02025,,
+50,"Acido linolenico, g",000,21,02025,,
+51,"Altri acidi grassi polinsaturi, g",000,86,,,

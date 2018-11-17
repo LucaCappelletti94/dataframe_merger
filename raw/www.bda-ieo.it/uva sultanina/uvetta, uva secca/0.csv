@@ -1,0 +1,103 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 4003 - frutta secca e in guscio, semi edibili",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,02,514,,
+6,"Energia, ricalcolata, kJ",1207,86,,,
+7,"Energia, Ric con fibra, kJ",1248,86,,,
+8,"Energia, ricalcolata, kcal",283,86,,,
+9,"Energia, Ric con fibra, kcal",293,86,,,
+10,"Proteine totali, g",19,02,514,,
+11,"Proteine animali, g",00,LZ,,,
+12,"Proteine vegetali, g",19,02,514,,
+13,"Lipidi totali, g",06,02,514,,
+14,"Lipidi animali, g",00,LZ,,,
+15,"Lipidi vegetali, g",06,02,514,,
+16,"Colesterolo, mg",0,LZ,,,
+17,"Carboidrati disponibili (MSE), g",720,02,514,,
+18,"Amido (MSE), g",00,02,514,,
+19,"Carboidrati solubili (MSE), g",720,02,514,,
+20,"Fibra alimentare totale, g",52,AO,007410,,
+21,"Alcol, g",00,LZ,,,
+22,"Acqua, g",171,02,514,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",33,02,514,,
+25,"Calcio, mg",78,02,514,,
+26,"Sodio, mg",52,02,514,,
+27,"Potassio, mg",864,02,514,,
+28,"Fosforo, mg",29,02,514,,
+29,"Zinco, mg",010,03,6413,2,"""Uva secca sultanina"" WATER 17g, PROT 1.8g, FAT 0.7g, CHO 64.7, SUGAR 64.7g"
+30,"Magnesio, mg",31,BF,1002,2,"""Sultanas"" WATER 15.2g, PROT 2.7g, FAT 0.4g, CHO 69.4g, SUGAR 69.4g"
+31,"Rame, mg",035,03,6413,2,"""Uva secca sultanina"" WATER 17g, PROT 1.8g, FAT 0.7g, CHO 64.7, SUGAR 64.7g"
+32,"Selenio, µg",07,DI,09297,2,"""Raisins, golden seedless"" WATER 14.97g, PROT 3.39g, FAT 0.46g, CHO 79.52g, SUGAR 59.19g"
+33,"Cloro, mg",16,BF,1002,2,"""Sultanas"" WATER 15.2g, PROT 2.7g, FAT 0.4g, CHO 69.4g, SUGAR 69.4g"
+34,"Iodio, µg",2,DH,0227,2,"""Raisin, seedless"" WATER 15.2g, PROT 3.5g, FAT1.6g, CHOT 78g, SUGAR 64.3g"
+35,"Manganese, mg",030,BF,1002,2,"""Sultanas"" WATER 15.2g, PROT 2.7g, FAT 0.4g, CHO 69.4g, SUGAR 69.4g"
+36,"Zolfo, mg",44,L,263,2,"""Sultanas"" WATER 15.2g, PROT 2.7g, FAT 0.4g, CHO 69.4g, SUGAR 69.4g"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",012,02,514,,
+39,"Vitamina B2, Riboflavina, mg",008,02,514,,
+40,"Vitamina C, mg",0,02,514,,
+41,"Niacina, mg",030,02,514,,
+42,"Vitamina B6, mg",025,L,263,,
+43,"Folati totali, µg",27,L,263,,
+44,"Acido pantotenico, mg",009,BF,1002,2,"""Sultanas"" WATER 15.2g, PROT 2.7g, FAT 0.4g, CHO 69.4g, SUGAR 69.4g"
+45,"Biotina, µg",48,BF,1002,2,"""Sultanas"" WATER 15.2g, PROT 2.7g, FAT 0.4g, CHO 69.4g, SUGAR 69.4g"
+46,"Vitamina B12, µg",00,LZ,,,
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",3,02,514,,
+50,"Retinolo, µg",0,LZ,,,
+51,"ß-carotene eq., µg",18,02,514,3B,
+52,"Vitamina E (ATE), mg",070,BF,1002,2,"""Sultanas"" WATER 15.2g, PROT 2.7g, FAT 0.4g, CHO 69.4g, SUGAR 69.4g"
+53,"Vitamina D, µg",000,LZ,,,
+54,"Vitamina K, µg",370,BF,993,2,"""Raisins"" WATER 13.2g, PROT 2.1g, FAT 0.4g, CHO 69.3g, SUGAR 69.3g"
+55,ACIDI GRASSI,,,,,
+56,"Acidi grassi saturi totali, g",008,DI,09298,3A,"Raisins, Seedless WATER 14.97g, PROT 3.39g, FAT 0.46g, CHO 75.52g, SUGAR 59.19g, FASAT 0.058g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09298,3A,"Raisins, Seedless WATER 14.97g, PROT 3.39g, FAT 0.46g, CHO 75.52g, SUGAR 59.19g, F4-10:0 0g"
+58,"Acido laurico, g",000,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F12:0 0g"
+59,"Acido miristico, g",000,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F14:0 0,001g"
+60,"Acido palmitico, g",006,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F16:0 0,044g"
+61,"Acido stearico, g",001,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F18:0 0,01g"
+62,"Acido arachidico, g",000,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F20:0 0,001g"
+63,"Acido beenico, g",000,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F22:0 0,002g"
+64,"Acidi grassi monoinsaturi totali, g",007,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, FAMS 0,051g"
+65,"Acido miristoleico, g",000,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F14:1CN5 0g"
+66,"Acido palmitoleico, g",005,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F16:1CN7 0,039g"
+67,"Acido oleico, g",002,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F18:1 0,012g"
+68,"Acidi eicosenoico, g",000,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F20:1 0g"
+69,"Acido erucico, g",000,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F22:1CN9 0g"
+70,"Acidi grassi polinsaturi totali, g",005,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, FAPU 0,037g"
+71,"Acido linoleico, g",004,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F18:2 0,028g"
+72,"Acido linolenico, g",001,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F18:3 0,008g"
+73,"Acido arachidonico, g",000,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F20:4N6 0g"
+74,"Acido eicosapentaenoico (EPA), g",000,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F20:5N3 0g"
+75,"Acido decosaesaenoico (DHA), g",000,DI,09298,3A,"Raisins, Seedless WATER 14,97g, PROT 3,39g, FAT 0,46g, CHO 75,52g, SUGAR 59,19g, F22:6 0g"
+76,"Altri acidi grassi polinsaturi, g",000,86,,,
+77,AMINOACIDI,,,,,
+78,"Triptofano, mg",8,E,819,3A,"Sultanas Dried WATER 18,3g, PROT 1,8g, FAT TR g, CHO 64,7g, SUGAR 64,7g, TRP 8mg"
+79,"Treonina, mg",51,E,819,3A,"Sultanas Dried WATER 18,3g, PROT 1,8g, FAT TR g, CHO 64,7g, SUGAR 64,7g, THR 48mg"
+80,"Isoleucina, mg",15,E,819,3A,"Sultanas Dried WATER 18,3g, PROT 1,8g, FAT TR g, CHO 64,7g, SUGAR 64,7g, ILE 14mg"
+81,"Leucina, mg",38,E,819,3A,"Sultanas Dried WATER 18,3g, PROT 1,8g, FAT TR g, CHO 64,7g, SUGAR 64,7g, LEU 36mg"
+82,"Lisina, mg",41,E,819,3A,"Sultanas Dried WATER 18,3g, PROT 1,8g, FAT TR g, CHO 64,7g, SUGAR 64,7g, LYS 39mg"
+83,"Metionina, mg",62,E,819,3A,"Sultanas Dried WATER 18,3g, PROT 1,8g, FAT TR g, CHO 64,7g, SUGAR 64,7g, MET 59mg"
+84,"Cistina, mg",30,E,819,3A,"Sultanas Dried WATER 18,3g, PROT 1,8g, FAT TR g, CHO 64,7g, SUGAR 64,7g, CYS 28mg"
+85,"Fenilalanina, mg",38,E,819,3A,"Sultanas Dried WATER 18,3g, PROT 1,8g, FAT TR g, CHO 64,7g, SUGAR 64,7g, PHE 36mg"
+86,"Tirosina, mg",33,E,819,3A,"Sultanas Dried WATER 18,3g, PROT 1,8g, FAT TR g, CHO 64,7g, SUGAR 64,7g, TYR 31mg"
+87,"Valina, mg",51,E,819,3A,"Sultanas Dried WATER 18.3g, PROT 1.8g, FAT TR g, CHO 64.7g, SUGAR 64.7g, VAL 48mg"
+88,"Arginina, mg",137,E,819,3A,"Sultanas Dried WATER 18.3g, PROT 1.8g, FAT TR g, CHO 64.7g, SUGAR 64.7g, ARG 130mg"
+89,"Istidina, mg",68,E,819,3A,"Sultanas Dried WATER 18.3g, PROT 1.8g, FAT TR g, CHO 64.7g, SUGAR 64.7g, HIS 64mg"
+90,"Alanina, mg",77,E,819,3A,"Sultanas Dried WATER 18.3g, PROT 1.8g, FAT TR g, CHO 64.7g, SUGAR 64.7g, ALA 73mg"
+91,"Acido aspartico, mg",222,E,819,3A,"Sultanas Dried WATER 18.3g, PROT 1.8g, FAT TR g, CHO 64.7g, SUGAR 64.7g, ASP 210mg"
+92,"Acido glutammico, mg",380,E,819,3A,"Sultanas Dried WATER 18.3g, PROT 1.8g, FAT TR g, CHO 64.7g, SUGAR 64.7g, GLU 360mg"
+93,"Glicina, mg",56,E,819,3A,"Sultanas Dried WATER 18.3g, PROT 1.8g, FAT TR g, CHO 64.7g, SUGAR 64.7g, GLY 53mg"
+94,"Prolina, mg",62,E,819,3A,"Sultanas Dried WATER 18.3g, PROT 1.8g, FAT TR g, CHO 64.7g, SUGAR 64.7g, PRO 59mg"
+95,"Serina, mg",89,E,819,3A,"Sultanas Dried WATER 18.3g, PROT 1.8g, FAT TR g, CHO 64.7g, SUGAR 64.7g, SER 84mg"
+96,ZUCCHERI,,,,,
+97,"Glucosio, g",361,BF,1002,3A,"Sultanas WATER 15.2g, PROT 2.7g, FAT 0.4g, CHO 69.4g, SUGAR 69.4g, GLUS 34.8g"
+98,"Fruttosio, g",359,BF,1002,3A,"Sultanas WATER 15.2g, PROT 2.7g, FAT 0.4g, CHO 69.4g, SUGAR 69.4g, FRUS 34.6g"
+99,"Galattosio, g",00,LZ,,,
+100,"Saccarosio (MSE), g",tr,BF,1002,3A,"Sultanas WATER 15.2g, PROT 2.7g, FAT 0.4g, CHO 69.4g, SUGAR 69.4g, SUCS TRg"
+101,"Maltosio (MSE), g",00,BF,1002,3A,"Sultanas WATER 15.2g, PROT 2.7g, FAT 0.4g, CHO 69.4g, SUGAR 69.4g, MALS 0g"
+102,"Lattosio (MSE), g",00,LZ,,,

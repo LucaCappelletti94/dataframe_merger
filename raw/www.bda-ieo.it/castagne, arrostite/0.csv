@@ -1,0 +1,102 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 4003 - frutta secca e in guscio, semi edibili",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",82,AA,008521,,
+6,"Energia, ricalcolata, kJ",821,86,,,
+7,"Energia, Ric con fibra, kJ",887,86,,,
+8,"Energia, ricalcolata, kcal",193,86,,,
+9,"Energia, Ric con fibra, kcal",210,86,,,
+10,"Proteine totali, g",37,AA,008521,,
+11,"Proteine animali, g",00,LZ,,,
+12,"Proteine vegetali, g",37,AA,008521,,
+13,"Lipidi totali, g",24,AA,008521,,
+14,"Lipidi animali, g",00,LZ,,,
+15,"Lipidi vegetali, g",24,AA,008521,,
+16,"Colesterolo, mg",0,LZ,,,
+17,"Carboidrati disponibili (MSE), g",418,AA,008521,,
+18,"Amido (MSE), g",311,86,,4B,in tabella espresso come polisaccaride 28.3g
+19,"Carboidrati solubili (MSE), g",107,AA,008521,,
+20,"Fibra alimentare totale, g",83,AA,008521,,
+21,"Alcol, g",00,LZ,,,
+22,"Acqua, g",424,AA,008521,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",09,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+25,"Calcio, mg",29,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+26,"Sodio, mg",2,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+27,"Potassio, mg",592,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+28,"Fosforo, mg",107,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+29,"Zinco, mg",057,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+30,"Magnesio, mg",33,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+31,"Rame, mg",051,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+32,"Selenio, µg",12,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+33,"Cloro, mg",15,L,813,2,"""Chestnuts"" WATER 51.7g, PROT 2g, FAT 2.7g, CHO 36.6g, SUGAR 7g, STARCH 29.6g"
+34,"Iodio, µg",0,DM,,2,"""Chestnut, roasted"" WATER 40.5g, PROT 3.17g, FAT 2.2g, CHO 47.8g, SUGAR 10.6g, STARCH 32g"
+35,"Manganese, mg",118,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+36,"Zolfo, mg",29,L,813,2,"""Chestnuts"" WATER 51.7g, PROT 2g, FAT 2.7g, CHO 36.6g, SUGAR 7g, STARCH 29.6g"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",024,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+39,"Vitamina B2, Riboflavina, mg",018,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+40,"Vitamina C, mg",26,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+41,"Niacina, mg",134,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+42,"Vitamina B6, mg",050,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+43,"Folati totali, µg",70,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+44,"Acido pantotenico, mg",055,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+45,"Biotina, µg",14,Y,1990,6,"""Chestnuts, roasted [Castanea sativa]"" WATER 41g, PROT 3.2g, FAT 2.2g, CHO 36.6g, STARCH 29.6g"
+46,"Vitamina B12, µg",00,LZ,,,
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",0,AA,008521,,
+50,"Retinolo, µg",0,LZ,,,
+51,"ß-carotene eq., µg",0,AA,008521,3B,
+52,"Vitamina E (ATE), mg",050,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g, solo TOCPHA"
+53,"Vitamina D, µg",000,LZ,,,
+54,"Vitamina K, µg",780,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 52.96g, SUGAR 10.60g"
+55,ACIDI GRASSI,,,,,
+56,"Acidi grassi saturi totali, g",045,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, FASAT 0.414g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, F4-10:0 0g"
+58,"Acido laurico, g",000,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, CHO 47,86g, SUGAR 10,6g, F12:0 0g"
+59,"Acido miristico, g",001,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, CHO 47,86g, SUGAR 10,6g, F14:0 0,01g"
+60,"Acido palmitico, g",041,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, CHO 47,86g, SUGAR 10,6g, F16:0 0,373g"
+61,"Acido stearico, g",002,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, CHO 47,86g, SUGAR 10,6g, F18:0 0,021g"
+62,"Acido beenico, g",000,87,,,
+63,"Acidi grassi monoinsaturi totali, g",083,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, CHO 47,86g, SUGAR 10,6g, FAMS 0,759g"
+64,"Acido miristoleico, g",000,87,,,
+65,"Acido palmitoleico, g",002,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, CHO 47,86g, SUGAR 10,6g, F16:1CN7 0,021g"
+66,"Acido oleico, g",079,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, CHO 47,86g, SUGAR 10,6g, F18:1 0,728g"
+67,"Acidi eicosenoico, g",001,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, CHO 47,86g, SUGAR 10,6g, F20:1 0,01g"
+68,"Acido erucico, g",000,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, CHO 47,86g, SUGAR 10,6g, F22:1CN9 0g"
+69,"Acidi grassi polinsaturi totali, g",095,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, CHO 47,86g, SUGAR 10,6g, FAPU 0,869g"
+70,"Acido linoleico, g",085,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, CHO 47,86g, SUGAR 10,6g, F18:2 0,776g"
+71,"Acido linolenico, g",010,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, CHO 47,86g, SUGAR 10,6g, F18:3 0,093g"
+72,"Acido arachidonico, g",000,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, CHO 47,86g, F20:4N6 0g"
+73,"Acido eicosapentaenoico (EPA), g",000,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, F20:5N3 0g"
+74,"Acido decosaesaenoico (DHA), g",000,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40,48g, PROT 3,17g, FAT 2,2g, F22:6 0g"
+75,"Altri acidi grassi polinsaturi, g",000,86,,,
+76,AMINOACIDI,,,,,
+77,"Triptofano, mg",41,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, TRP 0.035g"
+78,"Treonina, mg",132,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, THR 0.113g"
+79,"Isoleucina, mg",146,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, ILE 0.125g"
+80,"Leucina, mg",219,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, LEU 0.188g"
+81,"Lisina, mg",219,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, LYS 0.188g"
+82,"Metionina, mg",88,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, MET 0.075g"
+83,"Cistina, mg",118,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, CYS 0.101g"
+84,"Fenilalanina, mg",156,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, PHE 0.134g"
+85,"Tirosina, mg",103,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, TYR 0.088g"
+86,"Valina, mg",208,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, VAL 0.178g"
+87,"Arginina, mg",265,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, ARG 0.227g"
+88,"Istidina, mg",103,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, HIS 0.088g"
+89,"Alanina, mg",247,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, ALA 0.212g"
+90,"Acido aspartico, mg",641,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, ASP 0.549g"
+91,"Acido glutammico, mg",479,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, GLU 0.41g"
+92,"Glicina, mg",191,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, GLY 0.164g"
+93,"Prolina, mg",195,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, PRO 0.167g"
+94,"Serina, mg",186,DI,12167,3A,"Nuts, Chestnuts, European, Roasted WATER 40.48g, PROT 3.17g, FAT 2.2g, CHO 47.86g, SUGAR 10.6g, SER 0.159g"
+95,ZUCCHERI,,,,,
+96,"Glucosio, g",tr,BF,1007,3A,"Chestnuts WATER 51.7g, PROT 2g, FAT 2.7g, CHO 36.6g, SUGAR 7g, STARCH 29.6g, GLUS TRg"
+97,"Fruttosio, g",tr,BF,1007,3A,"Chestnuts WATER 51.7g, PROT 2g, FAT 2.7g, CHO 36.6g, SUGAR 7g, STARCH 29.6g, FRUS TRg"
+98,"Galattosio, g",00,LZ,,,
+99,"Saccarosio (MSE), g",107,BF,1007,3A,"Chestnuts WATER 51.7g, PROT 2g, FAT 2.7g, CHO 36.6g, SUGAR 7g, STARCH 29.6g, SUCS 7g"
+100,"Maltosio (MSE), g",00,BF,1007,3A,"Chestnuts WATER 51.7g, PROT 2g, FAT 2.7g, CHO 36.6g, SUGAR 7g, STARCH 29.6g, MALS 0g"
+101,"Lattosio (MSE), g",00,LZ,,,

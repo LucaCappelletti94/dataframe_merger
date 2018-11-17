@@ -1,0 +1,101 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Nome originale: ""Pineapple juice, canned, unsweetened, without added ascorbic acid""",,,,,
+2,Categoria merceologica: 4010 - succhi e spremute di frutta,,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,DI,09273,,
+7,"Energia, ricalcolata, kJ",214,86,,,
+8,"Energia, Ric con fibra, kJ",215,86,,,
+9,"Energia, ricalcolata, kcal",50,86,,,
+10,"Energia, Ric con fibra, kcal",51,86,,,
+11,"Proteine totali, g",04,DI,09273,,
+12,"Proteine animali, g",00,LZ,,,
+13,"Proteine vegetali, g",04,DI,09273,,
+14,"Lipidi totali, g",01,DI,09273,,
+15,"Lipidi animali, g",00,LZ,,,
+16,"Lipidi vegetali, g",01,DI,09273,,
+17,"Colesterolo, mg",0,LZ,,,
+18,"Carboidrati disponibili (MSE), g",127,DI,09273,4B,
+19,"Amido (MSE), g",00,85,,,
+20,"Carboidrati solubili (MSE), g",100,DI,09273,,
+21,"Fibra alimentare totale, g",02,DI,09273,,
+22,"Alcol, g",00,LZ,,,
+23,"Acqua, g",864,DI,09273,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",03,DI,09273,,
+26,"Calcio, mg",13,DI,09273,,
+27,"Sodio, mg",2,DI,09273,,
+28,"Potassio, mg",130,DI,09273,,
+29,"Fosforo, mg",8,DI,09273,,
+30,"Zinco, mg",011,DI,09273,,
+31,"Magnesio, mg",12,DI,09273,,
+32,"Rame, mg",007,DI,09273,,
+33,"Selenio, µg",01,DI,09273,,
+34,"Cloro, mg",15,BF,1128,2,"""Pineapple juice, unsweetened"" WATER 87.8g, PROT 0.3g, FAT 0.1g, CHO 10.5g, SUGAR 10.5g"
+35,"Iodio, µg",tr,BF,1128,2,"""Pineapple juice, unsweetened"" WATER 87.8g, PROT 0.3g, FAT 0.1g, CHO 10.5g, SUGAR 10.5g"
+36,"Manganese, mg",050,DI,09273,,
+37,"Zolfo, mg",9,DO,01B30294,2,"""Juice, pineapple"" WATER 92.6g, PROT 0.3g, FAT 0.1g, CHO 10.8g"
+38,VITAMINE IDROSOLUBILI,,,,,
+39,"Vitamina B1, Tiamina, mg",006,DI,09273,,
+40,"Vitamina B2, Riboflavina, mg",002,DI,09273,,
+41,"Vitamina C, mg",10,DI,09273,,
+42,"Niacina, mg",020,DI,09273,,
+43,"Vitamina B6, mg",010,DI,09273,,
+44,"Folati totali, µg",18,DI,09273,,
+45,"Acido pantotenico, mg",006,DI,,,
+46,"Biotina, µg",tr,BF,1128,2,"""Pineapple juice, unsweetened"" WATER 87.8g, PROT 0.3g, FAT 0.1g, CHO 10.5g, SUGAR 10.5g"
+47,"Vitamina B12, µg",00,LZ,,,
+48,VITAMINE LIPOSOLUBILI,,,,,
+49,Retinolo equivalente,,,,,
+50,"Retinolo eq. (RE), µg",1,DI,09273,4B,
+51,"Retinolo, µg",0,LZ,,,
+52,"ß-carotene eq., µg",3,DI,09273,4B,
+53,"Vitamina E (ATE), mg",002,DI,09273,,solo TOCPHA
+54,"Vitamina D, µg",000,LZ,,,
+55,"Vitamina K, µg",030,DI,09273,,
+56,ACIDI GRASSI,,,,,
+57,"Acidi grassi saturi totali, g",001,DI,09273,,
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09273,,
+59,"Acido laurico, g",000,DI,09273,,
+60,"Acido miristico, g",000,DI,09273,,
+61,"Acido palmitico, g",001,DI,09273,,
+62,"Acido stearico, g",tr,,,,
+63,"Acidi grassi monoinsaturi totali, g",001,DI,09273,,
+64,"Acido palmitoleico, g",tr,DI,09273,,
+65,"Acido oleico, g",001,DI,09273,,
+66,"Acidi eicosenoico, g",000,DI,09273,,
+67,"Acido erucico, g",000,DI,09273,,
+68,"Acidi grassi polinsaturi totali, g",004,DI,09273,,
+69,"Acido linoleico, g",002,DI,09273,,
+70,"Acido linolenico, g",002,DI,09273,,
+71,"Acido arachidonico, g",000,DI,09273,,
+72,"Acido eicosapentaenoico (EPA), g",000,DI,09273,,
+73,"Acido decosaesaenoico (DHA), g",000,DI,09273,,
+74,"Altri acidi grassi polinsaturi, g",000,86,,,
+75,AMINOACIDI,,,,,
+76,"Triptofano, mg",4,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, TRP 0.005g"
+77,"Treonina, mg",14,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, THR 0.019g"
+78,"Isoleucina, mg",14,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, ILE 0.019g"
+79,"Leucina, mg",18,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, LEU 0.024g"
+80,"Lisina, mg",19,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, SUGAR 9.85g, LYS 0.026g"
+81,"Metionina, mg",9,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, MET 0.012g"
+82,"Cistina, mg",10,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, CYS 0.014g"
+83,"Fenilalanina, mg",16,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, SUGAR 9.85g, PHE 0.021g"
+84,"Tirosina, mg",14,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, SUGAR 9.85g, TYR 0.019g"
+85,"Valina, mg",18,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, SUGAR 9.85g, VAL 0.024g"
+86,"Arginina, mg",14,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, SUGAR 9.85g, ARG 0.019g"
+87,"Istidina, mg",7,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, SUGAR 9.85g, HIS 0.01g"
+88,"Alanina, mg",24,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, SUGAR 9.85g, ALA 0.033g"
+89,"Acido aspartico, mg",90,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, SUGAR 9.85g, ASP 0.121g"
+90,"Acido glutammico, mg",59,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, SUGAR 9.85g, GLU 0.079g"
+91,"Glicina, mg",18,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, SUGAR 9.85g, GLY 0.024g"
+92,"Prolina, mg",13,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, SUGAR 9.85g, PRO 0.017g"
+93,"Serina, mg",26,DI,09266,3A,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, SUGAR 9.85g, SER 0.035g"
+94,ZUCCHERI,,,,,
+95,"Glucosio, g",47,DI,09273,,
+96,"Fruttosio, g",38,DI,09273,,
+97,"Galattosio, g",00,LZ,,,
+98,"Saccarosio (MSE), g",15,DI,09273,,
+99,"Maltosio (MSE), g",00,DI,09273,,
+100,"Lattosio (MSE), g",00,DI,09273,,

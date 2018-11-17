@@ -1,0 +1,101 @@
+,0,1,2,3,4,5
+1,Categoria merceologica: 4001 - frutta fresca e bacche,,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",47,02,421,,
+6,"Energia, ricalcolata, kJ",139,86,,,
+7,"Energia, Ric con fibra, kJ",145,86,,,
+8,"Energia, ricalcolata, kcal",33,86,,,
+9,"Energia, Ric con fibra, kcal",34,86,,,
+10,"Proteine totali, g",08,02,421,,
+11,"Proteine animali, g",00,LZ,,,
+12,"Proteine vegetali, g",08,02,421,,
+13,"Lipidi totali, g",02,02,421,,
+14,"Lipidi animali, g",00,LZ,,,
+15,"Lipidi vegetali, g",02,02,421,,
+16,"Colesterolo, mg",0,LZ,,,
+17,"Carboidrati disponibili (MSE), g",74,02,421,,
+18,"Amido (MSE), g",00,02,421,,
+19,"Carboidrati solubili (MSE), g",74,02,421,,
+20,"Fibra alimentare totale, g",07,AO,007230,,
+21,"Alcol, g",00,LZ,,,
+22,"Acqua, g",901,02,421,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",03,02,421,,
+25,"Calcio, mg",19,02,421,,
+26,"Sodio, mg",8,02,421,,
+27,"Potassio, mg",333,02,421,,
+28,"Fosforo, mg",13,02,421,,
+29,"Zinco, mg",030,03,6219,2,"""Melone d'estate"" WATER 89g, PROT 0.2g, FAT 0.2g, CHO 7.3g, SUGAR 7.3g"
+30,"Magnesio, mg",11,BF,966,2,"""Melon, Canteloupe-type"" WATER 92.1g, PROT 0.6g, FAT 0.1g, CHO 4.2g, SUGAR 4.2g"
+31,"Rame, mg",013,03,6219,2,"""Melone d'estate"" WATER 89g, PROT 0.2g, FAT 0.2g, CHO 7.3g, SUGAR 7.3g"
+32,"Selenio, µg",tr,BF,966,2,"""Melon, Canteloupe-type"" WATER 92.1g, PROT 0.6g, FAT 0.1g, CHO 4.2g, SUGAR 4.2g"
+33,"Cloro, mg",44,BF,966,2,"""Melon, Canteloupe-type"" WATER 92.1g, PROT 0.6g, FAT 0.1g, CHO 4.2g, SUGAR 4.2g"
+34,"Iodio, µg",4,BF,966,2,"""Melon, Canteloupe-type"" WATER 92.1g, PROT 0.6g, FAT 0.1g, CHO 4.2g, SUGAR 4.2g"
+35,"Manganese, mg",tr,BF,966,2,"""Melon, Canteloupe-type"" WATER 92.1g, PROT 0.6g, FAT 0.1g, CHO 4.2g, SUGAR 4.2g"
+36,"Zolfo, mg",12,L,156,2,"""Melon, Canteloupe-type"" WATER 92.1g, PROT 0.6g, FAT 0.1g, CHO 4.2g, SUGAR 4.2g"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",005,02,421,,
+39,"Vitamina B2, Riboflavina, mg",004,02,421,,
+40,"Vitamina C, mg",32,02,421,,
+41,"Niacina, mg",060,02,421,,
+42,"Vitamina B6, mg",011,BF,966,2,"""Melon, Canteloupe-type"" WATER 92.1g, PROT 0.6g, FAT 0.1g, CHO 4.2g, SUGAR 4.2g"
+43,"Folati totali, µg",5,BF,966,2,"""Melon, Canteloupe-type"" WATER 92.1g, PROT 0.6g, FAT 0.1g, CHO 4.2g, SUGAR 4.2g"
+44,"Acido pantotenico, mg",013,BF,966,2,"""Melon, Canteloupe-type"" WATER 92.1g, PROT 0.6g, FAT 0.1g, CHO 4.2g, SUGAR 4.2g"
+45,"Biotina, µg",10,BF,969,2,"""Melon, watermelon"" WATER 92.3g, PROT 0.5g, FAT 0.3g, CHO 7.1g, SUGAR 7.1g"
+46,"Vitamina B12, µg",00,LZ,,,
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",189,02,421,,
+50,"Retinolo, µg",0,LZ,,,
+51,"ß-carotene eq., µg",1134,02,421,3B,
+52,"Vitamina E (ATE), mg",010,BF,966,2,"""Melon, Canteloupe-type"" WATER 92.1g, PROT 0.6g, FAT 0.1g, CHO 4.2g, SUGAR 4.2g"
+53,"Vitamina D, µg",000,LZ,,,
+54,"Vitamina K, µg",250,DI,09181,2,"""Melons, Cantaloupe, raw"" WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 8.16g, SUGAR 7.86, STARCH 0.03g"
+55,ACIDI GRASSI,,,,,
+56,"Acidi grassi saturi totali, g",005,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, FASAT 0.051g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, F4-10:0 0.001g"
+58,"Acido laurico, g",000,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, SUGAR 7,86g, STARCH 0,03g, F12:0 0,001g"
+59,"Acido miristico, g",000,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, SUGAR 7,86g, STARCH 0,03g, F14:0 0,001g"
+60,"Acido palmitico, g",005,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, SUGAR 7,86g, STARCH 0,03g, F16:0 0,043g"
+61,"Acido stearico, g",001,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, SUGAR 7,86g, STARCH 0,03g, F18:0 0,005g"
+62,"Acidi grassi monoinsaturi totali, g",000,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, SUGAR 7,86g, STARCH 0,03g, FAMS 0,003g"
+63,"Acido miristoleico, g",000,87,,,
+64,"Acido palmitoleico, g",000,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, SUGAR 7,86g, STARCH 0,03g, F16:1CN7 0g"
+65,"Acido oleico, g",000,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, SUGAR 7,86g, STARCH 0,03g, F18:1 0,003g"
+66,"Acidi eicosenoico, g",000,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, SUGAR 7,86g, STARCH 0,03g, F20:1 0g"
+67,"Acido erucico, g",000,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, SUGAR 7,86g, STARCH 0,03g, F22:1CN9 0g"
+68,"Acidi grassi polinsaturi totali, g",009,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, SUGAR 7,86g, STARCH 0,03g, FAPU 0,081g"
+69,"Acido linoleico, g",004,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, SUGAR 7,86g, STARCH 0,03g, F18:2 0,035g"
+70,"Acido linolenico, g",005,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, F18:3 0,046g"
+71,"Acido arachidonico, g",000,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, F20:4N6 0g"
+72,"Acido eicosapentaenoico (EPA), g",000,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, F20:5N3 0g"
+73,"Acido decosaesaenoico (DHA), g",000,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90,15g, PROT 0,84g, FAT 0,19g, CHO 7,26g, F22:6 0g"
+74,"Altri acidi grassi polinsaturi, g",000,86,,,
+75,AMINOACIDI,,,,,
+76,"Triptofano, mg",2,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, TRP 0.002g"
+77,"Treonina, mg",16,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, THR 0.017g"
+78,"Isoleucina, mg",20,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, ILE 0.021g"
+79,"Leucina, mg",28,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, LEU 0.029g"
+80,"Lisina, mg",29,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, LYS 0.03g"
+81,"Metionina, mg",11,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, MET 0.012g"
+82,"Cistina, mg",2,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, CYS 0.002g"
+83,"Fenilalanina, mg",22,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, PHE 0.023g"
+84,"Tirosina, mg",13,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, TYR 0.014g"
+85,"Valina, mg",31,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, VAL 0.033g"
+86,"Arginina, mg",28,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, ARG 0.029g"
+87,"Istidina, mg",14,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, HIS 0.015g"
+88,"Alanina, mg",90,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, ALA 0.095g"
+89,"Acido aspartico, mg",130,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, ASP 0.136g"
+90,"Acido glutammico, mg",199,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, GLU 0.209g"
+91,"Glicina, mg",25,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, GLY 0.026g"
+92,"Prolina, mg",18,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, PRO 0.019g"
+93,"Serina, mg",40,DI,09181,3B,"Melons, Cantaloupe, Raw WATER 90.15g, PROT 0.84g, FAT 0.19g, CHO 7.26g, SUGAR 7.86g, STARCH 0.03g, SER 0.042g"
+94,ZUCCHERI,,,,,
+95,"Glucosio, g",32,BF,966,3A,"Melons, Cantaloupe, Raw WATER 92.1g, PROT 0.6g, FAT 0.1g, CHO 4.2g, SUGAR 4.2g, GLUS 1.8g"
+96,"Fruttosio, g",39,BF,966,3A,"Melons, Cantaloupe, Raw WATER 92.1g, PROT 0.6g, FAT 0.1g, CHO 4.2g, SUGAR 4.2g, FRUS 2.2g"
+97,"Galattosio, g",00,LZ,,,
+98,"Saccarosio (MSE), g",02,BF,966,3A,"Melons, Cantaloupe, Raw WATER 92.1g, PROT 0.6g, FAT 0.1g, CHO 4.2g, SUGAR 4.2g, SUCS 0.1g"
+99,"Maltosio (MSE), g",00,BF,966,3A,"Melons, Cantaloupe, Raw WATER 92.1g, PROT 0.6g, FAT 0.1g, CHO 4.2g, SUGAR 4.2g, MALS 0g"
+100,"Lattosio (MSE), g",00,LZ,,,

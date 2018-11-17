@@ -1,0 +1,101 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Nome Originale: ""Apple, dried, sulfured, uncooked"". Prodotto con umidita' intermedia (31.%)",,,,,
+2,"Categoria merceologica: 4003 - frutta secca e in guscio, semi edibili",,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,19,09011,,
+7,"Energia, ricalcolata, kJ",942,86,,,
+8,"Energia, Ric con fibra, kJ",1011,86,,,
+9,"Energia, ricalcolata, kcal",221,86,,,
+10,"Energia, Ric con fibra, kcal",238,86,,,
+11,"Proteine totali, g",09,DI,09011,,
+12,"Proteine animali, g",00,LZ,,,
+13,"Proteine vegetali, g",09,DI,09011,,
+14,"Lipidi totali, g",03,DI,09011,,
+15,"Lipidi animali, g",00,LZ,,,
+16,"Lipidi vegetali, g",03,DI,09011,,
+17,"Colesterolo, mg",0,LZ,,,
+18,"Carboidrati disponibili (MSE), g",572,DI,09011,4B,
+19,"Amido (MSE), g",00,85,,,
+20,"Carboidrati solubili (MSE), g",572,87,,,
+21,"Fibra alimentare totale, g",87,DI,09011,,
+22,"Alcol, g",00,LZ,,,
+23,"Acqua, g",318,DI,09011,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",14,DI,09011,,
+26,"Calcio, mg",14,DI,09011,,
+27,"Sodio, mg",87,DI,09011,,
+28,"Potassio, mg",450,DI,09011,,
+29,"Fosforo, mg",38,DI,09011,,
+30,"Zinco, mg",020,DI,09011,,
+31,"Magnesio, mg",16,DI,09011,,
+32,"Rame, mg",019,DI,09011,,
+33,"Selenio, µg",13,DI,09011,,
+34,"Cloro, mg",1,L,16,2,"""Apples, eating, dried"" WATER 21.6g, PROT 2g, FAT 0.5g, CHO 60.1g, SUGAR 60.1g"
+35,"Iodio, µg",tr,L,16,2,"""Apples, eating, dried"" WATER 21.6g, PROT 2g, FAT 0.5g, CHO 60.1g, SUGAR 60.1g"
+36,"Manganese, mg",009,DI,09011,,
+37,"Zolfo, mg",6,L,12,2,"""Apple eating average, raw"" WATER 84.5g, PROT 0.4g, FAT 0.1g, CHO 11.8g, SUGAR 11.8g"
+38,VITAMINE IDROSOLUBILI,,,,,
+39,"Vitamina B1, Tiamina, mg",000,DI,09011,,
+40,"Vitamina B2, Riboflavina, mg",016,DI,09011,,
+41,"Vitamina C, mg",4,DI,09011,,
+42,"Niacina, mg",093,DI,09011,,
+43,"Vitamina B6, mg",013,DI,09011,,
+44,"Folati totali, µg",0,DI,09011,,
+45,"Acido pantotenico, mg",025,DI,09011,,
+46,"Biotina, µg",09,Y,3340,2,"""Apples, dried"" WATER 32g, PROT 0.9g, FAT 0.32g, CHO 51.5g"
+47,"Vitamina B12, µg",00,LZ,,,
+48,VITAMINE LIPOSOLUBILI,,,,,
+49,Retinolo equivalente,,,,,
+50,"Retinolo eq. (RE), µg",0,DI,09011,,
+51,"Retinolo, µg",0,LZ,,,
+52,"ß-carotene eq., µg",0,DI,09011,,
+53,"Vitamina E (ATE), mg",055,DI,09011,4B,"TOCPHA 0.53mg, TOCPHB 0.02mg, TOCPHG 0.07mg"
+54,"Vitamina D, µg",000,LZ,,,
+55,"Vitamina K, µg",300,DI,09011,,
+56,ACIDI GRASSI,,,,,
+57,"Acidi grassi saturi totali, g",005,DI,09011,,
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09011,,
+59,"Acido laurico, g",tr,DI,09011,,
+60,"Acido miristico, g",tr,DI,09011,,
+61,"Acido palmitico, g",004,DI,09011,,
+62,"Acido stearico, g",001,DI,09011,,
+63,"Acidi grassi monoinsaturi totali, g",001,DI,09011,,
+64,"Acido palmitoleico, g",tr,DI,09011,,
+65,"Acido oleico, g",001,DI,09011,,
+66,"Acidi eicosenoico, g",000,DI,09011,,
+67,"Acido erucico, g",000,DI,09011,,
+68,"Acidi grassi polinsaturi totali, g",009,DI,09011,,
+69,"Acido linoleico, g",008,DI,09011,,
+70,"Acido linolenico, g",002,DI,09011,,
+71,"Acido arachidonico, g",000,DI,09011,,
+72,"Acido eicosapentaenoico (EPA), g",000,DI,09011,,
+73,"Acido decosaesaenoico (DHA), g",000,DI,09011,,
+74,"Altri acidi grassi polinsaturi, g",000,86,,,
+75,AMINOACIDI,,,,,
+76,"Triptofano, mg",9,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, TRP 0.009g"
+77,"Treonina, mg",32,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, THR 0.033g"
+78,"Isoleucina, mg",36,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, ILE 0.037g"
+79,"Leucina, mg",55,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, LEU 0.057g"
+80,"Lisina, mg",56,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, LYS 0.058g"
+81,"Metionina, mg",9,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, MET 0.009g"
+82,"Cistina, mg",12,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, CYS 0.012g"
+83,"Fenilalanina, mg",25,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, PHE 0.026g"
+84,"Tirosina, mg",16,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, TYR 0.017g"
+85,"Valina, mg",42,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, VAL 0.043g"
+86,"Arginina, mg",28,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, ARG 0.029g"
+87,"Istidina, mg",15,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, HIS 0.015g"
+88,"Alanina, mg",32,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, ALA 0.033g"
+89,"Acido aspartico, mg",157,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, ASP 0.162g"
+90,"Acido glutammico, mg",94,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, GLU 0.097g"
+91,"Glicina, mg",36,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, GLY 0.037g"
+92,"Prolina, mg",31,DI,09011,3A,"Apple, Dried, Sulfured, Uncooked WATER 31.76g, PROT 0.93g, FAT 0.32g, CHO 57.19g, SUGAR 57.19g, PRO 0.032g"
+93,"Serina, mg",37,DI,09011,3A,"Apricots, Raw WATER 86.35g, PROT 1.4g, FAT 0.39g, CHO 9.12g, SUGAR 9.24g, SER 0.083g"
+94,ZUCCHERI,,,,,
+95,"Glucosio, g",82,L,16,3A,"Apples, Eating, Dried WATER 21.6g, PROT 2g, FAT 0.5g, CHO 60.1g, SUGAR 60.1g, STARCH TRg, GLUS 8.6g"
+96,"Fruttosio, g",302,L,16,3A,"Apples, Eating, Dried WATER 21.6g, PROT 2g, FAT 0.5g, CHO 60.1g, SUGAR 60.1g, STARCH TRg, FRUS 31.7g"
+97,"Galattosio, g",00,LZ,,,
+98,"Saccarosio (MSE), g",189,L,16,3A,"Apples, Eating, Dried WATER 21.6g, PROT 2g, FAT 0.5g, CHO 60.1g, SUGAR 60.1g, STARCH TRg, SUCS 19.9g"
+99,"Maltosio (MSE), g",00,L,16,3A,"Apples, Eating, Dried WATER 21.6g, PROT 2g, FAT 0.5g, CHO 60.1g, SUGAR 60.1g, STARCH TRg, MALS 0g"
+100,"Lattosio (MSE), g",00,LZ,,,

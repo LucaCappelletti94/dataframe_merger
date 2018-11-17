@@ -1,0 +1,53 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Alimento interamente sostituito con un prodotto commerciale etichetta nutrizionale ""Trancino al cacao"" Barilla -marzo 1993",,,,,
+2,Categoria merceologica: 15008 - brioches e merendine farcite ricoperte (anche krapfen e bomboloni ripieni),,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,84,,,
+7,"Energia, ricalcolata, kJ",1422,86,,,
+8,"Energia, Ric con fibra, kJ",1444,86,,,
+9,"Energia, ricalcolata, kcal",336,86,,,
+10,"Energia, Ric con fibra, kcal",342,86,,,
+11,"Proteine totali, g",65,84,,,
+12,"Proteine animali, g",36,89,,,"RIPR da STIMA ottenuta con la ricetta: zucchero (cod 2021) 1.32g, farina (cod 11) 17.13g, uovo (cod 1800) 11.74g, latte (cod 1602) 23.88g, cioccolato (cod 2006) 7.9g, margarina (cod 900) 8.02g acqua=23g, lip=13.83g, prot=5.75g, GD=59.05g prot anim=3.16g, prot veg=2.55g lip anim=9.86g, lip veg=3.97g"
+13,"Proteine vegetali, g",29,89,,,
+14,"Lipidi totali, g",95,84,,,
+15,"Lipidi animali, g",68,89,,,
+16,"Lipidi vegetali, g",27,89,,,
+17,"Colesterolo, mg",46,28,18096,,
+18,"Carboidrati disponibili (MSE), g",600,84,,,somma di amido e GS ottenuti per differenza
+19,"Amido (MSE), g",260,84,,,ottenuti per differenza
+20,"Carboidrati solubili (MSE), g",340,84,,,ottenuti per differenza
+21,"Fibra alimentare totale, g",28,28,18096,,"per i nutrienti 28/18096 ALIMENTO SIMILE Cake, chocolate, commercially prepared with chocolate frosting acqua=22.9g, lip=16.4g, GD=54.6g, prot=4.1g"
+22,"Alcol, g",00,84,,,
+23,"Acqua, g",230,84,,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",22,28,18096,,
+26,"Calcio, mg",43,28,18096,,
+27,"Sodio, mg",157,84,,,in etichetta espresso come NaCl=0.4% NaCl x 0.393 = Na ceneri tot =1.0g
+28,"Potassio, mg",200,28,18096,,
+29,"Fosforo, mg",122,28,18096,,
+30,"Zinco, mg",070,28,18096,,
+31,VITAMINE IDROSOLUBILI,,,,,
+32,"Vitamina B1, Tiamina, mg",003,28,18096,,
+33,"Vitamina B2, Riboflavina, mg",013,28,18096,,
+34,"Vitamina C, mg",tr,28,18096,,
+35,"Niacina, mg",060,28,18096,,
+36,"Vitamina B6, mg",003,28,18096,,
+37,"Folati totali, µg",8,28,18096,,
+38,VITAMINE LIPOSOLUBILI,,,,,
+39,Retinolo equivalente,,,,,
+40,"Retinolo eq. (RE), µg",28,28,18096,,
+41,"Retinolo, µg",26,89,,,"per suddivisione del RE in R e C come da ricetta RE=52mcg, R=49mcg, C=20mcg"
+42,"ß-carotene eq., µg",11,89,,,
+43,"Vitamina E (ATE), mg",141,89,,,
+44,"Vitamina D, µg",025,89,,,
+45,ACIDI GRASSI,,,,,
+46,"Acidi grassi saturi totali, g",378,89,,,RIPR lip=13.83g saturi=5.51g 18:1=4.87g mono=5.43g 18:2=1.93g 18:3=0.15g altri PUFA=0.01g PUFA=2.09g
+47,"Acidi grassi monoinsaturi totali, g",373,89,,,
+48,"Acido oleico, g",335,89,,,
+49,"Acidi grassi polinsaturi totali, g",144,89,,,
+50,"Acido linoleico, g",133,89,,,
+51,"Acido linolenico, g",010,89,,,
+52,"Altri acidi grassi polinsaturi, g",001,86,,,

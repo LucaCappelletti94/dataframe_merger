@@ -1,0 +1,53 @@
+,0,1,2,3,4,5
+1,"Note Alimento: alimento interamente sostituito con ""Rice krispies"" manufactur's data -Kellogg's. In nota sono riportati i valori nutrizionali dell'etichetta ""Rice krispies"" -luglio 1996. Ingredienti: riso, zucchero, sale, estratto di malto, vitamine (PP, B1, B2,B6, folacina, B12), ferro. In base all'identificazione degli ingredienti, e' stato considerato un alimento di origine vegetale.",,,,,
+2,"Categoria merceologica: 8003 - fiocchi, pop corn, crusca (anche in compresse) soffiati",,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,07,146,,
+7,"Energia, ricalcolata, kJ",1572,86,,,
+8,"Energia, Ric con fibra, kJ",1581,86,,,
+9,"Energia, ricalcolata, kcal",369,86,,,
+10,"Energia, Ric con fibra, kcal",371,86,,,
+11,"Proteine totali, g",61,07,146,,prot=8g
+12,"Proteine animali, g",00,07,146,,
+13,"Proteine vegetali, g",61,07,146,,
+14,"Lipidi totali, g",09,07,146,,lipidi coincidenti
+15,"Lipidi animali, g",00,07,146,,
+16,"Lipidi vegetali, g",09,07,146,,
+17,"Colesterolo, mg",0,07,146,,
+18,"Carboidrati disponibili (MSE), g",897,07,146,,GD=85g
+19,"Amido (MSE), g",791,07,146,,
+20,"Carboidrati solubili (MSE), g",106,07,146,,GS=10g
+21,"Fibra alimentare totale, g",11,07,146,,metodo Southgate metodo Englyst fibra=0.5g in etichetta fibra=1.3g
+22,"Alcol, g",00,07,146,,
+23,"Acqua, g",117,07,146,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",67,07,146,,Fe=7.9mg
+26,"Calcio, mg",20,07,146,,
+27,"Sodio, mg",1260,07,146,,Na=1200mg
+28,"Potassio, mg",150,07,146,,
+29,"Fosforo, mg",130,07,146,,
+30,"Zinco, mg",110,07,146,,
+31,VITAMINE IDROSOLUBILI,,,,,
+32,"Vitamina B1, Tiamina, mg",100,07,146,,B1=1.2mg
+33,"Vitamina B2, Riboflavina, mg",150,07,146,,B2=1.3mg
+34,"Vitamina C, mg",0,07,146,,
+35,"Niacina, mg",1600,07,146,,niacina=15mg
+36,"Vitamina B6, mg",180,07,146,,B6=1.7mg
+37,"Folati totali, µg",250,07,146,,folacina=333mcg
+38,VITAMINE LIPOSOLUBILI,,,,,
+39,Retinolo equivalente,,,,,
+40,"Retinolo eq. (RE), µg",0,07,146,,
+41,"Retinolo, µg",0,07,146,,
+42,"ß-carotene eq., µg",0,07,146,,
+43,"Vitamina E (ATE), mg",060,07,146,,
+44,"Vitamina D, µg",000,07,146,,
+45,ACIDI GRASSI,,,,,
+46,"Acidi grassi saturi totali, g",020,E,19,,RIPR riferito a Rice lip=1g saturi=0.22g 18:1=0.25g mono=0.25g 18:2=0.35g 18:3=tracce altri PUFA=0 PUFA=0.35g
+47,"Acidi grassi monoinsaturi totali, g",023,E,19,,
+48,"Acido oleico, g",023,E,19,,
+49,"Acidi grassi polinsaturi totali, g",032,E,19,,
+50,"Acido linoleico, g",032,E,19,,
+51,"Acido linolenico, g",tr,E,19,,
+52,"Altri acidi grassi polinsaturi, g",000,86,,,

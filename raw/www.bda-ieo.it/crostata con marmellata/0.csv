@@ -1,0 +1,52 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 15006 - torte, preparati e basi per torte",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,02,2009,,
+6,"Energia, ricalcolata, kJ",1435,86,,,
+7,"Energia, Ric con fibra, kJ",1448,86,,,
+8,"Energia, ricalcolata, kcal",339,86,,,
+9,"Energia, Ric con fibra, kcal",342,86,,,
+10,"Proteine totali, g",49,02,2009,,
+11,"Proteine animali, g",16,89,,,"per tutti i nutrienti fonte 89 RIPR dalla STIMA ottenuta con la ricetta specifica (fonte INN) Ricetta: zucchero (cod 2021) 16g, farina 0 (cod 11) 29g, burro (cod 1900) 18g, marmellata (cod 2013) 25g, uovo intero (cod 1800) 12g acqua=24.6g, GD=54.01g, prot tot=5.16g, lip tot=16.63g prot anim=1.7g, prot veg=3.46g lip anim=16.3g, lip veg=0.29g"
+12,"Proteine vegetali, g",33,89,,,
+13,"Lipidi totali, g",82,02,2009,,
+14,"Lipidi animali, g",81,89,,,
+15,"Lipidi vegetali, g",01,89,,,
+16,"Colesterolo, mg",52,89,,,RIPR lip=16.63g colesterolo=106mg
+17,"Carboidrati disponibili (MSE), g",655,02,2009,,nota INN: calcolati per differenza
+18,"Amido (MSE), g",259,02,2009,,
+19,"Carboidrati solubili (MSE), g",396,02,2009,,"RIPR interna da ALIMENTO SIMILE Jam tarts GD=62g, GS=37.5g, amido=24.5g"
+20,"Fibra alimentare totale, g",16,89,,,non RIPR dalla STIMA
+21,"Alcol, g",00,02,2009,,
+22,"Acqua, g",209,02,2009,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",14,07,254,,
+25,"Calcio, mg",55,07,254,,
+26,"Sodio, mg",230,07,254,,"per tutti i nutrienti fonte 07 cod 254 e fonte 04 cod 142 (sono lo stesso alimento) ALIMENTO SIMILE Jam tarts acqua=19.6g, lip=14.9g recipe: 200g raw shortcrust pastry, 200g jam shortcrust pastry recipe (fonte 07 cod 225: 200g flour, 50g margarine,50g lard, 1/2 salt, 30ml water)"
+27,"Potassio, mg",110,07,254,,
+28,"Fosforo, mg",46,07,254,,
+29,"Zinco, mg",030,07,254,,
+30,VITAMINE IDROSOLUBILI,,,,,
+31,"Vitamina B1, Tiamina, mg",007,07,254,,
+32,"Vitamina B2, Riboflavina, mg",001,07,254,,
+33,"Vitamina C, mg",2,07,254,,
+34,"Niacina, mg",050,07,254,,
+35,"Vitamina B6, mg",004,07,254,,
+36,"Folati totali, µg",4,07,254,,
+37,VITAMINE LIPOSOLUBILI,,,,,
+38,Retinolo equivalente,,,,,
+39,"Retinolo eq. (RE), µg",73,04,142,,CALC
+40,"Retinolo, µg",62,04,142,,
+41,"ß-carotene eq., µg",68,04,142,,
+42,"Vitamina E (ATE), mg",074,07,254,,
+43,"Vitamina D, µg",064,07,254,,
+44,ACIDI GRASSI,,,,,
+45,"Acidi grassi saturi totali, g",456,89,,,RIPR lip=16.63g saturi=9.24g 18:1=4.24g mono=4.84g 18:2=0.59g 18:3=0.23g altri PUFA=0.01g PUFA=0.83g
+46,"Acidi grassi monoinsaturi totali, g",237,89,,,
+47,"Acido oleico, g",209,89,,,
+48,"Acidi grassi polinsaturi totali, g",041,89,,,
+49,"Acido linoleico, g",029,89,,,
+50,"Acido linolenico, g",011,89,,,
+51,"Altri acidi grassi polinsaturi, g",001,86,,,

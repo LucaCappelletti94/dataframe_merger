@@ -1,0 +1,104 @@
+,0,1,2,3,4,5
+1,"Note Alimento: Nome Originale: ""Coconut desiccated""",,,,,
+2,"Categoria merceologica: 4004 - farine di frutta (castagne, cocco, etc)",,,,,
+3,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+4,Contenuti in 100 g / unità,,,,,
+5,COMPONENTI PRINCIPALI,,,,,
+6,"Parte edibile, %",100,L,818,,
+7,"Energia, ricalcolata, kJ",2492,86,,,
+8,"Energia, Ric con fibra, kJ",2601,86,,,
+9,"Energia, ricalcolata, kcal",604,86,,,
+10,"Energia, Ric con fibra, kcal",632,86,,,
+11,"Proteine totali, g",56,L,818,,
+12,"Proteine animali, g",00,LZ,,,
+13,"Proteine vegetali, g",56,L,818,,
+14,"Lipidi totali, g",620,L,818,,
+15,"Lipidi animali, g",00,LZ,,,
+16,"Lipidi vegetali, g",620,L,818,,
+17,"Colesterolo, mg",0,LZ,,,
+18,"Carboidrati disponibili (MSE), g",64,L,818,,
+19,"Amido (MSE), g",00,L,818,,
+20,"Carboidrati solubili (MSE), g",64,L,818,,
+21,"Fibra alimentare totale, g",137,BF,1009,,come fonte L/818
+22,"Alcol, g",00,LZ,,,
+23,"Acqua, g",23,L,818,,
+24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+25,"Ferro, mg",36,L,818,,
+26,"Calcio, mg",23,L,818,,
+27,"Sodio, mg",28,L,818,,
+28,"Potassio, mg",660,L,818,,
+29,"Fosforo, mg",160,L,818,,
+30,"Zinco, mg",090,L,818,,
+31,"Magnesio, mg",90,BF,1009,,come fonte L/818
+32,"Rame, mg",055,BF,1009,,come fonte L/818
+33,"Selenio, µg",120,BF,1009,,come fonte L/818
+34,"Cloro, mg",200,BF,1009,,come fonte L/818
+35,"Iodio, µg",3,BF,1009,,come fonte L/818
+36,"Manganese, mg",180,BF,1009,,come fonte L/818
+37,"Zolfo, mg",76,L,818,,
+38,VITAMINE IDROSOLUBILI,,,,,
+39,"Vitamina B1, Tiamina, mg",003,L,818,,
+40,"Vitamina B2, Riboflavina, mg",005,L,818,,
+41,"Vitamina C, mg",0,L,818,,
+42,"Niacina, mg",090,L,818,,
+43,"Vitamina B6, mg",009,L,818,,
+44,"Folati totali, µg",9,L,818,,
+45,"Acido pantotenico, mg",050,BF,1009,,come fonte L/818
+46,"Biotina, µg",05,Y,1935,2,"""Coconut, dessicated"" WATER 2.3g, PROT 5.6g, FAT 62g, CHO 6.4g"
+47,"Vitamina B12, µg",00,LZ,,,
+48,VITAMINE LIPOSOLUBILI,,,,,
+49,Retinolo equivalente,,,,,
+50,"Retinolo eq. (RE), µg",0,L,818,3B,
+51,"Retinolo, µg",0,LZ,,,
+52,"ß-carotene eq., µg",0,L,818,,
+53,"Vitamina E (ATE), mg",126,L,818,,
+54,"Vitamina D, µg",000,LZ,,,
+55,"Vitamina K, µg",030,DI,12108,2,"""Nuts, coconut meat, dried (desiccated), not sweetened"" WATER 3g, PROT 6.88g, FAT 64.53g, CHO 23.65g, SUGAR 7.35g"
+56,ACIDI GRASSI,,,,,
+57,"Acidi grassi saturi totali, g",5327,E,834,,come fonte L/818
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",894,E,834,,come fonte L/818
+59,"Acido laurico, g",2786,E,834,,come fonte L/818
+60,"Acido miristico, g",923,E,834,,come fonte L/818
+61,"Acido palmitico, g",526,E,834,,come fonte L/818
+62,"Acido stearico, g",140,E,834,,come fonte L/818
+63,"Acido arachidico, g",058,E,834,,come fonte L/818
+64,"Acido beenico, g",000,E,834,,come fonte L/818
+65,"Acidi grassi monoinsaturi totali, g",408,E,834,,come fonte L/818
+66,"Acido miristoleico, g",000,E,834,,come fonte L/818
+67,"Acido palmitoleico, g",023,E,834,,come fonte L/818
+68,"Acido oleico, g",385,E,834,,come fonte L/818
+69,"Acidi eicosenoico, g",000,E,834,,come fonte L/818
+70,"Acido erucico, g",000,E,834,,come fonte L/818
+71,"Acidi grassi polinsaturi totali, g",105,E,834,,come fonte L/818
+72,"Acido linoleico, g",105,E,834,,come fonte L/818
+73,"Acido linolenico, g",000,E,834,,come fonte L/818
+74,"Acido arachidonico, g",000,E,834,,come fonte L/818
+75,"Acido eicosapentaenoico (EPA), g",000,E,834,,come fonte L/818
+76,"Acido decosaesaenoico (DHA), g",000,E,834,,come fonte L/818
+77,"Altri acidi grassi polinsaturi, g",000,86,,,
+78,AMINOACIDI,,,,,
+79,"Triptofano, mg",74,E,834,,come fonte L/818
+80,"Treonina, mg",220,E,834,,come fonte L/818
+81,"Isoleucina, mg",250,E,834,,come fonte L/818
+82,"Leucina, mg",440,E,834,,come fonte L/818
+83,"Lisina, mg",230,E,834,,come fonte L/818
+84,"Metionina, mg",120,E,834,,come fonte L/818
+85,"Cistina, mg",110,E,834,,come fonte L/818
+86,"Fenilalanina, mg",290,E,834,,come fonte L/818
+87,"Tirosina, mg",180,E,834,,come fonte L/818
+88,"Valina, mg",360,E,834,,come fonte L/818
+89,"Arginina, mg",860,E,834,,come fonte L/818
+90,"Istidina, mg",140,E,834,,come fonte L/818
+91,"Alanina, mg",290,E,834,,come fonte L/818
+92,"Acido aspartico, mg",580,E,834,,come fonte L/818
+93,"Acido glutammico, mg",1230,E,834,,come fonte L/818
+94,"Glicina, mg",290,E,834,,come fonte L/818
+95,"Prolina, mg",240,E,834,,come fonte L/818
+96,"Serina, mg",320,E,834,,come fonte L/818
+97,ZUCCHERI,,,,,
+98,"Glucosio, g",tr,BF,1009,,come fonte L/818
+99,"Fruttosio, g",08,BF,1009,,come fonte L/818
+100,"Galattosio, g",00,LZ,,,
+101,"Saccarosio (MSE), g",56,BF,1009,,come fonte L/818
+102,"Maltosio (MSE), g",00,BF,1009,,come fonte L/818
+103,"Lattosio (MSE), g",00,BF,1009,,come fonte L/818

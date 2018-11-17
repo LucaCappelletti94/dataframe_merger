@@ -1,0 +1,103 @@
+,0,1,2,3,4,5
+1,"Categoria merceologica: 4003 - frutta secca e in guscio, semi edibili",,,,,
+2,Componenti Alimentari,Valore,Fonte,Codice,Classe,Note
+3,Contenuti in 100 g / unità,,,,,
+4,COMPONENTI PRINCIPALI,,,,,
+5,"Parte edibile, %",100,02,504,,
+6,"Energia, ricalcolata, kJ",1220,86,,,
+7,"Energia, Ric con fibra, kJ",1330,86,,,
+8,"Energia, ricalcolata, kcal",287,86,,,
+9,"Energia, Ric con fibra, kcal",315,86,,,
+10,"Proteine totali, g",60,AO,008530,,
+11,"Proteine animali, g",00,LZ,,,
+12,"Proteine vegetali, g",60,AO,008530,,
+13,"Lipidi totali, g",34,AO,008530,,
+14,"Lipidi animali, g",00,LZ,,,
+15,"Lipidi vegetali, g",34,AO,008530,,
+16,"Colesterolo, mg",0,LZ,,,
+17,"Carboidrati disponibili (MSE), g",620,AO,008530,,
+18,"Amido (MSE), g",459,86,,4B,in tabella espressi come polisaccaridi 41.7g
+19,"Carboidrati solubili (MSE), g",161,AO,008530,,
+20,"Fibra alimentare totale, g",138,02,504,,
+21,"Alcol, g",00,LZ,,,
+22,"Acqua, g",101,02,504,,
+23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
+24,"Ferro, mg",19,AO,008530,,
+25,"Calcio, mg",56,AO,008530,,
+26,"Sodio, mg",17,AO,008530,,
+27,"Potassio, mg",738,AO,008530,,
+28,"Fosforo, mg",131,AO,008530,,
+29,"Zinco, mg",090,L,815,2,"""Chestnuts dried"" WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g"
+30,"Magnesio, mg",62,L,815,2,"""Chestnuts dried"" WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g"
+31,"Rame, mg",043,L,815,2,"""Chestnuts dried"" WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g"
+32,"Selenio, µg",tr,L,815,2,"""Chestnuts dried"" WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g"
+33,"Cloro, mg",28,L,815,2,"""Chestnuts dried"" WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g"
+34,"Iodio, µg",0,DH,0117,2,"""Chestnut, raw"" WATER 51.7g, PROT 2g, FAT 2.7g, CHOT 40.7g, SUGAR 7g, STARCH 26.9g"
+35,"Manganese, mg",090,L,815,2,"""Chestnuts dried"" WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g"
+36,"Zolfo, mg",55,L,815,2,"""Chestnuts dried"" WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g"
+37,VITAMINE IDROSOLUBILI,,,,,
+38,"Vitamina B1, Tiamina, mg",015,AO,008530,,
+39,"Vitamina B2, Riboflavina, mg",052,AO,008530,,
+40,"Vitamina C, mg",tr,L,815,2,"""Chestnuts dried"" WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g"
+41,"Niacina, mg",207,AO,008530,,
+42,"Vitamina B6, mg",064,L,815,2,"""Chestnuts dried"" WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g"
+43,"Folati totali, µg",110,DI,12100,2,"""Chestnuts, european, dried, peeled"" WATER 9g, PROT 5.01g, FAT 3.91g, CHO 78.43g"
+44,"Acido pantotenico, mg",092,L,815,2,"""Chestnuts dried"" WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g"
+45,"Biotina, µg",26,L,815,2,"""Chestnuts dried"" WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g"
+46,"Vitamina B12, µg",00,LZ,,,
+47,VITAMINE LIPOSOLUBILI,,,,,
+48,Retinolo equivalente,,,,,
+49,"Retinolo eq. (RE), µg",0,02,504,,
+50,"Retinolo, µg",0,LZ,,,
+51,"ß-carotene eq., µg",0,02,504,3B,
+52,"Vitamina E (ATE), mg",226,L,815,2,"""Chestnuts dried"" WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g"
+53,"Vitamina D, µg",000,LZ,,,
+54,"Vitamina K, µg",780,DI,12167,2,"""Nuts, chestnuts, european, roasted"" WATER 40.48g, PROT 3.17g, FAT 2.20g, CHO 52.96g, SUGAR 10.60g"
+55,ACIDI GRASSI,,,,,
+56,"Acidi grassi saturi totali, g",059,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2.7g, CHO g, FASAT 0.47g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2.7g, CHO g, F4-10:0 0g"
+58,"Acido laurico, g",000,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F12:0 0g"
+59,"Acido miristico, g",000,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F14:0 0g"
+60,"Acido palmitico, g",054,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F16:0 0,43g"
+61,"Acido stearico, g",004,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F18:0 0,03g"
+62,"Acido arachidico, g",001,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F20:0 0,01g"
+63,"Acido beenico, g",000,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F22:0 0g"
+64,"Acidi grassi monoinsaturi totali, g",127,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, FAMS 1,01g"
+65,"Acido miristoleico, g",000,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F14:1CN5 0g"
+66,"Acido palmitoleico, g",003,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F16:1CN7 0,02g"
+67,"Acido oleico, g",125,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F18:1 0,99g"
+68,"Acidi eicosenoico, g",000,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F20:1 0g"
+69,"Acido erucico, g",000,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F22:1CN9 0g"
+70,"Acidi grassi polinsaturi totali, g",136,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, FAPU 1,08g"
+71,"Acido linoleico, g",122,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F18:2 0,97g"
+72,"Acido linolenico, g",014,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F18:3 0,11g"
+73,"Acido arachidonico, g",000,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F20:4N6 0g"
+74,"Acido eicosapentaenoico (EPA), g",000,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F20:5N3 0g"
+75,"Acido decosaesaenoico (DHA), g",000,E,828,3A,"Chestnuts WATER g, PROT g, FAT 2,7g, CHO g, F22:6 0g"
+76,"Altri acidi grassi polinsaturi, g",000,86,,,
+77,AMINOACIDI,,,,,
+78,"Triptofano, mg",67,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, TRP 0.056g"
+79,"Treonina, mg",214,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, THR 0.179g"
+80,"Isoleucina, mg",237,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, ILE 0.198g"
+81,"Leucina, mg",356,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, LEU 0.297g"
+82,"Lisina, mg",356,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, LYS 0.297g"
+83,"Metionina, mg",141,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, MET 0.118g"
+84,"Cistina, mg",190,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, CYS 0.159g"
+85,"Fenilalanina, mg",254,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, PHE 0.212g"
+86,"Tirosina, mg",166,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, TYR 0.139g"
+87,"Valina, mg",335,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, VAL 0.28g"
+88,"Arginina, mg",430,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, ARG 0.359g"
+89,"Istidina, mg",166,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, HIS 0.139g"
+90,"Alanina, mg",401,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, ALA 0.335g"
+91,"Acido aspartico, mg",1037,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, ASP 0.866g"
+92,"Acido glutammico, mg",775,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, GLU 0.647g"
+93,"Glicina, mg",309,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, GLY 0.258g"
+94,"Prolina, mg",316,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, PRO 0.264g"
+95,"Serina, mg",301,DI,12100,3A,"Nuts, Chestnuts, European, Dried, Peeled WATER 68.15g, PROT 2g, FAT 1.38g, CHO 27.76g, SER 0.251g"
+96,ZUCCHERI,,,,,
+97,"Glucosio, g",tr,L,815,3A,"Chestnut Dried WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g, GLUS TRg"
+98,"Fruttosio, g",tr,L,815,3A,"Chestnut Dried WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g, FRUS TRg"
+99,"Galattosio, g",00,LZ,,,
+100,"Saccarosio (MSE), g",161,L,815,3A,"Chestnut Dried WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g, SUCS 13.2g"
+101,"Maltosio (MSE), g",00,L,815,3A,"Chestnut Dried WATER 9g, PROT 3.7g, FAT 5.1g, CHO 69g, SUGAR 13.2g, STARCH 55.8g, MALS 0g"
+102,"Lattosio (MSE), g",00,LZ,,,
