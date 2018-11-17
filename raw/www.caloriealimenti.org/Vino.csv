@@ -1,0 +1,47 @@
+,Alimento,Porzione,Porzione.1,Calorie,Kilojoule,category
+0,Cabernet Sauvignon,100ml,1 bicchiere (118 ml),77 kcal,323 kJ,Vino
+1,Cava,100ml,1 bicchiere (118 ml),76 kcal,319 kJ,Vino
+2,Champagne,100ml,1 bicchiere (118 ml),76 kcal,319 kJ,Vino
+3,Chardonnay,100ml,1 bicchiere (118 ml),85 kcal,357 kJ,Vino
+4,Chenin Blanc,100ml,1 bicchiere (118 ml),80 kcal,336 kJ,Vino
+5,Vino rosso secco,100ml,1 bicchiere (118 ml),85 kcal,357 kJ,Vino
+6,Gamay,100ml,1 bicchiere (118 ml),78 kcal,328 kJ,Vino
+7,Malbec,100ml,1 bicchiere (118 ml),82 kcal,344 kJ,Vino
+8,Marsala,100ml,1 bicchiere (118 ml),100 kcal,420 kJ,Vino
+9,Merlot,100ml,1 bicchiere (118 ml),83 kcal,349 kJ,Vino
+10,Vin brulé,100ml,1 bicchiere (118 ml),196 kcal,823 kJ,Vino
+11,Pinot grigio,100ml,1 bicchiere (118 ml),83 kcal,349 kJ,Vino
+12,Pinot nero,100ml,1 bicchiere (118 ml),75 kcal,315 kJ,Vino
+13,Vino di prugne / Umeshu,100ml,1 bicchiere (118 ml),163 kcal,685 kJ,Vino
+14,Porto,100ml,1 bicchiere (118 ml),160 kcal,672 kJ,Vino
+15,Prosecco,100ml,1 bicchiere (118 ml),71 kcal,298 kJ,Vino
+16,Vino rosso,100ml,1 bicchiere (118 ml),85 kcal,357 kJ,Vino
+17,Riesling,100ml,1 bicchiere (118 ml),80 kcal,336 kJ,Vino
+18,Vino rosato / Vino rosé,100ml,1 bicchiere (118 ml),71 kcal,298 kJ,Vino
+19,Sangria,100ml,1 bicchiere (118 ml),132 kcal,554 kJ,Vino
+20,Sauvignon Blanc,100ml,1 bicchiere (118 ml),81 kcal,340 kJ,Vino
+21,Sherry,100ml,1 bicchiere (118 ml),116 kcal,487 kJ,Vino
+22,Syrah,100ml,1 bicchiere (118 ml),71 kcal,298 kJ,Vino
+23,Vino spumante,100ml,1 bicchiere (118 ml),190 kcal,798 kJ,Vino
+24,Vino rosso dolce,100ml,1 bicchiere (118 ml),81 kcal,340 kJ,Vino
+25,Vino bianco dolce,100ml,1 bicchiere (118 ml),82 kcal,344 kJ,Vino
+26,Vini dolci,100ml,1 bicchiere (118 ml),83 kcal,349 kJ,Vino
+27,Vermouth,100ml,1 bicchiere (30 ml),108 kcal,454 kJ,Vino
+28,Vino bianco,100ml,1 bicchiere (118 ml),82 kcal,344 kJ,Vino
+29,Vino,100ml,1 bicchiere (118 ml),83 kcal,349 kJ,Vino
+30,Primitivo,100ml,1 bicchiere (118 ml),88 kcal,370 kJ,Vino
+31,Barbaresco,100ml,1 bicchiere (118 ml),75 kcal,315 kJ,Vino
+32,Barolo,100ml,1 bicchiere (118 ml),74 kcal,311 kJ,Vino
+33,Bonarda,100ml,1 bicchiere (118 ml),85 kcal,357 kJ,Vino
+34,Brunello di Montalcino,100ml,1 bicchiere (118 ml),72 kcal,302 kJ,Vino
+35,Chianti,100ml,1 bicchiere (118 ml),84 kcal,353 kJ,Vino
+36,Cirò,100ml,1 bicchiere (118 ml),75 kcal,315 kJ,Vino
+37,Dolcetto,100ml,1 bicchiere (118 ml),80 kcal,336 kJ,Vino
+38,Frascati,100ml,1 bicchiere (118 ml),64 kcal,269 kJ,Vino
+39,Gewurztraminer,100ml,1 bicchiere (118 ml),81 kcal,340 kJ,Vino
+40,Marzemino,100ml,1 bicchiere (118 ml),70 kcal,294 kJ,Vino
+41,Montepulciano d'Abruzzo,100ml,1 bicchiere (118 ml),68 kcal,286 kJ,Vino
+42,Morellino di Scansano,100ml,1 bicchiere (118 ml),75 kcal,315 kJ,Vino
+43,Nero d'Avola,100ml,1 bicchiere (118 ml),80 kcal,336 kJ,Vino
+44,Picolit,100ml,1 bicchiere (118 ml),90 kcal,378 kJ,Vino
+45,Sangiovese,100ml,1 bicchiere (118 ml),86 kcal,361 kJ,Vino

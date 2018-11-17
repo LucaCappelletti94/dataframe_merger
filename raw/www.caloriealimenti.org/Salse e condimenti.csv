@@ -1,0 +1,50 @@
+,Alimento,Porzione,Porzione.1,Calorie,Kilojoule,category
+0,Ajvar,100g,1 cucchiaio (15 g),18 kcal,76 kJ,Salse e condimenti
+1,Salsa arrabbiata,100g,1 cucchiaio (15 g),36 kcal,151 kJ,Salse e condimenti
+2,Salsa barbecue,100g,1 cucchiaio (15 g),150 kcal,630 kJ,Salse e condimenti
+3,Besciamella,100g,1 cucchiaio (15 g),225 kcal,945 kJ,Salse e condimenti
+4,Salsa bernese,100g,1 cucchiaio (15 g),414 kcal,1739 kJ,Salse e condimenti
+5,Ragù,100g,1 bicchiere (226 g),106 kcal,445 kJ,Salse e condimenti
+6,Condimento Caesar Salad,100g,1 cucchiaio (15 g),429 kcal,1802 kJ,Salse e condimenti
+7,Salsa alla cacciatora,100g,1 cucchiaio (15 g),45 kcal,189 kJ,Salse e condimenti
+8,Salsa chili,100g,1 cucchiaio (18 g),112 kcal,470 kJ,Salse e condimenti
+9,Salsa alla panna,100g,1 bicchiere (244 g),180 kcal,756 kJ,Salse e condimenti
+10,Ketchup al curry,100g,1 cucchiaio (15 g),124 kcal,521 kJ,Salse e condimenti
+11,Salsa al curry,100g,1 cucchiaio (17 g),26 kcal,109 kJ,Salse e condimenti
+12,Sugo di carne / Salsa bruna,100g,1 bicchiere (233 g),53 kcal,223 kJ,Salse e condimenti
+13,Salsa per hamburger,100g,1 cucchiaio (15 g),383 kcal,1609 kJ,Salse e condimenti
+14,Harissa,100g,1 cucchiaio (15 g),52 kcal,218 kJ,Salse e condimenti
+15,Salsa olandese,100g,1 cucchiaio (15 g),535 kcal,2247 kJ,Salse e condimenti
+16,Salsa al rafano / Cren,100g,1 cucchiaio (15 g),48 kcal,202 kJ,Salse e condimenti
+17,Ketchup,100g,1 cucchiaio (15 g),100 kcal,420 kJ,Salse e condimenti
+18,Maionese,100g,1 cucchiaio (13 g),692 kcal,2906 kJ,Salse e condimenti
+19,Senape,100g,1 cucchiaino (5 g),60 kcal,252 kJ,Salse e condimenti
+20,Salsa alla senape,100g,1 cucchiaio (13 g),645 kcal,2709 kJ,Salse e condimenti
+21,Salsa all'arancia,100g,1 cucchiaio (15 g),179 kcal,752 kJ,Salse e condimenti
+22,Pesto,100g,1 cucchiaio (15 g),458 kcal,1924 kJ,Salse e condimenti
+23,Remoulade,100g,1 cucchiaio (13 g),635 kcal,2667 kJ,Salse e condimenti
+24,Pasta di sesamo,100g,1 cucchiaio (15 g),595 kcal,2499 kJ,Salse e condimenti
+25,Panna acida,100g,1 cucchiaio (12 g),217 kcal,911 kJ,Salse e condimenti
+26,Salsa alla panna acida,100g,1 cucchiaio (15 g),60 kcal,252 kJ,Salse e condimenti
+27,Salsa di soia,100g,1 cucchiaio (15 g),67 kcal,281 kJ,Salse e condimenti
+28,Salsa agrodolce,100g,1 cucchiaio (15 g),179 kcal,752 kJ,Salse e condimenti
+29,Tabasco,100g,1 cucchiaino (5 g),70 kcal,294 kJ,Salse e condimenti
+30,Salsa teriyaki,100g,1 cucchiaio (18 g),89 kcal,374 kJ,Salse e condimenti
+31,Concentrato di pomodoro,100g,1 cucchiaio (17 g),82 kcal,344 kJ,Salse e condimenti
+32,Passata di pomodoro,100g,1 cucchiaio (15 g),38 kcal,160 kJ,Salse e condimenti
+33,Salsa di pomodoro,100g,1 bicchiere (245 g),24 kcal,101 kJ,Salse e condimenti
+34,Tzatziki,100g,1 cucchiaio (15 g),94 kcal,395 kJ,Salse e condimenti
+35,Salsa Worcestershire,100g,1 cucchiaio (15 g),78 kcal,328 kJ,Salse e condimenti
+36,Condimento all'aceto balsamico,100g,1 cucchiaio (16 g),290 kcal,1218 kJ,Salse e condimenti
+37,Condimento all'italiana,100g,1 cucchiaio (15 g),293 kcal,1231 kJ,Salse e condimenti
+38,Condimento ranch,100g,1 cucchiaio (15 g),510 kcal,2142 kJ,Salse e condimenti
+39,Condimento allo yogurt,100g,1 cucchiaio (15 g),45 kcal,189 kJ,Salse e condimenti
+40,Condimento alla francese,100g,1 cucchiaio (15 g),60 kcal,252 kJ,Salse e condimenti
+41,Condimento greco,100g,1 cucchiaio (15 g),467 kcal,1961 kJ,Salse e condimenti
+42,Condimento per insalate,100g,1 cucchiaio (16 g),449 kcal,1886 kJ,Salse e condimenti
+43,Sambal oelek,100g,1 cucchiaino (5 g),21 kcal,88 kJ,Salse e condimenti
+44,Vinaigrette,100g,1 cucchiaio (15 g),120 kcal,504 kJ,Salse e condimenti
+45,Salsa senape e miele,100g,1 cucchiaio (16 g),464 kcal,1949 kJ,Salse e condimenti
+46,Salsa alle noci,100g,1 cucchiaio (16 g),337 kcal,1415 kJ,Salse e condimenti
+47,Aioli,100g,1 cucchiaio (16 g),667 kcal,2801 kJ,Salse e condimenti
+48,Pesto alla siciliana,100g,1 cucchiaio (16 g),406 kcal,1705 kJ,Salse e condimenti

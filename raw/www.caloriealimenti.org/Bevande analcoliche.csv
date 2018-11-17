@@ -1,0 +1,46 @@
+,Alimento,Porzione,Porzione.1,Calorie,Kilojoule,category
+0,Caffè,100ml,1 bicchiere (237 ml),1 kcal,4 kJ,Bevande analcoliche
+1,Latte,100ml,1 bicchiere (244 ml),61 kcal,256 kJ,Bevande analcoliche
+2,Coca Cola,100ml,1 bottiglietta (330 ml),42 kcal,176 kJ,Bevande analcoliche
+3,Cioccolata calda,100ml,1 tazza grande (266 ml),89 kcal,374 kJ,Bevande analcoliche
+4,Tè,100ml,1 tazza grande (237 ml),1 kcal,4 kJ,Bevande analcoliche
+5,Gatorade,100ml,1 bottiglia (500 ml),23 kcal,97 kJ,Bevande analcoliche
+6,Latte di soia,100ml,1 bicchiere (243 ml),45 kcal,189 kJ,Bevande analcoliche
+7,Acqua,100ml,1 bottiglietta (500 ml),0 kcal,0 kJ,Bevande analcoliche
+8,Smoothie,100ml,1 bicchiere (150 ml),37 kcal,155 kJ,Bevande analcoliche
+9,Masala chai,100ml,1 bicchiere (236 ml),0 kcal,0 kJ,Bevande analcoliche
+10,Frullato (in polvere),100ml,1 cucchiaio (7 ml),329 kcal,1382 kJ,Bevande analcoliche
+11,Limonata / Gassosa,100ml,1 bottiglietta (330 ml),42 kcal,176 kJ,Bevande analcoliche
+12,Coca Zero,100ml,1 bottiglietta (330 ml),1 kcal,4 kJ,Bevande analcoliche
+13,Latte al cacao,100ml,1 bicchiere (266 ml),89 kcal,374 kJ,Bevande analcoliche
+14,Powerade,100ml,1 bottiglietta (500 ml),16 kcal,67 kJ,Bevande analcoliche
+15,Birra analcolica,100ml,1 bottiglietta (354 ml),37 kcal,155 kJ,Bevande analcoliche
+16,Kombucha,100ml,1 bottiglietta (330 ml),13 kcal,55 kJ,Bevande analcoliche
+17,Frappè al cioccolato,100ml,1 porzione (400 ml),125 kcal,525 kJ,Bevande analcoliche
+18,Frappè alla fragola,100ml,1 porzione (400 ml),113 kcal,475 kJ,Bevande analcoliche
+19,Frappè alla vaniglia,100ml,1 porzione (400 ml),149 kcal,626 kJ,Bevande analcoliche
+20,Zabaione,100ml,1 bicchiere (254 ml),88 kcal,370 kJ,Bevande analcoliche
+21,Cola,100ml,1 bottiglietta (330 ml),42 kcal,176 kJ,Bevande analcoliche
+22,Tè freddo,100ml,1 bottiglietta (500 ml),27 kcal,113 kJ,Bevande analcoliche
+23,Lassi,100ml,1 bicchiere (250 ml),104 kcal,437 kJ,Bevande analcoliche
+24,Mate,100ml,1 porzione (50 ml),62 kcal,260 kJ,Bevande analcoliche
+25,Tè allo zenzero,100ml,1 bicchiere (254 ml),0 kcal,0 kJ,Bevande analcoliche
+26,Nettare,100ml,1 bottiglia (1000 ml),53 kcal,223 kJ,Bevande analcoliche
+27,Nestea,100ml,1 bicchiere (240 ml),36 kcal,151 kJ,Bevande analcoliche
+28,Latte macchiato,100ml,1 bicchiere (300 ml),57 kcal,239 kJ,Bevande analcoliche
+29,Evian,100ml,1 bottiglietta (500 ml),0 kcal,0 kJ,Bevande analcoliche
+30,Birra di malto,100ml,1 bicchiere (237 ml),37 kcal,155 kJ,Bevande analcoliche
+31,Horchata,100ml,1 bicchiere (150 ml),54 kcal,227 kJ,Bevande analcoliche
+32,Succo Ace,100ml,1 bottiglietta (500 ml),44 kcal,185 kJ,Bevande analcoliche
+33,Apple Spritzer,100ml,1 bottiglietta (500 ml),24 kcal,101 kJ,Bevande analcoliche
+34,Crodino,100ml,1 bottiglietta (100 ml),40 kcal,168 kJ,Bevande analcoliche
+35,Cedrata,100ml,1 bottiglietta (200 ml),71 kcal,298 kJ,Bevande analcoliche
+36,Chinotto,100ml,1 bottiglietta (100 ml),42 kcal,176 kJ,Bevande analcoliche
+37,Guaranà,100ml,1 lattina (350 ml),140 kcal,588 kJ,Bevande analcoliche
+38,Orzata,100ml,1 porzione (10 ml),250 kcal,1050 kJ,Bevande analcoliche
+39,Acqua e menta,100ml,1 porzione (10 ml),343 kcal,1441 kJ,Bevande analcoliche
+40,Tè alla pesca,100ml,1 bicchiere (200 ml),27 kcal,113 kJ,Bevande analcoliche
+41,Caffè d'orzo,100ml,1 porzione (60 ml),6 kcal,25 kJ,Bevande analcoliche
+42,Caffè shakerato,100ml,1 bicchiere (250 ml),70 kcal,294 kJ,Bevande analcoliche
+43,Cappuccino,100ml,1 tazza (160 ml),35 kcal,147 kJ,Bevande analcoliche
+44,Espresso,100ml,1 porzione (60 ml),2 kcal,8 kJ,Bevande analcoliche

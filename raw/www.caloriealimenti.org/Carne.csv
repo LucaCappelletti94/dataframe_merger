@@ -1,0 +1,45 @@
+,Alimento,Porzione,Porzione.1,Calorie,Kilojoule,category
+0,Alligatore,100g,1 porzione (153 g),232 kcal,974 kJ,Carne
+1,Manzo,100g,1 bistecca (164 g),248 kcal,1042 kJ,Carne
+2,Filetto di manzo,100g,1 bistecca (140 g),218 kcal,916 kJ,Carne
+3,Pollo,100g,1/2 pollo (334 g),219 kcal,920 kJ,Carne
+4,Petto di pollo,100g,1 petto (200 g),172 kcal,722 kJ,Carne
+5,Grasso di pollo,100g,1 bicchiere (205 g),898 kcal,3772 kJ,Carne
+6,Fegatini di pollo,100g,1 fegatino (44 g),167 kcal,701 kJ,Carne
+7,Carne di pollo,100g,1 petto (200 g),172 kcal,722 kJ,Carne
+8,Ala di pollo,100g,1 ala (29 g),266 kcal,1117 kJ,Carne
+9,Spalla di manzo,100g,1 bistecca (310 g),277 kcal,1163 kJ,Carne
+10,Anitra,100g,1/2 anitra (634 g),337 kcal,1415 kJ,Carne
+11,Filetto,100g,1 filetto (104 g),267 kcal,1121 kJ,Carne
+12,Macinato di manzo,100g,1 pezzo (70 g),246 kcal,1033 kJ,Carne
+13,Prosciutto,100g,1 fetta (145 g),163 kcal,685 kJ,Carne
+14,Struzzo,100g,1 porzione (85 g),145 kcal,609 kJ,Carne
+15,Maiale,100g,1 pezzo (185 g),196 kcal,823 kJ,Carne
+16,Costolette di maiale,100g,1 pezzo (131 g),196 kcal,823 kJ,Carne
+17,Lombo di maiale,100g,1 pezzo (83 g),204 kcal,857 kJ,Carne
+18,Arrosto di maiale,100g,1 arrosto (830 g),254 kcal,1067 kJ,Carne
+19,Roast beef,100g,1 arrosto (515 g),140 kcal,588 kJ,Carne
+20,Girello,100g,1 bistecca (236 g),182 kcal,764 kJ,Carne
+21,Cotoletta impanata,100g,1 cotoletta (130 g),156 kcal,655 kJ,Carne
+22,Costine,100g,1 pezzo (1400 g),238 kcal,1000 kJ,Carne
+23,Tacchino,100g,1 tacchino (3812 g),189 kcal,794 kJ,Carne
+24,Petto di tacchino,100g,1/2 petto (864 g),135 kcal,567 kJ,Carne
+25,Ali di tacchino,100g,1 ala (24 g),221 kcal,928 kJ,Carne
+26,Costolette di manzo,100g,1 pezzo (225 g),238 kcal,1000 kJ,Carne
+27,Coscia di pollo,100g,1 coscia (199 g),174 kcal,731 kJ,Carne
+28,Punta di petto,100g,1 pezzo (1780 g),242 kcal,1016 kJ,Carne
+29,Pancia di manzo,100g,1 bistecca (188 g),194 kcal,815 kJ,Carne
+30,Bistecche di maiale,100g,1 bistecca (264 g),196 kcal,823 kJ,Carne
+31,Fettina di tacchino,100g,1 fettina (170 g),189 kcal,794 kJ,Carne
+32,Rigaglie di pollo,100g,1 bicchiere (145 g),158 kcal,664 kJ,Carne
+33,Ventrigli di pollo,100g,1 bicchiere (145 g),146 kcal,613 kJ,Carne
+34,Cosce di tacchino,100g,1 coscia (546 g),208 kcal,874 kJ,Carne
+35,Costine di maiale,100g,1 costina (70 g),212 kcal,890 kJ,Carne
+36,Rosticciana,100g,1 porzione (113 g),333 kcal,1399 kJ,Carne
+37,Bistecca alla fiorentina,100g,1 bistecca (287 g),202 kcal,848 kJ,Carne
+38,Coniglio,100g,1 porzione (85 g),197 kcal,827 kJ,Carne
+39,Carne di cavallo,100g,1 porzione (150 g),115 kcal,483 kJ,Carne
+40,Spezzatino d'asino,100g,1 porzione (200 g),280 kcal,1176 kJ,Carne
+41,Vitello,100g,1 pezzo (291 g),282 kcal,1184 kJ,Carne
+42,Agnello,100g,1 porzione (150 g),192 kcal,806 kJ,Carne
+43,Costolette di agnello,100g,1 pezzo (100 g),200 kcal,840 kJ,Carne

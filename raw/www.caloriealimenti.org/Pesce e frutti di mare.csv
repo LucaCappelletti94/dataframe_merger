@@ -1,0 +1,62 @@
+,Alimento,Porzione,Porzione.1,Calorie,Kilojoule,category
+0,Acciuga,100g,1 porzione (48 g),131 kcal,550 kJ,Pesce e frutti di mare
+1,Pesce serra,100g,1 filetto (117 g),159 kcal,668 kJ,Pesce e frutti di mare
+2,Orata,100g,1 porzione (125 g),135 kcal,567 kJ,Pesce e frutti di mare
+3,Calamaro,100g,1 pezzo (12 g),175 kcal,735 kJ,Pesce e frutti di mare
+4,Carpa,100g,1 filetto (170 g),162 kcal,680 kJ,Pesce e frutti di mare
+5,Caviale,100g,1 cucchiaio (16 g),264 kcal,1109 kJ,Pesce e frutti di mare
+6,Vongola,100g,1 confezione (115 g),148 kcal,622 kJ,Pesce e frutti di mare
+7,Merluzzo,100g,1 filetto (180 g),105 kcal,441 kJ,Pesce e frutti di mare
+8,Gambero d'acqua dolce,100g,1 gambero (12 g),82 kcal,344 kJ,Pesce e frutti di mare
+9,Anguilla,100g,1 porzione (48 g),236 kcal,991 kJ,Pesce e frutti di mare
+10,Bastoncini di pesce,100g,1 pezzo (28 g),290 kcal,1218 kJ,Pesce e frutti di mare
+11,Platessa,100g,1 filetto (127 g),86 kcal,361 kJ,Pesce e frutti di mare
+12,Cernia,100g,1 filetto (202 g),118 kcal,496 kJ,Pesce e frutti di mare
+13,Haddock,100g,1 filetto (150 g),90 kcal,378 kJ,Pesce e frutti di mare
+14,Nasello,100g,1 filetto (113 g),71 kcal,298 kJ,Pesce e frutti di mare
+15,Halibut,100g,1/2 filetto (200 g),111 kcal,466 kJ,Pesce e frutti di mare
+16,Aringa,100g,1 filetto (143 g),203 kcal,853 kJ,Pesce e frutti di mare
+17,Merluzzo neozelandese,100g,1 porzione (70 g),121 kcal,508 kJ,Pesce e frutti di mare
+18,Aringa affumicata,100g,1 filetto (40 g),217 kcal,911 kJ,Pesce e frutti di mare
+19,Astice,100g,1 astice (150 g),89 kcal,374 kJ,Pesce e frutti di mare
+20,Sgombro,100g,1 filetto (88 g),262 kcal,1100 kJ,Pesce e frutti di mare
+21,Pesce latte,100g,1 porzione (48 g),190 kcal,798 kJ,Pesce e frutti di mare
+22,Rana pescatrice / Coda di rospo,100g,1 porzione (48 g),97 kcal,407 kJ,Pesce e frutti di mare
+23,Cefalo / Muggine,100g,1 filetto (93 g),150 kcal,630 kJ,Pesce e frutti di mare
+24,Cozza,100g,1 porzione (48 g),172 kcal,722 kJ,Pesce e frutti di mare
+25,Polpo,100g,1 porzione (48 g),164 kcal,689 kJ,Pesce e frutti di mare
+26,Aringa marinata,100g,1 bicchiere (140 g),262 kcal,1100 kJ,Pesce e frutti di mare
+27,Luccio,100g,1/2 filetto (155 g),113 kcal,475 kJ,Pesce e frutti di mare
+28,Platessa,100g,1 porzione (100 g),91 kcal,382 kJ,Pesce e frutti di mare
+29,Merlano,100g,1/2 filetto (151 g),111 kcal,466 kJ,Pesce e frutti di mare
+30,Parago,100g,1 porzione (57 g),94 kcal,395 kJ,Pesce e frutti di mare
+31,Filetti di acciuga marinati,100g,1 filetto di acciuga (65 g),171 kcal,718 kJ,Pesce e frutti di mare
+32,Salmone,100g,1/2 filetto (178 g),206 kcal,865 kJ,Pesce e frutti di mare
+33,Sardine,100g,1 bicchiere (149 g),208 kcal,874 kJ,Pesce e frutti di mare
+34,Capesante,100g,1 capasanta (10 g),111 kcal,466 kJ,Pesce e frutti di mare
+35,Branzino,100g,1 filetto (124 g),124 kcal,521 kJ,Pesce e frutti di mare
+36,Alosa,100g,1 filetto (144 g),252 kcal,1058 kJ,Pesce e frutti di mare
+37,Squalo,100g,1 porzione (85 g),130 kcal,546 kJ,Pesce e frutti di mare
+38,Sperlano,100g,1 porzione (85 g),124 kcal,521 kJ,Pesce e frutti di mare
+39,Sogliola,100g,1 filetto (127 g),86 kcal,361 kJ,Pesce e frutti di mare
+40,Storione,100g,1 bicchiere (136 g),135 kcal,567 kJ,Pesce e frutti di mare
+41,Sushi,100g,1 pezzo (26 g),150 kcal,630 kJ,Pesce e frutti di mare
+42,Pesce spada,100g,1 pezzo (106 g),172 kcal,722 kJ,Pesce e frutti di mare
+43,Pesce balestra,100g,1 porzione (28.4 g),93 kcal,391 kJ,Pesce e frutti di mare
+44,Trota,100g,1 filetto (62 g),190 kcal,798 kJ,Pesce e frutti di mare
+45,Tonno,100g,1/2 filetto (154 g),132 kcal,554 kJ,Pesce e frutti di mare
+46,Insalata di tonno,100g,1 bicchiere (205 g),187 kcal,785 kJ,Pesce e frutti di mare
+47,Rombo,100g,1/2 filetto (159 g),122 kcal,512 kJ,Pesce e frutti di mare
+48,Lavarello,100g,1 filetto (154 g),172 kcal,722 kJ,Pesce e frutti di mare
+49,Merlano,100g,1 filetto (72 g),116 kcal,487 kJ,Pesce e frutti di mare
+50,Luccioperca,100g,1 filetto (62 g),84 kcal,353 kJ,Pesce e frutti di mare
+51,Scampo,100g,1 scampo (10 g),84 kcal,353 kJ,Pesce e frutti di mare
+52,Gunnello,100g,1 filetto (25 g),187 kcal,785 kJ,Pesce e frutti di mare
+53,Dentice atlantico,100g,1 filetto (170 g),87 kcal,365 kJ,Pesce e frutti di mare
+54,Molva,100g,1 filetto (151 g),128 kcal,538 kJ,Pesce e frutti di mare
+55,Wahoo,100g,1 porzione (100 g),109 kcal,458 kJ,Pesce e frutti di mare
+56,Aragosta,100g,1 porzione (120 g),88 kcal,370 kJ,Pesce e frutti di mare
+57,Arsella / Tellina,100g,1 porzione (150 g),90 kcal,378 kJ,Pesce e frutti di mare
+58,Razza,100g,1 porzione (200 g),96 kcal,403 kJ,Pesce e frutti di mare
+59,Triglia,100g,1 porzione (100 g),110 kcal,462 kJ,Pesce e frutti di mare
+60,Seppia,100g,1 porzione (28.4 g),92 kcal,386 kJ,Pesce e frutti di mare
