@@ -8,73 +8,73 @@
 7,"Energia, Ric con fibra, kJ",177,86,,,
 8,"Energia, ricalcolata, kcal",36,86,,,
 9,"Energia, Ric con fibra, kcal",42,86,,,
-10,"Proteine totali, g",13,AO,007750,,
-11,"Proteine animali, g",00,LZ,,,
-12,"Proteine vegetali, g",13,AO,007750,,
+10,"Proteine totali, g",1.3,AO,007750,,
+11,"Proteine animali, g",0.0,LZ,,,
+12,"Proteine vegetali, g",1.3,AO,007750,,
 13,"Lipidi totali, g",tr,AO,007750,,
-14,"Lipidi animali, g",00,LZ,,,
+14,"Lipidi animali, g",0.0,LZ,,,
 15,"Lipidi vegetali, g",tr,AO,007750,,
 16,"Colesterolo, mg",0,LZ,,,
-17,"Carboidrati disponibili (MSE), g",81,AO,007750,,
-18,"Amido (MSE), g",00,AO,007750,,
-19,"Carboidrati solubili (MSE), g",81,AO,007750,,
-20,"Fibra alimentare totale, g",32,AO,007750,,
-21,"Alcol, g",00,LZ,,,
-22,"Acqua, g",850,AO,007750,,
+17,"Carboidrati disponibili (MSE), g",8.1,AO,007750,,
+18,"Amido (MSE), g",0.0,AO,007750,,
+19,"Carboidrati solubili (MSE), g",8.1,AO,007750,,
+20,"Fibra alimentare totale, g",3.2,AO,007750,,
+21,"Alcol, g",0.0,LZ,,,
+22,"Acqua, g",85.0,AO,007750,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",16,AO,007750,,
+24,"Ferro, mg",1.6,AO,007750,,
 25,"Calcio, mg",36,AO,007750,,
 26,"Sodio, mg",2,AO,007750,,
 27,"Potassio, mg",260,AO,007750,,
 28,"Fosforo, mg",48,AO,007750,,
-29,"Zinco, mg",020,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
+29,"Zinco, mg",0.20,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
 30,"Magnesio, mg",23,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
-31,"Rame, mg",011,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
+31,"Rame, mg",0.11,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
 32,"Selenio, µg",tr,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
 33,"Cloro, mg",22,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
 34,"Iodio, µg",tr,Y,3490,2,"""Cloudberry"" WATER 84g, PROT 1.3g, FAT 0.9g, CHO 7.7g"
-35,"Manganese, mg",140,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
+35,"Manganese, mg",1.40,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
 36,"Zolfo, mg",19,Y,3490,2,"""Cloudberry"" WATER 84g, PROT 1.3g, FAT 0.9g, CHO 7.7g"
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",003,AO,007750,,
-39,"Vitamina B2, Riboflavina, mg",005,AO,007750,,
+38,"Vitamina B1, Tiamina, mg",0.03,AO,007750,,
+39,"Vitamina B2, Riboflavina, mg",0.05,AO,007750,,
 40,"Vitamina C, mg",19,AO,007750,,
-41,"Niacina, mg",007,AO,007750,,
-42,"Vitamina B6, mg",005,L,48,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
+41,"Niacina, mg",0.07,AO,007750,,
+42,"Vitamina B6, mg",0.05,L,48,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
 43,"Folati totali, µg",34,L,48,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
-44,"Acido pantotenico, mg",025,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
-45,"Biotina, µg",04,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
-46,"Vitamina B12, µg",00,LZ,,,
+44,"Acido pantotenico, mg",0.25,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
+45,"Biotina, µg",0.4,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
+46,"Vitamina B12, µg",0.0,LZ,,,
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",2,AO,007750,,
 50,"Retinolo, µg",0,LZ,,,
 51,"ß-carotene eq., µg",12,AO,007750,3B,
-52,"Vitamina E (ATE), mg",237,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
-53,"Vitamina D, µg",000,LZ,,,
-54,"Vitamina K, µg",1980,DI,09042,2,"""Blackberries, raw"" WATER 88.15g, PROT 1.39g, FAT 0.49g, CHO 9.61g, SUGAR 4.88g"
+52,"Vitamina E (ATE), mg",2.37,BF,929,6,"""Blackberries, raw"" WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g"
+53,"Vitamina D, µg",0.00,LZ,,,
+54,"Vitamina K, µg",19.80,DI,09042,2,"""Blackberries, raw"" WATER 88.15g, PROT 1.39g, FAT 0.49g, CHO 9.61g, SUGAR 4.88g"
 55,ACIDI GRASSI,,,,,
-56,"Acidi grassi saturi totali, g",000,03,6222,,AG=0 quando lip.=tracce
-57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,LZ,,,
-58,"Acido laurico, g",000,LZ,,,
-59,"Acido miristico, g",000,LZ,,,
-60,"Acido palmitico, g",000,LZ,,,
-61,"Acido stearico, g",000,LZ,,,
-62,"Acido arachidico, g",000,LZ,,,
-63,"Acido beenico, g",000,LZ,,,
-64,"Acidi grassi monoinsaturi totali, g",000,LZ,,,
-65,"Acido miristoleico, g",000,LZ,,,
-66,"Acido palmitoleico, g",000,LZ,,,
-67,"Acido oleico, g",000,LZ,,,
-68,"Acidi eicosenoico, g",000,LZ,,,
-69,"Acido erucico, g",000,LZ,,,
-70,"Acidi grassi polinsaturi totali, g",000,LZ,,,
-71,"Acido linoleico, g",000,LZ,,,
-72,"Acido linolenico, g",000,LZ,,,
-73,"Acido arachidonico, g",000,LZ,,,
-74,"Acido eicosapentaenoico (EPA), g",000,LZ,,,
-75,"Acido decosaesaenoico (DHA), g",000,LZ,,,
-76,"Altri acidi grassi polinsaturi, g",000,86,,,
+56,"Acidi grassi saturi totali, g",0.00,03,6222,,AG=0 quando lip.=tracce
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,LZ,,,
+58,"Acido laurico, g",0.00,LZ,,,
+59,"Acido miristico, g",0.00,LZ,,,
+60,"Acido palmitico, g",0.00,LZ,,,
+61,"Acido stearico, g",0.00,LZ,,,
+62,"Acido arachidico, g",0.00,LZ,,,
+63,"Acido beenico, g",0.00,LZ,,,
+64,"Acidi grassi monoinsaturi totali, g",0.00,LZ,,,
+65,"Acido miristoleico, g",0.00,LZ,,,
+66,"Acido palmitoleico, g",0.00,LZ,,,
+67,"Acido oleico, g",0.00,LZ,,,
+68,"Acidi eicosenoico, g",0.00,LZ,,,
+69,"Acido erucico, g",0.00,LZ,,,
+70,"Acidi grassi polinsaturi totali, g",0.00,LZ,,,
+71,"Acido linoleico, g",0.00,LZ,,,
+72,"Acido linolenico, g",0.00,LZ,,,
+73,"Acido arachidonico, g",0.00,LZ,,,
+74,"Acido eicosapentaenoico (EPA), g",0.00,LZ,,,
+75,"Acido decosaesaenoico (DHA), g",0.00,LZ,,,
+76,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 77,AMINOACIDI,,,,,
 78,"Triptofano, mg",16,DI,09316,3A,"Strawberries, Raw [Morus Nigra] WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, TRP 0.008g"
 79,"Treonina, mg",39,DI,09316,3A,"Strawberries, Raw [Morus Nigra] WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, THR 0.02g"
@@ -95,9 +95,9 @@
 94,"Prolina, mg",39,DI,09316,3A,"Strawberries, Raw [Morus Nigra] WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, PRO 0.02g"
 95,"Serina, mg",49,DI,09316,3A,"Strawberries, Raw [Morus Nigra] WATER 90.95g, PROT 0.67g, FAT 0.3g, CHO 5.68g, SUGAR 4.89g, STARCH 0.04g, SER 0.025g"
 96,ZUCCHERI,,,,,
-97,"Glucosio, g",40,BF,929,3B,"Blackberries, Raw WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g, GLUS 2.5g"
-98,"Fruttosio, g",41,BF,929,3B,"Blackberries, Raw WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g, FRUS 2.6g"
-99,"Galattosio, g",00,LZ,,,
+97,"Glucosio, g",4.0,BF,929,3B,"Blackberries, Raw WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g, GLUS 2.5g"
+98,"Fruttosio, g",4.1,BF,929,3B,"Blackberries, Raw WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g, FRUS 2.6g"
+99,"Galattosio, g",0.0,LZ,,,
 100,"Saccarosio (MSE), g",tr,BF,929,3B,"Blackberries, Raw WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g, SUCS TRg"
-101,"Maltosio (MSE), g",00,BF,929,3B,"Blackberries, Raw WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g, MALS 0g"
-102,"Lattosio (MSE), g",00,LZ,,,
+101,"Maltosio (MSE), g",0.0,BF,929,3B,"Blackberries, Raw WATER 85g, PROT 0.9g, FAT 0.2g, CHO 5.1g, SUGAR 5.1g, MALS 0g"
+102,"Lattosio (MSE), g",0.0,LZ,,,

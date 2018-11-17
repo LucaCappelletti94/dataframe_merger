@@ -9,32 +9,32 @@
 8,"Energia, Ric con fibra, kJ",1472,86,,,
 9,"Energia, ricalcolata, kcal",324,86,,,
 10,"Energia, Ric con fibra, kcal",347,86,,,
-11,"Proteine totali, g",134,07,63,,prot=12.7g
-12,"Proteine animali, g",00,07,63,,
-13,"Proteine vegetali, g",134,07,63,,
-14,"Lipidi totali, g",25,07,63,,lip=2.6g
-15,"Lipidi animali, g",00,07,63,,
-16,"Lipidi vegetali, g",25,07,63,,
+11,"Proteine totali, g",13.4,07,63,,prot=12.7g
+12,"Proteine animali, g",0.0,07,63,,
+13,"Proteine vegetali, g",13.4,07,63,,
+14,"Lipidi totali, g",2.5,07,63,,lip=2.6g
+15,"Lipidi animali, g",0.0,07,63,,
+16,"Lipidi vegetali, g",2.5,07,63,,
 17,"Colesterolo, mg",0,07,63,,
-18,"Carboidrati disponibili (MSE), g",662,07,63,,GD=65.1g
-19,"Amido (MSE), g",625,07,63,,
-20,"Carboidrati solubili (MSE), g",37,07,63,,GS=3g
-21,"Fibra alimentare totale, g",115,07,63,,metodo Southgate metodo Englyst fibra=8.4g fibra=7.3g
-22,"Alcol, g",00,07,63,,
-23,"Acqua, g",105,07,63,,
+18,"Carboidrati disponibili (MSE), g",66.2,07,63,,GD=65.1g
+19,"Amido (MSE), g",62.5,07,63,,
+20,"Carboidrati solubili (MSE), g",3.7,07,63,,GS=3g
+21,"Fibra alimentare totale, g",11.5,07,63,,metodo Southgate metodo Englyst fibra=8.4g fibra=7.3g
+22,"Alcol, g",0.0,07,63,,
+23,"Acqua, g",10.5,07,63,,
 24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-25,"Ferro, mg",39,07,63,,Fe=7.9mg
+25,"Ferro, mg",3.9,07,63,,Fe=7.9mg
 26,"Calcio, mg",31,07,63,,
 27,"Sodio, mg",130,07,63,,Na=0
 28,"Potassio, mg",390,07,63,,
 29,"Fosforo, mg",330,07,63,,
-30,"Zinco, mg",300,07,63,,
+30,"Zinco, mg",3.00,07,63,,
 31,VITAMINE IDROSOLUBILI,,,,,
-32,"Vitamina B1, Tiamina, mg",099,07,63,,B1=1.3mg
-33,"Vitamina B2, Riboflavina, mg",011,07,63,,B2=1.3mg
+32,"Vitamina B1, Tiamina, mg",0.99,07,63,,B1=1.3mg
+33,"Vitamina B2, Riboflavina, mg",0.11,07,63,,B2=1.3mg
 34,"Vitamina C, mg",0,07,63,,
-35,"Niacina, mg",620,07,63,,PP=14.4mg
-36,"Vitamina B6, mg",039,07,63,,
+35,"Niacina, mg",6.20,07,63,,PP=14.4mg
+36,"Vitamina B6, mg",0.39,07,63,,
 37,"Folati totali, µg",40,07,63,,
 38,VITAMINE LIPOSOLUBILI,,,,,
 39,Retinolo equivalente,,,,,
@@ -42,12 +42,12 @@
 41,"Retinolo, µg",0,07,63,,
 42,"ß-carotene eq., µg",0,07,63,,
 43,"Vitamina E (ATE), mg",tr,07,63,,
-44,"Vitamina D, µg",000,07,63,,
+44,"Vitamina D, µg",0.00,07,63,,
 45,ACIDI GRASSI,,,,,
-46,"Acidi grassi saturi totali, g",058,02,APP,,in etichetta saturi=0.5g RIPR riferito a Frumento lip=1.0g saturi=0.23g 18:1=0.11g mono=0.11g 18:2=0.58g 18:3=0.03g altri PUFA=0 PUFA=0.61g
-47,"Acidi grassi monoinsaturi totali, g",028,02,APP,,
-48,"Acido oleico, g",028,02,APP,,
-49,"Acidi grassi polinsaturi totali, g",153,02,APP,,
-50,"Acido linoleico, g",145,02,APP,,
-51,"Acido linolenico, g",008,02,APP,,
-52,"Altri acidi grassi polinsaturi, g",000,86,,,
+46,"Acidi grassi saturi totali, g",0.58,02,APP,,in etichetta saturi=0.5g RIPR riferito a Frumento lip=1.0g saturi=0.23g 18:1=0.11g mono=0.11g 18:2=0.58g 18:3=0.03g altri PUFA=0 PUFA=0.61g
+47,"Acidi grassi monoinsaturi totali, g",0.28,02,APP,,
+48,"Acido oleico, g",0.28,02,APP,,
+49,"Acidi grassi polinsaturi totali, g",1.53,02,APP,,
+50,"Acido linoleico, g",1.45,02,APP,,
+51,"Acido linolenico, g",0.08,02,APP,,
+52,"Altri acidi grassi polinsaturi, g",0.00,86,,,

@@ -9,73 +9,73 @@
 8,"Energia, Ric con fibra, kJ",196,86,,,
 9,"Energia, ricalcolata, kcal",46,86,,,
 10,"Energia, Ric con fibra, kcal",46,86,,,
-11,"Proteine totali, g",03,L,273,,
-12,"Proteine animali, g",00,LZ,,,
-13,"Proteine vegetali, g",03,L,273,,
-14,"Lipidi totali, g",01,L,273,,
-15,"Lipidi animali, g",00,LZ,,,
-16,"Lipidi vegetali, g",01,L,273,,
+11,"Proteine totali, g",0.3,L,273,,
+12,"Proteine animali, g",0.0,LZ,,,
+13,"Proteine vegetali, g",0.3,L,273,,
+14,"Lipidi totali, g",0.1,L,273,,
+15,"Lipidi animali, g",0.0,LZ,,,
+16,"Lipidi vegetali, g",0.1,L,273,,
 17,"Colesterolo, mg",0,LZ,,,
-18,"Carboidrati disponibili (MSE), g",117,L,273,,
-19,"Amido (MSE), g",00,L,273,,
-20,"Carboidrati solubili (MSE), g",117,L,273,,
-21,"Fibra alimentare totale, g",00,L,273,,
-22,"Alcol, g",00,LZ,,,
-23,"Acqua, g",854,L,273,,
+18,"Carboidrati disponibili (MSE), g",11.7,L,273,,
+19,"Amido (MSE), g",0.0,L,273,,
+20,"Carboidrati solubili (MSE), g",11.7,L,273,,
+21,"Fibra alimentare totale, g",0.0,L,273,,
+22,"Alcol, g",0.0,LZ,,,
+23,"Acqua, g",85.4,L,273,,
 24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-25,"Ferro, mg",09,L,273,,
+25,"Ferro, mg",0.9,L,273,,
 26,"Calcio, mg",19,L,273,,
 27,"Sodio, mg",7,L,273,,
 28,"Potassio, mg",55,L,273,,
 29,"Fosforo, mg",14,L,273,,
-30,"Zinco, mg",010,L,273,,
+30,"Zinco, mg",0.10,L,273,,
 31,"Magnesio, mg",7,BF,1123,,
 32,"Rame, mg",tr,BF,1123,,
-33,"Selenio, µg",10,BF,1123,,
+33,"Selenio, µg",1.0,BF,1123,,
 34,"Cloro, mg",6,BF,1123,,
 35,"Iodio, µg",1,DN,1001102,2,"""Succo d'uva"" WATER 83.5g, PROT 0.2g, FAT 0.1g, CHO 15g, SUGAR 14.8g"
-36,"Manganese, mg",010,BF,1123,,
+36,"Manganese, mg",0.10,BF,1123,,
 37,"Zolfo, mg",6,L,273,,
 38,VITAMINE IDROSOLUBILI,,,,,
 39,"Vitamina B1, Tiamina, mg",tr,L,273,,
-40,"Vitamina B2, Riboflavina, mg",001,L,273,,
+40,"Vitamina B2, Riboflavina, mg",0.01,L,273,,
 41,"Vitamina C, mg",tr,L,273,,
-42,"Niacina, mg",010,L,273,,
-43,"Vitamina B6, mg",004,L,273,,
+42,"Niacina, mg",0.10,L,273,,
+43,"Vitamina B6, mg",0.04,L,273,,
 44,"Folati totali, µg",1,L,273,,
-45,"Acido pantotenico, mg",003,BF,1123,,
-46,"Biotina, µg",10,BF,1123,,
-47,"Vitamina B12, µg",00,LZ,,,
+45,"Acido pantotenico, mg",0.03,BF,1123,,
+46,"Biotina, µg",1.0,BF,1123,,
+47,"Vitamina B12, µg",0.0,LZ,,,
 48,VITAMINE LIPOSOLUBILI,,,,,
 49,Retinolo equivalente,,,,,
 50,"Retinolo eq. (RE), µg",tr,L,273,3B,
 51,"Retinolo, µg",0,LZ,,,
 52,"ß-carotene eq., µg",tr,L,273,,
 53,"Vitamina E (ATE), mg",tr,L,273,,
-54,"Vitamina D, µg",000,LZ,,,
-55,"Vitamina K, µg",040,DI,09135,6,"""Grape juice, canned or bottled, unsweetened, without added ascorbic acid"" WATER 84.51g, PROT 0.37g, FAT 0.13g, CHO 14.77g, SUGAR 14.2g"
+54,"Vitamina D, µg",0.00,LZ,,,
+55,"Vitamina K, µg",0.40,DI,09135,6,"""Grape juice, canned or bottled, unsweetened, without added ascorbic acid"" WATER 84.51g, PROT 0.37g, FAT 0.13g, CHO 14.77g, SUGAR 14.2g"
 56,ACIDI GRASSI,,,,,
-57,"Acidi grassi saturi totali, g",002,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84.51g, PROT 0.37g, FAT 0.13g, CHO 14.57g, SUGAR 14.2g, FASAT 0.025g"
-58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84.51g, PROT 0.37g, FAT 0.13g, F4-10:0 0g"
-59,"Acido laurico, g",000,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, F12:0 0g"
-60,"Acido miristico, g",000,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, CHO 14,57g, SUGAR 14,2g, F14:0 0,001g"
-61,"Acido palmitico, g",002,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, CHO 14,57g, SUGAR 14,2g, F16:0 0,021g"
-62,"Acido stearico, g",000,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, CHO 14,57g, SUGAR 14,2g, F18:0 0,003g"
-63,"Acido arachidico, g",000,87,,,
-64,"Acido beenico, g",000,87,,,
-65,"Acidi grassi monoinsaturi totali, g",000,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, CHO 14,57g, SUGAR 14,2g, FAMS 0,003g"
-66,"Acido miristoleico, g",000,87,,,
-67,"Acido palmitoleico, g",000,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, F16:1CN7 0g"
-68,"Acido oleico, g",000,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, CHO 14,57g, SUGAR 14,2g, F18:1 0,003g"
-69,"Acidi eicosenoico, g",000,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, F20:1 0g"
-70,"Acido erucico, g",000,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Add Vit C WATER 84,51g, PROT 0,37g, FAT 0,13g, F22:1CN9 0g"
-71,"Acidi grassi polinsaturi totali, g",002,DI,09135,3A,"Grape Juice, Cann Or Bottl, Unsweet, Witho Add Vita C WATER 84,51g, PROT 0,37g, FAT 0,13g, FAPU 0,022g"
-72,"Acido linoleico, g",001,DI,09135,3A,"Grape Juice, CannOr Bot, Unsweet, Witho Add Vita C WATER 84,51g, PROT 0,37g, FAT 0,13g, F18:2 0,017g"
-73,"Acido linolenico, g",000,DI,09135,3A,"Grape Juice, Cann Or Bott, Unswee, Witho Add Vit C WATER 84,51g, PROT 0,37g, FAT 0,13g, F18:3 0,005g"
-74,"Acido arachidonico, g",000,DI,09135,3A,"Grape Juice, Cann Or Bott, Unsw, Witho Add Vit C WATER 84,51g, PROT 0,37g, FAT 0,13g, F20:4N6 0g"
-75,"Acido eicosapentaenoico (EPA), g",000,DI,09135,3A,"Grape Juice, Can Or Bottl, Unswee, With Ad Vita C WATER 84,51g, PROT 0,37g, FAT 0,13g, F20:5N3 0g"
-76,"Acido decosaesaenoico (DHA), g",000,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unswee, With Add Vita C WATER 84,51g, PROT 0,37g, FAT 0,13g, F22:6 0g"
-77,"Altri acidi grassi polinsaturi, g",000,86,,,
+57,"Acidi grassi saturi totali, g",0.02,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84.51g, PROT 0.37g, FAT 0.13g, CHO 14.57g, SUGAR 14.2g, FASAT 0.025g"
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84.51g, PROT 0.37g, FAT 0.13g, F4-10:0 0g"
+59,"Acido laurico, g",0.00,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, F12:0 0g"
+60,"Acido miristico, g",0.00,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, CHO 14,57g, SUGAR 14,2g, F14:0 0,001g"
+61,"Acido palmitico, g",0.02,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, CHO 14,57g, SUGAR 14,2g, F16:0 0,021g"
+62,"Acido stearico, g",0.00,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, CHO 14,57g, SUGAR 14,2g, F18:0 0,003g"
+63,"Acido arachidico, g",0.00,87,,,
+64,"Acido beenico, g",0.00,87,,,
+65,"Acidi grassi monoinsaturi totali, g",0.00,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, CHO 14,57g, SUGAR 14,2g, FAMS 0,003g"
+66,"Acido miristoleico, g",0.00,87,,,
+67,"Acido palmitoleico, g",0.00,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, F16:1CN7 0g"
+68,"Acido oleico, g",0.00,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, CHO 14,57g, SUGAR 14,2g, F18:1 0,003g"
+69,"Acidi eicosenoico, g",0.00,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Added Vitamin C WATER 84,51g, PROT 0,37g, FAT 0,13g, F20:1 0g"
+70,"Acido erucico, g",0.00,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unsweetened, Without Add Vit C WATER 84,51g, PROT 0,37g, FAT 0,13g, F22:1CN9 0g"
+71,"Acidi grassi polinsaturi totali, g",0.02,DI,09135,3A,"Grape Juice, Cann Or Bottl, Unsweet, Witho Add Vita C WATER 84,51g, PROT 0,37g, FAT 0,13g, FAPU 0,022g"
+72,"Acido linoleico, g",0.01,DI,09135,3A,"Grape Juice, CannOr Bot, Unsweet, Witho Add Vita C WATER 84,51g, PROT 0,37g, FAT 0,13g, F18:2 0,017g"
+73,"Acido linolenico, g",0.00,DI,09135,3A,"Grape Juice, Cann Or Bott, Unswee, Witho Add Vit C WATER 84,51g, PROT 0,37g, FAT 0,13g, F18:3 0,005g"
+74,"Acido arachidonico, g",0.00,DI,09135,3A,"Grape Juice, Cann Or Bott, Unsw, Witho Add Vit C WATER 84,51g, PROT 0,37g, FAT 0,13g, F20:4N6 0g"
+75,"Acido eicosapentaenoico (EPA), g",0.00,DI,09135,3A,"Grape Juice, Can Or Bottl, Unswee, With Ad Vita C WATER 84,51g, PROT 0,37g, FAT 0,13g, F20:5N3 0g"
+76,"Acido decosaesaenoico (DHA), g",0.00,DI,09135,3A,"Grape Juice, Canned Or Bottled, Unswee, With Add Vita C WATER 84,51g, PROT 0,37g, FAT 0,13g, F22:6 0g"
+77,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 78,AMINOACIDI,,,,,
 79,"Triptofano, mg",2,AO,007380,3A,"Uva WATER 80,3g, PROT 0,5g, FAT 0,1g, CHO 15,6g, SUGAR 15,6g, TRP 3mg"
 80,"Treonina, mg",11,AO,007380,3A,"Uva WATER 80,3g, PROT 0,5g, FAT 0,1g, CHO 15,6g, SUGAR 15,6g, THR 19mg"
@@ -96,9 +96,9 @@
 95,"Prolina, mg",14,AO,007380,3A,"Uva WATER 80,3g, PROT 0,5g, FAT 0,1g, CHO 15,6g, SUGAR 15,6g, PRO 23mg"
 96,"Serina, mg",20,AO,007380,3A,"Uva WATER 80,3g, PROT 0,5g, FAT 0,1g, CHO 15,6g, SUGAR 15,6g, SER 33mg"
 97,ZUCCHERI,,,,,
-98,"Glucosio, g",55,BF,1123,,
-99,"Fruttosio, g",62,BF,1123,,
-100,"Galattosio, g",00,LZ,,,
+98,"Glucosio, g",5.5,BF,1123,,
+99,"Fruttosio, g",6.2,BF,1123,,
+100,"Galattosio, g",0.0,LZ,,,
 101,"Saccarosio (MSE), g",tr,BF,1123,,
-102,"Maltosio (MSE), g",00,BF,1123,,
-103,"Lattosio (MSE), g",00,BF,1123,,
+102,"Maltosio (MSE), g",0.0,BF,1123,,
+103,"Lattosio (MSE), g",0.0,BF,1123,,

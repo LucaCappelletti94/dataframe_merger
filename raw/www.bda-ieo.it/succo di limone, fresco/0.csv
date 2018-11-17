@@ -8,73 +8,73 @@
 7,"Energia, Ric con fibra, kJ",26,86,,,
 8,"Energia, ricalcolata, kcal",6,86,,,
 9,"Energia, Ric con fibra, kcal",6,86,,,
-10,"Proteine totali, g",02,02,414,,
-11,"Proteine animali, g",00,LZ,,,
-12,"Proteine vegetali, g",02,02,414,,
-13,"Lipidi totali, g",00,02,414,,
-14,"Lipidi animali, g",00,LZ,,,
-15,"Lipidi vegetali, g",00,02,414,,
+10,"Proteine totali, g",0.2,02,414,,
+11,"Proteine animali, g",0.0,LZ,,,
+12,"Proteine vegetali, g",0.2,02,414,,
+13,"Lipidi totali, g",0.0,02,414,,
+14,"Lipidi animali, g",0.0,LZ,,,
+15,"Lipidi vegetali, g",0.0,02,414,,
 16,"Colesterolo, mg",0,LZ,,,
-17,"Carboidrati disponibili (MSE), g",14,02,414,,
-18,"Amido (MSE), g",00,02,414,,
-19,"Carboidrati solubili (MSE), g",14,02,414,,
-20,"Fibra alimentare totale, g",00,AO,008040,,
-21,"Alcol, g",00,LZ,,,
-22,"Acqua, g",921,02,414,,
+17,"Carboidrati disponibili (MSE), g",1.4,02,414,,
+18,"Amido (MSE), g",0.0,02,414,,
+19,"Carboidrati solubili (MSE), g",1.4,02,414,,
+20,"Fibra alimentare totale, g",0.0,AO,008040,,
+21,"Alcol, g",0.0,LZ,,,
+22,"Acqua, g",92.1,02,414,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",02,02,414,,
+24,"Ferro, mg",0.2,02,414,,
 25,"Calcio, mg",14,02,414,,
 26,"Sodio, mg",2,02,414,,
 27,"Potassio, mg",140,02,414,,
 28,"Fosforo, mg",10,02,414,,
 29,"Zinco, mg",tr,03,0207,6,"""Succo di limone"" WATER 92g, PROT 0.2g, FAT -2, CHO 1.4g, SUGAR 1.4g"
 30,"Magnesio, mg",7,BF,1125,6,"""Lemon juice, fresh"" WATER 91.4g, PROT 0.3g, FAT -2, CHO 1.6g, SUGAR 1.6g"
-31,"Rame, mg",013,03,0207,6,"""Succo di limone"" WATER 92g, PROT 0.2g, FAT -2, CHO 1.4g, SUGAR 1.4g"
-32,"Selenio, µg",10,BF,1125,6,"""Lemon juice, fresh"" WATER 91.4g, PROT 0.3g, FAT -2, CHO 1.6g, SUGAR 1.6g"
+31,"Rame, mg",0.13,03,0207,6,"""Succo di limone"" WATER 92g, PROT 0.2g, FAT -2, CHO 1.4g, SUGAR 1.4g"
+32,"Selenio, µg",1.0,BF,1125,6,"""Lemon juice, fresh"" WATER 91.4g, PROT 0.3g, FAT -2, CHO 1.6g, SUGAR 1.6g"
 33,"Cloro, mg",3,BF,1125,6,"""Lemon juice, fresh"" WATER 91.4g, PROT 0.3g, FAT -2, CHO 1.6g, SUGAR 1.6g"
 34,"Iodio, µg",1,DH,0041,2,"""Lemon juice, fresh"" WATER 90.7g, PROT 0.4g, FAT 0g, CHO 8.6g, SUGAR 1.6g"
 35,"Manganese, mg",tr,BF,1125,6,"""Lemon juice, fresh"" WATER 91.4g, PROT 0.3g, FAT -2, CHO 1.6g, SUGAR 1.6g"
 36,"Zolfo, mg",2,L,277,6,"""Lemon juice, fresh"" WATER 91.4g, PROT 0.3g, FAT -2, CHO 1.6g, SUGAR 1.6g"
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",002,02,414,,
-39,"Vitamina B2, Riboflavina, mg",002,02,414,,
+38,"Vitamina B1, Tiamina, mg",0.02,02,414,,
+39,"Vitamina B2, Riboflavina, mg",0.02,02,414,,
 40,"Vitamina C, mg",43,02,414,,
-41,"Niacina, mg",020,02,414,,
-42,"Vitamina B6, mg",005,L,277,6,"""Lemon juice, fresh"" WATER 91.4g, PROT 0.3g, FAT -2, CHO 1.6g, SUGAR 1.6g"
+41,"Niacina, mg",0.20,02,414,,
+42,"Vitamina B6, mg",0.05,L,277,6,"""Lemon juice, fresh"" WATER 91.4g, PROT 0.3g, FAT -2, CHO 1.6g, SUGAR 1.6g"
 43,"Folati totali, µg",13,L,277,6,"""Lemon juice, fresh"" WATER 91.4g, PROT 0.3g, FAT -2, CHO 1.6g, SUGAR 1.6g"
-44,"Acido pantotenico, mg",010,BF,1125,6,"""Lemon juice, fresh"" WATER 91.4g, PROT 0.3g, FAT -2, CHO 1.6g, SUGAR 1.6g"
-45,"Biotina, µg",00,BF,1125,6,"""Lemon juice, fresh"" WATER 91.4g, PROT 0.3g, FAT -2, CHO 1.6g, SUGAR 1.6g"
-46,"Vitamina B12, µg",00,LZ,,,
+44,"Acido pantotenico, mg",0.10,BF,1125,6,"""Lemon juice, fresh"" WATER 91.4g, PROT 0.3g, FAT -2, CHO 1.6g, SUGAR 1.6g"
+45,"Biotina, µg",0.0,BF,1125,6,"""Lemon juice, fresh"" WATER 91.4g, PROT 0.3g, FAT -2, CHO 1.6g, SUGAR 1.6g"
+46,"Vitamina B12, µg",0.0,LZ,,,
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",0,AO,008040,,
 50,"Retinolo, µg",0,LZ,,,
 51,"ß-carotene eq., µg",0,AO,008040,,
 52,"Vitamina E (ATE), mg",tr,AO,008040,,
-53,"Vitamina D, µg",000,LZ,,,
-54,"Vitamina K, µg",000,DI,09152,6,"""Lemon juice, raw"" WATER 92.31g, PROT 0.35g, FAT 0.24g, CHO 6.9g, SUGAR 2.52g"
+53,"Vitamina D, µg",0.00,LZ,,,
+54,"Vitamina K, µg",0.00,DI,09152,6,"""Lemon juice, raw"" WATER 92.31g, PROT 0.35g, FAT 0.24g, CHO 6.9g, SUGAR 2.52g"
 55,ACIDI GRASSI,,,,,
-56,"Acidi grassi saturi totali, g",000,LZ,,,
-57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,LZ,,,
-58,"Acido laurico, g",000,LZ,,,
-59,"Acido miristico, g",000,LZ,,,
-60,"Acido palmitico, g",000,LZ,,,
-61,"Acido stearico, g",000,LZ,,,
-62,"Acido arachidico, g",000,LZ,,,
-63,"Acido beenico, g",000,LZ,,,
-64,"Acidi grassi monoinsaturi totali, g",000,LZ,,,
-65,"Acido miristoleico, g",000,LZ,,,
-66,"Acido palmitoleico, g",000,LZ,,,
-67,"Acido oleico, g",000,LZ,,,
-68,"Acidi eicosenoico, g",000,LZ,,,
-69,"Acido erucico, g",000,LZ,,,
-70,"Acidi grassi polinsaturi totali, g",000,LZ,,,
-71,"Acido linoleico, g",000,LZ,,,
-72,"Acido linolenico, g",000,LZ,,,
-73,"Acido arachidonico, g",000,LZ,,,
-74,"Acido eicosapentaenoico (EPA), g",000,LZ,,,
-75,"Acido decosaesaenoico (DHA), g",000,LZ,,,
-76,"Altri acidi grassi polinsaturi, g",000,86,,,
+56,"Acidi grassi saturi totali, g",0.00,LZ,,,
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,LZ,,,
+58,"Acido laurico, g",0.00,LZ,,,
+59,"Acido miristico, g",0.00,LZ,,,
+60,"Acido palmitico, g",0.00,LZ,,,
+61,"Acido stearico, g",0.00,LZ,,,
+62,"Acido arachidico, g",0.00,LZ,,,
+63,"Acido beenico, g",0.00,LZ,,,
+64,"Acidi grassi monoinsaturi totali, g",0.00,LZ,,,
+65,"Acido miristoleico, g",0.00,LZ,,,
+66,"Acido palmitoleico, g",0.00,LZ,,,
+67,"Acido oleico, g",0.00,LZ,,,
+68,"Acidi eicosenoico, g",0.00,LZ,,,
+69,"Acido erucico, g",0.00,LZ,,,
+70,"Acidi grassi polinsaturi totali, g",0.00,LZ,,,
+71,"Acido linoleico, g",0.00,LZ,,,
+72,"Acido linolenico, g",0.00,LZ,,,
+73,"Acido arachidonico, g",0.00,LZ,,,
+74,"Acido eicosapentaenoico (EPA), g",0.00,LZ,,,
+75,"Acido decosaesaenoico (DHA), g",0.00,LZ,,,
+76,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 77,AMINOACIDI,,,,,
 78,"Triptofano, mg",1,E,750,3A,"Lemons Whole WATER 85,2g, PROT 0,8g, FAT TR g, CHO 3,2g, SUGAR 3,2g, TRP 5mg"
 79,"Treonina, mg",3,E,750,3A,"Lemons Whole WATER 85,2g, PROT 0,8g, FAT TR g, CHO 3,2g, SUGAR 3,2g, THR 11mg"
@@ -95,9 +95,9 @@
 94,"Prolina, mg",11,E,750,3A,"Lemons Whole WATER 85,2g, PROT 0,8g, FAT TR g, CHO 3,2g, SUGAR 3,2g, PRO 42mg"
 95,"Serina, mg",6,E,750,3A,"Lemons Whole WATER 85,2g, PROT 0,8g, FAT TR g, CHO 3,2g, SUGAR 3,2g, SER 22mg"
 96,ZUCCHERI,,,,,
-97,"Glucosio, g",04,BF,1125,3B,"Lemon Juice, Fresh WATER 91.4g, PROT 0.3g, FAT TRg, CHO 1.6g, SUGAR 1.6g, GLUS 0.5g"
-98,"Fruttosio, g",08,BF,1125,3B,"Lemon Juice, Fresh WATER 91.4g, PROT 0.3g, FAT TRg, CHO 1.6g, SUGAR 1.6g, FRUS 0.9g"
-99,"Galattosio, g",00,LZ,,,
-100,"Saccarosio (MSE), g",02,BF,1125,3B,"Lemon Juice, Fresh WATER 91.4g, PROT 0.3g, FAT TRg, CHO 1.6g, SUGAR 1.6g, SUCS 0.2g"
-101,"Maltosio (MSE), g",00,BF,1125,3B,"Lemon Juice, Fresh WATER 91.4g, PROT 0.3g, FAT TRg, CHO 1.6g, SUGAR 1.6g, MALS 0g"
-102,"Lattosio (MSE), g",00,LZ,,,
+97,"Glucosio, g",0.4,BF,1125,3B,"Lemon Juice, Fresh WATER 91.4g, PROT 0.3g, FAT TRg, CHO 1.6g, SUGAR 1.6g, GLUS 0.5g"
+98,"Fruttosio, g",0.8,BF,1125,3B,"Lemon Juice, Fresh WATER 91.4g, PROT 0.3g, FAT TRg, CHO 1.6g, SUGAR 1.6g, FRUS 0.9g"
+99,"Galattosio, g",0.0,LZ,,,
+100,"Saccarosio (MSE), g",0.2,BF,1125,3B,"Lemon Juice, Fresh WATER 91.4g, PROT 0.3g, FAT TRg, CHO 1.6g, SUGAR 1.6g, SUCS 0.2g"
+101,"Maltosio (MSE), g",0.0,BF,1125,3B,"Lemon Juice, Fresh WATER 91.4g, PROT 0.3g, FAT TRg, CHO 1.6g, SUGAR 1.6g, MALS 0g"
+102,"Lattosio (MSE), g",0.0,LZ,,,

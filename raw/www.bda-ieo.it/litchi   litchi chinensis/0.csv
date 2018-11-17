@@ -9,71 +9,71 @@
 8,"Energia, Ric con fibra, kJ",308,86,,,
 9,"Energia, ricalcolata, kcal",70,86,,,
 10,"Energia, Ric con fibra, kcal",72,86,,,
-11,"Proteine totali, g",11,AA,007580,,
-12,"Proteine animali, g",00,LZ,,,
-13,"Proteine vegetali, g",11,AA,007580,,
-14,"Lipidi totali, g",01,AA,007580,,
-15,"Lipidi animali, g",00,LZ,,,
-16,"Lipidi vegetali, g",01,AA,007580,,
+11,"Proteine totali, g",1.1,AA,007580,,
+12,"Proteine animali, g",0.0,LZ,,,
+13,"Proteine vegetali, g",1.1,AA,007580,,
+14,"Lipidi totali, g",0.1,AA,007580,,
+15,"Lipidi animali, g",0.0,LZ,,,
+16,"Lipidi vegetali, g",0.1,AA,007580,,
 17,"Colesterolo, mg",0,LZ,,,
-18,"Carboidrati disponibili (MSE), g",172,AA,007580,,
-19,"Amido (MSE), g",00,AA,007580,,
-20,"Carboidrati solubili (MSE), g",172,AA,007580,,
-21,"Fibra alimentare totale, g",13,AA,007580,,
-22,"Alcol, g",00,LZ,,,
-23,"Acqua, g",806,AA,007580,,
+18,"Carboidrati disponibili (MSE), g",17.2,AA,007580,,
+19,"Amido (MSE), g",0.0,AA,007580,,
+20,"Carboidrati solubili (MSE), g",17.2,AA,007580,,
+21,"Fibra alimentare totale, g",1.3,AA,007580,,
+22,"Alcol, g",0.0,LZ,,,
+23,"Acqua, g",80.6,AA,007580,,
 24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-25,"Ferro, mg",05,AA,007580,,
+25,"Ferro, mg",0.5,AA,007580,,
 26,"Calcio, mg",2,AA,007580,,
 27,"Sodio, mg",1,AA,007580,,
 28,"Potassio, mg",150,AA,007580,,
 29,"Fosforo, mg",12,BF,961,6,"""Lychees, raw"" WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO14.3g, SUGAR 14.3g"
-30,"Zinco, mg",020,BF,961,6,"""Lychees, raw"" WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO14.3g, SUGAR 14.3g"
+30,"Zinco, mg",0.20,BF,961,6,"""Lychees, raw"" WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO14.3g, SUGAR 14.3g"
 31,"Magnesio, mg",6,BF,961,6,"""Lychees, raw"" WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO14.3g, SUGAR 14.3g"
-32,"Rame, mg",011,BF,961,6,"""Lychees, raw"" WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO14.3g, SUGAR 14.3g"
-33,"Selenio, µg",06,DI,09164,6,"""Litchis raw"" WATER 81.76g, PROT 0.83g, FAT 0.44g, CHO 16.53g, SUGAR 15.23g"
+32,"Rame, mg",0.11,BF,961,6,"""Lychees, raw"" WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO14.3g, SUGAR 14.3g"
+33,"Selenio, µg",0.6,DI,09164,6,"""Litchis raw"" WATER 81.76g, PROT 0.83g, FAT 0.44g, CHO 16.53g, SUGAR 15.23g"
 34,"Cloro, mg",5,BF,961,6,"""Lychees, raw"" WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO14.3g, SUGAR 14.3g"
 35,"Iodio, µg",1,DM,,2,"""Lychee, pulp, raw"" WATER 81.8g, PROT 0.82g, FAT 0.42g, CHO 14g, SUGAR 14g"
-36,"Manganese, mg",010,L,142,6,"""Lychees, raw"" WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO14.3g, SUGAR 14.3g"
+36,"Manganese, mg",0.10,L,142,6,"""Lychees, raw"" WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO14.3g, SUGAR 14.3g"
 37,"Zolfo, mg",19,L,142,6,"""Lychees, raw"" WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO14.3g, SUGAR 14.3g"
 38,VITAMINE IDROSOLUBILI,,,,,
-39,"Vitamina B1, Tiamina, mg",005,AA,007580,,
-40,"Vitamina B2, Riboflavina, mg",007,AA,007580,,
+39,"Vitamina B1, Tiamina, mg",0.05,AA,007580,,
+40,"Vitamina B2, Riboflavina, mg",0.07,AA,007580,,
 41,"Vitamina C, mg",49,AA,007580,,
-42,"Niacina, mg",050,AA,007580,,
-43,"Vitamina B6, mg",010,DI,09164,6,"""Litchis raw"" WATER 81.76g, PROT 0.83g, FAT 0.44g, CHO 16.53g, SUGAR 15.23g"
+42,"Niacina, mg",0.50,AA,007580,,
+43,"Vitamina B6, mg",0.10,DI,09164,6,"""Litchis raw"" WATER 81.76g, PROT 0.83g, FAT 0.44g, CHO 16.53g, SUGAR 15.23g"
 44,"Folati totali, µg",14,DI,09164,6,"""Litchis raw"" WATER 81.76g, PROT 0.83g, FAT 0.44g, CHO 16.53g, SUGAR 15.23g"
-45,"Acido pantotenico, mg",016,BF,965,2,"""Mangoes, ripe, raw"" WATER 82.4g, PROT 0.7g, FAT 0.2g, CHO 14.1g, SUGAR 13.8g, STARCH 0.3g"
+45,"Acido pantotenico, mg",0.16,BF,965,2,"""Mangoes, ripe, raw"" WATER 82.4g, PROT 0.7g, FAT 0.2g, CHO 14.1g, SUGAR 13.8g, STARCH 0.3g"
 46,"Biotina, µg",tr,BF,922,2,"""Apple, eating, average, raw, peeled"" WATER 85.4g, PROT 0.4g, FAT 0.1g, CHO 11.2g, SUGAR 11.2g"
-47,"Vitamina B12, µg",00,LZ,,,
+47,"Vitamina B12, µg",0.0,LZ,,,
 48,VITAMINE LIPOSOLUBILI,,,,,
 49,Retinolo equivalente,,,,,
 50,"Retinolo eq. (RE), µg",0,L,142,3B,"""Lychees, raw"" WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO14.3g, SUGAR 14.3g"
 51,"Retinolo, µg",0,LZ,,,
 52,"ß-carotene eq., µg",0,L,142,6,"""Lychees, raw"" WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO14.3g, SUGAR 14.3g"
-53,"Vitamina E (ATE), mg",007,DI,09164,6,"""Litchis raw"" WATER 81.76g, PROT 0.83g, FAT 0.44g, CHO 16.53g, SUGAR 15.23g, solo TOCPHA"
-54,"Vitamina D, µg",000,LZ,,,
-55,"Vitamina K, µg",040,DI,09164,6,"""Litchis raw"" WATER 81.76g, PROT 0.83g, FAT 0.44g, CHO 16.53g, SUGAR 15.23g"
+53,"Vitamina E (ATE), mg",0.07,DI,09164,6,"""Litchis raw"" WATER 81.76g, PROT 0.83g, FAT 0.44g, CHO 16.53g, SUGAR 15.23g, solo TOCPHA"
+54,"Vitamina D, µg",0.00,LZ,,,
+55,"Vitamina K, µg",0.40,DI,09164,6,"""Litchis raw"" WATER 81.76g, PROT 0.83g, FAT 0.44g, CHO 16.53g, SUGAR 15.23g"
 56,ACIDI GRASSI,,,,,
-57,"Acidi grassi saturi totali, g",002,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81.76g, PROT 0.83g, FAT 0.44g, CHO 15.23g, SUGAR 15.23g, FASAT 0.099g"
-58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81.76g, PROT 0.83g, FAT 0.44g, CHO 15.23g, SUGAR 15.23g, F4-10:0 0g"
-59,"Acido laurico, g",000,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F12:0 0g"
-60,"Acido miristico, g",000,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F14:0 0,002g"
-61,"Acido palmitico, g",002,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F16:0 0,07g"
-62,"Acido stearico, g",001,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F18:0 0,024g"
-63,"Acidi grassi monoinsaturi totali, g",003,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, FAMS 0,12g"
-64,"Acido miristoleico, g",000,87,,,
-65,"Acido palmitoleico, g",000,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F16:1CN7 0,001g"
-66,"Acido oleico, g",003,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F18:1 0,119g"
-67,"Acidi eicosenoico, g",000,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F20:1 0g"
-68,"Acido erucico, g",000,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F22:1CN9 0g"
-69,"Acidi grassi polinsaturi totali, g",003,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, FAPU 0,132g"
-70,"Acido linoleico, g",002,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F18:2 0,067g"
-71,"Acido linolenico, g",002,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F18:3 0,065g"
-72,"Acido arachidonico, g",000,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, F20:4N6 0g"
-73,"Acido eicosapentaenoico (EPA), g",000,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, F20:5N3 0g"
-74,"Acido decosaesaenoico (DHA), g",000,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, F22:6 0g"
-75,"Altri acidi grassi polinsaturi, g",000,86,,,
+57,"Acidi grassi saturi totali, g",0.02,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81.76g, PROT 0.83g, FAT 0.44g, CHO 15.23g, SUGAR 15.23g, FASAT 0.099g"
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81.76g, PROT 0.83g, FAT 0.44g, CHO 15.23g, SUGAR 15.23g, F4-10:0 0g"
+59,"Acido laurico, g",0.00,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F12:0 0g"
+60,"Acido miristico, g",0.00,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F14:0 0,002g"
+61,"Acido palmitico, g",0.02,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F16:0 0,07g"
+62,"Acido stearico, g",0.01,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F18:0 0,024g"
+63,"Acidi grassi monoinsaturi totali, g",0.03,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, FAMS 0,12g"
+64,"Acido miristoleico, g",0.00,87,,,
+65,"Acido palmitoleico, g",0.00,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F16:1CN7 0,001g"
+66,"Acido oleico, g",0.03,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F18:1 0,119g"
+67,"Acidi eicosenoico, g",0.00,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F20:1 0g"
+68,"Acido erucico, g",0.00,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F22:1CN9 0g"
+69,"Acidi grassi polinsaturi totali, g",0.03,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, FAPU 0,132g"
+70,"Acido linoleico, g",0.02,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F18:2 0,067g"
+71,"Acido linolenico, g",0.02,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, SUGAR 15,23g, F18:3 0,065g"
+72,"Acido arachidonico, g",0.00,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, F20:4N6 0g"
+73,"Acido eicosapentaenoico (EPA), g",0.00,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, F20:5N3 0g"
+74,"Acido decosaesaenoico (DHA), g",0.00,DI,09164,3B,"Litchis, Raw [Litchi Chinensis] WATER 81,76g, PROT 0,83g, FAT 0,44g, CHO 15,23g, F22:6 0g"
+75,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 76,AMINOACIDI,,,,,
 77,"Triptofano, mg",17,DI,09176,3A,"Mangos, Raw WATER 83.46g, PROT 0.82g, FAT 0.38g, CHO 13.38g, SUGAR 13.66g, TRP 0.013g"
 78,"Treonina, mg",42,DI,09176,3A,"Mangos, Raw WATER 83.46g, PROT 0.82g, FAT 0.38g, CHO 13.38g, SUGAR 13.66g, THR 0.031g"
@@ -93,9 +93,9 @@
 92,"Prolina, mg",39,DI,09176,3A,"Mangos, Raw WATER 83.46g, PROT 0.82g, FAT 0.38g, CHO 13.38g, SUGAR 13.66g, PRO 0.029g"
 93,"Serina, mg",47,DI,09176,3A,"Mangos, Raw WATER 83.46g, PROT 0.82g, FAT 0.38g, CHO 13.38g, SUGAR 13.66g, SER 0.035g"
 94,ZUCCHERI,,,,,
-95,"Glucosio, g",84,L,142,3B,"Lychees, Raw WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO 14.3g, SUGAR 14.3g, GLUS 7g"
-96,"Fruttosio, g",88,L,142,3B,"Lychees, Raw WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO 14.3g, SUGAR 14.3g, FRUS 7.3g"
-97,"Galattosio, g",00,LZ,,,
+95,"Glucosio, g",8.4,L,142,3B,"Lychees, Raw WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO 14.3g, SUGAR 14.3g, GLUS 7g"
+96,"Fruttosio, g",8.8,L,142,3B,"Lychees, Raw WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO 14.3g, SUGAR 14.3g, FRUS 7.3g"
+97,"Galattosio, g",0.0,LZ,,,
 98,"Saccarosio (MSE), g",tr,L,142,3B,"Lychees, Raw WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO 14.3g, SUGAR 14.3g, SUCS TRg"
-99,"Maltosio (MSE), g",00,L,142,3B,"Lychees, Raw WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO 14.3g, SUGAR 14.3g, MALS 0g"
-100,"Lattosio (MSE), g",00,LZ,,,
+99,"Maltosio (MSE), g",0.0,L,142,3B,"Lychees, Raw WATER 81.1g, PROT 0.9g, FAT 0.1g, CHO 14.3g, SUGAR 14.3g, MALS 0g"
+100,"Lattosio (MSE), g",0.0,LZ,,,

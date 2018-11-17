@@ -8,71 +8,71 @@
 7,"Energia, Ric con fibra, kJ",157,86,,,
 8,"Energia, ricalcolata, kcal",26,86,,,
 9,"Energia, Ric con fibra, kcal",38,86,,,
-10,"Proteine totali, g",03,02,420,,
-11,"Proteine animali, g",00,LZ,,,
-12,"Proteine vegetali, g",03,02,420,,
-13,"Lipidi totali, g",01,AO,007220,,
-14,"Lipidi animali, g",00,LZ,,,
-15,"Lipidi vegetali, g",01,AO,007220,,
+10,"Proteine totali, g",0.3,02,420,,
+11,"Proteine animali, g",0.0,LZ,,,
+12,"Proteine vegetali, g",0.3,02,420,,
+13,"Lipidi totali, g",0.1,AO,007220,,
+14,"Lipidi animali, g",0.0,LZ,,,
+15,"Lipidi vegetali, g",0.1,AO,007220,,
 16,"Colesterolo, mg",0,LZ,,,
-17,"Carboidrati disponibili (MSE), g",63,02,420,,
+17,"Carboidrati disponibili (MSE), g",6.3,02,420,,
 18,"Amido (MSE), g",tr,02,420,,
-19,"Carboidrati solubili (MSE), g",63,02,420,,
-20,"Fibra alimentare totale, g",59,02,420,,
-21,"Alcol, g",00,LZ,,,
-22,"Acqua, g",843,02,420,,
+19,"Carboidrati solubili (MSE), g",6.3,02,420,,
+20,"Fibra alimentare totale, g",5.9,02,420,,
+21,"Alcol, g",0.0,LZ,,,
+22,"Acqua, g",84.3,02,420,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",01,02,420,,
+24,"Ferro, mg",0.1,02,420,,
 25,"Calcio, mg",4,02,420,,
 26,"Sodio, mg",3,L,241,6,"""Quinces"" WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH tr"
 27,"Potassio, mg",200,L,241,6,"""Quinces"" WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH tr"
 28,"Fosforo, mg",14,02,420,,
-29,"Zinco, mg",050,L,241,6,"""Quinces"" WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH tr"
+29,"Zinco, mg",0.50,L,241,6,"""Quinces"" WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH tr"
 30,"Magnesio, mg",6,L,241,6,"""Quinces"" WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH tr"
-31,"Rame, mg",013,03,6217,6,"""Mele cotogne"" WATER 84g, PROT 0.3g, FAT tr, CHO 6.3g, SUGAR 6.3g, STARCH tr"
-32,"Selenio, µg",06,DI,09296,6,"""Quinces, raw"" WATER 83.8g, PROT 0.4g, FAT 0.1g, CHO 15.30g"
+31,"Rame, mg",0.13,03,6217,6,"""Mele cotogne"" WATER 84g, PROT 0.3g, FAT tr, CHO 6.3g, SUGAR 6.3g, STARCH tr"
+32,"Selenio, µg",0.6,DI,09296,6,"""Quinces, raw"" WATER 83.8g, PROT 0.4g, FAT 0.1g, CHO 15.30g"
 33,"Cloro, mg",2,L,241,6,"""Quinces"" WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH tr"
 34,"Iodio, µg",1,L,190,2,"""Pears, average, raw"" WATER 83.8g, PROT 0.3g, FAT 0.1g, CHO 10g, SUGAR 10g"
 35,"Manganese, mg",tr,L,190,2,"""Pears, average, raw"" WATER 83.8g, PROT 0.3g, FAT 0.1g, CHO 10g, SUGAR 10g"
 36,"Zolfo, mg",5,L,241,6,"""Quinces"" WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH tr"
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",002,02,420,,
-39,"Vitamina B2, Riboflavina, mg",003,02,420,,
+38,"Vitamina B1, Tiamina, mg",0.02,02,420,,
+39,"Vitamina B2, Riboflavina, mg",0.03,02,420,,
 40,"Vitamina C, mg",14,02,420,,
-41,"Niacina, mg",070,02,420,,
-42,"Vitamina B6, mg",004,L,241,6,"""Quinces"" WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH tr"
+41,"Niacina, mg",0.70,02,420,,
+42,"Vitamina B6, mg",0.04,L,241,6,"""Quinces"" WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH tr"
 43,"Folati totali, µg",3,DI,09296,6,"""Quinces, raw"" WATER 83.8g, PROT 0.4g, FAT 0.1g, CHO 15.30g"
-44,"Acido pantotenico, mg",008,L,241,6,"""Quinces"" WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH tr"
-45,"Biotina, µg",01,L,241,6,"""Quinces"" WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH tr"
-46,"Vitamina B12, µg",00,LZ,,,
+44,"Acido pantotenico, mg",0.08,L,241,6,"""Quinces"" WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH tr"
+45,"Biotina, µg",0.1,L,241,6,"""Quinces"" WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH tr"
+46,"Vitamina B12, µg",0.0,LZ,,,
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",0,02,420,,
 50,"Retinolo, µg",0,LZ,,,
 51,"ß-carotene eq., µg",0,02,420,3B,
-52,"Vitamina E (ATE), mg",010,DL,569,6B,"""Quinces"" WATER 82g, PROT 0.4g, FAT 0.1g, CHO 13.1g"
-53,"Vitamina D, µg",000,LZ,,,
-54,"Vitamina K, µg",440,DI,09252,2,"""Pears, raw"" WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 15.23g, SUGAR 9.75g"
+52,"Vitamina E (ATE), mg",0.10,DL,569,6B,"""Quinces"" WATER 82g, PROT 0.4g, FAT 0.1g, CHO 13.1g"
+53,"Vitamina D, µg",0.00,LZ,,,
+54,"Vitamina K, µg",4.40,DI,09252,2,"""Pears, raw"" WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 15.23g, SUGAR 9.75g"
 55,ACIDI GRASSI,,,,,
-56,"Acidi grassi saturi totali, g",001,DI,09296,3B,"Quinces, Raw WATER 83.8g, PROT 0.4g, FAT 0.1g, CHO 13.4g, FASAT 0.01g"
-57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09296,3B,"Quinces, Raw WATER 83.8g, PROT 0.4g, FAT 0.1g, CHO 13.4g, F4-10:0 0g"
-58,"Acido laurico, g",000,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F12:0 0g"
-59,"Acido miristico, g",000,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F14:0 0g"
-60,"Acido palmitico, g",001,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F16:0 0,007g"
-61,"Acido stearico, g",000,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F18:0 0,002g"
-62,"Acidi grassi monoinsaturi totali, g",004,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, FAMS 0,036g"
-63,"Acido miristoleico, g",000,87,,,
-64,"Acido palmitoleico, g",000,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F16:1CN7 0g"
-65,"Acido oleico, g",004,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F18:1 0,036g"
-66,"Acidi eicosenoico, g",000,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F20:1 0g"
-67,"Acido erucico, g",000,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F22:1CN9 0g"
-68,"Acidi grassi polinsaturi totali, g",005,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, FAPU 0,05g"
-69,"Acido linoleico, g",005,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F18:2 0,049g"
-70,"Acido linolenico, g",000,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F18:3 0g"
-71,"Acido arachidonico, g",000,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F20:4N6 0g"
-72,"Acido eicosapentaenoico (EPA), g",000,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F20:5N3 0g"
-73,"Acido decosaesaenoico (DHA), g",000,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F22:6 0g"
-74,"Altri acidi grassi polinsaturi, g",000,86,,,
+56,"Acidi grassi saturi totali, g",0.01,DI,09296,3B,"Quinces, Raw WATER 83.8g, PROT 0.4g, FAT 0.1g, CHO 13.4g, FASAT 0.01g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,DI,09296,3B,"Quinces, Raw WATER 83.8g, PROT 0.4g, FAT 0.1g, CHO 13.4g, F4-10:0 0g"
+58,"Acido laurico, g",0.00,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F12:0 0g"
+59,"Acido miristico, g",0.00,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F14:0 0g"
+60,"Acido palmitico, g",0.01,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F16:0 0,007g"
+61,"Acido stearico, g",0.00,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F18:0 0,002g"
+62,"Acidi grassi monoinsaturi totali, g",0.04,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, FAMS 0,036g"
+63,"Acido miristoleico, g",0.00,87,,,
+64,"Acido palmitoleico, g",0.00,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F16:1CN7 0g"
+65,"Acido oleico, g",0.04,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F18:1 0,036g"
+66,"Acidi eicosenoico, g",0.00,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F20:1 0g"
+67,"Acido erucico, g",0.00,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F22:1CN9 0g"
+68,"Acidi grassi polinsaturi totali, g",0.05,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, FAPU 0,05g"
+69,"Acido linoleico, g",0.05,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F18:2 0,049g"
+70,"Acido linolenico, g",0.00,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F18:3 0g"
+71,"Acido arachidonico, g",0.00,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F20:4N6 0g"
+72,"Acido eicosapentaenoico (EPA), g",0.00,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F20:5N3 0g"
+73,"Acido decosaesaenoico (DHA), g",0.00,DI,09296,3B,"Quinces, Raw WATER 83,8g, PROT 0,4g, FAT 0,1g, CHO 13,4g, F22:6 0g"
+74,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 75,AMINOACIDI,,,,,
 76,"Triptofano, mg",2,DI,09252,3A,"Pears, Raw [Pyrus Communis] WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, TRP 0.002g"
 77,"Treonina, mg",9,DI,09252,3A,"Pears, Raw [Pyrus Communis] WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, THR 0.011g"
@@ -93,9 +93,9 @@
 92,"Prolina, mg",18,DI,09252,3A,"Pears, Raw [Pyrus Communis] WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, PRO 0.021g"
 93,"Serina, mg",13,DI,09252,3A,"Pears, Raw [Pyrus Communis] WATER 83.96g, PROT 0.36g, FAT 0.14g, CHO 12.13g, SUGAR 9.75g, SER 0.015g"
 94,ZUCCHERI,,,,,
-95,"Glucosio, g",23,L,241,3B,"Quinces WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH TRg, GLUS 2.3g"
-96,"Fruttosio, g",37,L,241,3B,"Quinces WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH TRg, FRUS 3.7g"
-97,"Galattosio, g",00,LZ,,,
-98,"Saccarosio (MSE), g",03,L,241,3B,"Quinces WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH TRg, SUCS 0.3g"
-99,"Maltosio (MSE), g",00,L,241,3B,"Quinces WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH TRg, MALS 0g"
-100,"Lattosio (MSE), g",00,LZ,,,
+95,"Glucosio, g",2.3,L,241,3B,"Quinces WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH TRg, GLUS 2.3g"
+96,"Fruttosio, g",3.7,L,241,3B,"Quinces WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH TRg, FRUS 3.7g"
+97,"Galattosio, g",0.0,LZ,,,
+98,"Saccarosio (MSE), g",0.3,L,241,3B,"Quinces WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH TRg, SUCS 0.3g"
+99,"Maltosio (MSE), g",0.0,L,241,3B,"Quinces WATER 84.2g, PROT 0.3g, FAT 0.1g, CHO 6.3g, SUGAR 6.3g, STARCH TRg, MALS 0g"
+100,"Lattosio (MSE), g",0.0,LZ,,,

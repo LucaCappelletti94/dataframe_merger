@@ -8,73 +8,73 @@
 7,"Energia, Ric con fibra, kJ",1003,86,,,
 8,"Energia, ricalcolata, kcal",220,86,,,
 9,"Energia, Ric con fibra, kcal",236,86,,,
-10,"Proteine totali, g",22,02,513,,
-11,"Proteine animali, g",00,LZ,,,
-12,"Proteine vegetali, g",22,02,513,,
-13,"Lipidi totali, g",05,02,513,,
-14,"Lipidi animali, g",00,LZ,,,
-15,"Lipidi vegetali, g",05,02,513,,
+10,"Proteine totali, g",2.2,02,513,,
+11,"Proteine animali, g",0.0,LZ,,,
+12,"Proteine vegetali, g",2.2,02,513,,
+13,"Lipidi totali, g",0.5,02,513,,
+14,"Lipidi animali, g",0.0,LZ,,,
+15,"Lipidi vegetali, g",0.5,02,513,,
 16,"Colesterolo, mg",0,LZ,,,
-17,"Carboidrati disponibili (MSE), g",550,02,513,,
-18,"Amido (MSE), g",00,02,513,,
-19,"Carboidrati solubili (MSE), g",550,02,513,,
-20,"Fibra alimentare totale, g",84,AO,007370,,
-21,"Alcol, g",00,LZ,,,
-22,"Acqua, g",293,02,513,,
+17,"Carboidrati disponibili (MSE), g",55.0,02,513,,
+18,"Amido (MSE), g",0.0,02,513,,
+19,"Carboidrati solubili (MSE), g",55.0,02,513,,
+20,"Fibra alimentare totale, g",8.4,AO,007370,,
+21,"Alcol, g",0.0,LZ,,,
+22,"Acqua, g",29.3,02,513,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",39,02,513,,
+24,"Ferro, mg",3.9,02,513,,
 25,"Calcio, mg",59,02,513,,
 26,"Sodio, mg",8,02,513,,
 27,"Potassio, mg",824,02,513,,
 28,"Fosforo, mg",85,02,513,,
-29,"Zinco, mg",040,L,239,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
+29,"Zinco, mg",0.40,L,239,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
 30,"Magnesio, mg",2,BF,992,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
-31,"Rame, mg",014,BF,992,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
-32,"Selenio, µg",30,BF,992,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
+31,"Rame, mg",0.14,BF,992,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
+32,"Selenio, µg",3.0,BF,992,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
 33,"Cloro, mg",3,BF,992,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
 34,"Iodio, µg",1,DP,,2,"""Plum, dried"" WATER 24g, PROT 2.3g, FAT 0.6g, CHO 47.4g"
-35,"Manganese, mg",030,BF,992,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
+35,"Manganese, mg",0.30,BF,992,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
 36,"Zolfo, mg",17,L,239,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",018,02,513,,
-39,"Vitamina B2, Riboflavina, mg",002,02,513,,
+38,"Vitamina B1, Tiamina, mg",0.18,02,513,,
+39,"Vitamina B2, Riboflavina, mg",0.02,02,513,,
 40,"Vitamina C, mg",3,02,513,,
-41,"Niacina, mg",100,02,513,,
-42,"Vitamina B6, mg",021,L,239,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
+41,"Niacina, mg",1.00,02,513,,
+42,"Vitamina B6, mg",0.21,L,239,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
 43,"Folati totali, µg",3,L,239,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
-44,"Acido pantotenico, mg",041,BF,992,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
+44,"Acido pantotenico, mg",0.41,BF,992,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
 45,"Biotina, µg",tr,BF,992,2,"""Prunes, ready-to-eat"" WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g"
-46,"Vitamina B12, µg",00,LZ,,,
+46,"Vitamina B12, µg",0.0,LZ,,,
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",19,02,513,,
 50,"Retinolo, µg",0,LZ,,,
 51,"ß-carotene eq., µg",114,02,513,3B,
-52,"Vitamina E (ATE), mg",043,DI,09291,4A,"""Plums, dried (prunes), uncooked"" WATER 30.92g, PROT 2.18g, FAT 0.38g, CHO 63.88g, SUGAR 38.13g, STARCH 5.11g, TOCPHA 0.43mg, TOCPHG 0.02mg"
-53,"Vitamina D, µg",000,LZ,,,
-54,"Vitamina K, µg",5950,DI,09291,2,"""Plums, dried (prunes), uncooked"" WATER 30.92g, PROT 2.18g, FAT 0.38g, CHO 63.88g, SUGAR 38.13g, STARCH 5.11g"
+52,"Vitamina E (ATE), mg",0.43,DI,09291,4A,"""Plums, dried (prunes), uncooked"" WATER 30.92g, PROT 2.18g, FAT 0.38g, CHO 63.88g, SUGAR 38.13g, STARCH 5.11g, TOCPHA 0.43mg, TOCPHG 0.02mg"
+53,"Vitamina D, µg",0.00,LZ,,,
+54,"Vitamina K, µg",59.50,DI,09291,2,"""Plums, dried (prunes), uncooked"" WATER 30.92g, PROT 2.18g, FAT 0.38g, CHO 63.88g, SUGAR 38.13g, STARCH 5.11g"
 55,ACIDI GRASSI,,,,,
-56,"Acidi grassi saturi totali, g",012,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30.92g, PROT 2.18g, FAT 0.38g, CHO 56.78g, SUGAR 38.13g, STARCH 5.11g, FASAT 0.088g"
-57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",002,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30.92g, PROT 2.18g, FAT 0.38g, CHO 56.78g, SUGAR 38.13g, STARCH 5.11g, F4-10:0 0.001g"
-58,"Acido laurico, g",000,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F12:0 0,001g"
-59,"Acido miristico, g",000,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F14:0 0g"
-60,"Acido palmitico, g",004,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F16:0 0,03g"
-61,"Acido stearico, g",006,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F18:0 0,044g"
-62,"Acido arachidico, g",000,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F20:0 0,001g"
-63,"Acido beenico, g",000,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F22:0 0,001g"
-64,"Acidi grassi monoinsaturi totali, g",007,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, FAMS 0,053g"
-65,"Acido miristoleico, g",000,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F14:1CN5 0g"
-66,"Acido palmitoleico, g",005,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F16:1CN7 0,039g"
-67,"Acido oleico, g",002,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F18:1 0,014g"
-68,"Acidi eicosenoico, g",000,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F20:1 0g"
-69,"Acido erucico, g",000,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F22:1CN9 0g"
-70,"Acidi grassi polinsaturi totali, g",008,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, FAPU 0,062g"
-71,"Acido linoleico, g",006,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, F18:2 0,044g"
-72,"Acido linolenico, g",002,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, F18:3 0,017g"
-73,"Acido arachidonico, g",000,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SF20:4N6 0g"
-74,"Acido eicosapentaenoico (EPA), g",000,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, F20:5N3 0g"
-75,"Acido decosaesaenoico (DHA), g",000,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, F22:6 0g"
-76,"Altri acidi grassi polinsaturi, g",000,86,,,
+56,"Acidi grassi saturi totali, g",0.12,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30.92g, PROT 2.18g, FAT 0.38g, CHO 56.78g, SUGAR 38.13g, STARCH 5.11g, FASAT 0.088g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.02,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30.92g, PROT 2.18g, FAT 0.38g, CHO 56.78g, SUGAR 38.13g, STARCH 5.11g, F4-10:0 0.001g"
+58,"Acido laurico, g",0.00,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F12:0 0,001g"
+59,"Acido miristico, g",0.00,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F14:0 0g"
+60,"Acido palmitico, g",0.04,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F16:0 0,03g"
+61,"Acido stearico, g",0.06,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F18:0 0,044g"
+62,"Acido arachidico, g",0.00,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F20:0 0,001g"
+63,"Acido beenico, g",0.00,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F22:0 0,001g"
+64,"Acidi grassi monoinsaturi totali, g",0.07,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, FAMS 0,053g"
+65,"Acido miristoleico, g",0.00,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F14:1CN5 0g"
+66,"Acido palmitoleico, g",0.05,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F16:1CN7 0,039g"
+67,"Acido oleico, g",0.02,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F18:1 0,014g"
+68,"Acidi eicosenoico, g",0.00,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F20:1 0g"
+69,"Acido erucico, g",0.00,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, F22:1CN9 0g"
+70,"Acidi grassi polinsaturi totali, g",0.08,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SUGAR 38,13g, STARCH 5,11g, FAPU 0,062g"
+71,"Acido linoleico, g",0.06,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, F18:2 0,044g"
+72,"Acido linolenico, g",0.02,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, F18:3 0,017g"
+73,"Acido arachidonico, g",0.00,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, SF20:4N6 0g"
+74,"Acido eicosapentaenoico (EPA), g",0.00,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, F20:5N3 0g"
+75,"Acido decosaesaenoico (DHA), g",0.00,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30,92g, PROT 2,18g, FAT 0,38g, CHO 56,78g, F22:6 0g"
+76,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 77,AMINOACIDI,,,,,
 78,"Triptofano, mg",25,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30.92g, PROT 2.18g, FAT 0.38g, CHO 56.78g, TRP 0.025g"
 79,"Treonina, mg",49,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30.92g, PROT 2.18g, FAT 0.38g, CHO 56.78g, SUGAR 38.13g, STARCH 5.11g, THR 0.049g"
@@ -95,9 +95,9 @@
 94,"Prolina, mg",131,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30.92g, PROT 2.18g, FAT 0.38g, CHO 56.78g, SUGAR 38.13g, STARCH 5.11g, PRO 0.13g"
 95,"Serina, mg",60,DI,09291,3A,"Plums, Dried (Prunes, Uncooked WATER 30.92g, PROT 2.18g, FAT 0.38g, CHO 56.78g, SUGAR 38.13g, STARCH 5.11g, SER 0.059g"
 96,ZUCCHERI,,,,,
-97,"Glucosio, g",290,BF,992,3A,"Prunes, Ready-To-Eat WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g, GLUS 17.9g"
-98,"Fruttosio, g",196,BF,992,3A,"Prunes, Ready-To-Eat WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g, FRUS 12.1g"
-99,"Galattosio, g",00,LZ,,,
-100,"Saccarosio (MSE), g",66,BF,992,3A,"Prunes, Ready-To-Eat WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g, SUCS 4.1g"
-101,"Maltosio (MSE), g",00,BF,992,3A,"Prunes, Ready-To-Eat WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g, MALS 0g"
-102,"Lattosio (MSE), g",00,LZ,,,
+97,"Glucosio, g",29.0,BF,992,3A,"Prunes, Ready-To-Eat WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g, GLUS 17.9g"
+98,"Fruttosio, g",19.6,BF,992,3A,"Prunes, Ready-To-Eat WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g, FRUS 12.1g"
+99,"Galattosio, g",0.0,LZ,,,
+100,"Saccarosio (MSE), g",6.6,BF,992,3A,"Prunes, Ready-To-Eat WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g, SUCS 4.1g"
+101,"Maltosio (MSE), g",0.0,BF,992,3A,"Prunes, Ready-To-Eat WATER 31.1g, PROT 2.5g, FAT 0.4g, CHO 34g, SUGAR 34g, MALS 0g"
+102,"Lattosio (MSE), g",0.0,LZ,,,

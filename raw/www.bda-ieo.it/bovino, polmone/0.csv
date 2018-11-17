@@ -8,71 +8,71 @@
 7,"Energia, Ric con fibra, kJ",316,86,,,
 8,"Energia, ricalcolata, kcal",75,86,,,
 9,"Energia, Ric con fibra, kcal",75,86,,,
-10,"Proteine totali, g",140,02,1207,,
-11,"Proteine animali, g",140,02,1207,,
-12,"Proteine vegetali, g",00,02,1207,,
-13,"Lipidi totali, g",21,02,1207,,
-14,"Lipidi animali, g",21,02,1207,,
-15,"Lipidi vegetali, g",00,02,1207,,
+10,"Proteine totali, g",14.0,02,1207,,
+11,"Proteine animali, g",14.0,02,1207,,
+12,"Proteine vegetali, g",0.0,02,1207,,
+13,"Lipidi totali, g",2.1,02,1207,,
+14,"Lipidi animali, g",2.1,02,1207,,
+15,"Lipidi vegetali, g",0.0,02,1207,,
 16,"Colesterolo, mg",168,23,13328,1,"""Beef, lung raw"" acqua=79.38g, prot=16.2g, lip=2.5g, colest 242mg"
-17,"Carboidrati disponibili (MSE), g",00,02,1207,,
-18,"Amido (MSE), g",00,02,1207,,
-19,"Carboidrati solubili (MSE), g",00,02,1207,,
-20,"Fibra alimentare totale, g",00,02,1207,,
-21,"Alcol, g",00,02,1207,,
-22,"Acqua, g",830,02,1207,,
+17,"Carboidrati disponibili (MSE), g",0.0,02,1207,,
+18,"Amido (MSE), g",0.0,02,1207,,
+19,"Carboidrati solubili (MSE), g",0.0,02,1207,,
+20,"Fibra alimentare totale, g",0.0,02,1207,,
+21,"Alcol, g",0.0,02,1207,,
+22,"Acqua, g",83.0,02,1207,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",67,02,1207,,
+24,"Ferro, mg",6.7,02,1207,,
 25,"Calcio, mg",15,02,1207,,
 26,"Sodio, mg",198,02,1207,,
 27,"Potassio, mg",340,02,1207,,
 28,"Fosforo, mg",173,02,1207,,
-29,"Zinco, mg",130,23,13328,1,Zn=1.61mg
+29,"Zinco, mg",1.30,23,13328,1,Zn=1.61mg
 30,"Magnesio, mg",12,AG,13328,1,Mg 14mg
-31,"Rame, mg",021,AG,13328,1,"Cu 0,26mg"
-32,"Selenio, µg",370,AG,13328,1,"Se 44,3µg"
+31,"Rame, mg",0.21,AG,13328,1,"Cu 0,26mg"
+32,"Selenio, µg",37.0,AG,13328,1,"Se 44,3µg"
 33,"Cloro, mg",44,T,398,2,""" Heart, ox"" acqua 76.4, prot 18.2, lip 3.5"
 34,"Iodio, µg",7,Y,6880,2,"""Heart, beef"" acqua 71, prot 18, lip 6"
-35,"Manganese, mg",002,AG,13328,1,"Mn 0,019mg"
+35,"Manganese, mg",0.02,AG,13328,1,"Mn 0,019mg"
 36,"Zolfo, mg",130,Y,6880,2,
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",023,02,1207,,
-39,"Vitamina B2, Riboflavina, mg",025,02,1207,,
+38,"Vitamina B1, Tiamina, mg",0.23,02,1207,,
+39,"Vitamina B2, Riboflavina, mg",0.25,02,1207,,
 40,"Vitamina C, mg",40,02,1207,,
-41,"Niacina, mg",200,02,1207,,
-42,"Vitamina B6, mg",003,23,13328,1,B6=0.04mg
+41,"Niacina, mg",2.00,02,1207,,
+42,"Vitamina B6, mg",0.03,23,13328,1,B6=0.04mg
 43,"Folati totali, µg",9,23,13328,1,folati=11mcg
-44,"Acido pantotenico, mg",082,AG,13328,1,"Mn 0,019mg"
-45,"Biotina, µg",59,AK,272,2,"""Ox lungs"" acqua 77,5, prot 18,1, lip 2,9"
-46,"Vitamina B12, µg",31,AG,13328,1,"B12 3,81µg"
+44,"Acido pantotenico, mg",0.82,AG,13328,1,"Mn 0,019mg"
+45,"Biotina, µg",5.9,AK,272,2,"""Ox lungs"" acqua 77,5, prot 18,1, lip 2,9"
+46,"Vitamina B12, µg",3.1,AG,13328,1,"B12 3,81µg"
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",0,02,1207,,
 50,"Retinolo, µg",0,02,1207,3B,
 51,"ß-carotene eq., µg",0,02,1207,3B,
-52,"Vitamina E (ATE), mg",045,T,398,2,
+52,"Vitamina E (ATE), mg",0.45,T,398,2,
 53,ACIDI GRASSI,,,,,
-54,"Acidi grassi saturi totali, g",059,BR,13323,3A,"Beef, variety meats and by-products, kidneys, raw lip 3.09AcGrSaturiTot0.87, SommaAcButirrico,caproico,caprilico,caprico0, AcLaurico0, AcMiristico0.02, AcPalmitico0.39, AcStearico0.37, AcArachidico0.01, AcBeenico0.04, AcGrMonoinsaturiTot0.59, AcMiristoleico0, AcPalmitoleico0.04, AcOleico0.54, AcEicosenoico0.01, AcErucico0, AcGrPolinstauriTot0.55, AcLinoleico0.29, AcLinolenico0.01, AcArachidonico0.23, AcEicosapentaenoico(EPA)0, AcDecosaesaenoico(DHA)0, AltriAcGrPolinsaturi0.01"
-55,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,BR,13323,3A,
-56,"Acido laurico, g",000,BR,13323,3A,
-57,"Acido miristico, g",001,BR,13323,3A,
-58,"Acido palmitico, g",027,BR,13323,3A,
-59,"Acido stearico, g",025,BR,13323,3A,
-60,"Acido arachidico, g",001,BR,13323,3A,
-61,"Acido beenico, g",002,BR,13323,3A,
-62,"Acidi grassi monoinsaturi totali, g",040,BR,13323,3A,
-63,"Acido miristoleico, g",000,BR,13323,3A,
-64,"Acido palmitoleico, g",003,BR,13323,3A,
-65,"Acido oleico, g",036,BR,13323,3A,
-66,"Acidi eicosenoico, g",001,BR,13323,3A,
-67,"Acido erucico, g",000,BR,13323,3A,
-68,"Acidi grassi polinsaturi totali, g",037,BR,13323,3A,
-69,"Acido linoleico, g",020,BR,13323,3A,
-70,"Acido linolenico, g",001,BR,13323,3A,
-71,"Acido arachidonico, g",016,BR,13323,3A,
-72,"Acido eicosapentaenoico (EPA), g",000,BR,13323,3A,
-73,"Acido decosaesaenoico (DHA), g",000,BR,13323,3A,
-74,"Altri acidi grassi polinsaturi, g",001,86,,,
+54,"Acidi grassi saturi totali, g",0.59,BR,13323,3A,"Beef, variety meats and by-products, kidneys, raw lip 3.09AcGrSaturiTot0.87, SommaAcButirrico,caproico,caprilico,caprico0, AcLaurico0, AcMiristico0.02, AcPalmitico0.39, AcStearico0.37, AcArachidico0.01, AcBeenico0.04, AcGrMonoinsaturiTot0.59, AcMiristoleico0, AcPalmitoleico0.04, AcOleico0.54, AcEicosenoico0.01, AcErucico0, AcGrPolinstauriTot0.55, AcLinoleico0.29, AcLinolenico0.01, AcArachidonico0.23, AcEicosapentaenoico(EPA)0, AcDecosaesaenoico(DHA)0, AltriAcGrPolinsaturi0.01"
+55,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,BR,13323,3A,
+56,"Acido laurico, g",0.00,BR,13323,3A,
+57,"Acido miristico, g",0.01,BR,13323,3A,
+58,"Acido palmitico, g",0.27,BR,13323,3A,
+59,"Acido stearico, g",0.25,BR,13323,3A,
+60,"Acido arachidico, g",0.01,BR,13323,3A,
+61,"Acido beenico, g",0.02,BR,13323,3A,
+62,"Acidi grassi monoinsaturi totali, g",0.40,BR,13323,3A,
+63,"Acido miristoleico, g",0.00,BR,13323,3A,
+64,"Acido palmitoleico, g",0.03,BR,13323,3A,
+65,"Acido oleico, g",0.36,BR,13323,3A,
+66,"Acidi eicosenoico, g",0.01,BR,13323,3A,
+67,"Acido erucico, g",0.00,BR,13323,3A,
+68,"Acidi grassi polinsaturi totali, g",0.37,BR,13323,3A,
+69,"Acido linoleico, g",0.20,BR,13323,3A,
+70,"Acido linolenico, g",0.01,BR,13323,3A,
+71,"Acido arachidonico, g",0.16,BR,13323,3A,
+72,"Acido eicosapentaenoico (EPA), g",0.00,BR,13323,3A,
+73,"Acido decosaesaenoico (DHA), g",0.00,BR,13323,3A,
+74,"Altri acidi grassi polinsaturi, g",0.01,86,,,
 75,AMINOACIDI,,,,,
 76,"Triptofano, mg",128,23,13328,3A,"""Beef, variety meats and by-products, lungs, raw"" prot. orig.16.2,trypto148, threon604, isoleu772, leucine1190, lysine1148, methion324, cystine249, phenilal658, tyrosine365, valine798, arginine980, histidine492, alanine1001, aspart ac977, glutam ac1726, glycine734, proline1659, serine816"
 77,"Treonina, mg",522,23,13328,,
@@ -93,9 +93,9 @@
 92,"Prolina, mg",1434,23,13328,,
 93,"Serina, mg",705,23,13328,,
 94,ZUCCHERI,,,,,
-95,"Glucosio, g",00,02,1207,,
-96,"Fruttosio, g",00,02,1207,,
-97,"Galattosio, g",00,02,1207,,
-98,"Saccarosio (MSE), g",00,02,1207,,
-99,"Maltosio (MSE), g",00,02,1207,,
-100,"Lattosio (MSE), g",00,02,1207,,
+95,"Glucosio, g",0.0,02,1207,,
+96,"Fruttosio, g",0.0,02,1207,,
+97,"Galattosio, g",0.0,02,1207,,
+98,"Saccarosio (MSE), g",0.0,02,1207,,
+99,"Maltosio (MSE), g",0.0,02,1207,,
+100,"Lattosio (MSE), g",0.0,02,1207,,

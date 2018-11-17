@@ -9,45 +9,45 @@
 8,"Energia, Ric con fibra, kJ",1438,86,,,
 9,"Energia, ricalcolata, kcal",313,86,,,
 10,"Energia, Ric con fibra, kcal",339,86,,,
-11,"Proteine totali, g",102,09,308,,
-12,"Proteine animali, g",00,09,308,,
-13,"Proteine vegetali, g",102,09,308,,
-14,"Lipidi totali, g",17,09,308,,
-15,"Lipidi animali, g",00,09,308,,
-16,"Lipidi vegetali, g",17,09,308,,
+11,"Proteine totali, g",10.2,09,308,,
+12,"Proteine animali, g",0.0,09,308,,
+13,"Proteine vegetali, g",10.2,09,308,,
+14,"Lipidi totali, g",1.7,09,308,,
+15,"Lipidi animali, g",0.0,09,308,,
+16,"Lipidi vegetali, g",1.7,09,308,,
 17,"Colesterolo, mg",0,09,308,,
-18,"Carboidrati disponibili (MSE), g",686,09,308,,nota MC: inclusi gli oligosaccaridi
+18,"Carboidrati disponibili (MSE), g",68.6,09,308,,nota MC: inclusi gli oligosaccaridi
 19,"Amido (MSE), g",tr,09,308,,
-20,"Carboidrati solubili (MSE), g",487,09,308,,nota MC: non inclusi gli oligosaccaridi
-21,"Fibra alimentare totale, g",130,09,308,,metodo Southgate metodo Englyst fibra=12.1g
-22,"Alcol, g",00,09,308,,
-23,"Acqua, g",45,09,308,,
+20,"Carboidrati solubili (MSE), g",48.7,09,308,,nota MC: non inclusi gli oligosaccaridi
+21,"Fibra alimentare totale, g",13.0,09,308,,metodo Southgate metodo Englyst fibra=12.1g
+22,"Alcol, g",0.0,09,308,,
+23,"Acqua, g",4.5,09,308,,
 24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-25,"Ferro, mg",26,09,308,,
+25,"Ferro, mg",2.6,09,308,,
 26,"Calcio, mg",220,09,308,,
 27,"Sodio, mg",170,09,308,,
 28,"Potassio, mg",1390,09,308,,
 29,"Fosforo, mg",260,09,308,,
-30,"Zinco, mg",170,09,308,,
+30,"Zinco, mg",1.70,09,308,,
 31,VITAMINE IDROSOLUBILI,,,,,
-32,"Vitamina B1, Tiamina, mg",023,09,308,,
+32,"Vitamina B1, Tiamina, mg",0.23,09,308,,
 33,"Vitamina B2, Riboflavina, mg",tr,09,308,,
 34,"Vitamina C, mg",33,09,308,,
-35,"Niacina, mg",080,09,308,,
-36,"Vitamina B6, mg",160,12,02026,,"per i nutrienti 21/02026 ALIMENTO SIMILE Spices, onion powder acqua=5.005g"
+35,"Niacina, mg",0.80,09,308,,
+36,"Vitamina B6, mg",1.60,12,02026,,"per i nutrienti 21/02026 ALIMENTO SIMILE Spices, onion powder acqua=5.005g"
 37,"Folati totali, µg",166,12,02026,,espresso come folacina
 38,VITAMINE LIPOSOLUBILI,,,,,
 39,Retinolo equivalente,,,,,
 40,"Retinolo eq. (RE), µg",14,09,308,,CALC
 41,"Retinolo, µg",0,09,308,,
 42,"ß-carotene eq., µg",85,09,308,,
-43,"Vitamina E (ATE), mg",269,09,308,,"NB: valore calcolato da MC da quello della cipolla cruda, RIPR su sost.secca"
-44,"Vitamina D, µg",000,09,308,,
+43,"Vitamina E (ATE), mg",2.69,09,308,,"NB: valore calcolato da MC da quello della cipolla cruda, RIPR su sost.secca"
+44,"Vitamina D, µg",0.00,09,308,,
 45,ACIDI GRASSI,,,,,
-46,"Acidi grassi saturi totali, g",030,12,02026,,RIPR lip=1.052g saturi=0.183g 18:1= 0.158g mono=0.158g 18:2=0.421g 18:3=0.018g altri PUFA=0 PUFA=0.439g
-47,"Acidi grassi monoinsaturi totali, g",026,12,02026,,
-48,"Acido oleico, g",026,12,02026,,
-49,"Acidi grassi polinsaturi totali, g",071,12,02026,,
-50,"Acido linoleico, g",068,12,02026,,
-51,"Acido linolenico, g",003,12,02026,,
-52,"Altri acidi grassi polinsaturi, g",000,86,,,
+46,"Acidi grassi saturi totali, g",0.30,12,02026,,RIPR lip=1.052g saturi=0.183g 18:1= 0.158g mono=0.158g 18:2=0.421g 18:3=0.018g altri PUFA=0 PUFA=0.439g
+47,"Acidi grassi monoinsaturi totali, g",0.26,12,02026,,
+48,"Acido oleico, g",0.26,12,02026,,
+49,"Acidi grassi polinsaturi totali, g",0.71,12,02026,,
+50,"Acido linoleico, g",0.68,12,02026,,
+51,"Acido linolenico, g",0.03,12,02026,,
+52,"Altri acidi grassi polinsaturi, g",0.00,86,,,

@@ -9,45 +9,45 @@
 8,"Energia, Ric con fibra, kJ",1882,86,,,
 9,"Energia, ricalcolata, kcal",433,86,,,
 10,"Energia, Ric con fibra, kcal",449,86,,,
-11,"Proteine totali, g",85,84,,,
-12,"Proteine animali, g",31,89,,,"per suddivione anim/veg, RE in R e C e acidi grassi utilizzata STIMA da ricetta zucchero 200g, farina integr. 400g, margarina 105g, uova 204g prot anim=3.79g, prot veg=6.72g, prot tot=10.51g lip anim=11.45g, lip veg=5.2g, lip tot=16.65g"
-13,"Proteine vegetali, g",54,89,,,
-14,"Lipidi totali, g",195,84,,,
-15,"Lipidi animali, g",134,89,,,
-16,"Lipidi vegetali, g",61,89,,,
+11,"Proteine totali, g",8.5,84,,,
+12,"Proteine animali, g",3.1,89,,,"per suddivione anim/veg, RE in R e C e acidi grassi utilizzata STIMA da ricetta zucchero 200g, farina integr. 400g, margarina 105g, uova 204g prot anim=3.79g, prot veg=6.72g, prot tot=10.51g lip anim=11.45g, lip veg=5.2g, lip tot=16.65g"
+13,"Proteine vegetali, g",5.4,89,,,
+14,"Lipidi totali, g",19.5,84,,,
+15,"Lipidi animali, g",13.4,89,,,
+16,"Lipidi vegetali, g",6.1,89,,,
 17,"Colesterolo, mg",9,07,176,,
-18,"Carboidrati disponibili (MSE), g",595,84,,,calcolati sommando amido e GS ottenuti per differenza
-19,"Amido (MSE), g",425,84,,,ottenuti per differenza
-20,"Carboidrati solubili (MSE), g",170,84,,,ottenuti per differenza
-21,"Fibra alimentare totale, g",80,84,,,espressa fibra alimentare totale
-22,"Alcol, g",00,84,,,
-23,"Acqua, g",30,84,,,
+18,"Carboidrati disponibili (MSE), g",59.5,84,,,calcolati sommando amido e GS ottenuti per differenza
+19,"Amido (MSE), g",42.5,84,,,ottenuti per differenza
+20,"Carboidrati solubili (MSE), g",17.0,84,,,ottenuti per differenza
+21,"Fibra alimentare totale, g",8.0,84,,,espressa fibra alimentare totale
+22,"Alcol, g",0.0,84,,,
+23,"Acqua, g",3.0,84,,,
 24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-25,"Ferro, mg",35,07,176,,
+25,"Ferro, mg",3.5,07,176,,
 26,"Calcio, mg",110,07,176,,
 27,"Sodio, mg",314,84,,,(ceneri=1.5%) CALC etich: NaCl=0.8 % NaCl x 0.393 = Na
 28,"Potassio, mg",390,07,176,,"per i nutrienti 07/176 ALIMENTO SIMILE Homemade, biscuits wholemeal acqua=9.8g, lip=8.9g, prot=13.4g GD=60g, fibra =7.7 (South) e =8.1 (Engly)"
 29,"Fosforo, mg",340,07,176,,
-30,"Zinco, mg",280,07,176,,
+30,"Zinco, mg",2.80,07,176,,
 31,VITAMINE IDROSOLUBILI,,,,,
-32,"Vitamina B1, Tiamina, mg",034,07,176,,
-33,"Vitamina B2, Riboflavina, mg",016,07,176,,
+32,"Vitamina B1, Tiamina, mg",0.34,07,176,,
+33,"Vitamina B2, Riboflavina, mg",0.16,07,176,,
 34,"Vitamina C, mg",1,07,176,,
-35,"Niacina, mg",490,07,176,,
-36,"Vitamina B6, mg",036,07,176,,
+35,"Niacina, mg",4.90,07,176,,
+36,"Vitamina B6, mg",0.36,07,176,,
 37,"Folati totali, µg",27,07,176,,
 38,VITAMINE LIPOSOLUBILI,,,,,
 39,Retinolo equivalente,,,,,
 40,"Retinolo eq. (RE), µg",79,07,176,,
 41,"Retinolo, µg",74,89,,,"RIPR da stima da ricetta RE=76mcg, R=71mcg, C=27mcg"
 42,"ß-carotene eq., µg",28,89,,,
-43,"Vitamina E (ATE), mg",176,07,176,,
-44,"Vitamina D, µg",046,07,176,,
+43,"Vitamina E (ATE), mg",1.76,07,176,,
+44,"Vitamina D, µg",0.46,07,176,,
 45,ACIDI GRASSI,,,,,
-46,"Acidi grassi saturi totali, g",596,89,,,RIPR lip=16.65g saturi=5.09g 18:1=6.01g mono=6.83g 18:2=3.42g 18:3=0.20g altri PUFA=0.02g PUFA=3.64g
-47,"Acidi grassi monoinsaturi totali, g",800,89,,,
-48,"Acido oleico, g",755,89,,,
-49,"Acidi grassi polinsaturi totali, g",426,89,,,
-50,"Acido linoleico, g",401,89,,,
-51,"Acido linolenico, g",023,89,,,
-52,"Altri acidi grassi polinsaturi, g",002,86,,,
+46,"Acidi grassi saturi totali, g",5.96,89,,,RIPR lip=16.65g saturi=5.09g 18:1=6.01g mono=6.83g 18:2=3.42g 18:3=0.20g altri PUFA=0.02g PUFA=3.64g
+47,"Acidi grassi monoinsaturi totali, g",8.00,89,,,
+48,"Acido oleico, g",7.55,89,,,
+49,"Acidi grassi polinsaturi totali, g",4.26,89,,,
+50,"Acido linoleico, g",4.01,89,,,
+51,"Acido linolenico, g",0.23,89,,,
+52,"Altri acidi grassi polinsaturi, g",0.02,86,,,

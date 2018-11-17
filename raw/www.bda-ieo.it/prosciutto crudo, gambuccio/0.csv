@@ -8,72 +8,72 @@
 7,"Energia, Ric con fibra, kJ",1274,86,,,
 8,"Energia, ricalcolata, kcal",306,86,,,
 9,"Energia, Ric con fibra, kcal",306,86,,,
-10,"Proteine totali, g",262,AA,110560,,
-11,"Proteine animali, g",262,AA,110560,,
-12,"Proteine vegetali, g",00,AA,110560,,
-13,"Lipidi totali, g",224,AA,110560,,
-14,"Lipidi animali, g",224,AA,110560,,
-15,"Lipidi vegetali, g",00,AA,110560,,
+10,"Proteine totali, g",26.2,AA,110560,,
+11,"Proteine animali, g",26.2,AA,110560,,
+12,"Proteine vegetali, g",0.0,AA,110560,,
+13,"Lipidi totali, g",22.4,AA,110560,,
+14,"Lipidi animali, g",22.4,AA,110560,,
+15,"Lipidi vegetali, g",0.0,AA,110560,,
 16,"Colesterolo, mg",69,AA,11530,2,"""Prosciutto crudo, San Daniele"" acqua 42.8, prot 28.3, lip 23"
-17,"Carboidrati disponibili (MSE), g",00,AA,110560,,
-18,"Amido (MSE), g",00,AA,110560,,
-19,"Carboidrati solubili (MSE), g",00,AA,110560,,
-20,"Fibra alimentare totale, g",00,AA,110560,,
-21,"Alcol, g",00,AA,110560,,
-22,"Acqua, g",436,AA,110560,,
+17,"Carboidrati disponibili (MSE), g",0.0,AA,110560,,
+18,"Amido (MSE), g",0.0,AA,110560,,
+19,"Carboidrati solubili (MSE), g",0.0,AA,110560,,
+20,"Fibra alimentare totale, g",0.0,AA,110560,,
+21,"Alcol, g",0.0,AA,110560,,
+22,"Acqua, g",43.6,AA,110560,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",14,AA,110540,1,"""Prosciutto crudo, disossato"" acqua 53, prot 26,9, lip 12,9, Fe 1,2mg"
+24,"Ferro, mg",1.4,AA,110540,1,"""Prosciutto crudo, disossato"" acqua 53, prot 26,9, lip 12,9, Fe 1,2mg"
 25,"Calcio, mg",18,AA,110540,1,Ca 15mg
 26,"Sodio, mg",2686,AA,110540,1,Na 2238mg
 27,"Potassio, mg",545,AA,110540,1,K 454mg
 28,"Fosforo, mg",212,AA,110540,1,P 177mg
-29,"Zinco, mg",300,AA,110540,1,"Zn 2,5mg"
+29,"Zinco, mg",3.00,AA,110540,1,"Zn 2,5mg"
 30,"Magnesio, mg",31,AA,110540,1,Mg 26mg
-31,"Rame, mg",019,AA,110540,1,"Cu 0,16mg"
-32,"Selenio, µg",70,AA,110540,1,"Se 5,6µg"
+31,"Rame, mg",0.19,AA,110540,1,"Cu 0,16mg"
+32,"Selenio, µg",7.0,AA,110540,1,"Se 5,6µg"
 33,"Cloro, mg",1980,K,20,2,"""Ham, gammon joint, raw"" acqua 68,6, prot 17,5, lip 7,5"
 34,"Iodio, µg",7,K,20,2,
-35,"Manganese, mg",001,K,20,2,
+35,"Manganese, mg",0.01,K,20,2,
 36,"Zolfo, mg",180,Y,6350,2,"""Ham, cured, smoked"" acqua 69, prot 21, lip 6"
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",072,AA,110540,1,"B1 0,6mg"
-39,"Vitamina B2, Riboflavina, mg",024,AA,110540,1,"B2 0,2mg"
+38,"Vitamina B1, Tiamina, mg",0.72,AA,110540,1,"B1 0,6mg"
+39,"Vitamina B2, Riboflavina, mg",0.24,AA,110540,1,"B2 0,2mg"
 40,"Vitamina C, mg",0,AA,110560,,
-41,"Niacina, mg",600,AA,110540,1,Niac 5mg
-42,"Vitamina B6, mg",043,K,20,2,
+41,"Niacina, mg",6.00,AA,110540,1,Niac 5mg
+42,"Vitamina B6, mg",0.43,K,20,2,
 43,"Folati totali, µg",4,K,20,2,
-44,"Acido pantotenico, mg",107,K,20,2,
-45,"Biotina, µg",20,K,20,2,
+44,"Acido pantotenico, mg",1.07,K,20,2,
+45,"Biotina, µg",2.0,K,20,2,
 46,"Vitamina B12, µg",tr,K,20,2,
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",tr,AA,110560,,
 50,"Retinolo, µg",tr,AA,110560,3B,
 51,"ß-carotene eq., µg",0,AA,110560,3B,
-52,"Vitamina E (ATE), mg",006,K,20,2,
-53,"Vitamina D, µg",060,K,20,2,
+52,"Vitamina E (ATE), mg",0.06,K,20,2,
+53,"Vitamina D, µg",0.60,K,20,2,
 54,ACIDI GRASSI,,,,,
-55,"Acidi grassi saturi totali, g",736,AA,110540,,"""Prosciutto scrudo, disossato"" lip 12.9"
-56,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,AA,110540,3A,
-57,"Acido laurico, g",000,AA,110540,3A,
-58,"Acido miristico, g",031,AA,110540,3A,
-59,"Acido palmitico, g",464,AA,110540,3A,
-60,"Acido stearico, g",212,AA,110540,3A,
+55,"Acidi grassi saturi totali, g",7.36,AA,110540,,"""Prosciutto scrudo, disossato"" lip 12.9"
+56,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,AA,110540,3A,
+57,"Acido laurico, g",0.00,AA,110540,3A,
+58,"Acido miristico, g",0.31,AA,110540,3A,
+59,"Acido palmitico, g",4.64,AA,110540,3A,
+60,"Acido stearico, g",2.12,AA,110540,3A,
 61,"Acido arachidico, g",tr,AA,110540,3A,
-62,"Acido beenico, g",000,AA,110540,3A,
-63,"Acidi grassi monoinsaturi totali, g",1000,AA,110540,,
-64,"Acido miristoleico, g",000,AA,110540,3A,
-65,"Acido palmitoleico, g",064,AA,110540,3A,
-66,"Acido oleico, g",910,AA,110540,,
-67,"Acidi eicosenoico, g",019,AA,110540,3A,
-68,"Acido erucico, g",000,AA,110540,3A,
-69,"Acidi grassi polinsaturi totali, g",276,AA,110540,,
-70,"Acido linoleico, g",222,AA,110540,,
-71,"Acido linolenico, g",021,AA,110540,,
-72,"Acido arachidonico, g",019,AA,110540,3A,
-73,"Acido eicosapentaenoico (EPA), g",000,AA,110540,3A,
-74,"Acido decosaesaenoico (DHA), g",000,AA,110540,3A,
-75,"Altri acidi grassi polinsaturi, g",014,86,,,
+62,"Acido beenico, g",0.00,AA,110540,3A,
+63,"Acidi grassi monoinsaturi totali, g",10.00,AA,110540,,
+64,"Acido miristoleico, g",0.00,AA,110540,3A,
+65,"Acido palmitoleico, g",0.64,AA,110540,3A,
+66,"Acido oleico, g",9.10,AA,110540,,
+67,"Acidi eicosenoico, g",0.19,AA,110540,3A,
+68,"Acido erucico, g",0.00,AA,110540,3A,
+69,"Acidi grassi polinsaturi totali, g",2.76,AA,110540,,
+70,"Acido linoleico, g",2.22,AA,110540,,
+71,"Acido linolenico, g",0.21,AA,110540,,
+72,"Acido arachidonico, g",0.19,AA,110540,3A,
+73,"Acido eicosapentaenoico (EPA), g",0.00,AA,110540,3A,
+74,"Acido decosaesaenoico (DHA), g",0.00,AA,110540,3A,
+75,"Altri acidi grassi polinsaturi, g",0.14,86,,,
 76,AMINOACIDI,,,,,
 77,"Triptofano, mg",275,AA,110540,3A,"""Prosciutto scrudo, disossato"" prot 26.9"
 78,"Treonina, mg",1186,AA,110540,,
@@ -94,9 +94,9 @@
 93,"Prolina, mg",1095,AA,110540,,
 94,"Serina, mg",1055,AA,110540,,
 95,ZUCCHERI,,,,,
-96,"Glucosio, g",00,AA,110560,,
-97,"Fruttosio, g",00,AA,110560,,
-98,"Galattosio, g",00,AA,110560,,
-99,"Saccarosio (MSE), g",00,AA,110560,,
-100,"Maltosio (MSE), g",00,AA,110560,,
-101,"Lattosio (MSE), g",00,AA,110560,,
+96,"Glucosio, g",0.0,AA,110560,,
+97,"Fruttosio, g",0.0,AA,110560,,
+98,"Galattosio, g",0.0,AA,110560,,
+99,"Saccarosio (MSE), g",0.0,AA,110560,,
+100,"Maltosio (MSE), g",0.0,AA,110560,,
+101,"Lattosio (MSE), g",0.0,AA,110560,,

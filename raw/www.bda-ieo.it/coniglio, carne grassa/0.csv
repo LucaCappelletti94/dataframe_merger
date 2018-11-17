@@ -9,72 +9,72 @@
 8,"Energia, Ric con fibra, kJ",847,86,,,
 9,"Energia, ricalcolata, kcal",204,86,,,
 10,"Energia, Ric con fibra, kcal",204,86,,,
-11,"Proteine totali, g",181,02,1083,,
-12,"Proteine animali, g",181,02,1083,,
-13,"Proteine vegetali, g",00,02,1083,,
-14,"Lipidi totali, g",144,02,1083,,
-15,"Lipidi animali, g",144,02,1083,,
-16,"Lipidi vegetali, g",00,02,1083,,
+11,"Proteine totali, g",18.1,02,1083,,
+12,"Proteine animali, g",18.1,02,1083,,
+13,"Proteine vegetali, g",0.0,02,1083,,
+14,"Lipidi totali, g",14.4,02,1083,,
+15,"Lipidi animali, g",14.4,02,1083,,
+16,"Lipidi vegetali, g",0.0,02,1083,,
 17,"Colesterolo, mg",65,02,APP,,"riferito alla voce generica ""coniglio crudo"""
-18,"Carboidrati disponibili (MSE), g",04,02,1083,,
-19,"Amido (MSE), g",00,02,1083,,
-20,"Carboidrati solubili (MSE), g",04,02,1083,,
-21,"Fibra alimentare totale, g",00,02,1083,,
-22,"Alcol, g",00,02,1083,,
-23,"Acqua, g",662,02,1083,,
+18,"Carboidrati disponibili (MSE), g",0.4,02,1083,,
+19,"Amido (MSE), g",0.0,02,1083,,
+20,"Carboidrati solubili (MSE), g",0.4,02,1083,,
+21,"Fibra alimentare totale, g",0.0,02,1083,,
+22,"Alcol, g",0.0,02,1083,,
+23,"Acqua, g",66.2,02,1083,,
 24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-25,"Ferro, mg",01,02,1083,,
+25,"Ferro, mg",0.1,02,1083,,
 26,"Calcio, mg",13,02,1083,,
 27,"Sodio, mg",78,02,1082,1,"""Coniglio, c. semigrassa"" acqua 70.9g, prot 22,1, lip 5,3, Na 67mg"
 28,"Potassio, mg",418,02,1082,1,K=360mg
 29,"Fosforo, mg",180,02,1083,,
-30,"Zinco, mg",530,AO,107010,1,"""Coniglio intero"" acqua 74,9, prot 19,9, lip 4,3, Zn 3,9mg"
+30,"Zinco, mg",5.30,AO,107010,1,"""Coniglio intero"" acqua 74,9, prot 19,9, lip 4,3, Zn 3,9mg"
 31,"Magnesio, mg",30,AO,107010,1,Mg 22mg
-32,"Rame, mg",008,AO,107010,1,"Cu 0,06mg"
-33,"Selenio, µg",230,AO,107010,1,Se 17µg
+32,"Rame, mg",0.08,AO,107010,1,"Cu 0,06mg"
+33,"Selenio, µg",23.0,AO,107010,1,Se 17µg
 34,"Cloro, mg",88,T,387,1,"""Rabbit, raw, meat only"" acqua=71.5g, prot=21.9g, lip=5.5g, Cl 74mg"
 35,"Iodio, µg",5,Y,6500,2,"""Hare"" acqua 73, prot 21,6, lip 3"
-36,"Manganese, mg",001,T,387,1,"Mn 0,01mg"
+36,"Manganese, mg",0.01,T,387,1,"Mn 0,01mg"
 37,"Zolfo, mg",190,Y,6500,2,
 38,VITAMINE IDROSOLUBILI,,,,,
 39,"Vitamina B1, Tiamina, mg",tr,02,1083,,
-40,"Vitamina B2, Riboflavina, mg",009,02,1083,,
+40,"Vitamina B2, Riboflavina, mg",0.09,02,1083,,
 41,"Vitamina C, mg",0,02,1083,,
-42,"Niacina, mg",300,02,1083,,
-43,"Vitamina B6, mg",059,T,387,1,vitB6 0.50mg
+42,"Niacina, mg",3.00,02,1083,,
+43,"Vitamina B6, mg",0.59,T,387,1,vitB6 0.50mg
 44,"Folati totali, µg",6,T,387,1,folati 5µg
-45,"Acido pantotenico, mg",095,T,387,1,"Mn 0,01mg"
-46,"Biotina, µg",12,T,387,1,Biot 1µg
-47,"Vitamina B12, µg",119,T,387,1,B12 10µg
+45,"Acido pantotenico, mg",0.95,T,387,1,"Mn 0,01mg"
+46,"Biotina, µg",1.2,T,387,1,Biot 1µg
+47,"Vitamina B12, µg",11.9,T,387,1,B12 10µg
 48,VITAMINE LIPOSOLUBILI,,,,,
 49,Retinolo equivalente,,,,,
 50,"Retinolo eq. (RE), µg",tr,02,1083,,
 51,"Retinolo, µg",tr,02,1083,,
 52,"ß-carotene eq., µg",0,02,1083,,
-53,"Vitamina E (ATE), mg",040,T,387,1,vitE0.13mg
-54,"Vitamina D, µg",000,Y,6500,2,
+53,"Vitamina E (ATE), mg",0.40,T,387,1,vitE0.13mg
+54,"Vitamina D, µg",0.00,Y,6500,2,
 55,ACIDI GRASSI,,,,,
-56,"Acidi grassi saturi totali, g",569,AO,107010,3A,"Coniglio, intero lip 4.3AcGrSaturiTot1.7, SommaAcButirrico,caproico,caprilico,caprico0, AcLaurico0, AcMiristico0.11, AcPalmitico1.22, AcStearico0.37, AcArachidico0, AcBeenico0, AcGrMonoinsaturiTot0.85, AcMiristoleico0, AcPalmitoleico0.09, AcOleico0.76, AcEicosenoico0, AcErucico0, AcGrPolinstauriTot1.32, AcLinoleico0.4, AcLinolenico0.07, AcArachidonico0, AcEicosapentaenoico(EPA)0, AcDecosaesaenoico(DHA)0, AltriAcGrPolinsaturi-3"
-57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,AO,107010,3A,
-58,"Acido laurico, g",000,AO,107010,3A,
-59,"Acido miristico, g",037,AO,107010,3A,
-60,"Acido palmitico, g",409,AO,107010,3A,
-61,"Acido stearico, g",124,AO,107010,3A,
-62,"Acido arachidico, g",000,AO,107010,3A,
-63,"Acido beenico, g",000,AO,107010,3A,
-64,"Acidi grassi monoinsaturi totali, g",285,AO,107010,3A,
-65,"Acido miristoleico, g",000,AO,107010,3A,
-66,"Acido palmitoleico, g",030,AO,107010,3A,
-67,"Acido oleico, g",255,AO,107010,3A,
-68,"Acidi eicosenoico, g",000,AO,107010,3A,
-69,"Acido erucico, g",000,AO,107010,3A,
-70,"Acidi grassi polinsaturi totali, g",442,AO,107010,3A,
-71,"Acido linoleico, g",134,AO,107010,3A,
-72,"Acido linolenico, g",023,AO,107010,3A,
-73,"Acido arachidonico, g",000,AO,107010,3A,
-74,"Acido eicosapentaenoico (EPA), g",000,AO,107010,3A,
-75,"Acido decosaesaenoico (DHA), g",000,AO,107010,3A,
-76,"Altri acidi grassi polinsaturi, g",285,86,,,
+56,"Acidi grassi saturi totali, g",5.69,AO,107010,3A,"Coniglio, intero lip 4.3AcGrSaturiTot1.7, SommaAcButirrico,caproico,caprilico,caprico0, AcLaurico0, AcMiristico0.11, AcPalmitico1.22, AcStearico0.37, AcArachidico0, AcBeenico0, AcGrMonoinsaturiTot0.85, AcMiristoleico0, AcPalmitoleico0.09, AcOleico0.76, AcEicosenoico0, AcErucico0, AcGrPolinstauriTot1.32, AcLinoleico0.4, AcLinolenico0.07, AcArachidonico0, AcEicosapentaenoico(EPA)0, AcDecosaesaenoico(DHA)0, AltriAcGrPolinsaturi-3"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,AO,107010,3A,
+58,"Acido laurico, g",0.00,AO,107010,3A,
+59,"Acido miristico, g",0.37,AO,107010,3A,
+60,"Acido palmitico, g",4.09,AO,107010,3A,
+61,"Acido stearico, g",1.24,AO,107010,3A,
+62,"Acido arachidico, g",0.00,AO,107010,3A,
+63,"Acido beenico, g",0.00,AO,107010,3A,
+64,"Acidi grassi monoinsaturi totali, g",2.85,AO,107010,3A,
+65,"Acido miristoleico, g",0.00,AO,107010,3A,
+66,"Acido palmitoleico, g",0.30,AO,107010,3A,
+67,"Acido oleico, g",2.55,AO,107010,3A,
+68,"Acidi eicosenoico, g",0.00,AO,107010,3A,
+69,"Acido erucico, g",0.00,AO,107010,3A,
+70,"Acidi grassi polinsaturi totali, g",4.42,AO,107010,3A,
+71,"Acido linoleico, g",1.34,AO,107010,3A,
+72,"Acido linolenico, g",0.23,AO,107010,3A,
+73,"Acido arachidonico, g",0.00,AO,107010,3A,
+74,"Acido eicosapentaenoico (EPA), g",0.00,AO,107010,3A,
+75,"Acido decosaesaenoico (DHA), g",0.00,AO,107010,3A,
+76,"Altri acidi grassi polinsaturi, g",2.85,86,,,
 77,AMINOACIDI,,,,,
 78,"Triptofano, mg",176,AA,107010,3A,"""Coniglio"" prot. orig.19.9,trypto193, threon865, isoleu1015, leucine1668, lysine1750, methion544, cystine225, phenilal839, tyrosine676, valine1198, arginine1288, histidine560, alanine1242, aspart ac1969, glutam ac3137, glycine1003, proline857, serine809"
 79,"Treonina, mg",787,AA,107010,,
@@ -95,9 +95,9 @@
 94,"Prolina, mg",779,AA,107010,,
 95,"Serina, mg",736,AA,107010,,
 96,ZUCCHERI,,,,,
-97,"Glucosio, g",04,87,,,
-98,"Fruttosio, g",00,87,,,
-99,"Galattosio, g",00,87,,,
-100,"Saccarosio (MSE), g",00,87,,,
-101,"Maltosio (MSE), g",00,87,,,
-102,"Lattosio (MSE), g",00,87,,,
+97,"Glucosio, g",0.4,87,,,
+98,"Fruttosio, g",0.0,87,,,
+99,"Galattosio, g",0.0,87,,,
+100,"Saccarosio (MSE), g",0.0,87,,,
+101,"Maltosio (MSE), g",0.0,87,,,
+102,"Lattosio (MSE), g",0.0,87,,,

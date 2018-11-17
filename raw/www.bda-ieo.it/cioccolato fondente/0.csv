@@ -8,45 +8,45 @@
 7,"Energia, Ric con fibra, kJ",2275,86,,,
 8,"Energia, ricalcolata, kcal",542,86,,,
 9,"Energia, Ric con fibra, kcal",545,86,,,
-10,"Proteine totali, g",58,02,2005,,
-11,"Proteine animali, g",42,72,,,STIMA INN
-12,"Proteine vegetali, g",16,72,,,STIMA INN
-13,"Lipidi totali, g",340,02,2005,,
-14,"Lipidi animali, g",220,72,,,STIMA INN
-15,"Lipidi vegetali, g",120,72,,,STIMA INN
+10,"Proteine totali, g",5.8,02,2005,,
+11,"Proteine animali, g",4.2,72,,,STIMA INN
+12,"Proteine vegetali, g",1.6,72,,,STIMA INN
+13,"Lipidi totali, g",34.0,02,2005,,
+14,"Lipidi animali, g",22.0,72,,,STIMA INN
+15,"Lipidi vegetali, g",12.0,72,,,STIMA INN
 16,"Colesterolo, mg",0,02,2005,,considerato trascurabile l'apporto di ingredienti di origine animale
-17,"Carboidrati disponibili (MSE), g",567,02,2005,,
-18,"Amido (MSE), g",00,02,2005,,amido=0 quando GD=GS
-19,"Carboidrati solubili (MSE), g",567,02,2005,,
-20,"Fibra alimentare totale, g",14,02,2005,,
-21,"Alcol, g",00,02,2005,,
-22,"Acqua, g",11,02,2005,,
+17,"Carboidrati disponibili (MSE), g",56.7,02,2005,,
+18,"Amido (MSE), g",0.0,02,2005,,amido=0 quando GD=GS
+19,"Carboidrati solubili (MSE), g",56.7,02,2005,,
+20,"Fibra alimentare totale, g",1.4,02,2005,,
+21,"Alcol, g",0.0,02,2005,,
+22,"Acqua, g",1.1,02,2005,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",50,02,2005,,
+24,"Ferro, mg",5.0,02,2005,,
 25,"Calcio, mg",51,02,2005,,
 26,"Sodio, mg",11,02,2005,,
 27,"Potassio, mg",300,02,2005,,
 28,"Fosforo, mg",186,02,2005,,
-29,"Zinco, mg",130,M,90,,"per i nutrienti M/90 ALIMENTO SIMILE Chocolate plain acqua=0.6g, lip=28g, GD=63.5g"
+29,"Zinco, mg",1.30,M,90,,"per i nutrienti M/90 ALIMENTO SIMILE Chocolate plain acqua=0.6g, lip=28g, GD=63.5g"
 30,VITAMINE IDROSOLUBILI,,,,,
-31,"Vitamina B1, Tiamina, mg",007,02,2005,,
-32,"Vitamina B2, Riboflavina, mg",007,02,2005,,
+31,"Vitamina B1, Tiamina, mg",0.07,02,2005,,
+32,"Vitamina B2, Riboflavina, mg",0.07,02,2005,,
 33,"Vitamina C, mg",0,02,2005,,
-34,"Niacina, mg",060,02,2005,,
-35,"Vitamina B6, mg",003,M,90,,
+34,"Niacina, mg",0.60,02,2005,,
+35,"Vitamina B6, mg",0.03,M,90,,
 36,"Folati totali, µg",12,M,90,,
 37,VITAMINE LIPOSOLUBILI,,,,,
 38,Retinolo equivalente,,,,,
 39,"Retinolo eq. (RE), µg",9,02,2005,,
 40,"Retinolo, µg",0,02,2005,,CALC considerato trascurabile l'apporto di ingredienti di origine animale
 41,"ß-carotene eq., µg",54,02,2005,,CALC
-42,"Vitamina E (ATE), mg",144,M,90,,
-43,"Vitamina D, µg",000,M,90,,
+42,"Vitamina E (ATE), mg",1.44,M,90,,
+43,"Vitamina D, µg",0.00,M,90,,
 44,ACIDI GRASSI,,,,,
-45,"Acidi grassi saturi totali, g",2025,E,857,,"RIPR riferito a Chocolate, milk lip=29.2g saturi=17.39g 18:1=9.38g mono=9.38g 18:2=0.92g 18:3=0 altri PUFA=0 PUFA=0.92g"
-46,"Acidi grassi monoinsaturi totali, g",1092,E,857,,
-47,"Acido oleico, g",1092,E,857,,
-48,"Acidi grassi polinsaturi totali, g",107,E,857,,
-49,"Acido linoleico, g",107,E,857,,
-50,"Acido linolenico, g",000,E,857,,
-51,"Altri acidi grassi polinsaturi, g",000,86,,,
+45,"Acidi grassi saturi totali, g",20.25,E,857,,"RIPR riferito a Chocolate, milk lip=29.2g saturi=17.39g 18:1=9.38g mono=9.38g 18:2=0.92g 18:3=0 altri PUFA=0 PUFA=0.92g"
+46,"Acidi grassi monoinsaturi totali, g",10.92,E,857,,
+47,"Acido oleico, g",10.92,E,857,,
+48,"Acidi grassi polinsaturi totali, g",1.07,E,857,,
+49,"Acido linoleico, g",1.07,E,857,,
+50,"Acido linolenico, g",0.00,E,857,,
+51,"Altri acidi grassi polinsaturi, g",0.00,86,,,

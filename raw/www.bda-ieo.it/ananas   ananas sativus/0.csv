@@ -8,73 +8,73 @@
 7,"Energia, Ric con fibra, kJ",176,86,,,
 8,"Energia, ricalcolata, kcal",40,86,,,
 9,"Energia, Ric con fibra, kcal",42,86,,,
-10,"Proteine totali, g",05,02,403,,
-11,"Proteine animali, g",00,LZ,,,
-12,"Proteine vegetali, g",05,02,403,,
-13,"Lipidi totali, g",00,02,403,,
-14,"Lipidi animali, g",00,LZ,,,
-15,"Lipidi vegetali, g",00,02,403,,
+10,"Proteine totali, g",0.5,02,403,,
+11,"Proteine animali, g",0.0,LZ,,,
+12,"Proteine vegetali, g",0.5,02,403,,
+13,"Lipidi totali, g",0.0,02,403,,
+14,"Lipidi animali, g",0.0,LZ,,,
+15,"Lipidi vegetali, g",0.0,02,403,,
 16,"Colesterolo, mg",0,LZ,,,
-17,"Carboidrati disponibili (MSE), g",100,02,403,,
-18,"Amido (MSE), g",00,02,403,,
-19,"Carboidrati solubili (MSE), g",100,02,403,,
-20,"Fibra alimentare totale, g",10,02,403,,
-21,"Alcol, g",00,LZ,,,
-22,"Acqua, g",864,02,403,,
+17,"Carboidrati disponibili (MSE), g",10.0,02,403,,
+18,"Amido (MSE), g",0.0,02,403,,
+19,"Carboidrati solubili (MSE), g",10.0,02,403,,
+20,"Fibra alimentare totale, g",1.0,02,403,,
+21,"Alcol, g",0.0,LZ,,,
+22,"Acqua, g",86.4,02,403,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",05,02,403,,
+24,"Ferro, mg",0.5,02,403,,
 25,"Calcio, mg",17,02,403,,
 26,"Sodio, mg",2,02,403,,
 27,"Potassio, mg",250,02,403,,
 28,"Fosforo, mg",8,02,403,,
-29,"Zinco, mg",010,03,6203,6B,"""Ananas"" WATER 84g, PROT 0.5g, FAT tr, CHO=SUGAR 11.6g"
+29,"Zinco, mg",0.10,03,6203,6B,"""Ananas"" WATER 84g, PROT 0.5g, FAT tr, CHO=SUGAR 11.6g"
 30,"Magnesio, mg",16,BF,984,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
-31,"Rame, mg",008,03,6203,6B,"""Ananas"" WATER 84g, PROT 0.5g, FAT tr, CHO=SUGAR 11.6g"
+31,"Rame, mg",0.08,03,6203,6B,"""Ananas"" WATER 84g, PROT 0.5g, FAT tr, CHO=SUGAR 11.6g"
 32,"Selenio, µg",tr,BF,984,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
 33,"Cloro, mg",29,BF,984,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
 34,"Iodio, µg",tr,BF,984,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
-35,"Manganese, mg",050,BF,984,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
+35,"Manganese, mg",0.50,BF,984,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
 36,"Zolfo, mg",3,L,208,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",005,02,403,,
-39,"Vitamina B2, Riboflavina, mg",001,02,403,,
+38,"Vitamina B1, Tiamina, mg",0.05,02,403,,
+39,"Vitamina B2, Riboflavina, mg",0.01,02,403,,
 40,"Vitamina C, mg",17,02,403,,
-41,"Niacina, mg",020,02,403,,
-42,"Vitamina B6, mg",009,L,208,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
+41,"Niacina, mg",0.20,02,403,,
+42,"Vitamina B6, mg",0.09,L,208,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
 43,"Folati totali, µg",5,L,208,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
-44,"Acido pantotenico, mg",016,BF,984,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
-45,"Biotina, µg",03,BF,984,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
-46,"Vitamina B12, µg",00,LZ,,,
+44,"Acido pantotenico, mg",0.16,BF,984,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
+45,"Biotina, µg",0.3,BF,984,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
+46,"Vitamina B12, µg",0.0,LZ,,,
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",7,02,403,,
 50,"Retinolo, µg",0,LZ,,,
 51,"ß-carotene eq., µg",42,02,403,3B,
-52,"Vitamina E (ATE), mg",010,L,208,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
-53,"Vitamina D, µg",000,LZ,,,
-54,"Vitamina K, µg",021,BF,984,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
+52,"Vitamina E (ATE), mg",0.10,L,208,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
+53,"Vitamina D, µg",0.00,LZ,,,
+54,"Vitamina K, µg",0.21,BF,984,6,"""Pineapple, raw"" WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO=SUGAR 10.1g"
 55,ACIDI GRASSI,,,,,
-56,"Acidi grassi saturi totali, g",000,LZ,,,
-57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,LZ,,,
-58,"Acido laurico, g",000,LZ,,,
-59,"Acido miristico, g",000,LZ,,,
-60,"Acido palmitico, g",000,LZ,,,
-61,"Acido stearico, g",000,LZ,,,
-62,"Acido arachidico, g",000,LZ,,,
-63,"Acido beenico, g",000,LZ,,,
-64,"Acidi grassi monoinsaturi totali, g",000,LZ,,,
-65,"Acido miristoleico, g",000,LZ,,,
-66,"Acido palmitoleico, g",000,LZ,,,
-67,"Acido oleico, g",000,LZ,,,
-68,"Acidi eicosenoico, g",000,LZ,,,
-69,"Acido erucico, g",000,LZ,,,
-70,"Acidi grassi polinsaturi totali, g",000,LZ,,,
-71,"Acido linoleico, g",000,LZ,,,
-72,"Acido linolenico, g",000,LZ,,,
-73,"Acido arachidonico, g",000,LZ,,,
-74,"Acido eicosapentaenoico (EPA), g",000,LZ,,,
-75,"Acido decosaesaenoico (DHA), g",000,LZ,,,
-76,"Altri acidi grassi polinsaturi, g",000,86,,,
+56,"Acidi grassi saturi totali, g",0.00,LZ,,,
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,LZ,,,
+58,"Acido laurico, g",0.00,LZ,,,
+59,"Acido miristico, g",0.00,LZ,,,
+60,"Acido palmitico, g",0.00,LZ,,,
+61,"Acido stearico, g",0.00,LZ,,,
+62,"Acido arachidico, g",0.00,LZ,,,
+63,"Acido beenico, g",0.00,LZ,,,
+64,"Acidi grassi monoinsaturi totali, g",0.00,LZ,,,
+65,"Acido miristoleico, g",0.00,LZ,,,
+66,"Acido palmitoleico, g",0.00,LZ,,,
+67,"Acido oleico, g",0.00,LZ,,,
+68,"Acidi eicosenoico, g",0.00,LZ,,,
+69,"Acido erucico, g",0.00,LZ,,,
+70,"Acidi grassi polinsaturi totali, g",0.00,LZ,,,
+71,"Acido linoleico, g",0.00,LZ,,,
+72,"Acido linolenico, g",0.00,LZ,,,
+73,"Acido arachidonico, g",0.00,LZ,,,
+74,"Acido eicosapentaenoico (EPA), g",0.00,LZ,,,
+75,"Acido decosaesaenoico (DHA), g",0.00,LZ,,,
+76,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 77,AMINOACIDI,,,,,
 78,"Triptofano, mg",5,DI,09266,3B,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, TRP 0.005g"
 79,"Treonina, mg",18,DI,09266,3B,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, THR 0.019g"
@@ -95,9 +95,9 @@
 94,"Prolina, mg",16,DI,09266,3B,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, SUGAR 9.85g, PRO 0.017g"
 95,"Serina, mg",32,DI,09266,3B,"Pineapple, Raw, All Varieties [Ananas Comosus] WATER 86g, PROT 0.54g, FAT 0.12g, CHO 11.72g, SUGAR 9.85g, SER 0.035g"
 96,ZUCCHERI,,,,,
-97,"Glucosio, g",20,BF,984,3B,"Pineapple, Raw WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO 10.1g, SUGAR 10.1g, GLUS 2g"
-98,"Fruttosio, g",25,BF,984,3B,"Pineapple, Raw WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO 10.1g, SUGAR 10.1g, FRUS 2.5g"
-99,"Galattosio, g",00,LZ,,,
-100,"Saccarosio (MSE), g",54,BF,984,3B,"Pineapple, Raw WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO 10.1g, SUGAR 10.1g, SUCS 5.5g"
-101,"Maltosio (MSE), g",00,BF,984,3B,"Pineapple, Raw WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO 10.1g, SUGAR 10.1g, MALS 0g"
-102,"Lattosio (MSE), g",00,LZ,,,
+97,"Glucosio, g",2.0,BF,984,3B,"Pineapple, Raw WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO 10.1g, SUGAR 10.1g, GLUS 2g"
+98,"Fruttosio, g",2.5,BF,984,3B,"Pineapple, Raw WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO 10.1g, SUGAR 10.1g, FRUS 2.5g"
+99,"Galattosio, g",0.0,LZ,,,
+100,"Saccarosio (MSE), g",5.4,BF,984,3B,"Pineapple, Raw WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO 10.1g, SUGAR 10.1g, SUCS 5.5g"
+101,"Maltosio (MSE), g",0.0,BF,984,3B,"Pineapple, Raw WATER 86.5g, PROT 0.4g, FAT 0.2g, CHO 10.1g, SUGAR 10.1g, MALS 0g"
+102,"Lattosio (MSE), g",0.0,LZ,,,
