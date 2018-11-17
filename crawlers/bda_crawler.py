@@ -27,7 +27,7 @@ def get_product_name(response: Response) -> str:
     name = re.sub("^[\d\s]+", "", name)
     name = name.split("  ")[0]
 
-    return name.strip()
+    return name.strip().replace("/", " ")
 
 
 def get_product_category(soup: BeautifulSoup) -> str:
@@ -39,7 +39,8 @@ def parse_tables(html: str, path: str, strainer: SoupStrainer):
     """Parse table at given strained html object saving them as csv at given path."""
     for i, table in enumerate(BeautifulSoup(
             html, "html5lib").find_all(strainer)):
-        df = pd.read_html(html_sanitization(table))[0].drop(0)
+        df = pd.read_html(html_sanitization(table),
+                          decimal=",", thousands="")[0].drop(0)
         df.to_csv("{path}/{table_name}.csv".format(
             path=path, table_name=i))
 
@@ -76,7 +77,7 @@ def parse(response: Response):
 
 def url_validator(url: str, logger: Log, statistics: Statistics)->bool:
     """Return a boolean representing if the crawler should parse given url."""
-    return re.match(r"http://www\.bda-ieo\.it/test/ComponentiAlimento\.aspx\?Lan=Ita&foodid=[\d_]+", url)
+    return re.match(r"http://www\.bda-ieo\.it/test/ComponentiAlimento\.aspx\?Lan=Ita&foodid=[\d_]+", url) and "#" not in url
 
 
 def file_parser(response: Response, logger: Log, statistics):
