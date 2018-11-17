@@ -8,73 +8,73 @@
 7,"Energia, Ric con fibra, kJ",130,86,,,
 8,"Energia, ricalcolata, kcal",20,86,,,
 9,"Energia, Ric con fibra, kcal",31,86,,,
-10,"Proteine totali, g",07,AA,007560,,
-11,"Proteine animali, g",00,LZ,,,
-12,"Proteine vegetali, g",07,AA,007560,,
-13,"Lipidi totali, g",05,AA,007560,,
-14,"Lipidi animali, g",00,LZ,,,
-15,"Lipidi vegetali, g",05,AA,007560,,
+10,"Proteine totali, g",0.7,AA,007560,,
+11,"Proteine animali, g",0.0,LZ,,,
+12,"Proteine vegetali, g",0.7,AA,007560,,
+13,"Lipidi totali, g",0.5,AA,007560,,
+14,"Lipidi animali, g",0.0,LZ,,,
+15,"Lipidi vegetali, g",0.5,AA,007560,,
 16,"Colesterolo, mg",0,LZ,,,
-17,"Carboidrati disponibili (MSE), g",35,AA,007560,,
-18,"Amido (MSE), g",00,AA,007560,,
-19,"Carboidrati solubili (MSE), g",35,AA,007560,,
-20,"Fibra alimentare totale, g",54,AA,007560,,
-21,"Alcol, g",00,LZ,,,
-22,"Acqua, g",872,AA,007560,,
+17,"Carboidrati disponibili (MSE), g",3.5,AA,007560,,
+18,"Amido (MSE), g",0.0,AA,007560,,
+19,"Carboidrati solubili (MSE), g",3.5,AA,007560,,
+20,"Fibra alimentare totale, g",5.4,AA,007560,,
+21,"Alcol, g",0.0,LZ,,,
+22,"Acqua, g",87.2,AA,007560,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",02,AA,007560,,
+24,"Ferro, mg",0.2,AA,007560,,
 25,"Calcio, mg",10,AA,007560,,
 26,"Sodio, mg",4,AA,007560,,
 27,"Potassio, mg",150,AA,007560,,
 28,"Fosforo, mg",25,BF,956,2,"""Guava, raw"" WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g"
-29,"Zinco, mg",020,BF,956,2,"""Guava, raw"" WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g"
+29,"Zinco, mg",0.20,BF,956,2,"""Guava, raw"" WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g"
 30,"Magnesio, mg",12,BF,956,2,"""Guava, raw"" WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g"
-31,"Rame, mg",010,BF,956,2,"""Guava, raw"" WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g"
-32,"Selenio, µg",06,DI,09139,2,"""Guavas, common, raw"" WATER 80.80g, PROT 2.55g, FAT 0.95g, CHO 14.32g, SUGAR 8.92g"
+31,"Rame, mg",0.10,BF,956,2,"""Guava, raw"" WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g"
+32,"Selenio, µg",0.6,DI,09139,2,"""Guavas, common, raw"" WATER 80.80g, PROT 2.55g, FAT 0.95g, CHO 14.32g, SUGAR 8.92g"
 33,"Cloro, mg",4,BF,956,2,"""Guava, raw"" WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g"
 34,"Iodio, µg",0,DM,,2,"""Guava, canned"" WATER 76.6g, PROT 0.4g, FAT 0.1g, CHO 19.4g"
-35,"Manganese, mg",010,L,118,2,"""Guava, raw"" WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g"
+35,"Manganese, mg",0.10,L,118,2,"""Guava, raw"" WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g"
 36,"Zolfo, mg",14,L,118,2,"""Guava, raw"" WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g"
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",003,AA,007560,,
-39,"Vitamina B2, Riboflavina, mg",004,AA,007560,,
+38,"Vitamina B1, Tiamina, mg",0.03,AA,007560,,
+39,"Vitamina B2, Riboflavina, mg",0.04,AA,007560,,
 40,"Vitamina C, mg",243,AA,007560,,
-41,"Niacina, mg",100,AA,007560,,
-42,"Vitamina B6, mg",014,BF,956,2,"""Guava, raw"" WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g"
+41,"Niacina, mg",1.00,AA,007560,,
+42,"Vitamina B6, mg",0.14,BF,956,2,"""Guava, raw"" WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g"
 43,"Folati totali, µg",49,DI,09139,2,"""Guavas, common, raw"" WATER 80.80g, PROT 2.55g, FAT 0.95g, CHO 14.32g, SUGAR 8.92g"
-44,"Acido pantotenico, mg",015,BF,956,2,"""Guava, raw"" WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g"
-45,"Biotina, µg",11,BF,922,2,"""Apple, eating, average, raw, peeled"" WATER 85.4g, PROT 0.4g, FAT 0.1g, CHO 11.2g, SUGAR 11.2g"
-46,"Vitamina B12, µg",00,LZ,,,
+44,"Acido pantotenico, mg",0.15,BF,956,2,"""Guava, raw"" WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g"
+45,"Biotina, µg",1.1,BF,922,2,"""Apple, eating, average, raw, peeled"" WATER 85.4g, PROT 0.4g, FAT 0.1g, CHO 11.2g, SUGAR 11.2g"
+46,"Vitamina B12, µg",0.0,LZ,,,
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",82,AA,007560,,
 50,"Retinolo, µg",0,LZ,,,
 51,"ß-carotene eq., µg",492,AA,007560,3B,
-52,"Vitamina E (ATE), mg",073,DI,09139,2,"""Guavas, common, raw"" WATER 80.80g, PROT 2.55g, FAT 0.95g, CHO 14.32g, SUGAR 8.92g, solo TOCPHA"
-53,"Vitamina D, µg",000,LZ,,,
-54,"Vitamina K, µg",260,DI,09139,2,"""Guavas, common, raw"" WATER 80.80g, PROT 2.55g, FAT 0.95g, CHO 14.32g, SUGAR 8.92g"
+52,"Vitamina E (ATE), mg",0.73,DI,09139,2,"""Guavas, common, raw"" WATER 80.80g, PROT 2.55g, FAT 0.95g, CHO 14.32g, SUGAR 8.92g, solo TOCPHA"
+53,"Vitamina D, µg",0.00,LZ,,,
+54,"Vitamina K, µg",2.60,DI,09139,2,"""Guavas, common, raw"" WATER 80.80g, PROT 2.55g, FAT 0.95g, CHO 14.32g, SUGAR 8.92g"
 55,ACIDI GRASSI,,,,,
-56,"Acidi grassi saturi totali, g",014,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80.8g, PROT 2.55g, FAT 0.95g, CHO 8.92g, SUGAR 8.92g, FASAT 0.272g"
-57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80.8g, PROT 2.55g, FAT 0.95g, CHO 8.92g, SUGAR 8.92g, F4-10:0 0g"
-58,"Acido laurico, g",000,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F12:0 0g"
-59,"Acido miristico, g",001,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F14:0 0,019g"
-60,"Acido palmitico, g",012,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F16:0 0,228g"
-61,"Acido stearico, g",001,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F18:0 0,025g"
-62,"Acido arachidico, g",000,87,,,
-63,"Acido beenico, g",000,87,,,
-64,"Acidi grassi monoinsaturi totali, g",005,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, FAMS 0,087g"
-65,"Acido miristoleico, g",000,87,,,
-66,"Acido palmitoleico, g",000,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F16:1CN7 0,005g"
-67,"Acido oleico, g",004,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F18:1 0,082g"
-68,"Acidi eicosenoico, g",000,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F20:1 0g"
-69,"Acido erucico, g",000,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F22:1CN9 0g"
-70,"Acidi grassi polinsaturi totali, g",021,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, FAPU 0,401g"
-71,"Acido linoleico, g",015,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F18:2 0,288g"
-72,"Acido linolenico, g",006,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, F18:3 0,112g"
-73,"Acido arachidonico, g",000,DI,09139,3A,"Guavas, Common, Raw WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, F20:4N6 0g"
-74,"Acido eicosapentaenoico (EPA), g",000,DI,09139,3A,"Guavas, Common, Raw WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, F20:5N3 0g"
-75,"Acido decosaesaenoico (DHA), g",000,DI,09139,3A,"Guavas, Common, Raw WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, F22:6 0g"
-76,"Altri acidi grassi polinsaturi, g",000,86,,,
+56,"Acidi grassi saturi totali, g",0.14,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80.8g, PROT 2.55g, FAT 0.95g, CHO 8.92g, SUGAR 8.92g, FASAT 0.272g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80.8g, PROT 2.55g, FAT 0.95g, CHO 8.92g, SUGAR 8.92g, F4-10:0 0g"
+58,"Acido laurico, g",0.00,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F12:0 0g"
+59,"Acido miristico, g",0.01,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F14:0 0,019g"
+60,"Acido palmitico, g",0.12,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F16:0 0,228g"
+61,"Acido stearico, g",0.01,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F18:0 0,025g"
+62,"Acido arachidico, g",0.00,87,,,
+63,"Acido beenico, g",0.00,87,,,
+64,"Acidi grassi monoinsaturi totali, g",0.05,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, FAMS 0,087g"
+65,"Acido miristoleico, g",0.00,87,,,
+66,"Acido palmitoleico, g",0.00,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F16:1CN7 0,005g"
+67,"Acido oleico, g",0.04,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F18:1 0,082g"
+68,"Acidi eicosenoico, g",0.00,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F20:1 0g"
+69,"Acido erucico, g",0.00,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F22:1CN9 0g"
+70,"Acidi grassi polinsaturi totali, g",0.21,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, FAPU 0,401g"
+71,"Acido linoleico, g",0.15,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, SUGAR 8,92g, F18:2 0,288g"
+72,"Acido linolenico, g",0.06,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80,8g, PROT 2,55g, FAT 0,95g, F18:3 0,112g"
+73,"Acido arachidonico, g",0.00,DI,09139,3A,"Guavas, Common, Raw WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, F20:4N6 0g"
+74,"Acido eicosapentaenoico (EPA), g",0.00,DI,09139,3A,"Guavas, Common, Raw WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, F20:5N3 0g"
+75,"Acido decosaesaenoico (DHA), g",0.00,DI,09139,3A,"Guavas, Common, Raw WATER 80,8g, PROT 2,55g, FAT 0,95g, CHO 8,92g, F22:6 0g"
+76,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 77,AMINOACIDI,,,,,
 78,"Triptofano, mg",6,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80.8g, PROT 2.55g, FAT 0.95g, CHO 8.92g, TRP 0.022g"
 79,"Treonina, mg",26,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80.8g, PROT 2.55g, FAT 0.95g, CHO 8.92g, SUGAR 8.92g, THR 0.096g"
@@ -94,9 +94,9 @@
 93,"Prolina, mg",21,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80.8g, PROT 2.55g, FAT 0.95g, CHO 8.92g, SUGAR 8.92g, PRO 0.078g"
 94,"Serina, mg",21,DI,09139,3A,"Guavas, Common, Raw [Psidium Guajava] WATER 80.8g, PROT 2.55g, FAT 0.95g, CHO 8.92g, SUGAR 8.92g, SER 0.075g"
 95,ZUCCHERI,,,,,
-96,"Glucosio, g",15,L,118,3B,"Guava, Raw WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g, GLUS 2.1g"
-97,"Fruttosio, g",16,L,118,3B,"Guava, Raw WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g, FRUS 2.3g"
-98,"Galattosio, g",00,LZ,,,
-99,"Saccarosio (MSE), g",04,L,118,3B,"Guava, Raw WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g, SUCS 0.5g"
-100,"Maltosio (MSE), g",00,L,118,3B,"Guava, Raw WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g, MALS 0g"
-101,"Lattosio (MSE), g",00,LZ,,,
+96,"Glucosio, g",1.5,L,118,3B,"Guava, Raw WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g, GLUS 2.1g"
+97,"Fruttosio, g",1.6,L,118,3B,"Guava, Raw WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g, FRUS 2.3g"
+98,"Galattosio, g",0.0,LZ,,,
+99,"Saccarosio (MSE), g",0.4,L,118,3B,"Guava, Raw WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g, SUCS 0.5g"
+100,"Maltosio (MSE), g",0.0,L,118,3B,"Guava, Raw WATER 84.7g, PROT 0.8g, FAT 0.5g, CHO 5g, SUGAR 4.9g, STARCH 0.1g, MALS 0g"
+101,"Lattosio (MSE), g",0.0,LZ,,,

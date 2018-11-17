@@ -9,45 +9,45 @@
 8,"Energia, Ric con fibra, kJ",1768,86,,,
 9,"Energia, ricalcolata, kcal",417,86,,,
 10,"Energia, Ric con fibra, kcal",417,86,,,
-11,"Proteine totali, g",138,02,71,,
-12,"Proteine animali, g",35,72,71,,
-13,"Proteine vegetali, g",103,72,71,,
-14,"Lipidi totali, g",85,02,71,,
-15,"Lipidi animali, g",40,72,71,,
-16,"Lipidi vegetali, g",45,72,71,,
+11,"Proteine totali, g",13.8,02,71,,
+12,"Proteine animali, g",3.5,72,71,,
+13,"Proteine vegetali, g",10.3,72,71,,
+14,"Lipidi totali, g",8.5,02,71,,
+15,"Lipidi animali, g",4.0,72,71,,
+16,"Lipidi vegetali, g",4.5,72,71,,
 17,"Colesterolo, mg",0,13,03213,,
-18,"Carboidrati disponibili (MSE), g",761,02,71,,
-19,"Amido (MSE), g",404,D,,,
-20,"Carboidrati solubili (MSE), g",357,02,71,,
-21,"Fibra alimentare totale, g",02,13,03213,,"per i nutrienti 13/03213 ALIMENTO SIMILE Babyfood, cookies acqua=5.9g, lip=13.2g, prot=11.8g espressa come fibra alimentare totale"
-22,"Alcol, g",00,02,71,,
-23,"Acqua, g",53,02,71,,
+18,"Carboidrati disponibili (MSE), g",76.1,02,71,,
+19,"Amido (MSE), g",40.4,D,,,
+20,"Carboidrati solubili (MSE), g",35.7,02,71,,
+21,"Fibra alimentare totale, g",0.2,13,03213,,"per i nutrienti 13/03213 ALIMENTO SIMILE Babyfood, cookies acqua=5.9g, lip=13.2g, prot=11.8g espressa come fibra alimentare totale"
+22,"Alcol, g",0.0,02,71,,
+23,"Acqua, g",5.3,02,71,,
 24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-25,"Ferro, mg",09,02,71,,Fe=5.7mg
+25,"Ferro, mg",0.9,02,71,,Fe=5.7mg
 26,"Calcio, mg",22,02,71,,CA=238mg
 27,"Sodio, mg",410,02,71,,
 28,"Potassio, mg",140,02,71,,
 29,"Fosforo, mg",157,02,71,,P=190mg
-30,"Zinco, mg",110,13,03213,,
+30,"Zinco, mg",1.10,13,03213,,
 31,VITAMINE IDROSOLUBILI,,,,,
-32,"Vitamina B1, Tiamina, mg",008,02,71,,B1=0.7mg
-33,"Vitamina B2, Riboflavina, mg",019,02,71,,B2=0.9mg
+32,"Vitamina B1, Tiamina, mg",0.08,02,71,,B1=0.7mg
+33,"Vitamina B2, Riboflavina, mg",0.19,02,71,,B2=0.9mg
 34,"Vitamina C, mg",40,84,,,
-35,"Niacina, mg",050,02,71,,niacina=11mg
-36,"Vitamina B6, mg",060,84,,,
+35,"Niacina, mg",0.50,02,71,,niacina=11mg
+36,"Vitamina B6, mg",0.60,84,,,
 37,"Folati totali, µg",10,13,03213,,
 38,VITAMINE LIPOSOLUBILI,,,,,
 39,Retinolo equivalente,,,,,
 40,"Retinolo eq. (RE), µg",tr,02,71,,
 41,"Retinolo, µg",tr,02,71,,STIMA
 42,"ß-carotene eq., µg",0,02,71,,STIMA
-43,"Vitamina E (ATE), mg",046,13,03213,,
-44,"Vitamina D, µg",250,84,,,in etichetta espressa come U.I. vit D=100
+43,"Vitamina E (ATE), mg",0.46,13,03213,,
+44,"Vitamina D, µg",2.50,84,,,in etichetta espressa come U.I. vit D=100
 45,ACIDI GRASSI,,,,,
-46,"Acidi grassi saturi totali, g",241,13,03213,,RIPR lip=13.2g saturi=3.7g 18:1=7.37g mono=7.38g 18:2=0.99g 18:3=0.04g altri PUFA=0.08g PUFA=1.11g
-47,"Acidi grassi monoinsaturi totali, g",480,13,03213,,
-48,"Acido oleico, g",480,13,03213,,
-49,"Acidi grassi polinsaturi totali, g",072,13,03213,,
-50,"Acido linoleico, g",064,13,03213,,
-51,"Acido linolenico, g",003,13,03213,,
-52,"Altri acidi grassi polinsaturi, g",005,86,,,
+46,"Acidi grassi saturi totali, g",2.41,13,03213,,RIPR lip=13.2g saturi=3.7g 18:1=7.37g mono=7.38g 18:2=0.99g 18:3=0.04g altri PUFA=0.08g PUFA=1.11g
+47,"Acidi grassi monoinsaturi totali, g",4.80,13,03213,,
+48,"Acido oleico, g",4.80,13,03213,,
+49,"Acidi grassi polinsaturi totali, g",0.72,13,03213,,
+50,"Acido linoleico, g",0.64,13,03213,,
+51,"Acido linolenico, g",0.03,13,03213,,
+52,"Altri acidi grassi polinsaturi, g",0.05,86,,,

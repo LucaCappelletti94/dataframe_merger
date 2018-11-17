@@ -9,73 +9,73 @@
 8,"Energia, Ric con fibra, kJ",2546,86,,,
 9,"Energia, ricalcolata, kcal",602,86,,,
 10,"Energia, Ric con fibra, kcal",615,86,,,
-11,"Proteine totali, g",245,L,834,,
-12,"Proteine animali, g",00,LZ,,,
-13,"Proteine vegetali, g",245,L,834,,
-14,"Lipidi totali, g",530,L,834,,
-15,"Lipidi animali, g",00,LZ,,,
-16,"Lipidi vegetali, g",530,L,834,,
+11,"Proteine totali, g",24.5,L,834,,
+12,"Proteine animali, g",0.0,LZ,,,
+13,"Proteine vegetali, g",24.5,L,834,,
+14,"Lipidi totali, g",53.0,L,834,,
+15,"Lipidi animali, g",0.0,LZ,,,
+16,"Lipidi vegetali, g",53.0,L,834,,
 17,"Colesterolo, mg",0,LZ,,,
-18,"Carboidrati disponibili (MSE), g",71,L,834,,
-19,"Amido (MSE), g",33,L,834,,
-20,"Carboidrati solubili (MSE), g",38,L,834,,
-21,"Fibra alimentare totale, g",69,L,834,,"metodo Southgate, metodo Englyst fibra 6.0g"
-22,"Alcol, g",00,LZ,,,
-23,"Acqua, g",19,L,834,,
+18,"Carboidrati disponibili (MSE), g",7.1,L,834,,
+19,"Amido (MSE), g",3.3,L,834,,
+20,"Carboidrati solubili (MSE), g",3.8,L,834,,
+21,"Fibra alimentare totale, g",6.9,L,834,,"metodo Southgate, metodo Englyst fibra 6.0g"
+22,"Alcol, g",0.0,LZ,,,
+23,"Acqua, g",1.9,L,834,,
 24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-25,"Ferro, mg",13,L,834,,
+25,"Ferro, mg",1.3,L,834,,
 26,"Calcio, mg",37,L,834,,
 27,"Sodio, mg",400,L,834,,
 28,"Potassio, mg",810,L,834,,
 29,"Fosforo, mg",410,L,834,,
-30,"Zinco, mg",290,L,834,,
+30,"Zinco, mg",2.90,L,834,,
 31,"Magnesio, mg",180,BF,1020,,
-32,"Rame, mg",054,BF,1020,,
-33,"Selenio, µg",40,BF,1020,,
+32,"Rame, mg",0.54,BF,1020,,
+33,"Selenio, µg",4.0,BF,1020,,
 34,"Cloro, mg",660,BF,1020,,
 35,"Iodio, µg",19,BF,1020,,
-36,"Manganese, mg",190,BF,1020,,
+36,"Manganese, mg",1.90,BF,1020,,
 37,"Zolfo, mg",360,L,834,,
 38,VITAMINE IDROSOLUBILI,,,,,
-39,"Vitamina B1, Tiamina, mg",018,L,834,,
-40,"Vitamina B2, Riboflavina, mg",010,L,834,,
+39,"Vitamina B1, Tiamina, mg",0.18,L,834,,
+40,"Vitamina B2, Riboflavina, mg",0.10,L,834,,
 41,"Vitamina C, mg",0,L,834,,
-42,"Niacina, mg",1360,L,834,,
-43,"Vitamina B6, mg",063,L,834,,
+42,"Niacina, mg",13.60,L,834,,
+43,"Vitamina B6, mg",0.63,L,834,,
 44,"Folati totali, µg",52,L,834,,
-45,"Acido pantotenico, mg",170,BF,1020,,
-46,"Biotina, µg",1020,BF,1020,,
-47,"Vitamina B12, µg",00,LZ,,,
+45,"Acido pantotenico, mg",1.70,BF,1020,,
+46,"Biotina, µg",102.0,BF,1020,,
+47,"Vitamina B12, µg",0.0,LZ,,,
 48,VITAMINE LIPOSOLUBILI,,,,,
 49,Retinolo equivalente,,,,,
 50,"Retinolo eq. (RE), µg",0,L,834,3B,
 51,"Retinolo, µg",0,LZ,,,
 52,"ß-carotene eq., µg",0,L,834,,
-53,"Vitamina E (ATE), mg",066,L,834,,
-54,"Vitamina D, µg",000,LZ,,,
-55,"Vitamina K, µg",031,BF,1019,2,"""Peanuts, dry roasted"" WATER 1.8g, PROT 25.6g, FAT 49.8g, SUGAR 3.8g, STARCH 6.5g"
+53,"Vitamina E (ATE), mg",0.66,L,834,,
+54,"Vitamina D, µg",0.00,LZ,,,
+55,"Vitamina K, µg",0.31,BF,1019,2,"""Peanuts, dry roasted"" WATER 1.8g, PROT 25.6g, FAT 49.8g, SUGAR 3.8g, STARCH 6.5g"
 56,ACIDI GRASSI,,,,,
-57,"Acidi grassi saturi totali, g",756,AO,008500,3A,"Arachidi Tostate WATER 2.3g, PROT 29g, FAT 50g, CHO 8.5g, SUGAR 3.1g, STARCH 4.9g, FASAT 7.13g"
-58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,AO,008500,3A,"Arachidi Tostate WATER 2.3g, PROT 29g, FAT 50g, CHO 8.5g, SUGAR 3.1g, STARCH 4.9g, F4-10:0 0g"
-59,"Acido laurico, g",000,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F12:0 0g"
-60,"Acido miristico, g",024,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F14:0 0,23g"
-61,"Acido palmitico, g",536,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F16:0 5,06g"
-62,"Acido stearico, g",136,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F18:0 1,28g"
-63,"Acido arachidico, g",059,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F20:0 0,56g"
-64,"Acido beenico, g",000,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F22:0 0g"
-65,"Acidi grassi monoinsaturi totali, g",2443,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, FAMS 23,05g"
-66,"Acido miristoleico, g",000,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F14:1CN5 0g"
-67,"Acido palmitoleico, g",000,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F16:1CN7 0g"
-68,"Acido oleico, g",2388,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F18:1 22,53g"
-69,"Acidi eicosenoico, g",055,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F20:1 0,52g"
-70,"Acido erucico, g",000,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F22:1CN9 0g"
-71,"Acidi grassi polinsaturi totali, g",1504,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, FAPU 14,19g"
-72,"Acido linoleico, g",1456,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F18:2 13,74g"
-73,"Acido linolenico, g",048,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F18:3 0,45g"
-74,"Acido arachidonico, g",000,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F20:4N6 0g"
-75,"Acido eicosapentaenoico (EPA), g",000,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F20:5N3 0g"
-76,"Acido decosaesaenoico (DHA), g",000,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F22:6 0g"
-77,"Altri acidi grassi polinsaturi, g",000,86,,,
+57,"Acidi grassi saturi totali, g",7.56,AO,008500,3A,"Arachidi Tostate WATER 2.3g, PROT 29g, FAT 50g, CHO 8.5g, SUGAR 3.1g, STARCH 4.9g, FASAT 7.13g"
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,AO,008500,3A,"Arachidi Tostate WATER 2.3g, PROT 29g, FAT 50g, CHO 8.5g, SUGAR 3.1g, STARCH 4.9g, F4-10:0 0g"
+59,"Acido laurico, g",0.00,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F12:0 0g"
+60,"Acido miristico, g",0.24,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F14:0 0,23g"
+61,"Acido palmitico, g",5.36,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F16:0 5,06g"
+62,"Acido stearico, g",1.36,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F18:0 1,28g"
+63,"Acido arachidico, g",0.59,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F20:0 0,56g"
+64,"Acido beenico, g",0.00,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F22:0 0g"
+65,"Acidi grassi monoinsaturi totali, g",24.43,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, FAMS 23,05g"
+66,"Acido miristoleico, g",0.00,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F14:1CN5 0g"
+67,"Acido palmitoleico, g",0.00,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F16:1CN7 0g"
+68,"Acido oleico, g",23.88,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F18:1 22,53g"
+69,"Acidi eicosenoico, g",0.55,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F20:1 0,52g"
+70,"Acido erucico, g",0.00,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F22:1CN9 0g"
+71,"Acidi grassi polinsaturi totali, g",15.04,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, FAPU 14,19g"
+72,"Acido linoleico, g",14.56,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F18:2 13,74g"
+73,"Acido linolenico, g",0.48,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F18:3 0,45g"
+74,"Acido arachidonico, g",0.00,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F20:4N6 0g"
+75,"Acido eicosapentaenoico (EPA), g",0.00,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F20:5N3 0g"
+76,"Acido decosaesaenoico (DHA), g",0.00,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, F22:6 0g"
+77,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 78,AMINOACIDI,,,,,
 79,"Triptofano, mg",269,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, TRP 318mg"
 80,"Treonina, mg",747,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, THR 884mg"
@@ -96,9 +96,9 @@
 95,"Prolina, mg",1249,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, PRO 1478mg"
 96,"Serina, mg",1206,AO,008500,3A,"Arachidi Tostate WATER 2,3g, PROT 29g, FAT 50g, CHO 8,5g, SUGAR 3,1g, STARCH 4,9g, SER 1428mg"
 97,ZUCCHERI,,,,,
-98,"Glucosio, g",00,BF,1020,,
-99,"Fruttosio, g",00,BF,1020,,
-100,"Galattosio, g",00,LZ,,,
-101,"Saccarosio (MSE), g",38,BF,1020,,
-102,"Maltosio (MSE), g",00,BF,1020,,
-103,"Lattosio (MSE), g",00,BF,1020,,
+98,"Glucosio, g",0.0,BF,1020,,
+99,"Fruttosio, g",0.0,BF,1020,,
+100,"Galattosio, g",0.0,LZ,,,
+101,"Saccarosio (MSE), g",3.8,BF,1020,,
+102,"Maltosio (MSE), g",0.0,BF,1020,,
+103,"Lattosio (MSE), g",0.0,BF,1020,,

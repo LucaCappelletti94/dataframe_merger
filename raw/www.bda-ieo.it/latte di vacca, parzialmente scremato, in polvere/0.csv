@@ -8,72 +8,72 @@
 7,"Energia, Ric con fibra, kJ",1763,86,,,
 8,"Energia, ricalcolata, kcal",418,86,,,
 9,"Energia, Ric con fibra, kcal",418,86,,,
-10,"Proteine totali, g",288,02,1621,,
-11,"Proteine animali, g",288,02,1621,,
-12,"Proteine vegetali, g",00,02,1621,,
-13,"Lipidi totali, g",127,02,1621,,
-14,"Lipidi animali, g",127,02,1621,,
-15,"Lipidi vegetali, g",00,02,1621,,
+10,"Proteine totali, g",28.8,02,1621,,
+11,"Proteine animali, g",28.8,02,1621,,
+12,"Proteine vegetali, g",0.0,02,1621,,
+13,"Lipidi totali, g",12.7,02,1621,,
+14,"Lipidi animali, g",12.7,02,1621,,
+15,"Lipidi vegetali, g",0.0,02,1621,,
 16,"Colesterolo, mg",58,AO,135620,,
-17,"Carboidrati disponibili (MSE), g",502,02,1621,,
-18,"Amido (MSE), g",00,02,1621,,
-19,"Carboidrati solubili (MSE), g",502,02,1621,,
-20,"Fibra alimentare totale, g",00,02,1621,,
-21,"Alcol, g",00,02,1621,,
-22,"Acqua, g",42,02,1621,,
+17,"Carboidrati disponibili (MSE), g",50.2,02,1621,,
+18,"Amido (MSE), g",0.0,02,1621,,
+19,"Carboidrati solubili (MSE), g",50.2,02,1621,,
+20,"Fibra alimentare totale, g",0.0,02,1621,,
+21,"Alcol, g",0.0,02,1621,,
+22,"Acqua, g",4.2,02,1621,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",07,02,1621,,
+24,"Ferro, mg",0.7,02,1621,,
 25,"Calcio, mg",1124,02,1621,,
 26,"Sodio, mg",495,86,,5,"08/30:""Dried skimmed milk"" e 08/32:""""Dried whole milk"", (in nota i valori originari) Na: 550 - 440"
 27,"Potassio, mg",1430,86,,,K=1590 - 1270
 28,"Fosforo, mg",879,02,1621,,
-29,"Zinco, mg",360,86,,5,Zn= 4.0 - 3.2
+29,"Zinco, mg",3.60,86,,5,Zn= 4.0 - 3.2
 30,"Magnesio, mg",107,86,,5,Mg= 130 - 84
 31,"Rame, mg",tr,86,,5,Cu= Tr. - 0.02
-32,"Selenio, µg",95,86,,5,Se= 11 - 8
+32,"Selenio, µg",9.5,86,,5,Se= 11 - 8
 33,"Cloro, mg",940,86,,5,Cl= 1070 - 810
 34,"Iodio, µg",120,08,32,2,"""Dried whole milk"" acqua 2.9, prot 26.3, lip 26.3, GD 39.4"
 35,"Manganese, mg",tr,86,,5,Mn= Tr - Tr
 36,"Zolfo, mg",4,86,,5,S= 4 - 3.2
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",032,02,1621,,
-39,"Vitamina B2, Riboflavina, mg",180,02,1621,,
+38,"Vitamina B1, Tiamina, mg",0.32,02,1621,,
+39,"Vitamina B2, Riboflavina, mg",1.80,02,1621,,
 40,"Vitamina C, mg",6,02,1621,,
-41,"Niacina, mg",080,86,,5,B3= 1.02 - 0.60
-42,"Vitamina B6, mg",054,86,,5,B6= 0.60 - 0.48
+41,"Niacina, mg",0.80,86,,5,B3= 1.02 - 0.60
+42,"Vitamina B6, mg",0.54,86,,5,B6= 0.60 - 0.48
 43,"Folati totali, µg",49,86,,5,Fol.= 51 - 46
-44,"Acido pantotenico, mg",304,86,,5,Mn= Tr - Tr
-45,"Biotina, µg",170,86,,5,"Biot= 20,1 - 13,9"
-46,"Vitamina B12, µg",25,86,,5,"B12= 2,6 - 2,4"
+44,"Acido pantotenico, mg",3.04,86,,5,Mn= Tr - Tr
+45,"Biotina, µg",17.0,86,,5,"Biot= 20,1 - 13,9"
+46,"Vitamina B12, µg",2.5,86,,5,"B12= 2,6 - 2,4"
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",164,86,,3B,In tab INN RE=201mcg
 50,"Retinolo, µg",149,86,,5,Ret= 8 - 290
 51,"ß-carotene eq., µg",87,86,,5,Carot=3 - 170
-52,"Vitamina E (ATE), mg",031,86,,5,Vit E= 0.01 - 0.61
-53,"Vitamina D, µg",012,86,,5,tracce - 0.24
+52,"Vitamina E (ATE), mg",0.31,86,,5,Vit E= 0.01 - 0.61
+53,"Vitamina D, µg",0.12,86,,5,tracce - 0.24
 54,ACIDI GRASSI,,,,,
-55,"Acidi grassi saturi totali, g",754,AO,135020,3B,"Latte vacca, pastorizzato, parzialmente scremato lip 1.5AcGrSaturiTot0.89, SommaAcButirrico,caproico,caprilico,caprico0.01, AcLaurico0.05, AcMiristico0.17, AcPalmitico0.45, AcStearico0.21, AcArachidico0, AcBeenico0, AcGrMonoinsaturiTot0.47, AcMiristoleico0, AcPalmitoleico0.04, AcOleico0.43, AcEicosenoico0, AcErucico0, AcGrPolinstauriTot0.08, AcLinoleico0.05, AcLinolenico0.03, AcArachidonico0, AcEicosapentaenoico(EPA)0, AcDecosaesaenoico(DHA)0, AltriAcGrPolinsaturi"
-56,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",009,AO,135020,3B,
-57,"Acido laurico, g",042,AO,135020,3B,
-58,"Acido miristico, g",144,AO,135020,3B,
-59,"Acido palmitico, g",381,AO,135020,3B,
-60,"Acido stearico, g",178,AO,135020,3B,
-61,"Acido arachidico, g",000,AO,135020,3B,
-62,"Acido beenico, g",000,AO,135020,3B,
-63,"Acidi grassi monoinsaturi totali, g",398,AO,135020,3B,
-64,"Acido miristoleico, g",000,AO,135020,3B,
-65,"Acido palmitoleico, g",034,AO,135020,3B,
-66,"Acido oleico, g",364,AO,135020,3B,
-67,"Acidi eicosenoico, g",000,AO,135020,3B,
-68,"Acido erucico, g",000,AO,135020,3B,
-69,"Acidi grassi polinsaturi totali, g",068,AO,135020,3B,
-70,"Acido linoleico, g",042,AO,135020,3B,
-71,"Acido linolenico, g",025,AO,135020,3B,
-72,"Acido arachidonico, g",000,AO,135020,3B,
-73,"Acido eicosapentaenoico (EPA), g",000,AO,135020,3B,
-74,"Acido decosaesaenoico (DHA), g",000,AO,135020,3B,
-75,"Altri acidi grassi polinsaturi, g",000,86,,,
+55,"Acidi grassi saturi totali, g",7.54,AO,135020,3B,"Latte vacca, pastorizzato, parzialmente scremato lip 1.5AcGrSaturiTot0.89, SommaAcButirrico,caproico,caprilico,caprico0.01, AcLaurico0.05, AcMiristico0.17, AcPalmitico0.45, AcStearico0.21, AcArachidico0, AcBeenico0, AcGrMonoinsaturiTot0.47, AcMiristoleico0, AcPalmitoleico0.04, AcOleico0.43, AcEicosenoico0, AcErucico0, AcGrPolinstauriTot0.08, AcLinoleico0.05, AcLinolenico0.03, AcArachidonico0, AcEicosapentaenoico(EPA)0, AcDecosaesaenoico(DHA)0, AltriAcGrPolinsaturi"
+56,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.09,AO,135020,3B,
+57,"Acido laurico, g",0.42,AO,135020,3B,
+58,"Acido miristico, g",1.44,AO,135020,3B,
+59,"Acido palmitico, g",3.81,AO,135020,3B,
+60,"Acido stearico, g",1.78,AO,135020,3B,
+61,"Acido arachidico, g",0.00,AO,135020,3B,
+62,"Acido beenico, g",0.00,AO,135020,3B,
+63,"Acidi grassi monoinsaturi totali, g",3.98,AO,135020,3B,
+64,"Acido miristoleico, g",0.00,AO,135020,3B,
+65,"Acido palmitoleico, g",0.34,AO,135020,3B,
+66,"Acido oleico, g",3.64,AO,135020,3B,
+67,"Acidi eicosenoico, g",0.00,AO,135020,3B,
+68,"Acido erucico, g",0.00,AO,135020,3B,
+69,"Acidi grassi polinsaturi totali, g",0.68,AO,135020,3B,
+70,"Acido linoleico, g",0.42,AO,135020,3B,
+71,"Acido linolenico, g",0.25,AO,135020,3B,
+72,"Acido arachidonico, g",0.00,AO,135020,3B,
+73,"Acido eicosapentaenoico (EPA), g",0.00,AO,135020,3B,
+74,"Acido decosaesaenoico (DHA), g",0.00,AO,135020,3B,
+75,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 76,AMINOACIDI,,,,,
 77,"Triptofano, mg",436,AA,135010,3A,"""Latte di vacca intero"" prot. orig.3.3,trypto50, threon164, isoleu192, leucine355, lysine272, methion81, cystine37, phenilal176, tyrosine142, valine233, arginine105, histidine93, alanine119, aspart ac269, glutam ac771, glycine70, proline371, serine203"
 78,"Treonina, mg",1431,AA,135010,,
@@ -94,9 +94,9 @@
 93,"Prolina, mg",3238,AA,135010,,
 94,"Serina, mg",1772,AA,135010,,
 95,ZUCCHERI,,,,,
-96,"Glucosio, g",00,08,32,3A,
-97,"Fruttosio, g",00,08,32,3A,
-98,"Galattosio, g",00,08,32,3A,
-99,"Saccarosio (MSE), g",00,08,32,3A,
-100,"Maltosio (MSE), g",00,08,32,3A,
-101,"Lattosio (MSE), g",502,08,32,3A,"Latt= 39,4g"
+96,"Glucosio, g",0.0,08,32,3A,
+97,"Fruttosio, g",0.0,08,32,3A,
+98,"Galattosio, g",0.0,08,32,3A,
+99,"Saccarosio (MSE), g",0.0,08,32,3A,
+100,"Maltosio (MSE), g",0.0,08,32,3A,
+101,"Lattosio (MSE), g",50.2,08,32,3A,"Latt= 39,4g"

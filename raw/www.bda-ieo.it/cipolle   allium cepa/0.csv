@@ -8,45 +8,45 @@
 7,"Energia, Ric con fibra, kJ",121,86,,,
 8,"Energia, ricalcolata, kcal",26,86,,,
 9,"Energia, Ric con fibra, kcal",28,86,,,
-10,"Proteine totali, g",10,02,322,,
-11,"Proteine animali, g",00,02,322,,
-12,"Proteine vegetali, g",10,02,322,,
-13,"Lipidi totali, g",01,02,322,,
-14,"Lipidi animali, g",00,02,322,,
-15,"Lipidi vegetali, g",01,02,322,,
+10,"Proteine totali, g",1.0,02,322,,
+11,"Proteine animali, g",0.0,02,322,,
+12,"Proteine vegetali, g",1.0,02,322,,
+13,"Lipidi totali, g",0.1,02,322,,
+14,"Lipidi animali, g",0.0,02,322,,
+15,"Lipidi vegetali, g",0.1,02,322,,
 16,"Colesterolo, mg",0,02,322,,
-17,"Carboidrati disponibili (MSE), g",57,02,322,,
-18,"Amido (MSE), g",00,02,322,,
-19,"Carboidrati solubili (MSE), g",57,02,322,,
-20,"Fibra alimentare totale, g",11,02,322,,
-21,"Alcol, g",00,02,322,,
-22,"Acqua, g",921,02,322,,
+17,"Carboidrati disponibili (MSE), g",5.7,02,322,,
+18,"Amido (MSE), g",0.0,02,322,,
+19,"Carboidrati solubili (MSE), g",5.7,02,322,,
+20,"Fibra alimentare totale, g",1.1,02,322,,
+21,"Alcol, g",0.0,02,322,,
+22,"Acqua, g",92.1,02,322,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",04,02,322,,
+24,"Ferro, mg",0.4,02,322,,
 25,"Calcio, mg",25,02,322,,
 26,"Sodio, mg",10,02,322,,
 27,"Potassio, mg",140,02,322,,
 28,"Fosforo, mg",35,02,322,,
-29,"Zinco, mg",030,03,6022,,RIPR Zn=0.3mg acqua=93g
+29,"Zinco, mg",0.30,03,6022,,RIPR Zn=0.3mg acqua=93g
 30,VITAMINE IDROSOLUBILI,,,,,
-31,"Vitamina B1, Tiamina, mg",002,02,322,,
-32,"Vitamina B2, Riboflavina, mg",003,02,322,,
+31,"Vitamina B1, Tiamina, mg",0.02,02,322,,
+32,"Vitamina B2, Riboflavina, mg",0.03,02,322,,
 33,"Vitamina C, mg",5,02,322,,
-34,"Niacina, mg",050,02,322,,
-35,"Vitamina B6, mg",014,09,304,,per i nutrienti 09/304 RIPR acqua=89g vitB6=0.20mg
+34,"Niacina, mg",0.50,02,322,,
+35,"Vitamina B6, mg",0.14,09,304,,per i nutrienti 09/304 RIPR acqua=89g vitB6=0.20mg
 36,"Folati totali, µg",12,09,304,,folati=17mg
 37,VITAMINE LIPOSOLUBILI,,,,,
 38,Retinolo equivalente,,,,,
 39,"Retinolo eq. (RE), µg",0,02,322,,
 40,"Retinolo, µg",0,02,322,,
 41,"ß-carotene eq., µg",0,02,322,,
-42,"Vitamina E (ATE), mg",022,09,304,,vitE = 0.31mg
-43,"Vitamina D, µg",000,02,322,,
+42,"Vitamina E (ATE), mg",0.22,09,304,,vitE = 0.31mg
+43,"Vitamina D, µg",0.00,02,322,,
 44,ACIDI GRASSI,,,,,
-45,"Acidi grassi saturi totali, g",002,21,11282,,"RIPR: lip.=0.16g saturi tot=0.026g 18:1=0.023g mono=0.023g 18:2=0.059g 18:3=0.003g altri PUFA=0 PUFA=0.062g EPIC: fonte 21, saturi = 0.02g"
-46,"Acidi grassi monoinsaturi totali, g",001,21,11282,,"EPIC: fonte 21, monoinsaturi = 0.01g"
-47,"Acido oleico, g",001,21,11282,,
-48,"Acidi grassi polinsaturi totali, g",003,21,11282,,"EPIC: fonte 21, polinsaturi = 0.04g"
-49,"Acido linoleico, g",003,21,11282,,
+45,"Acidi grassi saturi totali, g",0.02,21,11282,,"RIPR: lip.=0.16g saturi tot=0.026g 18:1=0.023g mono=0.023g 18:2=0.059g 18:3=0.003g altri PUFA=0 PUFA=0.062g EPIC: fonte 21, saturi = 0.02g"
+46,"Acidi grassi monoinsaturi totali, g",0.01,21,11282,,"EPIC: fonte 21, monoinsaturi = 0.01g"
+47,"Acido oleico, g",0.01,21,11282,,
+48,"Acidi grassi polinsaturi totali, g",0.03,21,11282,,"EPIC: fonte 21, polinsaturi = 0.04g"
+49,"Acido linoleico, g",0.03,21,11282,,
 50,"Acido linolenico, g",tr,21,11282,,
-51,"Altri acidi grassi polinsaturi, g",000,86,,,
+51,"Altri acidi grassi polinsaturi, g",0.00,86,,,

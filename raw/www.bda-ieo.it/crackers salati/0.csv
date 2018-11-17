@@ -8,45 +8,45 @@
 7,"Energia, Ric con fibra, kJ",1834,86,,,
 8,"Energia, ricalcolata, kcal",428,86,,,
 9,"Energia, Ric con fibra, kcal",434,86,,,
-10,"Proteine totali, g",94,02,78,,
-11,"Proteine animali, g",00,02,78,,"STIMA si considerano le indicazioni dell'alimento Crackers regular, fonte 18 cod 18229"
-12,"Proteine vegetali, g",94,02,78,,STIMA
-13,"Lipidi totali, g",100,02,78,,
-14,"Lipidi animali, g",00,02,78,,STIMA
-15,"Lipidi vegetali, g",100,02,78,,STIMA
+10,"Proteine totali, g",9.4,02,78,,
+11,"Proteine animali, g",0.0,02,78,,"STIMA si considerano le indicazioni dell'alimento Crackers regular, fonte 18 cod 18229"
+12,"Proteine vegetali, g",9.4,02,78,,STIMA
+13,"Lipidi totali, g",10.0,02,78,,
+14,"Lipidi animali, g",0.0,02,78,,STIMA
+15,"Lipidi vegetali, g",10.0,02,78,,STIMA
 16,"Colesterolo, mg",0,18,18229,,"ALIMENTO SIMILE Crackers standard acqua=3.5g, lip=25.3g nota USDA: composizione relativa a prodotti con olio di soia parzialmente idrogenato"
-17,"Carboidrati disponibili (MSE), g",801,02,78,,
-18,"Amido (MSE), g",775,D,,,
-19,"Carboidrati solubili (MSE), g",26,03,4007,,RIPR GD=75.8g GS=2.5g
-20,"Fibra alimentare totale, g",28,02,78,,
-21,"Alcol, g",00,02,78,,
-22,"Acqua, g",60,02,78,,
+17,"Carboidrati disponibili (MSE), g",80.1,02,78,,
+18,"Amido (MSE), g",77.5,D,,,
+19,"Carboidrati solubili (MSE), g",2.6,03,4007,,RIPR GD=75.8g GS=2.5g
+20,"Fibra alimentare totale, g",2.8,02,78,,
+21,"Alcol, g",0.0,02,78,,
+22,"Acqua, g",6.0,02,78,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",17,07,167,,
+24,"Ferro, mg",1.7,07,167,,
 25,"Calcio, mg",110,07,167,,
 26,"Sodio, mg",879,84,,,"media dei valori di tre etichette nutrizionali (maggio 1997): Buitoni NA=900mg, Mulino Bianco=786mg, COOP=950mg"
 27,"Potassio, mg",120,07,167,,"per i nutrienti 07/157 ALIMENTO SIMILE Cream crackers acqua=4.3g, lip=16.3g"
 28,"Fosforo, mg",110,07,167,,
-29,"Zinco, mg",070,07,167,,
+29,"Zinco, mg",0.70,07,167,,
 30,VITAMINE IDROSOLUBILI,,,,,
-31,"Vitamina B1, Tiamina, mg",023,07,167,,
-32,"Vitamina B2, Riboflavina, mg",005,07,167,,
+31,"Vitamina B1, Tiamina, mg",0.23,07,167,,
+32,"Vitamina B2, Riboflavina, mg",0.05,07,167,,
 33,"Vitamina C, mg",0,07,167,,
-34,"Niacina, mg",170,07,167,,
-35,"Vitamina B6, mg",012,07,167,,
+34,"Niacina, mg",1.70,07,167,,
+35,"Vitamina B6, mg",0.12,07,167,,
 36,"Folati totali, µg",22,07,167,,
 37,VITAMINE LIPOSOLUBILI,,,,,
 38,Retinolo equivalente,,,,,
 39,"Retinolo eq. (RE), µg",0,07,167,,
 40,"Retinolo, µg",0,07,167,,CALC
 41,"ß-carotene eq., µg",0,07,167,,CALC
-42,"Vitamina E (ATE), mg",130,07,167,,
-43,"Vitamina D, µg",000,07,167,,
+42,"Vitamina E (ATE), mg",1.30,07,167,,
+43,"Vitamina D, µg",0.00,07,167,,
 44,ACIDI GRASSI,,,,,
-45,"Acidi grassi saturi totali, g",192,18,18229,,"RIPR riferito a Crackers, standard type, regular lip=25.3g saturi=4.852g 18:1=10.585g mono=10.775g 18:2=7.707g 18:3=0.575g altri PUFA=0 PUFA=8.282g"
-46,"Acidi grassi monoinsaturi totali, g",426,18,18229,,
-47,"Acido oleico, g",418,18,18229,,
-48,"Acidi grassi polinsaturi totali, g",327,18,18229,,
-49,"Acido linoleico, g",305,18,18229,,
-50,"Acido linolenico, g",023,18,18229,,
-51,"Altri acidi grassi polinsaturi, g",000,86,,,
+45,"Acidi grassi saturi totali, g",1.92,18,18229,,"RIPR riferito a Crackers, standard type, regular lip=25.3g saturi=4.852g 18:1=10.585g mono=10.775g 18:2=7.707g 18:3=0.575g altri PUFA=0 PUFA=8.282g"
+46,"Acidi grassi monoinsaturi totali, g",4.26,18,18229,,
+47,"Acido oleico, g",4.18,18,18229,,
+48,"Acidi grassi polinsaturi totali, g",3.27,18,18229,,
+49,"Acido linoleico, g",3.05,18,18229,,
+50,"Acido linolenico, g",0.23,18,18229,,
+51,"Altri acidi grassi polinsaturi, g",0.00,86,,,

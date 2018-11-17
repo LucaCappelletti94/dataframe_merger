@@ -8,73 +8,73 @@
 7,"Energia, Ric con fibra, kJ",981,86,,,
 8,"Energia, ricalcolata, kcal",231,86,,,
 9,"Energia, Ric con fibra, kcal",238,86,,,
-10,"Proteine totali, g",44,02,429,,
-11,"Proteine animali, g",00,LZ,,,
-12,"Proteine vegetali, g",44,02,429,,
-13,"Lipidi totali, g",230,02,429,,
-14,"Lipidi animali, g",00,LZ,,,
-15,"Lipidi vegetali, g",230,02,429,,
+10,"Proteine totali, g",4.4,02,429,,
+11,"Proteine animali, g",0.0,LZ,,,
+12,"Proteine vegetali, g",4.4,02,429,,
+13,"Lipidi totali, g",23.0,02,429,,
+14,"Lipidi animali, g",0.0,LZ,,,
+15,"Lipidi vegetali, g",23.0,02,429,,
 16,"Colesterolo, mg",0,LZ,,,
-17,"Carboidrati disponibili (MSE), g",18,02,429,,
+17,"Carboidrati disponibili (MSE), g",1.8,02,429,,
 18,"Amido (MSE), g",tr,02,429,,
-19,"Carboidrati solubili (MSE), g",18,02,429,,
-20,"Fibra alimentare totale, g",33,02,429,,
-21,"Alcol, g",00,LZ,,,
-22,"Acqua, g",640,02,429,,
+19,"Carboidrati solubili (MSE), g",1.8,02,429,,
+20,"Fibra alimentare totale, g",3.3,02,429,,
+21,"Alcol, g",0.0,LZ,,,
+22,"Acqua, g",64.0,02,429,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",06,02,429,,
+24,"Ferro, mg",0.6,02,429,,
 25,"Calcio, mg",13,02,429,,
 26,"Sodio, mg",2,02,429,,
 27,"Potassio, mg",450,02,429,,
 28,"Fosforo, mg",44,02,429,,
-29,"Zinco, mg",040,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
+29,"Zinco, mg",0.40,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
 30,"Magnesio, mg",25,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
-31,"Rame, mg",019,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
+31,"Rame, mg",0.19,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
 32,"Selenio, µg",tr,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
 33,"Cloro, mg",6,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
 34,"Iodio, µg",2,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
-35,"Manganese, mg",020,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
+35,"Manganese, mg",0.20,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
 36,"Zolfo, mg",19,L,37,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",009,02,429,,
-39,"Vitamina B2, Riboflavina, mg",012,02,429,,
+38,"Vitamina B1, Tiamina, mg",0.09,02,429,,
+39,"Vitamina B2, Riboflavina, mg",0.12,02,429,,
 40,"Vitamina C, mg",18,02,429,,
-41,"Niacina, mg",110,02,429,,
-42,"Vitamina B6, mg",036,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
+41,"Niacina, mg",1.10,02,429,,
+42,"Vitamina B6, mg",0.36,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
 43,"Folati totali, µg",11,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
-44,"Acido pantotenico, mg",110,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
-45,"Biotina, µg",36,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
-46,"Vitamina B12, µg",00,LZ,,,
+44,"Acido pantotenico, mg",1.10,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
+45,"Biotina, µg",3.6,BF,927,6B,"""Avocado, average"" WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g"
+46,"Vitamina B12, µg",0.0,LZ,,,
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",14,02,429,,
 50,"Retinolo, µg",0,LZ,,,
 51,"ß-carotene eq., µg",84,02,429,3B,
-52,"Vitamina E (ATE), mg",640,AO,007490,,
-53,"Vitamina D, µg",000,LZ,,,
-54,"Vitamina K, µg",2100,DI,09037,2,"""Avocados, raw, all commercial varieties"" WATER 73.23g, PROT 2g, FAT 14.66g, CHO 8.53g, SUGAR 0.66g"
+52,"Vitamina E (ATE), mg",6.40,AO,007490,,
+53,"Vitamina D, µg",0.00,LZ,,,
+54,"Vitamina K, µg",21.00,DI,09037,2,"""Avocados, raw, all commercial varieties"" WATER 73.23g, PROT 2g, FAT 14.66g, CHO 8.53g, SUGAR 0.66g"
 55,ACIDI GRASSI,,,,,
-56,"Acidi grassi saturi totali, g",248,AO,007490,,
-57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,86,,,
-58,"Acido laurico, g",000,AO,007490,,
-59,"Acido miristico, g",000,AO,007490,,
-60,"Acido palmitico, g",248,AO,007490,,
-61,"Acido stearico, g",000,AO,007490,,
-62,"Acido arachidico, g",000,AO,007490,,
-63,"Acido beenico, g",000,AO,007490,,
-64,"Acidi grassi monoinsaturi totali, g",1833,AO,007490,,
-65,"Acido miristoleico, g",000,AO,007490,,
-66,"Acido palmitoleico, g",075,AO,007490,,
-67,"Acido oleico, g",1757,AO,007490,,
-68,"Acidi eicosenoico, g",000,AO,007490,,
-69,"Acido erucico, g",000,AO,007490,,
-70,"Acidi grassi polinsaturi totali, g",145,AO,007490,,
-71,"Acido linoleico, g",133,AO,007490,,
-72,"Acido linolenico, g",009,AO,007490,,
-73,"Acido arachidonico, g",002,AO,007490,,
-74,"Acido eicosapentaenoico (EPA), g",000,AO,007490,,
-75,"Acido decosaesaenoico (DHA), g",000,AO,007490,,
-76,"Altri acidi grassi polinsaturi, g",001,86,,,
+56,"Acidi grassi saturi totali, g",2.48,AO,007490,,
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,86,,,
+58,"Acido laurico, g",0.00,AO,007490,,
+59,"Acido miristico, g",0.00,AO,007490,,
+60,"Acido palmitico, g",2.48,AO,007490,,
+61,"Acido stearico, g",0.00,AO,007490,,
+62,"Acido arachidico, g",0.00,AO,007490,,
+63,"Acido beenico, g",0.00,AO,007490,,
+64,"Acidi grassi monoinsaturi totali, g",18.33,AO,007490,,
+65,"Acido miristoleico, g",0.00,AO,007490,,
+66,"Acido palmitoleico, g",0.75,AO,007490,,
+67,"Acido oleico, g",17.57,AO,007490,,
+68,"Acidi eicosenoico, g",0.00,AO,007490,,
+69,"Acido erucico, g",0.00,AO,007490,,
+70,"Acidi grassi polinsaturi totali, g",1.45,AO,007490,,
+71,"Acido linoleico, g",1.33,AO,007490,,
+72,"Acido linolenico, g",0.09,AO,007490,,
+73,"Acido arachidonico, g",0.02,AO,007490,,
+74,"Acido eicosapentaenoico (EPA), g",0.00,AO,007490,,
+75,"Acido decosaesaenoico (DHA), g",0.00,AO,007490,,
+76,"Altri acidi grassi polinsaturi, g",0.01,86,,,
 77,AMINOACIDI,,,,,
 78,"Triptofano, mg",55,DI,09037,3B,"Avocados, Raw, All Commercial Varieties WATER 73.23g, PROT 2g, FAT 14.66g, CHO 1.83g, TRP 0.025g"
 79,"Treonina, mg",161,DI,09037,3B,"Avocados, Raw, All Commercial Varieties WATER 73.23g, PROT 2g, FAT 14.66g, CHO 1.83g, SUGAR 0.66g, THR 0.073g"
@@ -95,9 +95,9 @@
 94,"Prolina, mg",216,DI,09037,3B,"Avocados, Raw, All Commercial Varieties WATER 73.23g, PROT 2g, FAT 14.66g, CHO 1.83g, SUGAR 0.66g, STARCH 0.11g, PRO 0.098g"
 95,"Serina, mg",251,DI,09037,3B,"Avocados, Raw, All Commercial Varieties WATER 73.23g, PROT 2g, FAT 14.66g, CHO 1.83g, SUGAR 0.66g, STARCH 0.11g, SER 0.114g"
 96,ZUCCHERI,,,,,
-97,"Glucosio, g",11,BF,927,3B,"Avocado, Average WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g, STARCH TRg, GLUS 0.3g"
-98,"Fruttosio, g",04,BF,927,3B,"Avocado, Average WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g, STARCH TRg, FRUS 0.1g"
-99,"Galattosio, g",00,LZ,,,
-100,"Saccarosio (MSE), g",04,BF,927,3B,"Avocado, Average WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g, STARCH TRg, SUCS 0.1g"
-101,"Maltosio (MSE), g",00,BF,927,3B,"Avocado, Average WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g, STARCH TRg, MALS 0g"
-102,"Lattosio (MSE), g",00,LZ,,,
+97,"Glucosio, g",1.1,BF,927,3B,"Avocado, Average WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g, STARCH TRg, GLUS 0.3g"
+98,"Fruttosio, g",0.4,BF,927,3B,"Avocado, Average WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g, STARCH TRg, FRUS 0.1g"
+99,"Galattosio, g",0.0,LZ,,,
+100,"Saccarosio (MSE), g",0.4,BF,927,3B,"Avocado, Average WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g, STARCH TRg, SUCS 0.1g"
+101,"Maltosio (MSE), g",0.0,BF,927,3B,"Avocado, Average WATER 72.5g, PROT 1.9g, FAT 19.5g, CHO 1.9g, SUGAR 0.5g, STARCH TRg, MALS 0g"
+102,"Lattosio (MSE), g",0.0,LZ,,,

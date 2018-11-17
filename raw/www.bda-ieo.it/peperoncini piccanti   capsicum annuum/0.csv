@@ -8,45 +8,45 @@
 7,"Energia, Ric con fibra, kJ",125,86,,,
 8,"Energia, ricalcolata, kcal",26,86,,,
 9,"Energia, Ric con fibra, kcal",30,86,,,
-10,"Proteine totali, g",18,02,335,,
-11,"Proteine animali, g",00,02,335,,
-12,"Proteine vegetali, g",18,02,335,,
-13,"Lipidi totali, g",05,02,335,,
-14,"Lipidi animali, g",00,02,335,,
-15,"Lipidi vegetali, g",05,02,335,,
+10,"Proteine totali, g",1.8,02,335,,
+11,"Proteine animali, g",0.0,02,335,,
+12,"Proteine vegetali, g",1.8,02,335,,
+13,"Lipidi totali, g",0.5,02,335,,
+14,"Lipidi animali, g",0.0,02,335,,
+15,"Lipidi vegetali, g",0.5,02,335,,
 16,"Colesterolo, mg",0,02,335,,
-17,"Carboidrati disponibili (MSE), g",38,02,335,,
-18,"Amido (MSE), g",23,D,,,
-19,"Carboidrati solubili (MSE), g",15,02,335,,
-20,"Fibra alimentare totale, g",19,02,336,,ALIMENTO SIMILE Peperoni dolci acqua=92.3g
-21,"Alcol, g",00,02,335,,
-22,"Acqua, g",878,02,335,,
+17,"Carboidrati disponibili (MSE), g",3.8,02,335,,
+18,"Amido (MSE), g",2.3,D,,,
+19,"Carboidrati solubili (MSE), g",1.5,02,335,,
+20,"Fibra alimentare totale, g",1.9,02,336,,ALIMENTO SIMILE Peperoni dolci acqua=92.3g
+21,"Alcol, g",0.0,02,335,,
+22,"Acqua, g",87.8,02,335,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",05,02,335,,
+24,"Ferro, mg",0.5,02,335,,
 25,"Calcio, mg",18,02,335,,
 26,"Sodio, mg",11,09,317,,per i nutrienti 09/317 RIPR acqua=86.4g Na=12mg
 27,"Potassio, mg",395,09,317,,K=440mg
 28,"Fosforo, mg",18,02,335,,
-29,"Zinco, mg",027,09,317,,Zn=0.3mg
+29,"Zinco, mg",0.27,09,317,,Zn=0.3mg
 30,VITAMINE IDROSOLUBILI,,,,,
-31,"Vitamina B1, Tiamina, mg",009,02,335,,
-32,"Vitamina B2, Riboflavina, mg",023,02,335,,
+31,"Vitamina B1, Tiamina, mg",0.09,02,335,,
+32,"Vitamina B2, Riboflavina, mg",0.23,02,335,,
 33,"Vitamina C, mg",229,02,335,,
-34,"Niacina, mg",300,02,335,,
-35,"Vitamina B6, mg",025,09,317,,vitB6=0.28mg
+34,"Niacina, mg",3.00,02,335,,
+35,"Vitamina B6, mg",0.25,09,317,,vitB6=0.28mg
 36,"Folati totali, µg",21,09,317,,folati=23mg
 37,VITAMINE LIPOSOLUBILI,,,,,
 38,Retinolo equivalente,,,,,
 39,"Retinolo eq. (RE), µg",824,02,335,,
 40,"Retinolo, µg",0,02,335,,
 41,"ß-carotene eq., µg",4944,02,335,,CALC
-42,"Vitamina E (ATE), mg",080,09,320,,"Alimento simile Peppers, red, raw acqua=90.4g"
-43,"Vitamina D, µg",000,02,335,,
+42,"Vitamina E (ATE), mg",0.80,09,320,,"Alimento simile Peppers, red, raw acqua=90.4g"
+43,"Vitamina D, µg",0.00,02,335,,
 44,ACIDI GRASSI,,,,,
-45,"Acidi grassi saturi totali, g",009,05,3634,,"CALC AG riferito a Peppers, green FC=0.8 saturi=22.7 18:1=7.3 mono=7.8 18:2=56.3 18:3=12 altri PUFA=0 PUFA=68.3g"
-46,"Acidi grassi monoinsaturi totali, g",003,05,3634,,
-47,"Acido oleico, g",003,05,3634,,
-48,"Acidi grassi polinsaturi totali, g",027,05,3634,,
-49,"Acido linoleico, g",023,05,3634,,
-50,"Acido linolenico, g",005,05,3634,,
-51,"Altri acidi grassi polinsaturi, g",000,86,,,
+45,"Acidi grassi saturi totali, g",0.09,05,3634,,"CALC AG riferito a Peppers, green FC=0.8 saturi=22.7 18:1=7.3 mono=7.8 18:2=56.3 18:3=12 altri PUFA=0 PUFA=68.3g"
+46,"Acidi grassi monoinsaturi totali, g",0.03,05,3634,,
+47,"Acido oleico, g",0.03,05,3634,,
+48,"Acidi grassi polinsaturi totali, g",0.27,05,3634,,
+49,"Acido linoleico, g",0.23,05,3634,,
+50,"Acido linolenico, g",0.05,05,3634,,
+51,"Altri acidi grassi polinsaturi, g",0.00,86,,,

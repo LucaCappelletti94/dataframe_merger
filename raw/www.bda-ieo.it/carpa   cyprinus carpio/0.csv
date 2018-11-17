@@ -8,69 +8,69 @@
 7,"Energia, Ric con fibra, kJ",584,86,,,
 8,"Energia, ricalcolata, kcal",140,86,,,
 9,"Energia, Ric con fibra, kcal",140,86,,,
-10,"Proteine totali, g",189,02,1305,,
-11,"Proteine animali, g",189,02,1305,,
-12,"Proteine vegetali, g",00,02,1305,,
-13,"Lipidi totali, g",71,02,1305,,
-14,"Lipidi animali, g",71,02,1305,,
-15,"Lipidi vegetali, g",00,02,1305,,
+10,"Proteine totali, g",18.9,02,1305,,
+11,"Proteine animali, g",18.9,02,1305,,
+12,"Proteine vegetali, g",0.0,02,1305,,
+13,"Lipidi totali, g",7.1,02,1305,,
+14,"Lipidi animali, g",7.1,02,1305,,
+15,"Lipidi vegetali, g",0.0,02,1305,,
 16,"Colesterolo, mg",70,03,2613,6,"""Carpa"" acqua 72g, prot 15.8g, lip 6.8g"
-17,"Carboidrati disponibili (MSE), g",00,02,1305,,
-18,"Amido (MSE), g",00,02,1305,,
-19,"Carboidrati solubili (MSE), g",00,02,1305,,
-20,"Fibra alimentare totale, g",00,02,1305,,
-21,"Alcol, g",00,02,1305,,
-22,"Acqua, g",724,02,1305,,
+17,"Carboidrati disponibili (MSE), g",0.0,02,1305,,
+18,"Amido (MSE), g",0.0,02,1305,,
+19,"Carboidrati solubili (MSE), g",0.0,02,1305,,
+20,"Fibra alimentare totale, g",0.0,02,1305,,
+21,"Alcol, g",0.0,02,1305,,
+22,"Acqua, g",72.4,02,1305,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",10,02,1305,,
+24,"Ferro, mg",1.0,02,1305,,
 25,"Calcio, mg",34,02,1305,,
 26,"Sodio, mg",50,02,1305,,
 27,"Potassio, mg",286,02,1305,,
 28,"Fosforo, mg",220,02,1305,,
-29,"Zinco, mg",170,25,15008,1,"""Carp, raw""acqua 76.31g, lip 5.6g, prot 17.83g, Zn 1.48g"
+29,"Zinco, mg",1.70,25,15008,1,"""Carp, raw""acqua 76.31g, lip 5.6g, prot 17.83g, Zn 1.48g"
 30,"Magnesio, mg",44,G,172,1,"""Carp, raw"" acqua 77,3g, lip 4,7g, prot 17,5g, Mg 36mg"
-31,"Rame, mg",007,G,172,1,"Cu 0,06mg"
-32,"Selenio, µg",340,G,172,1,Se 28µg
+31,"Rame, mg",0.07,G,172,1,"Cu 0,06mg"
+32,"Selenio, µg",34.0,G,172,1,Se 28µg
 33,"Cloro, mg",45,G,172,1,Cl 37mg
 34,"Iodio, µg",13,G,225,2,"""Trout rainbow"" acqua=76.7g, lip=5.2g"
-35,"Manganese, mg",005,G,172,1,"Mn 0,04"
+35,"Manganese, mg",0.05,G,172,1,"Mn 0,04"
 36,"Zolfo, mg",220,Y,7160,2,"""Bream"" acqua 77g, prot 16.7g, lip 4g."
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",007,02,1305,,
-39,"Vitamina B2, Riboflavina, mg",004,02,1305,,
+38,"Vitamina B1, Tiamina, mg",0.07,02,1305,,
+39,"Vitamina B2, Riboflavina, mg",0.04,02,1305,,
 40,"Vitamina C, mg",1,02,1305,,
-41,"Niacina, mg",150,02,1305,,
-42,"Vitamina B6, mg",022,25,15008,1,vitB6=0.19mg
+41,"Niacina, mg",1.50,02,1305,,
+42,"Vitamina B6, mg",0.22,25,15008,1,vitB6=0.19mg
 43,"Folati totali, µg",17,25,15008,1,folacina=15mcg
-44,"Acido pantotenico, mg",018,G,172,1,"Mn 0,04"
-45,"Biotina, µg",30,G,225,2,
-46,"Vitamina B12, µg",20,G,172,1,VIT B12 2µg
+44,"Acido pantotenico, mg",0.18,G,172,1,"Mn 0,04"
+45,"Biotina, µg",3.0,G,225,2,
+46,"Vitamina B12, µg",2.0,G,172,1,VIT B12 2µg
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",44,02,1305,,
 50,"Retinolo, µg",44,02,1305,3B,
 51,"ß-carotene eq., µg",tr,02,1305,3B,
-52,"Vitamina E (ATE), mg",093,25,15008,1,vitE=0.63mg
-53,"Vitamina D, µg",1060,G,225,2,
+52,"Vitamina E (ATE), mg",0.93,25,15008,1,vitE=0.63mg
+53,"Vitamina D, µg",10.60,G,225,2,
 54,ACIDI GRASSI,,,,,
-55,"Acidi grassi saturi totali, g",137,AG,15008,3A,"Carp, raw lip 5.6AcGrSaturiTot1.08, SommaAcButirrico,caproico,caprilico,caprico0, AcLaurico0, AcMiristico0.11, AcPalmitico0.66, AcStearico0.19, AcArachidico-3, AcBeenico-3, AcGrMonoinsaturiTot2.33, AcMiristoleico-3, AcPalmitoleico0.66, AcOleico1.15, AcEicosenoico0.07, AcErucico0.4, AcGrPolinstauriTot1.43, AcLinoleico0.52, AcLinolenico0.27, AcArachidonico0.15, AcEicosapentaenoico(EPA)0.24, AcDecosaesaenoico(DHA)0.11, AltriAcGrPolinsaturi0.14"
-56,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,AG,15008,3A,
-57,"Acido laurico, g",000,AG,15008,3A,
-58,"Acido miristico, g",014,AG,15008,3A,
-59,"Acido palmitico, g",084,AG,15008,3A,
-60,"Acido stearico, g",024,AG,15008,3A,
-61,"Acidi grassi monoinsaturi totali, g",295,AG,15008,3A,
-62,"Acido palmitoleico, g",084,AG,15008,3A,
-63,"Acido oleico, g",146,AG,15008,3A,
-64,"Acidi eicosenoico, g",009,AG,15008,3A,
-65,"Acido erucico, g",051,AG,15008,3A,
-66,"Acidi grassi polinsaturi totali, g",181,AG,15008,3A,
-67,"Acido linoleico, g",066,AG,15008,3A,
-68,"Acido linolenico, g",034,AG,15008,3A,
-69,"Acido arachidonico, g",019,AG,15008,3A,
-70,"Acido eicosapentaenoico (EPA), g",030,AG,15008,3A,
-71,"Acido decosaesaenoico (DHA), g",014,AG,15008,3A,
-72,"Altri acidi grassi polinsaturi, g",018,86,,,
+55,"Acidi grassi saturi totali, g",1.37,AG,15008,3A,"Carp, raw lip 5.6AcGrSaturiTot1.08, SommaAcButirrico,caproico,caprilico,caprico0, AcLaurico0, AcMiristico0.11, AcPalmitico0.66, AcStearico0.19, AcArachidico-3, AcBeenico-3, AcGrMonoinsaturiTot2.33, AcMiristoleico-3, AcPalmitoleico0.66, AcOleico1.15, AcEicosenoico0.07, AcErucico0.4, AcGrPolinstauriTot1.43, AcLinoleico0.52, AcLinolenico0.27, AcArachidonico0.15, AcEicosapentaenoico(EPA)0.24, AcDecosaesaenoico(DHA)0.11, AltriAcGrPolinsaturi0.14"
+56,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,AG,15008,3A,
+57,"Acido laurico, g",0.00,AG,15008,3A,
+58,"Acido miristico, g",0.14,AG,15008,3A,
+59,"Acido palmitico, g",0.84,AG,15008,3A,
+60,"Acido stearico, g",0.24,AG,15008,3A,
+61,"Acidi grassi monoinsaturi totali, g",2.95,AG,15008,3A,
+62,"Acido palmitoleico, g",0.84,AG,15008,3A,
+63,"Acido oleico, g",1.46,AG,15008,3A,
+64,"Acidi eicosenoico, g",0.09,AG,15008,3A,
+65,"Acido erucico, g",0.51,AG,15008,3A,
+66,"Acidi grassi polinsaturi totali, g",1.81,AG,15008,3A,
+67,"Acido linoleico, g",0.66,AG,15008,3A,
+68,"Acido linolenico, g",0.34,AG,15008,3A,
+69,"Acido arachidonico, g",0.19,AG,15008,3A,
+70,"Acido eicosapentaenoico (EPA), g",0.30,AG,15008,3A,
+71,"Acido decosaesaenoico (DHA), g",0.14,AG,15008,3A,
+72,"Altri acidi grassi polinsaturi, g",0.18,86,,,
 73,AMINOACIDI,,,,,
 74,"Triptofano, mg",212,25,15008,3B,"""Carp, raw""prot. orig.17.83,trypto200, threon782, isoleu822, leucine1449, lysine1638, methion528, cystine191, phenilal696, tyrosine602, valine919, arginine1067, histidine525, alanine1078, aspart ac1826, glutam ac2662, glycine856, proline631, serine728"
 75,"Treonina, mg",829,25,15008,,
@@ -91,9 +91,9 @@
 90,"Prolina, mg",669,25,15008,,
 91,"Serina, mg",772,25,15008,,
 92,ZUCCHERI,,,,,
-93,"Glucosio, g",00,02,1305,,
-94,"Fruttosio, g",00,02,1305,,
-95,"Galattosio, g",00,02,1305,,
-96,"Saccarosio (MSE), g",00,02,1305,,
-97,"Maltosio (MSE), g",00,02,1305,,
-98,"Lattosio (MSE), g",00,02,1305,,
+93,"Glucosio, g",0.0,02,1305,,
+94,"Fruttosio, g",0.0,02,1305,,
+95,"Galattosio, g",0.0,02,1305,,
+96,"Saccarosio (MSE), g",0.0,02,1305,,
+97,"Maltosio (MSE), g",0.0,02,1305,,
+98,"Lattosio (MSE), g",0.0,02,1305,,

@@ -8,45 +8,45 @@
 7,"Energia, Ric con fibra, kJ",604,86,,,
 8,"Energia, ricalcolata, kcal",116,86,,,
 9,"Energia, Ric con fibra, kcal",145,86,,,
-10,"Proteine totali, g",39,09,853,,
-11,"Proteine animali, g",00,09,853,,
-12,"Proteine vegetali, g",39,09,853,,
-13,"Lipidi totali, g",46,09,853,,
-14,"Lipidi animali, g",00,09,853,,
-15,"Lipidi vegetali, g",46,09,853,,
+10,"Proteine totali, g",3.9,09,853,,
+11,"Proteine animali, g",0.0,09,853,,
+12,"Proteine vegetali, g",3.9,09,853,,
+13,"Lipidi totali, g",4.6,09,853,,
+14,"Lipidi animali, g",0.0,09,853,,
+15,"Lipidi vegetali, g",4.6,09,853,,
 16,"Colesterolo, mg",0,09,853,,
-17,"Carboidrati disponibili (MSE), g",156,09,853,,calcolati per differenza
+17,"Carboidrati disponibili (MSE), g",15.6,09,853,,calcolati per differenza
 18,"Amido (MSE), g",tr,09,804,,ALIMENTO SIMILE Basilico acqua=88g
-19,"Carboidrati solubili (MSE), g",156,09,853,,GD=GS quando amido=tr
-20,"Fibra alimentare totale, g",147,12,02038,,"RIPR riferito a Sage, ground acqua=7.955g fibra=40.3g"
-21,"Alcol, g",00,09,853,,
-22,"Acqua, g",664,09,853,,
+19,"Carboidrati solubili (MSE), g",15.6,09,853,,GD=GS quando amido=tr
+20,"Fibra alimentare totale, g",14.7,12,02038,,"RIPR riferito a Sage, ground acqua=7.955g fibra=40.3g"
+21,"Alcol, g",0.0,09,853,,
+22,"Acqua, g",66.4,09,853,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",103,09,854,,"riferito a Sage, dried RIPR Fe=28.1mg acqua=8g"
+24,"Ferro, mg",10.3,09,854,,"riferito a Sage, dried RIPR Fe=28.1mg acqua=8g"
 25,"Calcio, mg",600,09,853,,
 26,"Sodio, mg",4,09,853,,
 27,"Potassio, mg",390,09,853,,
 28,"Fosforo, mg",33,09,853,,
-29,"Zinco, mg",170,09,853,,
+29,"Zinco, mg",1.70,09,853,,
 30,VITAMINE IDROSOLUBILI,,,,,
-31,"Vitamina B1, Tiamina, mg",011,09,853,,
-32,"Vitamina B2, Riboflavina, mg",034,09,854,,"per le vitamine 09/354 ALIMENTO SIMILE Sage, dried acqua=8.0g"
+31,"Vitamina B1, Tiamina, mg",0.11,09,853,,
+32,"Vitamina B2, Riboflavina, mg",0.34,09,854,,"per le vitamine 09/354 ALIMENTO SIMILE Sage, dried acqua=8.0g"
 33,"Vitamina C, mg",tr,09,853,,
-34,"Niacina, mg",570,09,854,,
-35,"Vitamina B6, mg",121,12,02038,,"ALIMENTO SIMILE sage, ground acqua=7.955g"
+34,"Niacina, mg",5.70,09,854,,
+35,"Vitamina B6, mg",1.21,12,02038,,"ALIMENTO SIMILE sage, ground acqua=7.955g"
 36,"Folati totali, µg",0,09,854,,
 37,VITAMINE LIPOSOLUBILI,,,,,
 38,Retinolo equivalente,,,,,
 39,"Retinolo eq. (RE), µg",215,09,853,,CALC
 40,"Retinolo, µg",0,09,853,,
 41,"ß-carotene eq., µg",1290,09,853,,
-42,"Vitamina E (ATE), mg",169,12,02038,,"ALIMENTO SIMILE Sage, ground acqua=7.955g"
-43,"Vitamina D, µg",000,09,853,,
+42,"Vitamina E (ATE), mg",1.69,12,02038,,"ALIMENTO SIMILE Sage, ground acqua=7.955g"
+43,"Vitamina D, µg",0.00,09,853,,
 44,ACIDI GRASSI,,,,,
-45,"Acidi grassi saturi totali, g",254,12,02038,,"RIPR riferito a Sage, ground lip=12.74g saturi=7.03g 18:1=1.75g mono=1.87g 18:2=0.53g 18:3=1.23g altri PUFA=0 PUFA=1.76g"
-46,"Acidi grassi monoinsaturi totali, g",068,12,02038,,
-47,"Acido oleico, g",063,12,02038,,
-48,"Acidi grassi polinsaturi totali, g",064,12,02038,,
-49,"Acido linoleico, g",019,12,02038,,
-50,"Acido linolenico, g",044,12,02038,,
-51,"Altri acidi grassi polinsaturi, g",001,86,,,
+45,"Acidi grassi saturi totali, g",2.54,12,02038,,"RIPR riferito a Sage, ground lip=12.74g saturi=7.03g 18:1=1.75g mono=1.87g 18:2=0.53g 18:3=1.23g altri PUFA=0 PUFA=1.76g"
+46,"Acidi grassi monoinsaturi totali, g",0.68,12,02038,,
+47,"Acido oleico, g",0.63,12,02038,,
+48,"Acidi grassi polinsaturi totali, g",0.64,12,02038,,
+49,"Acido linoleico, g",0.19,12,02038,,
+50,"Acido linolenico, g",0.44,12,02038,,
+51,"Altri acidi grassi polinsaturi, g",0.01,86,,,

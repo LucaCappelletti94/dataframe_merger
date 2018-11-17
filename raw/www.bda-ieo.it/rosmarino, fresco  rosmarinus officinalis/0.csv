@@ -8,45 +8,45 @@
 7,"Energia, Ric con fibra, kJ",464,86,,,
 8,"Energia, ricalcolata, kcal",96,86,,,
 9,"Energia, Ric con fibra, kcal",111,86,,,
-10,"Proteine totali, g",14,09,850,,
-11,"Proteine animali, g",00,09,850,,
-12,"Proteine vegetali, g",14,09,850,,
-13,"Lipidi totali, g",44,09,850,,
-14,"Lipidi animali, g",00,09,850,,
-15,"Lipidi vegetali, g",44,09,850,,
+10,"Proteine totali, g",1.4,09,850,,
+11,"Proteine animali, g",0.0,09,850,,
+12,"Proteine vegetali, g",1.4,09,850,,
+13,"Lipidi totali, g",4.4,09,850,,
+14,"Lipidi animali, g",0.0,09,850,,
+15,"Lipidi vegetali, g",4.4,09,850,,
 16,"Colesterolo, mg",0,09,850,,
-17,"Carboidrati disponibili (MSE), g",135,09,804,,per i nutrienti 09/804 ALIMENTO SIMILE Basilico fresco acqua=88g calcolati per differenza
+17,"Carboidrati disponibili (MSE), g",13.5,09,804,,per i nutrienti 09/804 ALIMENTO SIMILE Basilico fresco acqua=88g calcolati per differenza
 18,"Amido (MSE), g",tr,09,804,,
-19,"Carboidrati solubili (MSE), g",135,09,804,,GD=GS quando amido=tr
-20,"Fibra alimentare totale, g",77,12,02036,,RIPR riferito a Rosmarino secco acqua=9.31g fibra=42.6g
-21,"Alcol, g",00,09,850,,
-22,"Acqua, g",736,09,850,,
+19,"Carboidrati solubili (MSE), g",13.5,09,804,,GD=GS quando amido=tr
+20,"Fibra alimentare totale, g",7.7,12,02036,,RIPR riferito a Rosmarino secco acqua=9.31g fibra=42.6g
+21,"Alcol, g",0.0,09,850,,
+22,"Acqua, g",73.6,09,850,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",85,09,850,,
+24,"Ferro, mg",8.5,09,850,,
 25,"Calcio, mg",370,09,850,,
 26,"Sodio, mg",15,09,850,,
 27,"Potassio, mg",280,09,850,,
 28,"Fosforo, mg",20,09,850,,
-29,"Zinco, mg",090,09,850,,
+29,"Zinco, mg",0.90,09,850,,
 30,VITAMINE IDROSOLUBILI,,,,,
-31,"Vitamina B1, Tiamina, mg",010,09,850,,
-32,"Vitamina B2, Riboflavina, mg",021,02,338,,ALIMENTO SIMILE Prezzemolo fresco acqua=87.2g
+31,"Vitamina B1, Tiamina, mg",0.10,09,850,,
+32,"Vitamina B2, Riboflavina, mg",0.21,02,338,,ALIMENTO SIMILE Prezzemolo fresco acqua=87.2g
 33,"Vitamina C, mg",29,09,850,,
-34,"Niacina, mg",100,09,851,,
-35,"Vitamina B6, mg",009,09,844,,per i nutrineti 09/844 ALIMENTO SIMILE Prezzemolo fresco acqua=83.1g
+34,"Niacina, mg",1.00,09,851,,
+35,"Vitamina B6, mg",0.09,09,844,,per i nutrineti 09/844 ALIMENTO SIMILE Prezzemolo fresco acqua=83.1g
 36,"Folati totali, µg",0,09,851,,per i nutrienti 09/851 ALIMENTO SIMILE Rosemary dried acqua=9.3g
 37,VITAMINE LIPOSOLUBILI,,,,,
 38,Retinolo equivalente,,,,,
 39,"Retinolo eq. (RE), µg",92,09,850,,CALC
 40,"Retinolo, µg",0,09,850,,
 41,"ß-carotene eq., µg",550,09,850,,
-42,"Vitamina E (ATE), mg",150,09,844,,
-43,"Vitamina D, µg",000,09,850,,
+42,"Vitamina E (ATE), mg",1.50,09,844,,
+43,"Vitamina D, µg",0.00,09,850,,
 44,ACIDI GRASSI,,,,,
-45,"Acidi grassi saturi totali, g",114,12,02027,,"RIPR riferito a Origano, secco lip=10.25g saturi=2.66g 18:1=0.51g monoinsaturi=0.67g 18:2=1.052g 18:3=4.18g altri PUFA=0 PUFA=5.23g"
-46,"Acidi grassi monoinsaturi totali, g",029,12,02027,,
-47,"Acido oleico, g",022,12,02027,,
-48,"Acidi grassi polinsaturi totali, g",225,12,02027,,
-49,"Acido linoleico, g",045,12,02027,,
-50,"Acido linolenico, g",179,12,02027,,
-51,"Altri acidi grassi polinsaturi, g",001,86,,,
+45,"Acidi grassi saturi totali, g",1.14,12,02027,,"RIPR riferito a Origano, secco lip=10.25g saturi=2.66g 18:1=0.51g monoinsaturi=0.67g 18:2=1.052g 18:3=4.18g altri PUFA=0 PUFA=5.23g"
+46,"Acidi grassi monoinsaturi totali, g",0.29,12,02027,,
+47,"Acido oleico, g",0.22,12,02027,,
+48,"Acidi grassi polinsaturi totali, g",2.25,12,02027,,
+49,"Acido linoleico, g",0.45,12,02027,,
+50,"Acido linolenico, g",1.79,12,02027,,
+51,"Altri acidi grassi polinsaturi, g",0.01,86,,,

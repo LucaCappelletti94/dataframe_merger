@@ -8,73 +8,73 @@
 7,"Energia, Ric con fibra, kJ",186,86,,,
 8,"Energia, ricalcolata, kcal",41,86,,,
 9,"Energia, Ric con fibra, kcal",44,86,,,
-10,"Proteine totali, g",08,02,402,,
-11,"Proteine animali, g",00,LZ,,,
-12,"Proteine vegetali, g",08,02,402,,
+10,"Proteine totali, g",0.8,02,402,,
+11,"Proteine animali, g",0.0,LZ,,,
+12,"Proteine vegetali, g",0.8,02,402,,
 13,"Lipidi totali, g",tr,AO,007700,,
-14,"Lipidi animali, g",00,LZ,,,
+14,"Lipidi animali, g",0.0,LZ,,,
 15,"Lipidi vegetali, g",tr,AO,007700,,
 16,"Colesterolo, mg",0,LZ,,,
-17,"Carboidrati disponibili (MSE), g",102,02,402,,
-18,"Amido (MSE), g",00,02,402,,
-19,"Carboidrati solubili (MSE), g",102,02,402,,
-20,"Fibra alimentare totale, g",11,02,402,,
-21,"Alcol, g",00,LZ,,,
-22,"Acqua, g",842,02,402,,
+17,"Carboidrati disponibili (MSE), g",10.2,02,402,,
+18,"Amido (MSE), g",0.0,02,402,,
+19,"Carboidrati solubili (MSE), g",10.2,02,402,,
+20,"Fibra alimentare totale, g",1.1,02,402,,
+21,"Alcol, g",0.0,LZ,,,
+22,"Acqua, g",84.2,02,402,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",04,02,402,,
+24,"Ferro, mg",0.4,02,402,,
 25,"Calcio, mg",15,02,402,,
 26,"Sodio, mg",2,02,402,,
 27,"Potassio, mg",114,02,402,,
 28,"Fosforo, mg",17,02,402,,
-29,"Zinco, mg",010,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
+29,"Zinco, mg",0.10,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
 30,"Magnesio, mg",9,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
-31,"Rame, mg",010,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
-32,"Selenio, µg",00,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
+31,"Rame, mg",0.10,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
+32,"Selenio, µg",0.0,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
 33,"Cloro, mg",tr,BF,933,2,"""Cherries, raw"" WATER 82.8g, PROT 0.9g, FAT 0.1g, CHO 11.5g, SUGAR 11.5g"
 34,"Iodio, µg",tr,BF,933,2,"""Cherries, raw"" WATER 82.8g, PROT 0.9g, FAT 0.1g, CHO 11.5g, SUGAR 11.5g"
-35,"Manganese, mg",011,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
+35,"Manganese, mg",0.11,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
 36,"Zolfo, mg",7,L,61,2,"""Cherries, raw"" WATER 82.8g, PROT 0.9g, FAT 0.1g, CHO 11.5g, SUGAR 11.5g"
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",003,02,402,,
-39,"Vitamina B2, Riboflavina, mg",005,02,402,,
+38,"Vitamina B1, Tiamina, mg",0.03,02,402,,
+39,"Vitamina B2, Riboflavina, mg",0.05,02,402,,
 40,"Vitamina C, mg",7,02,402,,
-41,"Niacina, mg",040,02,402,,
-42,"Vitamina B6, mg",004,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
+41,"Niacina, mg",0.40,02,402,,
+42,"Vitamina B6, mg",0.04,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
 43,"Folati totali, µg",8,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
-44,"Acido pantotenico, mg",014,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
-45,"Biotina, µg",04,BF,933,2,"""Cherries, raw"" WATER 82.8g, PROT 0.9g, FAT 0.1g, CHO 11.5g, SUGAR 11.5g"
-46,"Vitamina B12, µg",00,LZ,,,
+44,"Acido pantotenico, mg",0.14,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
+45,"Biotina, µg",0.4,BF,933,2,"""Cherries, raw"" WATER 82.8g, PROT 0.9g, FAT 0.1g, CHO 11.5g, SUGAR 11.5g"
+46,"Vitamina B12, µg",0.0,LZ,,,
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",24,02,402,,
 50,"Retinolo, µg",0,LZ,,,
 51,"ß-carotene eq., µg",144,02,402,3B,
-52,"Vitamina E (ATE), mg",007,DI,09063,4A,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g, solo TOCPHA"
-53,"Vitamina D, µg",000,LZ,,,
-54,"Vitamina K, µg",210,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
+52,"Vitamina E (ATE), mg",0.07,DI,09063,4A,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g, solo TOCPHA"
+53,"Vitamina D, µg",0.00,LZ,,,
+54,"Vitamina K, µg",2.10,DI,09063,2,"""Cherries, sour, red, raw"" WATER 86.13g, PROT 1.0g, FAT 0.3g, CHOT 12.18g, SUGAR 8.49g"
 55,ACIDI GRASSI,,,,,
-56,"Acidi grassi saturi totali, g",000,LZ,,,
-57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,LZ,,,
-58,"Acido laurico, g",000,LZ,,,
-59,"Acido miristico, g",000,LZ,,,
-60,"Acido palmitico, g",000,LZ,,,
-61,"Acido stearico, g",000,LZ,,,
-62,"Acido arachidico, g",000,LZ,,,
-63,"Acido beenico, g",000,LZ,,,
-64,"Acidi grassi monoinsaturi totali, g",000,LZ,,,
-65,"Acido miristoleico, g",000,LZ,,,
-66,"Acido palmitoleico, g",000,LZ,,,
-67,"Acido oleico, g",000,LZ,,,
-68,"Acidi eicosenoico, g",000,LZ,,,
-69,"Acido erucico, g",000,LZ,,,
-70,"Acidi grassi polinsaturi totali, g",000,LZ,,,
-71,"Acido linoleico, g",000,LZ,,,
-72,"Acido linolenico, g",000,LZ,,,
-73,"Acido arachidonico, g",000,LZ,,,
-74,"Acido eicosapentaenoico (EPA), g",000,LZ,,,
-75,"Acido decosaesaenoico (DHA), g",000,LZ,,,
-76,"Altri acidi grassi polinsaturi, g",000,86,,,
+56,"Acidi grassi saturi totali, g",0.00,LZ,,,
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,LZ,,,
+58,"Acido laurico, g",0.00,LZ,,,
+59,"Acido miristico, g",0.00,LZ,,,
+60,"Acido palmitico, g",0.00,LZ,,,
+61,"Acido stearico, g",0.00,LZ,,,
+62,"Acido arachidico, g",0.00,LZ,,,
+63,"Acido beenico, g",0.00,LZ,,,
+64,"Acidi grassi monoinsaturi totali, g",0.00,LZ,,,
+65,"Acido miristoleico, g",0.00,LZ,,,
+66,"Acido palmitoleico, g",0.00,LZ,,,
+67,"Acido oleico, g",0.00,LZ,,,
+68,"Acidi eicosenoico, g",0.00,LZ,,,
+69,"Acido erucico, g",0.00,LZ,,,
+70,"Acidi grassi polinsaturi totali, g",0.00,LZ,,,
+71,"Acido linoleico, g",0.00,LZ,,,
+72,"Acido linolenico, g",0.00,LZ,,,
+73,"Acido arachidonico, g",0.00,LZ,,,
+74,"Acido eicosapentaenoico (EPA), g",0.00,LZ,,,
+75,"Acido decosaesaenoico (DHA), g",0.00,LZ,,,
+76,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 77,AMINOACIDI,,,,,
 78,"Triptofano, mg",7,DI,09070,3A,"Cherries, Sweet, Raw WATER 82.25g, PROT 1.06g, FAT 0.2g, CHO 13.91g, SUGAR 12.82g, TRP 0.009g"
 79,"Treonina, mg",17,DI,09070,3A,"Cherries, Sweet, Raw WATER 82.25g, PROT 1.06g, FAT 0.2g, CHO 13.91g, SUGAR 12.82g, THR 0.022g"
@@ -95,9 +95,9 @@
 94,"Prolina, mg",29,DI,09070,3A,"Cherries, Sweet, Raw WATER 82.25g, PROT 1.06g, FAT 0.2g, CHO 13.91g, SUGAR 12.82g, PRO 0.039g"
 95,"Serina, mg",23,DI,09070,3A,"Cherries, Sweet, Raw WATER 82.25g, PROT 1.06g, FAT 0.2g, CHO 13.91g, SUGAR 12.82g, SER 0.03g"
 96,ZUCCHERI,,,,,
-97,"Glucosio, g",50,DI,09063,3A,"Cherries, Sour, Red, Raw WATER 86.13g, PROT 1g, FAT 0.3g, CHO 11.02g, SUGAR 8.49g, GLUS 4.18g"
-98,"Fruttosio, g",42,DI,09063,3A,"Cherries, Sour, Red, Raw WATER 86.13g, PROT 1g, FAT 0.3g, CHO 11.02g, SUGAR 8.49g, FRUS 3.51g"
-99,"Galattosio, g",00,LZ,,,
-100,"Saccarosio (MSE), g",10,DI,09063,3A,"Cherries, Sour, Red, Raw WATER 86.13g, PROT 1g, FAT 0.3g, CHO 11.02g, SUGAR 8.49g, SUCS 0.8g"
-101,"Maltosio (MSE), g",00,DI,09063,3A,"Cherries, Sour, Red, Raw WATER 86.13g, PROT 1g, FAT 0.3g, CHO 11.02g, SUGAR 8.49g, MALS 0g"
-102,"Lattosio (MSE), g",00,LZ,,,
+97,"Glucosio, g",5.0,DI,09063,3A,"Cherries, Sour, Red, Raw WATER 86.13g, PROT 1g, FAT 0.3g, CHO 11.02g, SUGAR 8.49g, GLUS 4.18g"
+98,"Fruttosio, g",4.2,DI,09063,3A,"Cherries, Sour, Red, Raw WATER 86.13g, PROT 1g, FAT 0.3g, CHO 11.02g, SUGAR 8.49g, FRUS 3.51g"
+99,"Galattosio, g",0.0,LZ,,,
+100,"Saccarosio (MSE), g",1.0,DI,09063,3A,"Cherries, Sour, Red, Raw WATER 86.13g, PROT 1g, FAT 0.3g, CHO 11.02g, SUGAR 8.49g, SUCS 0.8g"
+101,"Maltosio (MSE), g",0.0,DI,09063,3A,"Cherries, Sour, Red, Raw WATER 86.13g, PROT 1g, FAT 0.3g, CHO 11.02g, SUGAR 8.49g, MALS 0g"
+102,"Lattosio (MSE), g",0.0,LZ,,,

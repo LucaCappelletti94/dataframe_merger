@@ -8,71 +8,71 @@
 7,"Energia, Ric con fibra, kJ",157,86,,,
 8,"Energia, ricalcolata, kcal",34,86,,,
 9,"Energia, Ric con fibra, kcal",37,86,,,
-10,"Proteine totali, g",07,02,404,,
-11,"Proteine animali, g",00,LZ,,,
-12,"Proteine vegetali, g",07,02,404,,
-13,"Lipidi totali, g",02,02,404,,
-14,"Lipidi animali, g",00,LZ,,,
-15,"Lipidi vegetali, g",02,02,404,,
+10,"Proteine totali, g",0.7,02,404,,
+11,"Proteine animali, g",0.0,LZ,,,
+12,"Proteine vegetali, g",0.7,02,404,,
+13,"Lipidi totali, g",0.2,02,404,,
+14,"Lipidi animali, g",0.0,LZ,,,
+15,"Lipidi vegetali, g",0.2,02,404,,
 16,"Colesterolo, mg",0,LZ,,,
-17,"Carboidrati disponibili (MSE), g",78,02,404,,
-18,"Amido (MSE), g",00,02,404,,
-19,"Carboidrati solubili (MSE), g",78,02,404,,
-20,"Fibra alimentare totale, g",16,02,404,,
-21,"Alcol, g",00,LZ,,,
-22,"Acqua, g",872,02,404,,
+17,"Carboidrati disponibili (MSE), g",7.8,02,404,,
+18,"Amido (MSE), g",0.0,02,404,,
+19,"Carboidrati solubili (MSE), g",7.8,02,404,,
+20,"Fibra alimentare totale, g",1.6,02,404,,
+21,"Alcol, g",0.0,LZ,,,
+22,"Acqua, g",87.2,02,404,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",02,02,404,,
+24,"Ferro, mg",0.2,02,404,,
 25,"Calcio, mg",49,02,404,,
 26,"Sodio, mg",3,02,404,,
 27,"Potassio, mg",200,02,404,,
 28,"Fosforo, mg",22,02,404,,
-29,"Zinco, mg",020,03,6204,6,"""Arance"" WATER 87g, PROT 0.8g, FAT 0.3g, CHO 9.3g, SUGAR 9.3g"
+29,"Zinco, mg",0.20,03,6204,6,"""Arance"" WATER 87g, PROT 0.8g, FAT 0.3g, CHO 9.3g, SUGAR 9.3g"
 30,"Magnesio, mg",10,BF,973,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
-31,"Rame, mg",007,03,6204,6,"""Arance"" WATER 87g, PROT 0.8g, FAT 0.3g, CHO 9.3g, SUGAR 9.3g"
-32,"Selenio, µg",10,BF,973,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
+31,"Rame, mg",0.07,03,6204,6,"""Arance"" WATER 87g, PROT 0.8g, FAT 0.3g, CHO 9.3g, SUGAR 9.3g"
+32,"Selenio, µg",1.0,BF,973,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
 33,"Cloro, mg",3,BF,973,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
 34,"Iodio, µg",2,BF,973,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
 35,"Manganese, mg",tr,BF,973,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
 36,"Zolfo, mg",10,L,175,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",006,02,404,,
-39,"Vitamina B2, Riboflavina, mg",005,02,404,,
+38,"Vitamina B1, Tiamina, mg",0.06,02,404,,
+39,"Vitamina B2, Riboflavina, mg",0.05,02,404,,
 40,"Vitamina C, mg",50,02,404,,
-41,"Niacina, mg",020,02,404,,
-42,"Vitamina B6, mg",010,L,175,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
+41,"Niacina, mg",0.20,02,404,,
+42,"Vitamina B6, mg",0.10,L,175,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
 43,"Folati totali, µg",31,L,175,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
-44,"Acido pantotenico, mg",037,BF,973,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
-45,"Biotina, µg",10,BF,973,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
-46,"Vitamina B12, µg",00,LZ,,,
+44,"Acido pantotenico, mg",0.37,BF,973,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
+45,"Biotina, µg",1.0,BF,973,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
+46,"Vitamina B12, µg",0.0,LZ,,,
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",71,02,404,,
 50,"Retinolo, µg",0,LZ,,,
 51,"ß-carotene eq., µg",426,02,404,3B,
-52,"Vitamina E (ATE), mg",024,L,175,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
-53,"Vitamina D, µg",000,LZ,,,
-54,"Vitamina K, µg",000,DI,09200,6,"""Oranges, raw, all commercial varieties"" WATER 86.75g, PROT 0.94g, FAT 0.12g, CHO 11.75g, SUGAR 9.35g"
+52,"Vitamina E (ATE), mg",0.24,L,175,6,"""Oranges"" WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g"
+53,"Vitamina D, µg",0.00,LZ,,,
+54,"Vitamina K, µg",0.00,DI,09200,6,"""Oranges, raw, all commercial varieties"" WATER 86.75g, PROT 0.94g, FAT 0.12g, CHO 11.75g, SUGAR 9.35g"
 55,ACIDI GRASSI,,,,,
-56,"Acidi grassi saturi totali, g",003,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86.75g, PROT 0.94g, FAT 0.12g, CHO 9.35g, SUGAR 9.35g, FASAT 0.015g"
-57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86.75g, PROT 0.94g, FAT 0.12g, CHO 9.35g, F4-10:0 0g"
-58,"Acido laurico, g",000,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, SUGAR 9,35g, F12:0 0g"
-59,"Acido miristico, g",000,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, F14:0 0g"
-60,"Acido palmitico, g",002,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, SUGAR 9,35g, F16:0 0,013g"
-61,"Acido stearico, g",000,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, SUGAR 9,35g, F18:0 0g"
-62,"Acidi grassi monoinsaturi totali, g",004,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, SUGAR 9,35g, FAMS 0,023g"
-63,"Acido miristoleico, g",000,87,,,
-64,"Acido palmitoleico, g",001,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, SUGAR 9,35g, F16:1CN7 0,003g"
-65,"Acido oleico, g",003,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, SUGAR 9,35g, F18:1 0,02g"
-66,"Acidi eicosenoico, g",000,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, SUGAR 9,35g, F20:1 0g"
-67,"Acido erucico, g",000,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, F22:1CN9 0g"
-68,"Acidi grassi polinsaturi totali, g",004,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, FAPU 0,025g"
-69,"Acido linoleico, g",003,DI,09200,3B,"Oranges, Raw, All Comm Var [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, F18:2 0,018g"
-70,"Acido linolenico, g",001,DI,09200,3B,"Oranges, Raw, All Com Var[Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, F18:3 0,007g"
-71,"Acido arachidonico, g",000,DI,09200,3B,"Oranges, Raw, All Com Var [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, F20:4N6 0g"
-72,"Acido eicosapentaenoico (EPA), g",000,DI,09200,3B,"Oranges, Raw, All Com Var [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, F20:5N3 0g"
-73,"Acido decosaesaenoico (DHA), g",000,DI,09200,3B,"Oranges, Raw, All Com Var [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, F22:6 0g"
-74,"Altri acidi grassi polinsaturi, g",000,86,,,
+56,"Acidi grassi saturi totali, g",0.03,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86.75g, PROT 0.94g, FAT 0.12g, CHO 9.35g, SUGAR 9.35g, FASAT 0.015g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86.75g, PROT 0.94g, FAT 0.12g, CHO 9.35g, F4-10:0 0g"
+58,"Acido laurico, g",0.00,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, SUGAR 9,35g, F12:0 0g"
+59,"Acido miristico, g",0.00,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, F14:0 0g"
+60,"Acido palmitico, g",0.02,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, SUGAR 9,35g, F16:0 0,013g"
+61,"Acido stearico, g",0.00,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, SUGAR 9,35g, F18:0 0g"
+62,"Acidi grassi monoinsaturi totali, g",0.04,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, SUGAR 9,35g, FAMS 0,023g"
+63,"Acido miristoleico, g",0.00,87,,,
+64,"Acido palmitoleico, g",0.01,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, SUGAR 9,35g, F16:1CN7 0,003g"
+65,"Acido oleico, g",0.03,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, SUGAR 9,35g, F18:1 0,02g"
+66,"Acidi eicosenoico, g",0.00,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, SUGAR 9,35g, F20:1 0g"
+67,"Acido erucico, g",0.00,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, F22:1CN9 0g"
+68,"Acidi grassi polinsaturi totali, g",0.04,DI,09200,3B,"Oranges, Raw, All Commercial Varieties [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, FAPU 0,025g"
+69,"Acido linoleico, g",0.03,DI,09200,3B,"Oranges, Raw, All Comm Var [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, F18:2 0,018g"
+70,"Acido linolenico, g",0.01,DI,09200,3B,"Oranges, Raw, All Com Var[Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, CHO 9,35g, F18:3 0,007g"
+71,"Acido arachidonico, g",0.00,DI,09200,3B,"Oranges, Raw, All Com Var [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, F20:4N6 0g"
+72,"Acido eicosapentaenoico (EPA), g",0.00,DI,09200,3B,"Oranges, Raw, All Com Var [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, F20:5N3 0g"
+73,"Acido decosaesaenoico (DHA), g",0.00,DI,09200,3B,"Oranges, Raw, All Com Var [Citrus Sinensis] WATER 86,75g, PROT 0,94g, FAT 0,12g, F22:6 0g"
+74,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 75,AMINOACIDI,,,,,
 76,"Triptofano, mg",6,AA,8000,,
 77,"Treonina, mg",12,AA,8000,,
@@ -93,9 +93,9 @@
 92,"Prolina, mg",45,AA,8000,,
 93,"Serina, mg",23,AA,8000,,
 94,ZUCCHERI,,,,,
-95,"Glucosio, g",20,BF,973,3B,"Oranges WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g, GLUS 2.2g"
-96,"Fruttosio, g",22,BF,973,3B,"Oranges WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g, FRUS 2.4g"
-97,"Galattosio, g",00,LZ,,,
-98,"Saccarosio (MSE), g",36,BF,973,3B,"Oranges WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g, SUCS 3.9g"
-99,"Maltosio (MSE), g",00,BF,973,3B,"Oranges WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g, MALS 0g"
-100,"Lattosio (MSE), g",00,LZ,,,
+95,"Glucosio, g",2.0,BF,973,3B,"Oranges WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g, GLUS 2.2g"
+96,"Fruttosio, g",2.2,BF,973,3B,"Oranges WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g, FRUS 2.4g"
+97,"Galattosio, g",0.0,LZ,,,
+98,"Saccarosio (MSE), g",3.6,BF,973,3B,"Oranges WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g, SUCS 3.9g"
+99,"Maltosio (MSE), g",0.0,BF,973,3B,"Oranges WATER 86.1g, PROT 1.1g, FAT 0.1g, CHO 8.5g, SUGAR 8.5g, MALS 0g"
+100,"Lattosio (MSE), g",0.0,LZ,,,

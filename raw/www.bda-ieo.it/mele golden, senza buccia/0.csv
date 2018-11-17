@@ -8,71 +8,71 @@
 7,"Energia, Ric con fibra, kJ",195,86,,,
 8,"Energia, ricalcolata, kcal",43,86,,,
 9,"Energia, Ric con fibra, kcal",46,86,,,
-10,"Proteine totali, g",04,AA,007150,,
-11,"Proteine animali, g",00,LZ,,,
-12,"Proteine vegetali, g",04,AA,007150,,
-13,"Lipidi totali, g",01,AA,007150,,
-14,"Lipidi animali, g",00,LZ,,,
-15,"Lipidi vegetali, g",01,AA,007150,,
+10,"Proteine totali, g",0.4,AA,007150,,
+11,"Proteine animali, g",0.0,LZ,,,
+12,"Proteine vegetali, g",0.4,AA,007150,,
+13,"Lipidi totali, g",0.1,AA,007150,,
+14,"Lipidi animali, g",0.0,LZ,,,
+15,"Lipidi vegetali, g",0.1,AA,007150,,
 16,"Colesterolo, mg",0,LZ,,,
-17,"Carboidrati disponibili (MSE), g",107,AA,007150,,
+17,"Carboidrati disponibili (MSE), g",10.7,AA,007150,,
 18,"Amido (MSE), g",tr,AA,007150,,
-19,"Carboidrati solubili (MSE), g",107,AA,007150,,
-20,"Fibra alimentare totale, g",17,AA,007150,,
-21,"Alcol, g",00,LZ,,,
-22,"Acqua, g",869,AA,007150,,
+19,"Carboidrati solubili (MSE), g",10.7,AA,007150,,
+20,"Fibra alimentare totale, g",1.7,AA,007150,,
+21,"Alcol, g",0.0,LZ,,,
+22,"Acqua, g",86.9,AA,007150,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",02,AA,007150,,
+24,"Ferro, mg",0.2,AA,007150,,
 25,"Calcio, mg",5,AA,007150,,
 26,"Sodio, mg",tr,AA,007150,,
 27,"Potassio, mg",132,AA,007150,,
 28,"Fosforo, mg",9,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
-29,"Zinco, mg",010,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
+29,"Zinco, mg",0.10,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
 30,"Magnesio, mg",5,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
-31,"Rame, mg",004,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
+31,"Rame, mg",0.04,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
 32,"Selenio, µg",tr,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
 33,"Cloro, mg",tr,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
 34,"Iodio, µg",tr,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
-35,"Manganese, mg",010,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
+35,"Manganese, mg",0.10,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
 36,"Zolfo, mg",6,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",003,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
-39,"Vitamina B2, Riboflavina, mg",003,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
+38,"Vitamina B1, Tiamina, mg",0.03,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
+39,"Vitamina B2, Riboflavina, mg",0.03,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
 40,"Vitamina C, mg",5,AA,007150,,
-41,"Niacina, mg",010,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
-42,"Vitamina B6, mg",011,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
+41,"Niacina, mg",0.10,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
+42,"Vitamina B6, mg",0.11,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
 43,"Folati totali, µg",1,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
 44,"Acido pantotenico, mg",tr,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
-45,"Biotina, µg",12,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
-46,"Vitamina B12, µg",00,LZ,,,
+45,"Biotina, µg",1.2,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
+46,"Vitamina B12, µg",0.0,LZ,,,
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",3,L,19,3A,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
 50,"Retinolo, µg",0,LZ,,,
 51,"ß-carotene eq., µg",15,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
-52,"Vitamina E (ATE), mg",059,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
-53,"Vitamina D, µg",000,LZ,,,
-54,"Vitamina K, µg",060,DI,09004,2,"""Apples, raw, without skin"" WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 12.76g, SUGAR 10.10g"
+52,"Vitamina E (ATE), mg",0.59,L,19,2,"""Apples, Golden Delicious, raw"" WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH tr"
+53,"Vitamina D, µg",0.00,LZ,,,
+54,"Vitamina K, µg",0.60,DI,09004,2,"""Apples, raw, without skin"" WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 12.76g, SUGAR 10.10g"
 55,ACIDI GRASSI,,,,,
-56,"Acidi grassi saturi totali, g",002,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, FASAT 0.021g"
-57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, F4-10:0 0g"
-58,"Acido laurico, g",000,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F12:0 0g"
-59,"Acido miristico, g",000,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F14:0 0g"
-60,"Acido palmitico, g",001,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F16:0 0,017g"
-61,"Acido stearico, g",000,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F18:0 0,002g"
-62,"Acidi grassi monoinsaturi totali, g",000,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, FAMS 0,005g"
-63,"Acido miristoleico, g",000,87,,,
-64,"Acido palmitoleico, g",000,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F16:1CN7 0g"
-65,"Acido oleico, g",000,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F18:1 0,005g"
-66,"Acidi eicosenoico, g",000,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F20:1 0g"
-67,"Acido erucico, g",000,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F22:1CN9 0g"
-68,"Acidi grassi polinsaturi totali, g",003,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, FAPU 0,037g"
-69,"Acido linoleico, g",002,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F18:2 0,031g"
-70,"Acido linolenico, g",001,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F18:3 0,007g"
-71,"Acido arachidonico, g",000,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F20:4N6 0g"
-72,"Acido eicosapentaenoico (EPA), g",000,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, F20:5N3 0g"
-73,"Acido decosaesaenoico (DHA), g",000,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, F22:6 0g"
-74,"Altri acidi grassi polinsaturi, g",000,86,,,
+56,"Acidi grassi saturi totali, g",0.02,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, FASAT 0.021g"
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, F4-10:0 0g"
+58,"Acido laurico, g",0.00,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F12:0 0g"
+59,"Acido miristico, g",0.00,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F14:0 0g"
+60,"Acido palmitico, g",0.01,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F16:0 0,017g"
+61,"Acido stearico, g",0.00,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F18:0 0,002g"
+62,"Acidi grassi monoinsaturi totali, g",0.00,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, FAMS 0,005g"
+63,"Acido miristoleico, g",0.00,87,,,
+64,"Acido palmitoleico, g",0.00,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F16:1CN7 0g"
+65,"Acido oleico, g",0.00,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F18:1 0,005g"
+66,"Acidi eicosenoico, g",0.00,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F20:1 0g"
+67,"Acido erucico, g",0.00,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F22:1CN9 0g"
+68,"Acidi grassi polinsaturi totali, g",0.03,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, FAPU 0,037g"
+69,"Acido linoleico, g",0.02,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F18:2 0,031g"
+70,"Acido linolenico, g",0.01,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F18:3 0,007g"
+71,"Acido arachidonico, g",0.00,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, SUGAR 10,1g, F20:4N6 0g"
+72,"Acido eicosapentaenoico (EPA), g",0.00,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, F20:5N3 0g"
+73,"Acido decosaesaenoico (DHA), g",0.00,DI,09004,3A,"Apples, Raw, Without Skin WATER 86,67g, PROT 0,27g, FAT 0,13g, CHO 11,46g, F22:6 0g"
+74,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 75,AMINOACIDI,,,,,
 76,"Triptofano, mg",1,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, TRP 0.001g"
 77,"Treonina, mg",9,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, THR 0.006g"
@@ -93,9 +93,9 @@
 92,"Prolina, mg",9,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, PRO 0.006g"
 93,"Serina, mg",16,DI,09004,3A,"Apples, Raw, Without Skin WATER 86.67g, PROT 0.27g, FAT 0.13g, CHO 11.46g, SUGAR 10.1g, SER 0.011g"
 94,ZUCCHERI,,,,,
-95,"Glucosio, g",24,L,19,3A,"Apples, Golden Delicious, Raw WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH TRg, GLUS 2.4g"
-96,"Fruttosio, g",70,L,19,3A,"Apples, Golden Delicious, Raw WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH TRg, FRUS 7.1g"
-97,"Galattosio, g",00,LZ,,,
-98,"Saccarosio (MSE), g",14,L,19,3A,"Apples, Golden Delicious, Raw WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH TRg, SUCS 1.4g"
-99,"Maltosio (MSE), g",00,L,19,3A,"Apples, Golden Delicious, Raw WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH TRg, MALS 0g"
-100,"Lattosio (MSE), g",00,LZ,,,
+95,"Glucosio, g",2.4,L,19,3A,"Apples, Golden Delicious, Raw WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH TRg, GLUS 2.4g"
+96,"Fruttosio, g",7.0,L,19,3A,"Apples, Golden Delicious, Raw WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH TRg, FRUS 7.1g"
+97,"Galattosio, g",0.0,LZ,,,
+98,"Saccarosio (MSE), g",1.4,L,19,3A,"Apples, Golden Delicious, Raw WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH TRg, SUCS 1.4g"
+99,"Maltosio (MSE), g",0.0,L,19,3A,"Apples, Golden Delicious, Raw WATER 85.5g, PROT 0.3g, FAT 0.2g, CHO 10.8g, SUGAR 10.8g, STARCH TRg, MALS 0g"
+100,"Lattosio (MSE), g",0.0,LZ,,,

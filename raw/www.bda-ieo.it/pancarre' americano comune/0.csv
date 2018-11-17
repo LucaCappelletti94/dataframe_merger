@@ -9,32 +9,32 @@
 8,"Energia, Ric con fibra, kJ",1041,86,,,
 9,"Energia, ricalcolata, kcal",241,86,,,
 10,"Energia, Ric con fibra, kcal",246,86,,,
-11,"Proteine totali, g",82,28,18069,,
-12,"Proteine animali, g",00,28,18069,,
-13,"Proteine vegetali, g",82,28,18069,,
-14,"Lipidi totali, g",36,28,18069,,
-15,"Lipidi animali, g",00,28,18069,,
-16,"Lipidi vegetali, g",36,28,18069,,
+11,"Proteine totali, g",8.2,28,18069,,
+12,"Proteine animali, g",0.0,28,18069,,
+13,"Proteine vegetali, g",8.2,28,18069,,
+14,"Lipidi totali, g",3.6,28,18069,,
+15,"Lipidi animali, g",0.0,28,18069,,
+16,"Lipidi vegetali, g",3.6,28,18069,,
 17,"Colesterolo, mg",1,28,18069,,
-18,"Carboidrati disponibili (MSE), g",469,28,18069,,GD = carboidrati tot - fibra grezza - fibra alimentare GD = 49.5g - 0.3g - 2.3g
-19,"Amido (MSE), g",439,07,102,,
-20,"Carboidrati solubili (MSE), g",30,07,102,,"RIPR da ALIMENTO SIMILE GD=46.8g, GS=3g, amido=43.8g"
-21,"Fibra alimentare totale, g",23,28,18069,,metodo AOAC (appendice delle tabelle)
-22,"Alcol, g",00,28,18069,,
-23,"Acqua, g",367,28,18069,,
+18,"Carboidrati disponibili (MSE), g",46.9,28,18069,,GD = carboidrati tot - fibra grezza - fibra alimentare GD = 49.5g - 0.3g - 2.3g
+19,"Amido (MSE), g",43.9,07,102,,
+20,"Carboidrati solubili (MSE), g",3.0,07,102,,"RIPR da ALIMENTO SIMILE GD=46.8g, GS=3g, amido=43.8g"
+21,"Fibra alimentare totale, g",2.3,28,18069,,metodo AOAC (appendice delle tabelle)
+22,"Alcol, g",0.0,28,18069,,
+23,"Acqua, g",36.7,28,18069,,
 24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-25,"Ferro, mg",30,28,18069,,
+25,"Ferro, mg",3.0,28,18069,,
 26,"Calcio, mg",108,28,18069,,
 27,"Sodio, mg",538,28,18069,,
 28,"Potassio, mg",119,28,18069,,
 29,"Fosforo, mg",94,28,18069,,
-30,"Zinco, mg",062,28,18069,,
+30,"Zinco, mg",0.62,28,18069,,
 31,VITAMINE IDROSOLUBILI,,,,,
-32,"Vitamina B1, Tiamina, mg",047,28,18069,,
-33,"Vitamina B2, Riboflavina, mg",034,28,18069,,
+32,"Vitamina B1, Tiamina, mg",0.47,28,18069,,
+33,"Vitamina B2, Riboflavina, mg",0.34,28,18069,,
 34,"Vitamina C, mg",0,28,18069,,
-35,"Niacina, mg",400,28,18069,,
-36,"Vitamina B6, mg",006,28,18069,,
+35,"Niacina, mg",4.00,28,18069,,
+36,"Vitamina B6, mg",0.06,28,18069,,
 37,"Folati totali, µg",34,28,18069,,
 38,VITAMINE LIPOSOLUBILI,,,,,
 39,Retinolo equivalente,,,,,
@@ -42,12 +42,12 @@
 41,"Retinolo, µg",0,28,18069,,CALC
 42,"ß-carotene eq., µg",0,28,18069,,CALC
 43,"Vitamina E (ATE), mg",tr,07,102,,
-44,"Vitamina D, µg",000,07,102,,"per vit D ed E ALIMENTO SIMILE White bread sliced acqua=40.4g, lip=1.3g"
+44,"Vitamina D, µg",0.00,07,102,,"per vit D ed E ALIMENTO SIMILE White bread sliced acqua=40.4g, lip=1.3g"
 45,ACIDI GRASSI,,,,,
-46,"Acidi grassi saturi totali, g",081,28,18069,,nota USDA I valori relativi agli acidi grassi sono basati su un prodotto commerciale contenente grassi vegetali composti da olio di soia parzialmente idrogenato e olio di cotone
-47,"Acidi grassi monoinsaturi totali, g",161,28,18069,,
-48,"Acido oleico, g",160,28,18069,,
-49,"Acidi grassi polinsaturi totali, g",074,28,18069,,
-50,"Acido linoleico, g",071,28,18069,,
-51,"Acido linolenico, g",004,28,18069,,
-52,"Altri acidi grassi polinsaturi, g",000,86,,,
+46,"Acidi grassi saturi totali, g",0.81,28,18069,,nota USDA I valori relativi agli acidi grassi sono basati su un prodotto commerciale contenente grassi vegetali composti da olio di soia parzialmente idrogenato e olio di cotone
+47,"Acidi grassi monoinsaturi totali, g",1.61,28,18069,,
+48,"Acido oleico, g",1.60,28,18069,,
+49,"Acidi grassi polinsaturi totali, g",0.74,28,18069,,
+50,"Acido linoleico, g",0.71,28,18069,,
+51,"Acido linolenico, g",0.04,28,18069,,
+52,"Altri acidi grassi polinsaturi, g",0.00,86,,,

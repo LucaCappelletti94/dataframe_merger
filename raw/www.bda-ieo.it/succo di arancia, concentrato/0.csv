@@ -9,71 +9,71 @@
 8,"Energia, Ric con fibra, kJ",786,86,,,
 9,"Energia, ricalcolata, kcal",184,86,,,
 10,"Energia, Ric con fibra, kcal",184,86,,,
-11,"Proteine totali, g",29,L,284,,
-12,"Proteine animali, g",00,LZ,,,
-13,"Proteine vegetali, g",29,L,284,,
-14,"Lipidi totali, g",05,L,284,,
-15,"Lipidi animali, g",00,LZ,,,
-16,"Lipidi vegetali, g",05,L,284,,
+11,"Proteine totali, g",2.9,L,284,,
+12,"Proteine animali, g",0.0,LZ,,,
+13,"Proteine vegetali, g",2.9,L,284,,
+14,"Lipidi totali, g",0.5,L,284,,
+15,"Lipidi animali, g",0.0,LZ,,,
+16,"Lipidi vegetali, g",0.5,L,284,,
 17,"Colesterolo, mg",0,LZ,,,
-18,"Carboidrati disponibili (MSE), g",449,L,284,,
-19,"Amido (MSE), g",00,L,284,,
-20,"Carboidrati solubili (MSE), g",449,L,284,,
+18,"Carboidrati disponibili (MSE), g",44.9,L,284,,
+19,"Amido (MSE), g",0.0,L,284,,
+20,"Carboidrati solubili (MSE), g",44.9,L,284,,
 21,"Fibra alimentare totale, g",tr,L,284,,metodi Southgate e Englyst
-22,"Alcol, g",00,LZ,,,
-23,"Acqua, g",416,L,284,,
+22,"Alcol, g",0.0,LZ,,,
+23,"Acqua, g",41.6,L,284,,
 24,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-25,"Ferro, mg",04,L,284,,
+25,"Ferro, mg",0.4,L,284,,
 26,"Calcio, mg",36,L,284,,
 27,"Sodio, mg",10,L,284,,
 28,"Potassio, mg",880,L,284,,
 29,"Fosforo, mg",83,L,284,,
-30,"Zinco, mg",020,L,284,,
+30,"Zinco, mg",0.20,L,284,,
 31,"Magnesio, mg",46,BF,1127,,
-32,"Rame, mg",011,BF,1127,,
-33,"Selenio, µg",50,BF,1127,,
+32,"Rame, mg",0.11,BF,1127,,
+33,"Selenio, µg",5.0,BF,1127,,
 34,"Cloro, mg",17,BF,1127,,
 35,"Iodio, µg",11,BF,1127,,
-36,"Manganese, mg",010,BF,1127,,
+36,"Manganese, mg",0.10,BF,1127,,
 37,"Zolfo, mg",27,L,284,,
 38,VITAMINE IDROSOLUBILI,,,,,
-39,"Vitamina B1, Tiamina, mg",031,L,284,,
-40,"Vitamina B2, Riboflavina, mg",013,L,284,,
+39,"Vitamina B1, Tiamina, mg",0.31,L,284,,
+40,"Vitamina B2, Riboflavina, mg",0.13,L,284,,
 41,"Vitamina C, mg",210,L,284,,
-42,"Niacina, mg",130,L,284,,
-43,"Vitamina B6, mg",025,L,284,,
+42,"Niacina, mg",1.30,L,284,,
+43,"Vitamina B6, mg",0.25,L,284,,
 44,"Folati totali, µg",90,L,284,,
-45,"Acido pantotenico, mg",073,BF,1127,,
-46,"Biotina, µg",50,BF,1127,,
-47,"Vitamina B12, µg",00,LZ,,,
+45,"Acido pantotenico, mg",0.73,BF,1127,,
+46,"Biotina, µg",5.0,BF,1127,,
+47,"Vitamina B12, µg",0.0,LZ,,,
 48,VITAMINE LIPOSOLUBILI,,,,,
 49,Retinolo equivalente,,,,,
 50,"Retinolo eq. (RE), µg",28,L,284,3B,
 51,"Retinolo, µg",0,LZ,,,
 52,"ß-carotene eq., µg",170,L,284,,
-53,"Vitamina E (ATE), mg",068,L,284,,
-54,"Vitamina D, µg",000,LZ,,,
-55,"Vitamina K, µg",040,DI,09214,2,"""Orange juice, frozen concentrate, unsweetened, undiluted"" WATER 57.85g, PROT 2.39g, FAT 0.21g, CHO 38.17g, SUGAR 37.37g"
+53,"Vitamina E (ATE), mg",0.68,L,284,,
+54,"Vitamina D, µg",0.00,LZ,,,
+55,"Vitamina K, µg",0.40,DI,09214,2,"""Orange juice, frozen concentrate, unsweetened, undiluted"" WATER 57.85g, PROT 2.39g, FAT 0.21g, CHO 38.17g, SUGAR 37.37g"
 56,ACIDI GRASSI,,,,,
-57,"Acidi grassi saturi totali, g",006,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57.85g, PROT 2.39g, FAT 0.21g, CHO 37.37g, SUGAR 37.37g, FASAT 0.024g"
-58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",000,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57.85g, PROT 2.39g, FAT 0.21g, CHO 37.37g, F4-10:0 0g"
-59,"Acido laurico, g",000,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, F12:0 0g"
-60,"Acido miristico, g",000,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, SUGAR 37,37g, F14:0 0,001g"
-61,"Acido palmitico, g",005,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, SUGAR 37,37g, F16:0 0,022g"
-62,"Acido stearico, g",000,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, SUGAR 37,37g, F18:0 0,001g"
-63,"Acidi grassi monoinsaturi totali, g",009,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, SUGAR 37,37g, FAMS 0,038g"
-64,"Acido miristoleico, g",000,87,,,
-65,"Acido palmitoleico, g",001,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, SUGAR 37,37g, F16:1CN7 0,005g"
-66,"Acido oleico, g",008,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, SUGAR 37,37g, F18:1 0,033g"
-67,"Acidi eicosenoico, g",000,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, F20:1 0g"
-68,"Acido erucico, g",000,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, F22:1CN9 0g"
-69,"Acidi grassi polinsaturi totali, g",010,DI,09214,3A,"Orange Juice, Frozen Concen,Unsweet, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, FAPU 0,041g"
-70,"Acido linoleico, g",007,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, F18:2 0,03g"
-71,"Acido linolenico, g",003,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undil WATER 57,85g, PROT 2,39g, FAT 0,21g, F18:3 0,011g"
-72,"Acido arachidonico, g",000,DI,09214,3A,"Orange Juice, Frozen Conce,Unsweet, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, F20:4N6 0g"
-73,"Acido eicosapentaenoico (EPA), g",000,DI,09214,3A,"Orange Juice, Frozen Concen,Unswee, Und WATER 57,85g, PROT 2,39g, FAT 0,21g, F20:5N3 0g"
-74,"Acido decosaesaenoico (DHA), g",000,DI,09214,3A,"Orange Juice, Frozen Concent,Unsweet, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, F22:6 0g"
-75,"Altri acidi grassi polinsaturi, g",000,86,,,
+57,"Acidi grassi saturi totali, g",0.06,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57.85g, PROT 2.39g, FAT 0.21g, CHO 37.37g, SUGAR 37.37g, FASAT 0.024g"
+58,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.00,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57.85g, PROT 2.39g, FAT 0.21g, CHO 37.37g, F4-10:0 0g"
+59,"Acido laurico, g",0.00,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, F12:0 0g"
+60,"Acido miristico, g",0.00,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, SUGAR 37,37g, F14:0 0,001g"
+61,"Acido palmitico, g",0.05,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, SUGAR 37,37g, F16:0 0,022g"
+62,"Acido stearico, g",0.00,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, SUGAR 37,37g, F18:0 0,001g"
+63,"Acidi grassi monoinsaturi totali, g",0.09,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, SUGAR 37,37g, FAMS 0,038g"
+64,"Acido miristoleico, g",0.00,87,,,
+65,"Acido palmitoleico, g",0.01,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, SUGAR 37,37g, F16:1CN7 0,005g"
+66,"Acido oleico, g",0.08,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, SUGAR 37,37g, F18:1 0,033g"
+67,"Acidi eicosenoico, g",0.00,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, F20:1 0g"
+68,"Acido erucico, g",0.00,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, CHO 37,37g, F22:1CN9 0g"
+69,"Acidi grassi polinsaturi totali, g",0.10,DI,09214,3A,"Orange Juice, Frozen Concen,Unsweet, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, FAPU 0,041g"
+70,"Acido linoleico, g",0.07,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, F18:2 0,03g"
+71,"Acido linolenico, g",0.03,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undil WATER 57,85g, PROT 2,39g, FAT 0,21g, F18:3 0,011g"
+72,"Acido arachidonico, g",0.00,DI,09214,3A,"Orange Juice, Frozen Conce,Unsweet, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, F20:4N6 0g"
+73,"Acido eicosapentaenoico (EPA), g",0.00,DI,09214,3A,"Orange Juice, Frozen Concen,Unswee, Und WATER 57,85g, PROT 2,39g, FAT 0,21g, F20:5N3 0g"
+74,"Acido decosaesaenoico (DHA), g",0.00,DI,09214,3A,"Orange Juice, Frozen Concent,Unsweet, Undiluited WATER 57,85g, PROT 2,39g, FAT 0,21g, F22:6 0g"
+75,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 76,AMINOACIDI,,,,,
 77,"Triptofano, mg",8,DI,09214,3A,"Orange Juice, Frozen Conce,Unsweet, Undil WATER 57.85g, PROT 2.39g, FAT 0.21g, CHO 37.37g, TRP 0.007g"
 78,"Treonina, mg",33,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57.85g, PROT 2.39g, FAT 0.21g, THR 0.027g"
@@ -94,9 +94,9 @@
 93,"Prolina, mg",181,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57.85g, PROT 2.39g, FAT 0.21g, CHO 37.37g, SUGAR 37.37g, PRO 0.149g"
 94,"Serina, mg",55,DI,09214,3A,"Orange Juice, Frozen Concentrate,Unsweetened, Undiluited WATER 57.85g, PROT 2.39g, FAT 0.21g, CHO 37.37g, SUGAR 37.37g, SER 0.045g"
 95,ZUCCHERI,,,,,
-96,"Glucosio, g",117,BF,1127,,
-97,"Fruttosio, g",123,BF,1127,,
-98,"Galattosio, g",00,LZ,,,
-99,"Saccarosio (MSE), g",209,BF,1127,,
-100,"Maltosio (MSE), g",00,BF,1127,,
-101,"Lattosio (MSE), g",00,BF,1127,,
+96,"Glucosio, g",11.7,BF,1127,,
+97,"Fruttosio, g",12.3,BF,1127,,
+98,"Galattosio, g",0.0,LZ,,,
+99,"Saccarosio (MSE), g",20.9,BF,1127,,
+100,"Maltosio (MSE), g",0.0,BF,1127,,
+101,"Lattosio (MSE), g",0.0,BF,1127,,

@@ -8,45 +8,45 @@
 7,"Energia, Ric con fibra, kJ",138,86,,,
 8,"Energia, ricalcolata, kcal",23,86,,,
 9,"Energia, Ric con fibra, kcal",33,86,,,
-10,"Proteine totali, g",19,02,344,,
-11,"Proteine animali, g",00,02,344,,
-12,"Proteine vegetali, g",19,02,344,,
-13,"Lipidi totali, g",01,02,344,,
-14,"Lipidi animali, g",00,02,344,,
-15,"Lipidi vegetali, g",01,02,344,,
+10,"Proteine totali, g",1.9,02,344,,
+11,"Proteine animali, g",0.0,02,344,,
+12,"Proteine vegetali, g",1.9,02,344,,
+13,"Lipidi totali, g",0.1,02,344,,
+14,"Lipidi animali, g",0.0,02,344,,
+15,"Lipidi vegetali, g",0.1,02,344,,
 16,"Colesterolo, mg",0,02,344,,
-17,"Carboidrati disponibili (MSE), g",38,02,344,,letteratura
-18,"Amido (MSE), g",00,02,344,,letteratura
-19,"Carboidrati solubili (MSE), g",38,02,344,,letteratura
-20,"Fibra alimentare totale, g",51,09,219,,per i nutrienti 09/219 non RIPR acqua=88.8g metodo Southgate
-21,"Alcol, g",00,02,344,,
-22,"Acqua, g",880,02,344,,
+17,"Carboidrati disponibili (MSE), g",3.8,02,344,,letteratura
+18,"Amido (MSE), g",0.0,02,344,,letteratura
+19,"Carboidrati solubili (MSE), g",3.8,02,344,,letteratura
+20,"Fibra alimentare totale, g",5.1,09,219,,per i nutrienti 09/219 non RIPR acqua=88.8g metodo Southgate
+21,"Alcol, g",0.0,02,344,,
+22,"Acqua, g",88.0,02,344,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",05,02,344,,
+24,"Ferro, mg",0.5,02,344,,
 25,"Calcio, mg",52,02,344,,
 26,"Sodio, mg",91,09,219,,
 27,"Potassio, mg",460,09,219,,
 28,"Fosforo, mg",90,02,344,,
-29,"Zinco, mg",030,09,219,,
+29,"Zinco, mg",0.30,09,219,,
 30,VITAMINE IDROSOLUBILI,,,,,
-31,"Vitamina B1, Tiamina, mg",007,02,344,,
-32,"Vitamina B2, Riboflavina, mg",011,02,344,,
+31,"Vitamina B1, Tiamina, mg",0.07,02,344,,
+32,"Vitamina B2, Riboflavina, mg",0.11,02,344,,
 33,"Vitamina C, mg",6,02,344,,
-34,"Niacina, mg",050,02,344,,
-35,"Vitamina B6, mg",008,09,219,,
+34,"Niacina, mg",0.50,02,344,,
+35,"Vitamina B6, mg",0.08,09,219,,
 36,"Folati totali, µg",51,09,219,,
 37,VITAMINE LIPOSOLUBILI,,,,,
 38,Retinolo equivalente,,,,,
 39,"Retinolo eq. (RE), µg",0,02,344,,
 40,"Retinolo, µg",0,02,344,,
 41,"ß-carotene eq., µg",0,02,344,,CALC
-42,"Vitamina E (ATE), mg",052,40,,,ALIMENTO SIMILE Celery root (moisture 85.9%) alfa-tocoferolo=0.50mg alfa-tocotrienolo=0.08mg beta-tocoferolo=0.02mg gamma-tocoferolo=0.07mg
-43,"Vitamina D, µg",000,02,344,,
+42,"Vitamina E (ATE), mg",0.52,40,,,ALIMENTO SIMILE Celery root (moisture 85.9%) alfa-tocoferolo=0.50mg alfa-tocotrienolo=0.08mg beta-tocoferolo=0.02mg gamma-tocoferolo=0.07mg
+43,"Vitamina D, µg",0.00,02,344,,
 44,ACIDI GRASSI,,,,,
-45,"Acidi grassi saturi totali, g",003,21,11143,,RIPR riferito a Celery lip=0.14g saturi=0.037g 18:1=0.026g mono=0.027g 18:2=0.069g 18:3=0 altri PUFA=0 PUFA=0.069g
-46,"Acidi grassi monoinsaturi totali, g",002,21,11143,,
-47,"Acido oleico, g",002,21,11143,,
-48,"Acidi grassi polinsaturi totali, g",005,21,11143,,
-49,"Acido linoleico, g",005,21,11143,,
-50,"Acido linolenico, g",000,21,11143,,
-51,"Altri acidi grassi polinsaturi, g",000,86,,,
+45,"Acidi grassi saturi totali, g",0.03,21,11143,,RIPR riferito a Celery lip=0.14g saturi=0.037g 18:1=0.026g mono=0.027g 18:2=0.069g 18:3=0 altri PUFA=0 PUFA=0.069g
+46,"Acidi grassi monoinsaturi totali, g",0.02,21,11143,,
+47,"Acido oleico, g",0.02,21,11143,,
+48,"Acidi grassi polinsaturi totali, g",0.05,21,11143,,
+49,"Acido linoleico, g",0.05,21,11143,,
+50,"Acido linolenico, g",0.00,21,11143,,
+51,"Altri acidi grassi polinsaturi, g",0.00,86,,,

@@ -8,45 +8,45 @@
 7,"Energia, Ric con fibra, kJ",1226,86,,,
 8,"Energia, ricalcolata, kcal",256,86,,,
 9,"Energia, Ric con fibra, kcal",291,86,,,
-10,"Proteine totali, g",144,09,805,,
-11,"Proteine animali, g",00,09,805,,
-12,"Proteine vegetali, g",144,09,805,,
-13,"Lipidi totali, g",40,09,805,,
-14,"Lipidi animali, g",00,09,805,,
-15,"Lipidi vegetali, g",40,09,805,,
+10,"Proteine totali, g",14.4,09,805,,
+11,"Proteine animali, g",0.0,09,805,,
+12,"Proteine vegetali, g",14.4,09,805,,
+13,"Lipidi totali, g",4.0,09,805,,
+14,"Lipidi animali, g",0.0,09,805,,
+15,"Lipidi vegetali, g",4.0,09,805,,
 16,"Colesterolo, mg",0,09,805,,
-17,"Carboidrati disponibili (MSE), g",432,09,805,,calcolati per differenza
+17,"Carboidrati disponibili (MSE), g",43.2,09,805,,calcolati per differenza
 18,"Amido (MSE), g",tr,09,805,,
-19,"Carboidrati solubili (MSE), g",432,09,805,,GS=GD quando amido =tracce
-20,"Fibra alimentare totale, g",178,12,02003,,non RIPR acqua=6.43g
-21,"Alcol, g",00,09,805,,
-22,"Acqua, g",64,09,805,,
+19,"Carboidrati solubili (MSE), g",43.2,09,805,,GS=GD quando amido =tracce
+20,"Fibra alimentare totale, g",17.8,12,02003,,non RIPR acqua=6.43g
+21,"Alcol, g",0.0,09,805,,
+22,"Acqua, g",6.4,09,805,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",420,09,805,,
+24,"Ferro, mg",42.0,09,805,,
 25,"Calcio, mg",2110,09,805,,
 26,"Sodio, mg",34,09,805,,
 27,"Potassio, mg",3430,09,805,,
 28,"Fosforo, mg",490,09,805,,
-29,"Zinco, mg",580,09,805,,
+29,"Zinco, mg",5.80,09,805,,
 30,VITAMINE IDROSOLUBILI,,,,,
-31,"Vitamina B1, Tiamina, mg",015,09,805,,
-32,"Vitamina B2, Riboflavina, mg",032,09,805,,
+31,"Vitamina B1, Tiamina, mg",0.15,09,805,,
+32,"Vitamina B2, Riboflavina, mg",0.32,09,805,,
 33,"Vitamina C, mg",0,09,805,,
-34,"Niacina, mg",690,09,805,,
-35,"Vitamina B6, mg",013,12,02044,,ALIMENTO SIMILE Basil fresh acqua=90.96g
+34,"Niacina, mg",6.90,09,805,,
+35,"Vitamina B6, mg",0.13,12,02044,,ALIMENTO SIMILE Basil fresh acqua=90.96g
 36,"Folati totali, µg",0,09,805,,
 37,VITAMINE LIPOSOLUBILI,,,,,
 38,Retinolo equivalente,,,,,
 39,"Retinolo eq. (RE), µg",938,09,805,,CALC
 40,"Retinolo, µg",0,09,805,,
 41,"ß-carotene eq., µg",5630,09,805,,
-42,"Vitamina E (ATE), mg",915,09,845,,ALIMENTO SIMILE Prezzemolo secco acqua=9.0g
-43,"Vitamina D, µg",000,09,805,,
+42,"Vitamina E (ATE), mg",9.15,09,845,,ALIMENTO SIMILE Prezzemolo secco acqua=9.0g
+43,"Vitamina D, µg",0.00,09,805,,
 44,ACIDI GRASSI,,,,,
-45,"Acidi grassi saturi totali, g",027,12,02044,,"RIPR riferito a Basil, fresh lip=0.61g saturi=0.041g 18:1=0.088g mono=0.088g 18:2=0.073g 18:3=0.316g altri PUFA=0 PUFA=0.389g"
-46,"Acidi grassi monoinsaturi totali, g",058,12,02044,,
-47,"Acido oleico, g",058,12,02044,,
-48,"Acidi grassi polinsaturi totali, g",255,12,02044,,
-49,"Acido linoleico, g",048,12,02044,,
-50,"Acido linolenico, g",207,12,02044,,
-51,"Altri acidi grassi polinsaturi, g",000,86,,,
+45,"Acidi grassi saturi totali, g",0.27,12,02044,,"RIPR riferito a Basil, fresh lip=0.61g saturi=0.041g 18:1=0.088g mono=0.088g 18:2=0.073g 18:3=0.316g altri PUFA=0 PUFA=0.389g"
+46,"Acidi grassi monoinsaturi totali, g",0.58,12,02044,,
+47,"Acido oleico, g",0.58,12,02044,,
+48,"Acidi grassi polinsaturi totali, g",2.55,12,02044,,
+49,"Acido linoleico, g",0.48,12,02044,,
+50,"Acido linolenico, g",2.07,12,02044,,
+51,"Altri acidi grassi polinsaturi, g",0.00,86,,,

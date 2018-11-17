@@ -8,73 +8,73 @@
 7,"Energia, Ric con fibra, kJ",1602,86,,,
 8,"Energia, ricalcolata, kcal",364,86,,,
 9,"Energia, Ric con fibra, kcal",389,86,,,
-10,"Proteine totali, g",35,AO,007520,,
-11,"Proteine animali, g",00,LZ,,,
-12,"Proteine vegetali, g",35,AO,007520,,
-13,"Lipidi totali, g",350,AO,007520,,
-14,"Lipidi animali, g",00,LZ,,,
-15,"Lipidi vegetali, g",350,AO,007520,,
+10,"Proteine totali, g",3.5,AO,007520,,
+11,"Proteine animali, g",0.0,LZ,,,
+12,"Proteine vegetali, g",3.5,AO,007520,,
+13,"Lipidi totali, g",35.0,AO,007520,,
+14,"Lipidi animali, g",0.0,LZ,,,
+15,"Lipidi vegetali, g",35.0,AO,007520,,
 16,"Colesterolo, mg",0,LZ,,,
-17,"Carboidrati disponibili (MSE), g",94,AO,007520,,
-18,"Amido (MSE), g",00,AO,007520,,
-19,"Carboidrati solubili (MSE), g",94,AO,007520,,
-20,"Fibra alimentare totale, g",122,L,816,6B,"""Coconut, fresh"" WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g"
-21,"Alcol, g",00,LZ,,,
-22,"Acqua, g",509,AO,007520,,
+17,"Carboidrati disponibili (MSE), g",9.4,AO,007520,,
+18,"Amido (MSE), g",0.0,AO,007520,,
+19,"Carboidrati solubili (MSE), g",9.4,AO,007520,,
+20,"Fibra alimentare totale, g",12.2,L,816,6B,"""Coconut, fresh"" WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g"
+21,"Alcol, g",0.0,LZ,,,
+22,"Acqua, g",50.9,AO,007520,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",17,AO,007520,,
+24,"Ferro, mg",1.7,AO,007520,,
 25,"Calcio, mg",13,AO,007520,,
 26,"Sodio, mg",23,AO,007520,,
 27,"Potassio, mg",256,AO,007520,,
 28,"Fosforo, mg",95,AO,007520,,
-29,"Zinco, mg",050,AO,007520,,
+29,"Zinco, mg",0.50,AO,007520,,
 30,"Magnesio, mg",5,AO,007520,,
-31,"Rame, mg",032,AO,007520,,
-32,"Selenio, µg",08,AO,007520,,
+31,"Rame, mg",0.32,AO,007520,,
+32,"Selenio, µg",0.8,AO,007520,,
 33,"Cloro, mg",110,L,816,6B,"""Coconut, fresh"" WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g"
 34,"Iodio, µg",1,L,816,6B,"""Coconut, fresh"" WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g"
-35,"Manganese, mg",100,L,816,6B,"""Coconut, fresh"" WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g"
+35,"Manganese, mg",1.00,L,816,6B,"""Coconut, fresh"" WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g"
 36,"Zolfo, mg",44,L,816,6B,"""Coconut, fresh"" WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g"
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",005,AO,007520,,
-39,"Vitamina B2, Riboflavina, mg",002,AO,007520,,
+38,"Vitamina B1, Tiamina, mg",0.05,AO,007520,,
+39,"Vitamina B2, Riboflavina, mg",0.02,AO,007520,,
 40,"Vitamina C, mg",3,AO,007520,,
-41,"Niacina, mg",050,AO,007520,,
-42,"Vitamina B6, mg",005,L,816,6B,"""Coconut, fresh"" WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g"
+41,"Niacina, mg",0.50,AO,007520,,
+42,"Vitamina B6, mg",0.05,L,816,6B,"""Coconut, fresh"" WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g"
 43,"Folati totali, µg",26,L,816,6B,"""Coconut, fresh"" WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g"
-44,"Acido pantotenico, mg",030,L,816,6B,"""Coconut, fresh"" WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g"
-45,"Biotina, µg",27,DO,11B10173,2,"""Coconut, fresh, mature fruit, flesh"" WATER 51.4g, PROT 3.4g, FAT 30.1g, CHO 3.4g, SUGAR 3.1g"
-46,"Vitamina B12, µg",00,LZ,,,
+44,"Acido pantotenico, mg",0.30,L,816,6B,"""Coconut, fresh"" WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g"
+45,"Biotina, µg",2.7,DO,11B10173,2,"""Coconut, fresh, mature fruit, flesh"" WATER 51.4g, PROT 3.4g, FAT 30.1g, CHO 3.4g, SUGAR 3.1g"
+46,"Vitamina B12, µg",0.0,LZ,,,
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",0,AO,007520,,
 50,"Retinolo, µg",0,LZ,,,
 51,"ß-carotene eq., µg",0,AO,007520,3B,
-52,"Vitamina E (ATE), mg",073,L,816,6B,"""Coconut, fresh"" WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g"
-53,"Vitamina D, µg",000,LZ,,,
-54,"Vitamina K, µg",020,DI,12104,2,"""Nuts, coconut meat, raw"" WATER 46.99g, PROT 3.33g, FAT 33.49g, CHO 15.23g, SUGAR 6.23g"
+52,"Vitamina E (ATE), mg",0.73,L,816,6B,"""Coconut, fresh"" WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g"
+53,"Vitamina D, µg",0.00,LZ,,,
+54,"Vitamina K, µg",0.20,DI,12104,2,"""Nuts, coconut meat, raw"" WATER 46.99g, PROT 3.33g, FAT 33.49g, CHO 15.23g, SUGAR 6.23g"
 55,ACIDI GRASSI,,,,,
-56,"Acidi grassi saturi totali, g",3093,AO,007520,,
-57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",519,AO,007520,,
-58,"Acido laurico, g",1618,AO,007520,,
-59,"Acido miristico, g",536,AO,007520,,
-60,"Acido palmitico, g",305,AO,007520,,
-61,"Acido stearico, g",081,AO,007520,,
-62,"Acido arachidico, g",034,AO,007520,,
-63,"Acido beenico, g",000,AO,007520,,
-64,"Acidi grassi monoinsaturi totali, g",238,AO,007520,,
-65,"Acido miristoleico, g",000,AO,007520,,
-66,"Acido palmitoleico, g",014,AO,007520,,
-67,"Acido oleico, g",224,AO,007520,,
-68,"Acidi eicosenoico, g",000,AO,007520,,
-69,"Acido erucico, g",000,AO,007520,,
-70,"Acidi grassi polinsaturi totali, g",061,AO,007520,,
-71,"Acido linoleico, g",061,AO,007520,,
-72,"Acido linolenico, g",000,AO,007520,,
-73,"Acido arachidonico, g",000,AO,007520,,
-74,"Acido eicosapentaenoico (EPA), g",000,AO,007520,,
-75,"Acido decosaesaenoico (DHA), g",000,AO,007520,,
-76,"Altri acidi grassi polinsaturi, g",000,86,,,
+56,"Acidi grassi saturi totali, g",30.93,AO,007520,,
+57,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",5.19,AO,007520,,
+58,"Acido laurico, g",16.18,AO,007520,,
+59,"Acido miristico, g",5.36,AO,007520,,
+60,"Acido palmitico, g",3.05,AO,007520,,
+61,"Acido stearico, g",0.81,AO,007520,,
+62,"Acido arachidico, g",0.34,AO,007520,,
+63,"Acido beenico, g",0.00,AO,007520,,
+64,"Acidi grassi monoinsaturi totali, g",2.38,AO,007520,,
+65,"Acido miristoleico, g",0.00,AO,007520,,
+66,"Acido palmitoleico, g",0.14,AO,007520,,
+67,"Acido oleico, g",2.24,AO,007520,,
+68,"Acidi eicosenoico, g",0.00,AO,007520,,
+69,"Acido erucico, g",0.00,AO,007520,,
+70,"Acidi grassi polinsaturi totali, g",0.61,AO,007520,,
+71,"Acido linoleico, g",0.61,AO,007520,,
+72,"Acido linolenico, g",0.00,AO,007520,,
+73,"Acido arachidonico, g",0.00,AO,007520,,
+74,"Acido eicosapentaenoico (EPA), g",0.00,AO,007520,,
+75,"Acido decosaesaenoico (DHA), g",0.00,AO,007520,,
+76,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 77,AMINOACIDI,,,,,
 78,"Triptofano, mg",41,DI,12104,3B,"Nuts, Coconut Meat, Raw WATER 46.99g, PROT 3.33g, FAT 33.49g, CHO 6.23g, SUGAR 6.23g, TRP 0.039g"
 79,"Treonina, mg",127,DI,12104,3B,"Nuts, Coconut Meat, Raw WATER 46.99g, PROT 3.33g, FAT 33.49g, CHO 6.23g, SUGAR 6.23g, THR 0.121g"
@@ -97,7 +97,7 @@
 96,ZUCCHERI,,,,,
 97,"Glucosio, g",tr,L,816,3B,"Coconut, Fresh WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g, GLUS TRg"
 98,"Fruttosio, g",tr,L,816,3B,"Coconut, Fresh WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g, FRUS TRg"
-99,"Galattosio, g",00,LZ,,,
-100,"Saccarosio (MSE), g",94,L,816,3B,"Coconut, Fresh WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g, SUCS 3.7g"
-101,"Maltosio (MSE), g",00,L,816,3B,"Coconut, Fresh WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g, MALS 0g"
-102,"Lattosio (MSE), g",00,LZ,,,
+99,"Galattosio, g",0.0,LZ,,,
+100,"Saccarosio (MSE), g",9.4,L,816,3B,"Coconut, Fresh WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g, SUCS 3.7g"
+101,"Maltosio (MSE), g",0.0,L,816,3B,"Coconut, Fresh WATER 45g, PROT 3.2g, FAT 36g, CHO 3.7g, SUGAR 3.7g, MALS 0g"
+102,"Lattosio (MSE), g",0.0,LZ,,,

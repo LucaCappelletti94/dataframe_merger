@@ -8,72 +8,72 @@
 7,"Energia, Ric con fibra, kJ",198,86,,,
 8,"Energia, ricalcolata, kcal",46,86,,,
 9,"Energia, Ric con fibra, kcal",47,86,,,
-10,"Proteine totali, g",40,84,,,"""Extra light - Pesca, frutti di bosco"" Muller - aprile 2002 sito internet: www.muller.it"
-11,"Proteine animali, g",40,84,,,
-12,"Proteine vegetali, g",00,84,,,
-13,"Lipidi totali, g",01,84,,,
-14,"Lipidi animali, g",01,84,,,
-15,"Lipidi vegetali, g",00,84,,,
+10,"Proteine totali, g",4.0,84,,,"""Extra light - Pesca, frutti di bosco"" Muller - aprile 2002 sito internet: www.muller.it"
+11,"Proteine animali, g",4.0,84,,,
+12,"Proteine vegetali, g",0.0,84,,,
+13,"Lipidi totali, g",0.1,84,,,
+14,"Lipidi animali, g",0.1,84,,,
+15,"Lipidi vegetali, g",0.0,84,,,
 16,"Colesterolo, mg",2,AO,152000,2,"""Yogurt di latte scremato"" acqua 89g, lip 0.9g, prot 3.3g."
-17,"Carboidrati disponibili (MSE), g",78,84,,,
-18,"Amido (MSE), g",00,84,,,
-19,"Carboidrati solubili (MSE), g",78,84,,,
-20,"Fibra alimentare totale, g",02,03,1019,2,"""Yogurt magro alla frutta"" acqua 77g, lip 1.6g, prot 3.4g, GD 19.3g"
-21,"Alcol, g",00,84,,,
-22,"Acqua, g",883,86,,,
+17,"Carboidrati disponibili (MSE), g",7.8,84,,,
+18,"Amido (MSE), g",0.0,84,,,
+19,"Carboidrati solubili (MSE), g",7.8,84,,,
+20,"Fibra alimentare totale, g",0.2,03,1019,2,"""Yogurt magro alla frutta"" acqua 77g, lip 1.6g, prot 3.4g, GD 19.3g"
+21,"Alcol, g",0.0,84,,,
+22,"Acqua, g",88.3,86,,,
 23,MINERALI ed ELEMENTI IN TRACCIA,,,,,
-24,"Ferro, mg",01,AO,151000,2,"""Yogurt da latte, parzialmente scremato"" acqua 89g, prot 3.4g, lip 1.7g"
+24,"Ferro, mg",0.1,AO,151000,2,"""Yogurt da latte, parzialmente scremato"" acqua 89g, prot 3.4g, lip 1.7g"
 25,"Calcio, mg",120,AO,151000,2,
 26,"Sodio, mg",45,AO,151000,2,
 27,"Potassio, mg",185,AO,151000,2,
 28,"Fosforo, mg",94,AO,151000,2,
-29,"Zinco, mg",050,08,190,2,"""Yogurt, low fat, fruit"" acqua 77g, prot 4.1g, lip 0.7g"
+29,"Zinco, mg",0.50,08,190,2,"""Yogurt, low fat, fruit"" acqua 77g, prot 4.1g, lip 0.7g"
 30,"Magnesio, mg",15,08,190,2,
 31,"Rame, mg",tr,08,190,2,
-32,"Selenio, µg",10,08,190,2,
+32,"Selenio, µg",1.0,08,190,2,
 33,"Cloro, mg",130,08,190,2,
 34,"Iodio, µg",48,08,190,2,
 35,"Manganese, mg",tr,08,190,2,
 36,"Zolfo, mg",38,08,190,2,
 37,VITAMINE IDROSOLUBILI,,,,,
-38,"Vitamina B1, Tiamina, mg",004,AO,151000,2,
-39,"Vitamina B2, Riboflavina, mg",018,AO,151000,2,
+38,"Vitamina B1, Tiamina, mg",0.04,AO,151000,2,
+39,"Vitamina B2, Riboflavina, mg",0.18,AO,151000,2,
 40,"Vitamina C, mg",1,AO,151000,2,
-41,"Niacina, mg",2100,AO,151000,2,
-42,"Vitamina B6, mg",008,08,190,2,
+41,"Niacina, mg",21.00,AO,151000,2,
+42,"Vitamina B6, mg",0.08,08,190,2,
 43,"Folati totali, µg",16,08,190,2,
-44,"Acido pantotenico, mg",033,08,190,2,
-45,"Biotina, µg",23,08,190,2,
-46,"Vitamina B12, µg",02,08,190,2,
+44,"Acido pantotenico, mg",0.33,08,190,2,
+45,"Biotina, µg",2.3,08,190,2,
+46,"Vitamina B12, µg",0.2,08,190,2,
 47,VITAMINE LIPOSOLUBILI,,,,,
 48,Retinolo equivalente,,,,,
 49,"Retinolo eq. (RE), µg",11,08,190,3B,
 50,"Retinolo, µg",10,08,190,2,
 51,"ß-carotene eq., µg",4,08,190,2,
 52,"Vitamina E (ATE), mg",tr,AO,152000,2,
-53,"Vitamina D, µg",001,08,190,2,
+53,"Vitamina D, µg",0.01,08,190,2,
 54,ACIDI GRASSI,,,,,
-55,"Acidi grassi saturi totali, g",006,AO,151000,3A,"Yogurt da latte parzialmente scremato lip 1.7AcGrSaturiTot0.95, SommaAcButirrico,caproico,caprilico,caprico0.14, AcLaurico0.05, AcMiristico0.16, AcPalmitico0.45, AcStearico0.15, AcArachidico0, AcBeenico0, AcGrMonoinsaturiTot0.38, AcMiristoleico0, AcPalmitoleico0.03, AcOleico0.35, AcEicosenoico0, AcErucico0, AcGrPolinstauriTot0.05, AcLinoleico0.04, AcLinolenico0.01, AcArachidonico0, AcEicosapentaenoico(EPA)0, AcDecosaesaenoico(DHA)0, AltriAcGrPolinsaturi"
-56,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",001,AO,151000,3A,
-57,"Acido laurico, g",000,AO,151000,3A,
-58,"Acido miristico, g",001,AO,151000,3A,
-59,"Acido palmitico, g",003,AO,151000,3A,
-60,"Acido stearico, g",001,AO,151000,3A,
-61,"Acido arachidico, g",000,AO,151000,3A,
-62,"Acido beenico, g",000,AO,151000,3A,
-63,"Acidi grassi monoinsaturi totali, g",002,AO,151000,3A,
-64,"Acido miristoleico, g",000,AO,151000,3A,
-65,"Acido palmitoleico, g",000,AO,151000,3A,
-66,"Acido oleico, g",002,AO,151000,3A,
-67,"Acidi eicosenoico, g",000,AO,151000,3A,
-68,"Acido erucico, g",000,AO,151000,3A,
-69,"Acidi grassi polinsaturi totali, g",000,AO,151000,3A,
-70,"Acido linoleico, g",000,AO,151000,3A,
-71,"Acido linolenico, g",000,AO,151000,3A,
-72,"Acido arachidonico, g",000,AO,151000,3A,
-73,"Acido eicosapentaenoico (EPA), g",000,AO,151000,3A,
-74,"Acido decosaesaenoico (DHA), g",000,AO,151000,3A,
-75,"Altri acidi grassi polinsaturi, g",000,86,,,
+55,"Acidi grassi saturi totali, g",0.06,AO,151000,3A,"Yogurt da latte parzialmente scremato lip 1.7AcGrSaturiTot0.95, SommaAcButirrico,caproico,caprilico,caprico0.14, AcLaurico0.05, AcMiristico0.16, AcPalmitico0.45, AcStearico0.15, AcArachidico0, AcBeenico0, AcGrMonoinsaturiTot0.38, AcMiristoleico0, AcPalmitoleico0.03, AcOleico0.35, AcEicosenoico0, AcErucico0, AcGrPolinstauriTot0.05, AcLinoleico0.04, AcLinolenico0.01, AcArachidonico0, AcEicosapentaenoico(EPA)0, AcDecosaesaenoico(DHA)0, AltriAcGrPolinsaturi"
+56,"Somma degli acidi butirrico, caproico, caprilico e caprico, g",0.01,AO,151000,3A,
+57,"Acido laurico, g",0.00,AO,151000,3A,
+58,"Acido miristico, g",0.01,AO,151000,3A,
+59,"Acido palmitico, g",0.03,AO,151000,3A,
+60,"Acido stearico, g",0.01,AO,151000,3A,
+61,"Acido arachidico, g",0.00,AO,151000,3A,
+62,"Acido beenico, g",0.00,AO,151000,3A,
+63,"Acidi grassi monoinsaturi totali, g",0.02,AO,151000,3A,
+64,"Acido miristoleico, g",0.00,AO,151000,3A,
+65,"Acido palmitoleico, g",0.00,AO,151000,3A,
+66,"Acido oleico, g",0.02,AO,151000,3A,
+67,"Acidi eicosenoico, g",0.00,AO,151000,3A,
+68,"Acido erucico, g",0.00,AO,151000,3A,
+69,"Acidi grassi polinsaturi totali, g",0.00,AO,151000,3A,
+70,"Acido linoleico, g",0.00,AO,151000,3A,
+71,"Acido linolenico, g",0.00,AO,151000,3A,
+72,"Acido arachidonico, g",0.00,AO,151000,3A,
+73,"Acido eicosapentaenoico (EPA), g",0.00,AO,151000,3A,
+74,"Acido decosaesaenoico (DHA), g",0.00,AO,151000,3A,
+75,"Altri acidi grassi polinsaturi, g",0.00,86,,,
 76,AMINOACIDI,,,,,
 77,"Triptofano, mg",42,AO,150010,3A,"Yogurt da latte intero prot 3.8, Triptofano40, Treonina140, Isoleucina160, Leucina300, Lisina260, Metionina90, Cistina30, Fenilalanina170, Tirosina190, Valina210, Arginina110, Istidina90, Alanina110, Acido aspartico260, Acido glutammico640, Glicina70, Prolina300, Serina180"
 78,"Treonina, mg",147,AO,150010,3A,
@@ -94,9 +94,9 @@
 93,"Prolina, mg",316,AO,150010,3A,
 94,"Serina, mg",189,AO,150010,3A,
 95,ZUCCHERI,,,,,
-96,"Glucosio, g",08,08,185,3A,"""Yogurt whole milk, ""Real"" fruit"" GS 12.1g, Gluc=1.2g"
-97,"Fruttosio, g",35,08,185,3A,Frutt=5.4g
-98,"Galattosio, g",10,08,185,3A,Gal=1.5g
-99,"Saccarosio (MSE), g",01,08,185,3A,Sacc=0.2g
-100,"Maltosio (MSE), g",00,08,185,3A,Mal=0g
-101,"Lattosio (MSE), g",24,08,185,3A,Latt=3.8g
+96,"Glucosio, g",0.8,08,185,3A,"""Yogurt whole milk, ""Real"" fruit"" GS 12.1g, Gluc=1.2g"
+97,"Fruttosio, g",3.5,08,185,3A,Frutt=5.4g
+98,"Galattosio, g",1.0,08,185,3A,Gal=1.5g
+99,"Saccarosio (MSE), g",0.1,08,185,3A,Sacc=0.2g
+100,"Maltosio (MSE), g",0.0,08,185,3A,Mal=0g
+101,"Lattosio (MSE), g",2.4,08,185,3A,Latt=3.8g
