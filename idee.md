@@ -6,3 +6,7 @@ suddivisione in categorie
 estrazione delle distribuzioni dei valori e sanitizzazzione degli outlier
 
 match usando sempre TFIDF + mse pesato (riga) tra dataset deve essere una relazione di equivalenza -> riflessiva, transitiva, simmetrica
+questo la tfidf + mse pesato e' gia' riflessiva e simmetrica
+transitiva  -> ricerca del sottografo connesso a costo minimo a massima cardinalita' (#sottografo <= #Datasets)
+si puo' impostarlo come un problema di ricerca operativa intero su grafo pesato non direzionato (in quanto la distanza e' simmetrica),
+
