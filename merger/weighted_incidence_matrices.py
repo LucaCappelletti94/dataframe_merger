@@ -11,9 +11,10 @@ def weighted_incidence_matrices(dfs: List[pd.DataFrame])-> List[np.ndarray]:
     grounds = [np.zeros((n, n)) for i in range(METRICS_NUMBER)]
     for (i, j), matrices in weighted_matrices(dfs):
         x, y = [
-            slice(sum(sizes[:k]), sum(sizes[:k-1]) if k > 0 else 0) for k in (i, j)
+            slice(sum(sizes[:k]), sum(sizes[:k+1])) for k in (i, j)
         ]
         for k, matrix in enumerate(matrices):
             grounds[k][x, y] = matrix
             grounds[k][y, x] = matrix.T
+    [np.fill_diagonal(grounds[i], 1) for i in range(METRICS_NUMBER)]
     return grounds
