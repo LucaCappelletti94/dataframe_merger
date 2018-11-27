@@ -8,3 +8,5 @@ proxies\.json
 tmp_tested_proxy\.json
 
 downloaded_websites/
+
+__pycache__/

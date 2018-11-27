@@ -1,0 +1,4 @@
+from .pairwise_kolmogorov_smirnov_test import pairwise_kolmogorov_smirnov_test
+from .pairwise_mann_whitney_u_test import pairwise_mann_whitney_u_test
+
+__all__ = ['pairwise_kolmogorov_smirnov_test', 'pairwise_mann_whitney_u_test']
