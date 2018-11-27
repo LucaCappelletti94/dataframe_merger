@@ -27,5 +27,5 @@ def weighted_matrices(dfs: List[pd.DataFrame])->List[Tuple[Tuple[int, int], List
     ]
     jobs = [(vectorizers, (A, B), (i, j)) for i, A in enumerate(dfs)
             for j, B in enumerate(dfs[i:], i) if i != j]
-    with Pool(cpu_count()) as p:
+    with Pool(min(cpu_count(), len(jobs))) as p:
         return list(tqdm(p.imap(weighted_matrices_job, jobs), total=len(jobs)))
