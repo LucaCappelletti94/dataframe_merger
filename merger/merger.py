@@ -9,4 +9,4 @@ def merge(path: str):
                                           csv=csv), index_col=["name"])
         for path, dirs, csvs in os.walk(path)
         for csv in csvs if csv.endswith(".csv")
-    ][:2])
+    ])
