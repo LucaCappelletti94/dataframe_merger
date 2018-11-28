@@ -1,4 +1,6 @@
 import pandas as pd
+import numpy as np
+from typing import List
 
 
 def float64(df: pd.DataFrame)->pd.DataFrame:
@@ -16,3 +18,7 @@ def compact(df: pd.DataFrame)->pd.DataFrame:
     return [
         df[c][df[c].notnull()].iloc[df[c][df[c].notnull()].nonzero()] for c in df
     ]
+
+
+def invert(*arrays: List[np.ndarray])->List[np.ndarray]:
+    return [1 - a for a in arrays]

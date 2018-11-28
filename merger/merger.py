@@ -1,10 +1,10 @@
 import pandas as pd
-from .weighted_incidence_matrices import weighted_incidence_matrices
+from .weighted_incidence_matrix import weighted_incidence_matrix
 import os
 
 
 def merge(path: str):
-    return weighted_incidence_matrices([
+    return weighted_incidence_matrix([
         pd.read_csv("{path}/{csv}".format(path=path,
                                           csv=csv), index_col=["name"])
         for path, dirs, csvs in os.walk(path)
