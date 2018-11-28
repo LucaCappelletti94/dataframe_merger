@@ -11,4 +11,4 @@ def columns_tfidf_cosine_similarity(A: pd.DataFrame, B: pd.DataFrame, vectorizer
             vectorizer.transform(df.columns) for df in (A, B)
         ])
     except (AttributeError):
-        return np.ones((A.shape[1], B.shape[1]))
+        return np.zeros((A.shape[1], B.shape[1]))
