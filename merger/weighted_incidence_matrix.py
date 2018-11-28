@@ -6,7 +6,8 @@ from typing import List
 
 def weighted_incidence_matrix(dfs: List[pd.DataFrame])-> List[np.ndarray]:
     sizes = [len(df.columns) for df in dfs]
-    ground = np.eye(sum(sizes))
+    n = sum(sizes)
+    ground = np.zeros((n, n))
     for (i, j), M in assignment(dfs):
         x, y = [
             slice(sum(sizes[:k]), sum(sizes[:k+1])) for k in (i, j)

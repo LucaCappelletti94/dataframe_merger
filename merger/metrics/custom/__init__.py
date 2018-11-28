@@ -1,3 +1,4 @@
 from .units import units
+from .magnitude import magnitude
 
-__all__ = ['units']
+__all__ = ['units', 'magnitude']

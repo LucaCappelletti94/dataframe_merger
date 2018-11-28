@@ -1,34 +1,42 @@
-from .metrics import columns_tfidf_cosine_similarity, dataframes_tfidf_cosine_similarity, corpora, vectorizer, units, pairwise_kolmogorov_smirnov_test, pairwise_mann_whitney_u_test
+from .metrics import columns_tfidf_cosine_similarity, dataframes_tfidf_cosine_similarity, corpora, vectorizer, units, magnitude, pairwise_kolmogorov_smirnov_test, pairwise_mann_whitney_u_test
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from typing import Callable, List, Tuple
 from multiprocessing import Pool, cpu_count
 from tqdm import tqdm
-from .utils import invert
+from .utils import invert, land
 from scipy.optimize import linear_sum_assignment
 
 
-def costs(A: pd.DataFrame, B: pd.DataFrame, df_vectorizer: TfidfVectorizer, columns_vectorizer: TfidfVectorizer):
+def costs(A: pd.DataFrame, B: pd.DataFrame, columns_vectorizer: TfidfVectorizer, df_vectorizer: TfidfVectorizer):
     return invert(
         dataframes_tfidf_cosine_similarity(A, B, df_vectorizer),
         columns_tfidf_cosine_similarity(A, B, columns_vectorizer),
         *[
             metric(A, B) for metric in (
-                units,
-                pairwise_kolmogorov_smirnov_test,
-                pairwise_mann_whitney_u_test
+                # pairwise_kolmogorov_smirnov_test,
+                # pairwise_mann_whitney_u_test
             )
         ])
 
 
+def masks(A: pd.DataFrame, B: pd.DataFrame):
+    return land(
+        units(A, B),
+        magnitude(A, B)
+    )
+
+
 def assignment_job(task: Tuple[Tuple[pd.DataFrame, pd.DataFrame, TfidfVectorizer, TfidfVectorizer], Tuple[int, int], Tuple[int, int]])->Tuple[Tuple[int, int], List[np.ndarray]]:
-    cost_args, (n, m), (i, j) = task
+    (A, B, v1, v2), (n, m), (i, j) = task
     ground_sum = np.zeros((n, m))
-    for C in costs(*cost_args):
+    mask = masks(A, B)
+    for C in costs(A, B, v1, v2):
         ground = np.zeros((n, m))
+        C[~mask] = 1
         ground[linear_sum_assignment(C)] = 1
-        ground[np.isclose(C, 1)] = 0
+        ground[np.greater_equal(C, 0.75)] = 0
         ground_sum += ground
 
     return ((i, j), ground_sum)
