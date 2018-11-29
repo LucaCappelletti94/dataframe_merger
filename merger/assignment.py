@@ -15,8 +15,8 @@ def costs(A: pd.DataFrame, B: pd.DataFrame, columns_vectorizer: TfidfVectorizer,
         columns_tfidf_cosine_similarity(A, B, columns_vectorizer),
         *[
             metric(A, B) for metric in (
-                # pairwise_kolmogorov_smirnov_test,
-                # pairwise_mann_whitney_u_test
+                pairwise_kolmogorov_smirnov_test,
+                # pairwise_mann_whitney_u_test,
             )
         ])
 
