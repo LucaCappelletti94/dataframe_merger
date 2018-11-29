@@ -30,7 +30,8 @@ def merge(path: str):
     model = maximal_circles_model(weighted_incidence_matrix(dfs))
 
     model.optimize()
-    e = {i: j for (i, j), edge in model.data.items()
+    x = model.data
+    e = {i: j for (i, j), edge in x.items()
          if model.getVal(edge) == 1}
 
     columns = np.concatenate([df.columns for df in dfs])
