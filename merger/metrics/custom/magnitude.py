@@ -1,17 +1,13 @@
 import pandas as pd
 import numpy as np
 import math
-from ...utils import float64, compact, type_argsort
+from ...mask_decorators import floats
 
-
-def value_magnitude(value: float):
-    return int(math.floor(math.log10(abs(value))))
-
-
+@floats
 def magnitude(A: pd.DataFrame, B: pd.DataFrame)->np.ndarray:
     """Return boolean matrix representing if a given cell i,j has same unit."""
     a, b = [
-        np.array([value_magnitude(np.mean(c)) for c in compact(float64(df))]) for df in (A, B)
+        np.log10(np.nanmean(df.values, axis=0)).astype(int) for df in (A, B)
     ]
 
-    return type_argsort(a[:, None] == b, None, A, B)
+    return a[:, None] == b
