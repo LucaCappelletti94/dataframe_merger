@@ -1,0 +1,29 @@
+,name,vitamin b6,total proteins,total saturated triglycerides,total vitamin b2,monounsaturated fats,cholesterol,selenium se,total sodium na,total vitamin b3,total cobalamin,total iron fe,zinc zn,polyunsaturated fats,vitamin e,alpha-linolenic acids,total phosphorus,quantity,vitamin a,B-carotene,linoleic acids,total iodine i,lipids,total vitamin b1,calories,dietary folate,total complex sugars
+label,,,,,,,,,,,,,,,,,,,,,,,,,,,
+vitamin b2,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+vitamin b6,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+dietary fiber,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+proteins,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+total cobalamin,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+total ascorbic acid,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+carbohydrate,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+total aneurine,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+total vitamin e,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+lipid,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+total 12-octadecadienoic acid,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+starches,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+total sodium,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,True,True,False,False,False,False,True,False,False
+potassium k,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,True,True,False,False,False,False,True,False,False
+total vitamin d,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+water,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+total selenium,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+total sugars,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+total polyunsaturated lipids,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+folate,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+total cholesteryl alcohol,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+total zinc zn,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+total iodine i,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+total B-carotene,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,True,True,False,False,False,False,True,False,False
+total calcium,,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,True
+vitamin a,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,True,True,False,False,False,False,True,False,False
+total phosphorus p,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,True,True,False,False,False,False,True,False,False

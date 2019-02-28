@@ -7,6 +7,6 @@ from typing import Callable
 
 def pairwise_test(A: pd.DataFrame, B: pd.DataFrame, test: Callable)->np.ndarray:
     a, b = [
-        compact(float64(df)) for df in (A, B)
+        compact(df) for df in (A, B)
     ]
     return np.array([[1/test(i, j)[1] if len(i) and len(j) else 0 for j in b] for i in a])
