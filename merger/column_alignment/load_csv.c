@@ -9,11 +9,17 @@ int get_rows_number(char *path){
     CsvParser *csvparser = CsvParser_new(path, ",", 1);
     int n;
     for (n = 0 ; CsvParser_getRow(csvparser); n++);
+    CsvParser_destroy(csvparser);
     return n;
 }
 
 int get_columns_number (char *path){
-    return CsvParser_getNumFields(CsvParser_getRow(CsvParser_new(path, ",", 1))) - 1;
+    CsvParser *csvparser = CsvParser_new(path, ",", 1);
+    CsvRow *row = CsvParser_getRow(csvparser);
+    int columns_number = CsvParser_getNumFields(row) - 1;
+    CsvParser_destroy_row(row);
+    CsvParser_destroy(csvparser);
+    return columns_number;
 }
 
 bool is_empty(const char *string){

@@ -4,4 +4,4 @@ project(untitled C)
 set(CMAKE_C_STANDARD 99)
 
 
-add_executable(untitled csvparser.c load_csv.c)
+add_executable(column_alignment hungarian.c csvparser.c load_csv.c solve.c)
