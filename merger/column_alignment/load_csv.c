@@ -4,6 +4,7 @@
 #include <stdbool.h>
 #include "csvparser.h"
 #include "load_csv.h"
+#include "matrix.h"
 
 int get_rows_number(char *path){
     CsvParser *csvparser = CsvParser_new(path, ",", 1);
@@ -26,18 +27,13 @@ bool is_empty(const char *string){
     return string[0] == '\0';
 }
 
-Matrix init_matrix(char *path){
-    Matrix matrix;
-    matrix.h = get_rows_number(path);
-    matrix.w = get_columns_number(path);
-    matrix.M = (double **)malloc(matrix.h * sizeof(double*));
-    for(int i = 0; i < matrix.h; i++) matrix.M[i] = (double *)malloc(matrix.w * sizeof(double));
-    return matrix;
+Matrix init_csv_matrix(char *path){
+    return init_matrix(get_rows_number(path), get_columns_number(path));
 }
 
 Matrix load_csv(char* path){
     CsvParser *csvparser = CsvParser_new(path, ",", 1);
-    Matrix matrix = init_matrix(path);
+    Matrix matrix = init_csv_matrix(path);
     for(int i=0; i<matrix.h; i++) {
         CsvRow *row = CsvParser_getRow(csvparser);
         const char **rowFields = CsvParser_getFields(row);

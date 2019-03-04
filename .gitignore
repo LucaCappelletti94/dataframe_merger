@@ -10,3 +10,7 @@ tmp_tested_proxy\.json
 downloaded_websites/
 
 __pycache__/
+
+merger/column_alignment/\.idea/
+
+merger/column_alignment/cmake-build-debug/

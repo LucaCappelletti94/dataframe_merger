@@ -69,10 +69,10 @@ int hungarian_imax(int a, int b) {
   return (a<b)?b:a;
 }
 
-int hungarian_init(hungarian_problem_t* p, int** cost_matrix, int rows, int cols, int mode) {
+int hungarian_init(hungarian_problem_t* p, double** cost_matrix, int rows, int cols, int mode) {
 
   int i,j, org_cols, org_rows;
-  int max_cost;
+  double max_cost;
   max_cost = 0;
   
   org_cols = cols;
@@ -86,13 +86,13 @@ int hungarian_init(hungarian_problem_t* p, int** cost_matrix, int rows, int cols
   p->num_rows = rows;
   p->num_cols = cols;
 
-  p->cost = (int**)calloc(rows,sizeof(int*));
+  p->cost = (double**)calloc(rows,sizeof(double*));
   hungarian_test_alloc(p->cost);
   p->assignment = (int**)calloc(rows,sizeof(int*));
   hungarian_test_alloc(p->assignment);
 
   for(i=0; i<p->num_rows; i++) {
-    p->cost[i] = (int*)calloc(cols,sizeof(int));
+    p->cost[i] = (double*)calloc(cols,sizeof(double));
     hungarian_test_alloc(p->cost[i]);
     p->assignment[i] = (int*)calloc(cols,sizeof(int));
     hungarian_test_alloc(p->assignment[i]);
