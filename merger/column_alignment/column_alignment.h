@@ -7,6 +7,5 @@
 
 #include "matrix.h"
 
-int** column_alignment(Matrix costs);
 
 #endif //UNTITLED_COLUMN_ALIGNMENT_H

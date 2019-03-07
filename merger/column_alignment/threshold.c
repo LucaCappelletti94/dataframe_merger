@@ -3,7 +3,6 @@
 //
 
 #include "threshold.h"
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -21,7 +20,7 @@ void sort(double* x, size_t size){
     qsort(x, size, sizeof(*x), comp);
 }
 
-double determine_threshold(Matrix* matrices, int matrices_number, double known_negatives_percentage){
+double determine_threshold(Matrix const* matrices, size_t const matrices_number, double const known_negatives_percentage){
     size_t vector_size;
     double* flatten = flatten_matrices(matrices, matrices_number, &vector_size);
     qsort(flatten, vector_size, sizeof(*flatten), comp);
@@ -32,7 +31,7 @@ double determine_threshold(Matrix* matrices, int matrices_number, double known_n
     return threshold;
 }
 
-double* determine_thresholds(Matrix** matrices_groups, int matrices_number, int groups_number, double* known_negatives_percentages){
+double* determine_thresholds(Matrix const ** matrices_groups, size_t const matrices_number, size_t const groups_number, double const* known_negatives_percentages){
     double* thresholds = (double *)malloc(groups_number * sizeof(double));
     for(int i=0; i<groups_number; i++){
         thresholds[i] = determine_threshold(matrices_groups[i], matrices_number, known_negatives_percentages[i]);
@@ -40,23 +39,17 @@ double* determine_thresholds(Matrix** matrices_groups, int matrices_number, int 
     return thresholds;
 }
 
-Matrix** threshold(Matrix** matrices_groups, int matrices_number, int groups_number, double* known_negatives_percentages, bool inplace){
-    double* thresholds = determine_thresholds(matrices_groups, matrices_number, groups_number, known_negatives_percentages);
-    Matrix** thresholded_groups;
-    if (inplace){
-        thresholded_groups = matrices_groups;
-    } else {
-        thresholded_groups = (Matrix**)malloc(groups_number * sizeof(Matrix*));
-        for (int i=0; i<groups_number; i++){
-            thresholded_groups[i] = (Matrix*)malloc(groups_number * sizeof(Matrix));
-        }
-    }
-
+void apply_threshold(Matrix** matrices_groups, size_t const matrices_number, size_t const groups_number, double const* thresholds){
     for (int i=0; i<groups_number; i++){
         for (int j=0; j<matrices_number; j++){
-            thresholded_groups[i][j] = fill_above_matrix(matrices_groups[i][j], NAN, thresholds[i], inplace);
+            fill_above_matrix(&matrices_groups[i][j], NAN, thresholds[i], true);
+            min_max_matrix_norm(&matrices_groups[i][j], true);
         }
     }
+}
 
-    return  thresholded_groups;
+void threshold(Matrix const** self_matrices_groups, size_t  const self_matrices_number, Matrix** other_matrices_groups, size_t const other_matrices_number, size_t const groups_number, double const* known_negatives_percentages){
+    double* thresholds = determine_thresholds(self_matrices_groups, self_matrices_number, groups_number, known_negatives_percentages);
+    apply_threshold(other_matrices_groups, other_matrices_number, groups_number, thresholds);
+    free(thresholds);
 }
