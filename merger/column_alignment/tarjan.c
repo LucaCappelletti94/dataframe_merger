@@ -2,6 +2,7 @@
 // Created by Luca Cappelletti on 2019-03-03.
 //
 
+#include <stdlib.h>
 #include "tarjan.h"
 #include "canterbury/graphalg/sc.h"
 
@@ -18,7 +19,14 @@ dgraph_t* incidence_matrix_to_dgraph(int** incidence_matrix, int V){
 }
 
 int** tarjan_result_to_components(sc_result_t * result){
-
+    int** components = (int **)malloc(result->n_sets * sizeof(int*));
+    for(int i=0; i<result->n_sets; i++){
+        components[i] = (int *)malloc((result->sets_f[i] - result->sets_s[i]) * sizeof(int));
+        for(int j=result->sets_s[i], k=0; j<result->sets_f[i]; j++, k++){
+            components[i][k] = result->vertices[j];
+        }
+    }
+    return components;
 }
 
 int** tarjan(int** incidence_matrix, int V){

@@ -4,5 +4,5 @@
 
 #ifndef UNTITLED_TARJAN_H
 #define UNTITLED_TARJAN_H
-
+int** tarjan(int** incidence_matrix, int V);
 #endif //UNTITLED_TARJAN_H

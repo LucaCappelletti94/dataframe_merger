@@ -2,22 +2,22 @@
 #include <math.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#include "csvparser.h"
+#include "csv/csvparser.h"
 #include "load_csv.h"
 #include "matrix.h"
 
-int get_rows_number(char *path){
+size_t get_rows_number(char *path){
     CsvParser *csvparser = CsvParser_new(path, ",", 1);
-    int n;
+    size_t n;
     for (n = 0 ; CsvParser_getRow(csvparser); n++);
     CsvParser_destroy(csvparser);
     return n;
 }
 
-int get_columns_number (char *path){
+size_t get_columns_number (char *path){
     CsvParser *csvparser = CsvParser_new(path, ",", 1);
     CsvRow *row = CsvParser_getRow(csvparser);
-    int columns_number = CsvParser_getNumFields(row) - 1;
+    size_t columns_number = (size_t)(CsvParser_getNumFields(row) - 1);
     CsvParser_destroy_row(row);
     CsvParser_destroy(csvparser);
     return columns_number;

@@ -1,11 +1,11 @@
-#include "hungarian.h"
+#include "hungarian/hungarian.h"
 #include "load_csv.h"
 #include "solve.h"
 #include <stdlib.h>
 
 int** solve(Matrix costs){
     hungarian_problem_t p;
-    hungarian_init(&p, costs.M, costs.h, costs.w, HUNGARIAN_MODE_MINIMIZE_COST);
+    hungarian_init(&p, costs.M, (int)costs.h, (int)costs.w, HUNGARIAN_MODE_MINIMIZE_COST);
     int ** assignment = (int **)malloc(costs.h * sizeof(int*));
     for(int i=0; i<costs.h; i++){
         assignment[i] = (int *)malloc(costs.w * sizeof(int));
