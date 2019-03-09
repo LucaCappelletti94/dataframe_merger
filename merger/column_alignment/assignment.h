@@ -8,7 +8,8 @@
 #include <stdbool.h>
 
 #include "matrix.h"
-int**  solve_assignment_problem(Matrix costs);
+int**** solve_assignment_problems(Matrix** costs_groups, int groups, int matrices);
+void free_assignemnt_groups(int**** assignments_groups, Matrix** costs_groups, int groups, int matrices);
 
 #endif //ASSIGNMENT_H
 

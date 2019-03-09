@@ -7,5 +7,5 @@
 
 #include <stdbool.h>
 #include "matrix.h"
-void threshold(Matrix const** self_matrices_groups, size_t self_matrices_number, Matrix** other_matrices_groups, size_t other_matrices_number, size_t groups_number, double const* known_negatives_percentages);
+void threshold(Matrix ** self_matrices_groups, int self_matrices_number, Matrix** other_matrices_groups, int other_matrices_number, int groups_number, double const* known_negatives_percentages);
 #endif //UNTITLED_THRESHOLD_H

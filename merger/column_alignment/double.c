@@ -9,6 +9,14 @@ bool is_not_nan(double value){
     return !is_nan(value);
 }
 
+bool is_infinite(double value){
+    return value == INFINITY;
+}
+
+bool is_not_infinite(double value){
+    return !is_infinite(value);
+}
+
 bool tautology(double value){
     return true;
 }

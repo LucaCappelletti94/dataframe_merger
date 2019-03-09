@@ -18,8 +18,9 @@ Matrix init_matrix_like(Matrix matrix);
 void free_matrix(Matrix matrix);
 Matrix fill_above_matrix(Matrix *matrix, double fill_value, double min, bool inplace);
 Matrix fill_below_matrix(Matrix *matrix, double fill_value, double max, bool inplace);
-double* flatten_matrices(Matrix const *matrices, size_t matrices_number, size_t * vector_size)
+double* flatten_matrices(Matrix const *matrices, int matrices_number, size_t * vector_size);
 Matrix fill_nan(Matrix matrix, double fill_value, bool inplace);
 Matrix min_max_matrix_norm(Matrix *matrix, bool inplace);
+Matrix* groups_to_adjacency_matrix(Matrix ** groups, int **** groups_masks, int groups_number, int matrices);
 
 #endif //UNTITLED_MATRIX_H

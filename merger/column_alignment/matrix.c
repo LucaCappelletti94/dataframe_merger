@@ -69,14 +69,14 @@ Matrix fill_below_matrix(Matrix *matrix, double fill_value, double const max, bo
     return  fill_range_matrix(matrix, fill_value, -INFINITY, max, inplace);
 }
 
-double* flatten_matrices(Matrix const *matrices, size_t const matrices_number, size_t * vector_size){
+double* flatten_matrices(Matrix const *matrices, int const matrices_number, size_t * vector_size){
     size_t size=0;
     for(int i=0; i<matrices_number; i++){
         size += matrices[i].h*matrices[i].w;
     }
     *vector_size = size;
     double* flatten = (double *)malloc(size * sizeof(double));
-    for(size_t k=matrices_number-1; k>=0; k--){
+    for(int k=matrices_number-1; k>=0; k--){
         Matrix m = matrices[k];
         for(size_t i=m.h; i>=0; i--){
             for(size_t j=m.w; j>=0; j--){
@@ -114,28 +114,7 @@ Matrix min_max_matrix_norm(Matrix *matrix, bool const inplace){
     return normalized;
 }
 
-Matrix group_nan_composition(Matrix const* group, double const* weights, size_t const n){
-    Matrix composition = init_matrix_like(group[0]);
-    for (int j = 0; j < composition.h; j++) {
-        for (int k = 0; k < composition.w; k++) {
-            composition.M[j][k] = 0;
-            for (int i = 0; i < n; i++) {
-                if(is_not_nan(group[i].M[j][k])){
-                    composition.M[j][k] += weights[i]*group[i].M[j][k];
-                }
-            }
-        }
-    }
-    return composition;
-}
-
-size_t extrapolate_group_submatrices_number(size_t const n){
-    size_t i, sum;
-    for (i=0, sum=0; sum!=n; sum+=i);
-    return i;
-}
-
-size_t extrapolate_group_size(Matrix const* group, size_t const submatrices){
+size_t extrapolate_group_size(Matrix const* group, int const submatrices){
     size_t sum=group[0].w;
     for (int i=0; i<submatrices; i++){
         sum+=group[i].h;
@@ -143,11 +122,10 @@ size_t extrapolate_group_size(Matrix const* group, size_t const submatrices){
     return sum;
 }
 
-Matrix group_to_adjacency_matrix(Matrix const* group, int const*** group_masks, size_t const n){
-    size_t submatrices= extrapolate_group_submatrices_number(n);
-    Matrix I = fill_identity(extrapolate_group_size(group, submatrices), 0, INFINITY);
+Matrix group_to_adjacency_matrix(Matrix const* group, int *** group_masks, int matrices){
+    Matrix I = fill_identity(extrapolate_group_size(group, matrices), 0, INFINITY);
     size_t offset_x = 0, offset_y=0;
-    for(size_t sub=submatrices, total_sub=0; sub>0; sub--){
+    for(int sub=matrices, total_sub=0; sub>0; sub--){
         offset_y+=group[total_sub].w;
         for (size_t k=0, starting_offset_y=offset_y; k<sub; k++, starting_offset_y+=group[total_sub].h, total_sub++){
             for(size_t i=0; i<group[total_sub].h; i++){
@@ -160,6 +138,15 @@ Matrix group_to_adjacency_matrix(Matrix const* group, int const*** group_masks, 
         }
         offset_x=offset_y;
     }
+    return I;
+}
+
+Matrix* groups_to_adjacency_matrix(Matrix ** groups, int **** groups_masks, int groups_number, int matrices){
+    Matrix* adjacency_matrices = (Matrix*)malloc(groups_number*sizeof(Matrix));
+    for(int i=0; i<groups_number; i++){
+        adjacency_matrices[i] = group_to_adjacency_matrix(groups[i], groups_masks[i], matrices);
+    }
+    return adjacency_matrices;
 }
 
 Matrix fill_nan(Matrix matrix, double const fill_value, bool const inplace){
