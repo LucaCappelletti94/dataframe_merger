@@ -10,4 +10,4 @@ def magnitude(A: pd.DataFrame, B: pd.DataFrame)->np.ndarray:
         np.log10(np.nanmean(df.values, axis=0)).astype(int) for df in (A, B)
     ]
 
-    return a[:, None] == b
+    return (a[:, None] == b).astype(float)

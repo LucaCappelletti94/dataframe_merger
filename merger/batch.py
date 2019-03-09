@@ -14,8 +14,12 @@ def batch(source:str, sink:str):
         "magnitude":(magnitude, [])
     }
 
-    for i, (df1, df2) in enumerate(itertools.combinations(dfs, 2)):
-        path = "{root}/{i}".format(root=sink, i=i)
-        os.makedirs(path, exist_ok=True)
-        for metric, (callback, args) in metrics.items():
-            callback(df1, df2, *args).to_csv("{path}/{metric}.csv".format(path=path, metric=metric))
+    dataframes_number = len(dfs)
+
+    for metric, (callback, args) in enumerate(metrics.values()):
+        for i in range(dataframes_number):
+            for j in range(dataframes_number):
+                if i<=j:
+                    path = "{sink}/{metric}".format(sink=sink, metric=metric)
+                    os.makedirs(path, exist_ok=True)
+                    callback(dfs[i], dfs[j], *args).to_csv("{path}/{i}-{j}.csv".format(path=path, i=i, j=j))

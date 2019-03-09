@@ -16,7 +16,7 @@ def string(df: pd.DataFrame)->pd.DataFrame:
 def compact(df: pd.DataFrame)->pd.DataFrame:
     """Return non nan and non zero values list per column."""
     return [
-        df[c][df[c].notnull()].iloc[df[c][df[c].notnull()].nonzero()] for c in df
+        df[c][df[c].notnull()].iloc[df[c][df[c].notnull()].nonzero()].values for c in df
     ]
 
 
