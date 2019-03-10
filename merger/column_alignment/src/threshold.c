@@ -24,13 +24,12 @@ double determine_threshold(Matrix const* matrices, int const matrices_number, do
         return INFINITY;
     }
     qsort(flatten, vector_size, sizeof(*flatten), comp);
-    double position = vector_size*(1-known_negatives_percentage);
+    double position = (vector_size-1)*known_negatives_percentage;
     int lower=(int)floor(position), upper=(int)ceil(position);
     double lower_value = flatten[lower];
     double upper_value = flatten[upper];
     double threshold = (lower_value + upper_value)/2;
     free(flatten);
-    assert(!isnan(threshold));
     return threshold;
 }
 
@@ -43,8 +42,6 @@ double* determine_thresholds(Matrix ** matrices_groups, int const matrices_numbe
 }
 
 void apply_threshold(Matrix** matrices_groups, int const matrices_number, int const groups_number, double const* thresholds){
-    assert(matrices_number>0);
-    assert(groups_number>0);
     for (int i=0; i<groups_number; i++){
         for (int j=0; j<matrices_number; j++){
             fill_above_matrix(&matrices_groups[i][j], NAN, thresholds[i], true);

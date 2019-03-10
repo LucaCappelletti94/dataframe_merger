@@ -203,6 +203,7 @@ void column_alignment(char* path, char* output, int datasets, int metrics, doubl
     if verbose_alignment
         printf("Solving assignment problems using hungarian algorithm...\n");
     int**** composition_assignment = solve_assignment_problems(&groups_composition, 1, other_matrices);
+    printf("Determine other assignments\n");
     int**** other_assignment = solve_assignment_problems(other_matrices_groups, metrics, other_matrices);
     if verbose_alignment
         printf("Building weighted adjacency matrices...\n");

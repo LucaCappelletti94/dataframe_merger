@@ -2,6 +2,7 @@ from .metrics import pairwise_kolmogorov_smirnov_test, pairwise_mann_whitney_u_t
 from .dataframe_loader import dataframe_loader
 import itertools
 import os
+from typing import Tuple
 
 def batch(source:str, sink:str)->int:
     dfs = dataframe_loader(source)
@@ -24,4 +25,4 @@ def batch(source:str, sink:str)->int:
                     os.makedirs(path, exist_ok=True)
                     callback(dfs[i], dfs[j], *args).to_csv("{path}/{i}-{j}.csv".format(path=path, i=i, j=j))
     
-    return len(dfs)
+    return len(dfs), [col for df in dfs for col in df]

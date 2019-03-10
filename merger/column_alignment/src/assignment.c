@@ -22,7 +22,6 @@ int** solve_assignment_problem(Matrix costs){
     hungarian_problem_t p;
     Matrix hungarian_costs = fill_nan(costs, HUNGARIAN_INFINITY, false);
     fill_nan(costs, INFINITY, true);
-    print_matrix(costs);
     hungarian_init(&p, hungarian_costs.M, (int)costs.h, (int)costs.w, HUNGARIAN_MODE_MINIMIZE_COST);
     hungarian_solve(&p);
     int ** assignment = problem_result_to_integer_matrix(p, costs);
