@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Column_alignment"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="column_alignment">
+				<Option output="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/column_alignment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 column_alignment"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="column_alignment/fast">
+				<Option output="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/column_alignment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 column_alignment/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/assignment.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/assignment.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/avl.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/avl.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/bst.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/bst.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/dst.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/dst.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/hashtbl.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/hashtbl.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/rand.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/rand.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/rbtree.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/rbtree.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/rst.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/rst.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/skip_list.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/skip_list.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/tree23.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/dict/tree23.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/graphalg/dfs_bfs.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/graphalg/dfs_bfs.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/graphalg/mf.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/graphalg/mf.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/graphalg/sc.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/graphalg/sc.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/graphs/dgraph.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/graphs/dgraph.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/searching/search.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/canterbury/searching/search.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/column_alignment.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/column_alignment.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/csv/csvparser.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/csv/csvparser.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/double.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/double.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/hungarian/hungarian.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/hungarian/hungarian.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/int.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/int.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/arraylist.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/arraylist.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/debug.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/debug.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/json_c_version.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/json_c_version.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/json_object.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/json_object.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/json_object_iterator.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/json_object_iterator.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/json_pointer.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/json_pointer.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/json_tokener.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/json_tokener.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/json_util.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/json_util.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/json_visit.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/json_visit.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/libjson.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/linkhash.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/linkhash.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/printbuf.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/printbuf.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/random_seed.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/random_seed.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/strerror_override.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/json-c/strerror_override.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/load_csv.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/load_csv.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/main.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/main.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/matrix.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/matrix.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/tarjan.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/tarjan.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/threshold.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/threshold.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/vector.c">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/vector.h">
+			<Option target="column_alignment"/>
+		</Unit>
+		<Unit filename="/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -10,5 +10,6 @@
 #include <stdio.h>
 
 char* int_to_str(int value);
+void print_2d_int_array(int** M, int h, int w);
 
 #endif //UNTITLED_INT_H

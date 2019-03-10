@@ -6,6 +6,7 @@
 #include <stdbool.h>
 #include <stdio.h>
 #include <string.h>
+#include <assert.h>
 #include "column_alignment.h"
 #include "load_csv.h"
 #include "int.h"
@@ -14,6 +15,9 @@
 #include "assignment.h"
 #include "tarjan.h"
 #include "json-c/json.h"
+#include "vector.h"
+
+#define verbose_alignment (1)
 
 bool self_loading_rule(int i, int j){
     return i==j;
@@ -27,8 +31,9 @@ char* format_path(char* path, int metric, int df1, int df2){
     char* str_metric = int_to_str(metric);
     char* str_df1 = int_to_str(df1);
     char* str_df2 = int_to_str(df2);
-    char* formatted_path = (char*)malloc((strlen(path)+strlen(str_metric)+strlen(str_df1)+strlen(str_df2)+7)* sizeof(char));
-    snprintf(formatted_path, sizeof formatted_path, "%s/%s/%s-%s.csv", path, str_metric, str_df1, str_df2);
+    size_t size = strlen(path)+strlen(str_metric)+strlen(str_df1)+strlen(str_df2)+8;
+    char* formatted_path = (char*)malloc(size* sizeof(char));
+    snprintf(formatted_path, size, "%s/%s/%s-%s.csv", path, str_metric, str_df1, str_df2);
     free(str_metric);
     free(str_df1);
     free(str_df2);
@@ -36,8 +41,9 @@ char* format_path(char* path, int metric, int df1, int df2){
 }
 
 char* format_output_path(char* path, char* filename){
-    char* formatted_path = (char*)malloc((strlen(path)+strlen(filename)+6)* sizeof(char));
-    snprintf(formatted_path, sizeof formatted_path, "%s/%s.json", path, filename);
+    size_t size = strlen(path)+strlen(filename)+7;
+    char* formatted_path = (char*)malloc(size* sizeof(char));
+    snprintf(formatted_path, size, "%s/%s.json", path, filename);
     return formatted_path;
 }
 
@@ -114,11 +120,16 @@ Matrix* groups_nan_composition(Matrix** groups, double const* weights, int metri
         groups_composition[i]=init_matrix_like(groups[0][i]);
         for (int j = 0; j < groups_composition[i].h; j++) {
             for (int k = 0; k < groups_composition[i].w; k++) {
+                int any_assignment = 0;
                 groups_composition[i].M[j][k] = 0;
                 for (int metric = 0; metric < metrics; metric++) {
                     if(is_not_nan(groups[metric][i].M[j][k])){
+                        any_assignment = 1;
                         groups_composition[i].M[j][k] += weights[i]*groups[metric][i].M[j][k];
                     }
+                }
+                if (!any_assignment){
+                    groups_composition[i].M[j][k] = NAN;
                 }
             }
         }
@@ -141,12 +152,14 @@ void save_results(char const* path, int*** compositions, int groups, int const *
             inners[i][j] = inner;
             json_object_array_add(outer, inner);
             for(int k=0; k<compositions_elements_number[i][j]; k++){
-                json_object_array_add(inner, json_object_new_int64(compositions[i][j][k]));
+                int64_t value = compositions[i][j][k];
+                json_object* json_value = json_object_new_int64(value);
+                json_object_array_add(inner, json_value);
             }
         }
     }
     // Saving object to file
-    json_object_to_file(path, results);
+    json_object_to_file_ext(path, results, JSON_C_TO_STRING_PRETTY);
     // Clearing memory
     for (int i=0; i<groups; i++){
         for(int j=0; j<compositions_number[i]; j++){
@@ -169,44 +182,60 @@ void free_2d_int_array(int ** array, int size){
 }
 
 
-int** column_alignment(char* path, char* output, int datasets, int metrics, double const* known_negatives_percentages,  double const* weights){
+void column_alignment(char* path, char* output, int datasets, int metrics, double const* known_negatives_percentages,  double const* weights){
     int self_matrices = self_matrices_number(datasets);
     int other_matrices = other_matrices_number(datasets);
+    assert(self_matrices>0);
+    assert(other_matrices>0);
+    assert(metrics>0);
+    assert(datasets>0);
+    if verbose_alignment
+        printf("Loading matrices from csvs...\n");
     Matrix ** self_matrices_groups = load_self_groups(path, metrics, datasets, self_matrices);
     Matrix ** other_matrices_groups = load_other_groups(path, metrics, datasets, other_matrices);
-    // Apply thresholds to matrices.
+    if verbose_alignment
+        printf("Applying thresholds to matrices...\n");
     // Values above thresholds are set to NAN, then matrices are max_min normalized in a NAN-aware fashion.
     threshold(self_matrices_groups, self_matrices, other_matrices_groups, other_matrices, metrics, known_negatives_percentages);
-    // Build weighted matrices
+    if verbose_alignment
+        printf("Build weighted matrices...\n");
     Matrix * groups_composition = groups_nan_composition(other_matrices_groups, weights, metrics, other_matrices);
-    // Solve assignment problems using hungarian algorithm
-    int*** composition_assignment = *solve_assignment_problems(&groups_composition, 1, other_matrices);
+    if verbose_alignment
+        printf("Solving assignment problems using hungarian algorithm...\n");
+    int**** composition_assignment = solve_assignment_problems(&groups_composition, 1, other_matrices);
     int**** other_assignment = solve_assignment_problems(other_matrices_groups, metrics, other_matrices);
-    // Build weighted adjacency matrix
-    Matrix composition_adjacency_matrix = *groups_to_adjacency_matrix(&groups_composition, &composition_assignment, 1, other_matrices);
+    if verbose_alignment
+        printf("Building weighted adjacency matrices...\n");
+    Matrix* composition_adjacency_matrix = groups_to_adjacency_matrix(&groups_composition, composition_assignment, 1, other_matrices);
     Matrix* other_adjacency_matrix = groups_to_adjacency_matrix(other_matrices_groups, other_assignment, metrics, other_matrices);
-    // Free assignments
-    free_assignemnt_groups(&composition_assignment, &groups_composition, 1, other_matrices);
+    if verbose_alignment
+        printf("Freeing assignments...\n");
+    free_assignemnt_groups(composition_assignment, &groups_composition, 1, other_matrices);
     free_assignemnt_groups(other_assignment, other_matrices_groups, metrics, other_matrices);
-    // Run Tarjan on the weighted adjacency matrix
+    if verbose_alignment
+        printf("Running Tarjan algorithm on the weighted adjacency matrices...\n");
     int* composition_components_number = (int*)malloc(sizeof(int));
     int* other_components_number = (int*)malloc(metrics*sizeof(int));
     int** composition_components_elements_number = (int**)malloc(sizeof(int*));
     int** other_components_elements_number = (int**)malloc(metrics*sizeof(int*));
-    int** composition_connected_components = *determine_group_connected_components(&composition_adjacency_matrix, 1, composition_components_number, composition_components_elements_number);
+    int*** composition_connected_components = determine_group_connected_components(composition_adjacency_matrix, 1, composition_components_number, composition_components_elements_number);
     int*** other_connected_components = determine_group_connected_components(other_adjacency_matrix, metrics, other_components_number, other_components_elements_number);
-    // Free groups
+    if verbose_alignment
+        printf("Freeing groups...\n");
     free_self_groups(self_matrices_groups, metrics, datasets);
-    free_other_groups(self_matrices_groups, metrics, datasets);
-    // Save results to json
+    free_other_groups(other_matrices_groups, metrics, datasets);
+    if verbose_alignment
+        printf("Saving results to json...\n");
     char* composition_output = format_output_path(output, "composition");
     char* other_output = format_output_path(output, "other");
-    save_results(composition_output, &composition_connected_components, 1, composition_components_number, composition_components_elements_number);
+    save_results(composition_output, composition_connected_components, 1, composition_components_number, composition_components_elements_number);
     save_results(other_output, other_connected_components, metrics, other_components_number, other_components_elements_number);
-    // Free connected components
-    free_group_connected_components(&composition_connected_components, 1, composition_components_number);
+    if verbose_alignment
+        printf("Freeing connected components...\n");
+    free_group_connected_components(composition_connected_components, 1, composition_components_number);
     free_group_connected_components(other_connected_components, metrics, other_components_number);
-    // Free array used for sizes
+    if verbose_alignment
+        printf("Freeing various helper arrays...\n");
     free(composition_components_number);
     free(other_components_number);
     free_2d_int_array(composition_components_elements_number, 1);

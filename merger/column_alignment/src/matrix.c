@@ -3,10 +3,12 @@
 //
 
 
-#include <math.h>
+#include <printf.h>
+#include <string.h>
 #include "matrix.h"
 #include "double.h"
 #include "vector.h"
+#include "int.h"
 
 
 Matrix init_matrix(size_t const h, size_t const w){
@@ -39,7 +41,34 @@ void free_matrix(Matrix matrix){
     free(matrix.M);
 }
 
-Matrix fill_matrix(Matrix matrix, double const fill_value, bool (*filter)(double), bool const inplace){
+
+void print_matrix(Matrix matrix){
+    size_t * max_sizes = (size_t*)malloc(matrix.w* sizeof(size_t));
+    for(int i=0; i<matrix.w; i++){
+        max_sizes[i] = 0;
+        for(int j=0; j<matrix.h; j++){
+            size_t e = strlen(double_to_str(matrix.M[j][i]));
+            max_sizes[i] = e>max_sizes[i]?e:max_sizes[i];
+        }
+    }
+    for(int i=0; i<matrix.h; i++){
+        for(int j=0; j<matrix.w; j++){
+            size_t e = strlen(double_to_str(matrix.M[i][j]));
+            int padding = (int)(max_sizes[j] - e);
+            if (j!=matrix.w-1){
+                printf("%f,%.*s", matrix.M[i][j], padding+1, "                                             ");
+            } else {
+                printf("%f%.*s", matrix.M[i][j], padding, "                                             ");
+            }
+
+        }
+        printf("\n");
+    }
+    printf("\n");
+    free(max_sizes);
+}
+
+Matrix fill_matrix(Matrix matrix, double const fill_value, int (*filter)(double), bool const inplace){
     Matrix filled = inplace?matrix:init_matrix_like(matrix);
     for(int i=0; i<matrix.h; i++){
         for(int j=0; j<matrix.w; j++){
@@ -65,22 +94,25 @@ Matrix fill_above_matrix(Matrix *matrix, double fill_value, double const min, bo
     return  fill_range_matrix(matrix, fill_value, min, INFINITY, inplace);
 }
 
-Matrix fill_below_matrix(Matrix *matrix, double fill_value, double const max, bool const inplace){
-    return  fill_range_matrix(matrix, fill_value, -INFINITY, max, inplace);
-}
-
-double* flatten_matrices(Matrix const *matrices, int const matrices_number, size_t * vector_size){
+double* flatten_matrices_drop_nan_identity(Matrix const *matrices, int const matrices_number, size_t * vector_size){
     size_t size=0;
     for(int i=0; i<matrices_number; i++){
         size += matrices[i].h*matrices[i].w;
+        for(int j=0; j<matrices[i].h; j++){
+            for(int k=0; k<matrices[i].w; k++){
+                size -= isnan(matrices[i].M[j][k]) || j==k;
+            }
+        }
     }
     *vector_size = size;
     double* flatten = (double *)malloc(size * sizeof(double));
     for(int k=matrices_number-1; k>=0; k--){
         Matrix m = matrices[k];
-        for(size_t i=m.h; i>=0; i--){
-            for(size_t j=m.w; j>=0; j--){
-                flatten[--size] = m.M[i][j];
+        for(int i=(int)m.h-1; i>=0; i--){
+            for(int j=(int)m.w-1; j>=0; j--){
+                if (is_not_nan(m.M[i][j]) && i!=j){
+                    flatten[--size] = m.M[i][j];
+                }
             }
         }
     }
@@ -130,8 +162,8 @@ Matrix group_to_adjacency_matrix(Matrix const* group, int *** group_masks, int m
         for (size_t k=0, starting_offset_y=offset_y; k<sub; k++, starting_offset_y+=group[total_sub].h, total_sub++){
             for(size_t i=0; i<group[total_sub].h; i++){
                 for (int j = 0; j < group[total_sub].h; j++) {
-                    if (group_masks[total_sub][offset_x+i][offset_y+j]){
-                        I.M[offset_x+i][offset_y+j]= group[total_sub].M[i][j];
+                    if (group_masks[total_sub][i][j]){
+                        I.M[offset_x+i][offset_y+j]= I.M[offset_y+j][offset_x+i] = group[total_sub].M[i][j];
                     }
                 }
             }

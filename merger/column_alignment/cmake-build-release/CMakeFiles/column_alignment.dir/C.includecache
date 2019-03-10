@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/hungarian/hungarian.c
+stdio.h
+-
+stdlib.h
+-
+hungarian.h
+/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/hungarian/hungarian.h
+
+/Users/lucacappelletti/github/dataframe_merger/merger/column_alignment/src/hungarian/hungarian.h
+

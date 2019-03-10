@@ -3,24 +3,23 @@
 //
 
 #include "vector.h"
-#include <stdarg.h>
 
-bool any(bool const* bools, int n){
+int any(int const* bools, int n){
     for (int i=0; i<n; i++){
         if (bools[i]){
-            return true;
+            return 1;
         }
     }
-    return false;
+    return 0;
 }
 
-bool all(bool const* bools, int n){
+int all(int const* bools, int n){
     for (int i=0; i<n; i++){
         if (!bools[i]){
-            return false;
+            return 0;
         }
     }
-    return true;
+    return 1;
 }
 
 double* doubles_to_vector(va_list al, size_t n, double arg){
@@ -32,29 +31,29 @@ double* doubles_to_vector(va_list al, size_t n, double arg){
     return args;
 }
 
-bool* double_vector_bool_callback(double* vector, size_t n, bool(callback)(double)){
-    bool* results = (bool*)malloc(n* sizeof(bool));
+int* double_vector_bool_callback(double* vector, size_t n, int(callback)(double)){
+    int* results = (int*)malloc(n* sizeof(int));
     for (int i=0; i<n; i++){
         results[i] = callback(vector[i]);
     }
     return results;
 }
 
-bool* vector_is_nan(double* vector, size_t n){
+int* vector_is_nan(double* vector, size_t n){
     return double_vector_bool_callback(vector, n, &is_nan);
 }
 
-bool* vector_is_not_nan(double* vector, size_t n){
+int* vector_is_not_nan(double* vector, size_t n){
     return double_vector_bool_callback(vector, n, &is_not_nan);
 }
 
-bool* el_is_nan(size_t n, double arg, ...){
+int* el_is_nan(size_t n, double arg, ...){
     va_list al;
     va_start(al,arg);
     return vector_is_nan(doubles_to_vector(al, n, arg), n);
 }
 
-bool* el_is_not_nan(size_t n, double arg, ...){
+int* el_is_not_nan(size_t n, double arg, ...){
     va_list al;
     va_start(al,arg);
     return vector_is_not_nan(doubles_to_vector(al, n, arg), n);

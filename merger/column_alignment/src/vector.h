@@ -6,10 +6,13 @@
 #define UNTITLED_VECTOR_H
 
 #include "double.h"
+#include <stdarg.h>
 #include <stdlib.h>
-bool* el_is_nan(size_t n, double arg, ...);
-bool* el_is_not_nan(size_t n, double arg, ...);
-bool any(bool const* bools, int n);
-bool all(bool const* bools, int n);
+
+int* el_is_nan(size_t n, double arg, ...);
+int* el_is_not_nan(size_t n, double arg, ...);
+int* vector_is_nan(double* vector, size_t n);
+int any(int const* bools, int n);
+int all(int const* bools, int n);
 
 #endif //UNTITLED_VECTOR_H

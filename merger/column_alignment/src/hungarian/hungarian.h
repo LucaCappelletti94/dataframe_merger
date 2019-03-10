@@ -29,7 +29,8 @@
 #ifdef __cplusplus
 extern "C" {
 #endif
-  
+
+#define HUNGARIAN_INFINITY (0x7FFFFFFF)
 #define HUNGARIAN_NOT_ASSIGNED 0 
 #define HUNGARIAN_ASSIGNED 1
 
@@ -58,15 +59,6 @@ void hungarian_free(hungarian_problem_t* p);
 
 /** This method computes the optimal assignment. **/
 void hungarian_solve(hungarian_problem_t* p);
-
-/** Print the computed optimal assignment. **/
-void hungarian_print_assignment(hungarian_problem_t* p);
-
-/** Print the cost matrix. **/
-void hungarian_print_costmatrix(hungarian_problem_t* p);
-
-/** Print cost matrix and assignment matrix. **/
-void hungarian_print_status(hungarian_problem_t* p);
 
 #ifdef __cplusplus
 }

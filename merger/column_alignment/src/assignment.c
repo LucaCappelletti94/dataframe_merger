@@ -1,16 +1,18 @@
 #include "hungarian/hungarian.h"
 #include "assignment.h"
+#include "int.h"
 
 #include <stdlib.h>
 #include <math.h>
 #include <stdbool.h>
+#include <printf.h>
 
-int** problem_result_to_integer_matrix(hungarian_problem_t p){
+int** problem_result_to_integer_matrix(hungarian_problem_t p, Matrix costs){
     int ** assignment = (int **)malloc(p.num_rows * sizeof(int*));
     for(int i=0; i<p.num_rows; i++){
         assignment[i] = (int *)malloc(p.num_cols * sizeof(int));
         for(int j=0; j<p.num_cols; j++){
-            assignment[i][j] = p.assignment[i][j];
+            assignment[i][j] = isinf(costs.M[i][j])?0:p.assignment[i][j];
         }
     }
     return assignment;
@@ -18,11 +20,14 @@ int** problem_result_to_integer_matrix(hungarian_problem_t p){
 
 int** solve_assignment_problem(Matrix costs){
     hungarian_problem_t p;
+    Matrix hungarian_costs = fill_nan(costs, HUNGARIAN_INFINITY, false);
     fill_nan(costs, INFINITY, true);
-    hungarian_init(&p, costs.M, (int)costs.h, (int)costs.w, HUNGARIAN_MODE_MINIMIZE_COST);
+    print_matrix(costs);
+    hungarian_init(&p, hungarian_costs.M, (int)costs.h, (int)costs.w, HUNGARIAN_MODE_MINIMIZE_COST);
     hungarian_solve(&p);
-    int ** assignment = problem_result_to_integer_matrix(p);
+    int ** assignment = problem_result_to_integer_matrix(p, costs);
     hungarian_free(&p);
+    free_matrix(hungarian_costs);
     return assignment;
 }
 

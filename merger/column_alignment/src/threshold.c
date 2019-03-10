@@ -7,6 +7,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <stdbool.h>
+#include <assert.h>
 
 int comp (const void * elem1, const void * elem2){
     double f = *((double*)elem1);
@@ -18,12 +19,18 @@ int comp (const void * elem1, const void * elem2){
 
 double determine_threshold(Matrix const* matrices, int const matrices_number, double const known_negatives_percentage){
     size_t vector_size;
-    double* flatten = flatten_matrices(matrices, matrices_number, &vector_size);
+    double* flatten = flatten_matrices_drop_nan_identity(matrices, matrices_number, &vector_size);
+    if (vector_size==0){
+        return INFINITY;
+    }
     qsort(flatten, vector_size, sizeof(*flatten), comp);
     double position = vector_size*(1-known_negatives_percentage);
     int lower=(int)floor(position), upper=(int)ceil(position);
-    double threshold = (flatten[lower] + flatten[upper])/2;
+    double lower_value = flatten[lower];
+    double upper_value = flatten[upper];
+    double threshold = (lower_value + upper_value)/2;
     free(flatten);
+    assert(!isnan(threshold));
     return threshold;
 }
 
@@ -36,6 +43,8 @@ double* determine_thresholds(Matrix ** matrices_groups, int const matrices_numbe
 }
 
 void apply_threshold(Matrix** matrices_groups, int const matrices_number, int const groups_number, double const* thresholds){
+    assert(matrices_number>0);
+    assert(groups_number>0);
     for (int i=0; i<groups_number; i++){
         for (int j=0; j<matrices_number; j++){
             fill_above_matrix(&matrices_groups[i][j], NAN, thresholds[i], true);

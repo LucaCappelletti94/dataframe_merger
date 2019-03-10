@@ -1,28 +1,33 @@
+
 #include "double.h"
-#include <math.h>
 
-bool is_nan(double value){
-    return value == NAN;
+char* double_to_str(double const value){
+    int len = (int)((ceil(log10(value+1))+1)*sizeof(char));
+    if isinf(value) {
+        len = 4;
+    }
+    if isnan(value) {
+        len = 3;
+    }
+    char* str = (char*)malloc(len* sizeof(char));
+    sprintf(str, "%f", value);
+    return str;
 }
 
-bool is_not_nan(double value){
-    return !is_nan(value);
+int is_nan(double value){
+    return isnan(value);
 }
 
-bool is_infinite(double value){
-    return value == INFINITY;
+int is_infinite(double value){
+    return isinf(value);
 }
 
-bool is_not_infinite(double value){
-    return !is_infinite(value);
+int is_not_nan(double value){
+    return !isnan(value);
 }
 
-bool tautology(double value){
-    return true;
-}
-
-bool negation(double value){
-    return false;
+int is_not_infinite(double value){
+    return !isinf(value);
 }
 
 double max(double a, double b){
@@ -38,10 +43,10 @@ double in_range(double value, double min, double max){
 }
 
 double nan_compare(double a, double b, double (*compare)(double, double)){
-    if (is_nan(a)){
+    if (isnan(a)){
         return b;
     }
-    if (is_nan(b)){
+    if (isnan(b)){
         return a;
     }
     return compare(a,b);
