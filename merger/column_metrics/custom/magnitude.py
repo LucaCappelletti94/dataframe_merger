@@ -1,9 +1,9 @@
 import pandas as pd
 import numpy as np
 import math
-from ...mask_decorators import floats
+from ...mask_decorators import column_floats
 
-@floats
+@column_floats
 def magnitude(A: pd.DataFrame, B: pd.DataFrame)->np.ndarray:
     """Return boolean matrix representing if a given cell i,j has same unit."""
     a, b = [

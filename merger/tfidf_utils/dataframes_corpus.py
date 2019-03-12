@@ -1,5 +1,5 @@
 import pandas as pd
-from ....utils import compact, string
+from ..utils import compact, string
 from typing import List
 
 

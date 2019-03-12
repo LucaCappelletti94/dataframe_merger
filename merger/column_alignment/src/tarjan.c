@@ -22,16 +22,22 @@ dgraph_t* incidence_matrix_to_dgraph(Matrix incidence_matrix){
     return graph;
 }
 
-int** tarjan_result_to_components(sc_result_t * result, int* component_number, int** components_elements){
+int** tarjan_result_to_components(sc_result_t * result, int* cn, int** components_elements){
     int** components = (int **)malloc(result->n_sets * sizeof(int*));
     *components_elements = (int *)malloc(result->n_sets * sizeof(int));
-    *component_number = result->n_sets;
+    *cn = 0;
     for(int i=0; i<result->n_sets; i++){
-        components[i] = (int *)malloc((result->sets_f[i] - result->sets_s[i]+1) * sizeof(int));
-        (*components_elements)[i] = result->sets_f[i] - result->sets_s[i]+1;
-        for(int j=result->sets_s[i], k=0; j<=result->sets_f[i]; j++, k++){
-            components[i][k] = result->vertices[j];
+        int size = result->sets_f[i] - result->sets_s[i]+1;
+        if (size==1){
+            (*components_elements)[*cn] = 0;
+            continue;
         }
+        components[*cn] = (int *)malloc(size * sizeof(int));
+        (*components_elements)[*cn] = size;
+        for(int j=result->sets_s[i], k=0; j<=result->sets_f[i]; j++, k++){
+            components[*cn][k] = result->vertices[j];
+        }
+        *cn+=1;
     }
     return components;
 }

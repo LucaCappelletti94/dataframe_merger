@@ -9,8 +9,15 @@ char* double_to_str(double const value){
     if isnan(value) {
         len = 3;
     }
+    if (value==0) {
+        len = 1;
+    }
     char* str = (char*)malloc(len* sizeof(char));
-    sprintf(str, "%f", value);
+    if (value==0) {
+        sprintf(str, "%d", (int)value);
+    } else {
+        sprintf(str, "%f", value);
+    }
     return str;
 }
 
@@ -61,5 +68,5 @@ double nan_max(double a, double b){
 }
 
 double min_max_norm(double value, double min, double max){
-    return (value-min)/(max==0?1:max);
+    return (value-min)/((max-min)==0?1:max-min);
 }

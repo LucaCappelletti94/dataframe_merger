@@ -47,20 +47,23 @@ void print_matrix(Matrix matrix){
     for(int i=0; i<matrix.w; i++){
         max_sizes[i] = 0;
         for(int j=0; j<matrix.h; j++){
-            size_t e = strlen(double_to_str(matrix.M[j][i]));
+            char* value = double_to_str(matrix.M[j][i]);
+            size_t e = strlen(value);
             max_sizes[i] = e>max_sizes[i]?e:max_sizes[i];
+            free(value);
         }
     }
     for(int i=0; i<matrix.h; i++){
         for(int j=0; j<matrix.w; j++){
-            size_t e = strlen(double_to_str(matrix.M[i][j]));
+            char* value = double_to_str(matrix.M[i][j]);
+            size_t e = strlen(value);
             int padding = (int)(max_sizes[j] - e);
             if (j!=matrix.w-1){
-                printf("%f,%.*s", matrix.M[i][j], padding+1, "                                             ");
+                printf("%s,%.*s", value, padding+1, "                                             ");
             } else {
-                printf("%f%.*s", matrix.M[i][j], padding, "                                             ");
+                printf("%s%.*s", value, padding, "                                             ");
             }
-
+            free(value);
         }
         printf("\n");
     }
@@ -161,7 +164,7 @@ Matrix group_to_adjacency_matrix(Matrix const* group, int *** group_masks, int m
         offset_y+=group[total_sub].w;
         for (size_t k=0, starting_offset_y=offset_y; k<sub; k++, starting_offset_y+=group[total_sub].h, total_sub++){
             for(size_t i=0; i<group[total_sub].h; i++){
-                for (int j = 0; j < group[total_sub].h; j++) {
+                for (int j = 0; j < group[total_sub].w; j++) {
                     if (group_masks[total_sub][i][j]){
                         I.M[offset_x+i][offset_y+j]= I.M[offset_y+j][offset_x+i] = group[total_sub].M[i][j];
                     }
