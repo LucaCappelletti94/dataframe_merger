@@ -10,13 +10,13 @@ import pandas as pd
 from multiprocessing import cpu_count, Pool
 import numpy as np
 from .column_alignment import column_alignment
-from tqdm import tqdm_notebook as tqdm
+from tqdm import tqdm
 
 class Alignment:
     def __init__(self, source:str, output:str, tmp:str="tmp"):
         self._dfs = dataframe_loader(source)
-        self._columns = [col for df in self._dfs for col in df]
-        self._indices = [i for i, df in enumerate(self._dfs) for c in df]
+        self._columns = np.array([col for df in self._dfs for col in df])
+        self._indices = np.array([i for i, df in enumerate(self._dfs) for c in df])
         self._dataframes_number = len(self._dfs)
         self._output = output
         self._tmp = tmp
@@ -36,7 +36,7 @@ class Alignment:
     def _metric_tasks(self):
         return [
             {
-                "path":self._tmp,
+                "path":"{path}/{metric}".format(path=self._tmp, metric=metric),
                 "callback":callback,
                 "args":[self._dfs[i], self._dfs[j], *args],
                 "output":"{path}/{metric}/{i}-{j}.csv".format(path=self._tmp, metric=metric, i=i, j=j)
@@ -81,20 +81,17 @@ class Alignment:
     def _group_to_sets(self, group):
         return [set(s) for s in group]
 
-    def _score(self, **kwargs)->float:
-        knps = [
-            kwargs["knp{i}".format(i=i)] for i in range(self._metrics_number)
-        ]
+    @property
+    def _params(self):
+        return ["knp", "w"]
 
-        weights = [
-            kwargs["w{i}".format(i=i)] for i in range(self._metrics_number)
-        ]
-        
+    def _score(self, **kwargs)->float:
         other_groups, composed = column_alignment(
             self._tmp,
-            len(self._dfs),
-            knps,
-            weights,
+            self._dataframes_number,
+            *[
+                [kwargs["{p}{i}".format(p=p, i=i)] for i in range(self._metrics_number)] for p in self._params 
+            ]
         )
 
         composed_sets = self._group_to_sets(composed)
@@ -105,13 +102,16 @@ class Alignment:
             nan_percentage = np.mean([
                 np.mean(pd.isna(df).values) for df in self._compose_dfs(other_group)
             ])
-            total += (1-nan_percentage)
-        return total
+            total += (1-nan_percentage)*sum([
+                any([s1 == s2 for s2 in composed_sets]) for s1 in self._group_to_sets(other_group) 
+            ])/(len(other_group)+len(composed))
+
+        return total/self._metrics_number
 
     def run(self):
         self._determine_metrics()
         pbounds = {
-            "{p}{i}".format(p=p, i=i):(0,1) for p in ["knp", "w"] for i in range(self._metrics_number)
+            "{p}{i}".format(p=p, i=i):(0,1) for p in self._params for i in range(self._metrics_number)
         }
 
         optimizer = BayesianOptimization(
@@ -121,6 +121,6 @@ class Alignment:
         )
 
         optimizer.maximize(
-            init_points=self._metrics_number,
-            n_iter=3,
+            init_points=self._metrics_number**2,
+            n_iter=100
         )
