@@ -1,6 +1,7 @@
 #include "hungarian/hungarian.h"
 #include "assignment.h"
 #include "int.h"
+#include "double.h"
 
 #include <stdlib.h>
 #include <math.h>
@@ -9,10 +10,12 @@
 
 int** problem_result_to_integer_matrix(hungarian_problem_t p, Matrix costs){
     int ** assignment = (int **)malloc(p.num_rows * sizeof(int*));
+    print_2d_int_array(p.assignment, p.num_rows, p.num_cols);
+    print_2d_double_array(p.cost, p.num_rows, p.num_cols);
     for(int i=0; i<p.num_rows; i++){
         assignment[i] = (int *)malloc(p.num_cols * sizeof(int));
         for(int j=0; j<p.num_cols; j++){
-            assignment[i][j] = isinf(costs.M[i][j])?0:p.assignment[i][j];
+            assignment[i][j] = isinf(p.cost[i][j])?0:p.assignment[i][j];
         }
     }
     return assignment;

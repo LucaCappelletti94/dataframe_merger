@@ -28,7 +28,7 @@
 #include <stdlib.h>
 #include "hungarian.h"
 
-#define verbose (0)
+#define verbose (1)
 
 #define hungarian_test_alloc(X) do {if ((void *)(X) == NULL) fprintf(stderr, "Out of memory in %s, (%s, line %d).\n", __FUNCTION__, __FILE__, __LINE__); } while (0)
 
@@ -309,13 +309,13 @@ void hungarian_solve(hungarian_problem_t *p) {
     //    for (l = 0; l < n; l++)
     //        if (p->cost[k][l] < row_dec[k] - col_inc[l]) return;
     //for (k = 0; k < m; k++) {
-    //   l = col_mate[k];
+    //    l = col_mate[k];
     //    if (l < 0 || p->cost[k][l] != row_dec[k] - col_inc[l]) return;
     //}
     //k = 0;
     //for (l = 0; l < n; l++)
     //    if (col_inc[l])
-    //       k++;
+    //        k++;
     //if (k > m) return;
     // End doublecheck the solution 23
     // End Hungarian algorithm 18

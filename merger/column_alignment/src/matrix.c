@@ -5,6 +5,7 @@
 
 #include <printf.h>
 #include <string.h>
+#include <limits.h>
 #include "matrix.h"
 #include "double.h"
 #include "vector.h"

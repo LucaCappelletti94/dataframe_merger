@@ -23,6 +23,6 @@ double nan_min(double a, double b);
 double nan_max(double a, double b);
 double min_max_norm(double value, double min, double max);
 double in_range(double value, double min, double max);
-
+void print_2d_double_array(double** M, int h, int w);
 
 #endif //UNTITLED_DOUBLE_H_H
